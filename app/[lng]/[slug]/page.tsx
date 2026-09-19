@@ -172,6 +172,7 @@ export default async function ArticlePage({
             className="article-content"
             dangerouslySetInnerHTML={{ __html: html }}
           />
+          <div className="admax-ad-bottom mt-8" />
           {article.source_urls && article.source_urls.length > 0 && (
             <div className="mt-10 pt-6 border-t border-neutral-100">
               <p className="text-sm font-bold text-black mb-2">

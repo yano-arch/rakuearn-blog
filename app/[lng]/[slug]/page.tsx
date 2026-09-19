@@ -15,11 +15,6 @@ export const revalidate = 60;
 const SITE_URL = "https://rakuearn-blog.vercel.app";
 const SITE_NAME = "ミリオン記事速報";
 
-// admax「全自動広告」(auto.js)をテスト的に併用する記事のslug一覧。
-// ここに入っている記事は、従来の手動配置広告(AdmaxEmbeds、ツイート2件ごと+記事下部)
-// に加えて、auto.jsの自動広告も一緒に読み込む(両方併用)。他の記事は手動配置のみ。
-const AUTO_ADS_SLUGS = new Set<string>(["timelesz-inomata-shuto-suspension"]);
-
 const dateFormatter = (lng: string) =>
   new Intl.DateTimeFormat(lng === "ja" ? "ja-JP" : "en-US", {
     year: "numeric",
@@ -121,13 +116,6 @@ export default async function ArticlePage({
         <ViewTracker slug={article.slug} lang={lng} />
         <TweetEmbeds />
         <AdmaxEmbeds />
-        {AUTO_ADS_SLUGS.has(article.slug) && (
-          <script
-            async
-            src="https://adm.shinobi.jp/st/auto.js"
-            data-admax-id="3377c9b22ae5c33ec2a5ed227e984634"
-          />
-        )}
         <article className="py-8">
           <p className="text-xs font-bold text-neutral-400 mb-3 flex flex-wrap items-center gap-x-3 gap-y-1">
             <span>

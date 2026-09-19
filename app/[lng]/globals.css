@@ -88,22 +88,18 @@ body {
   max-width: 550px;
 }
 
-/* Wraps a long list of tweet embeds (the automation may include many real
-   reaction posts) in a scrollable panel so a "世間の反応" section with
-   many tweets doesn't blow up the whole article's page length. */
+/* Wraps a list of tweet embeds (the automation may include many real
+   reaction posts). Each tweet renders as its own separate card in normal
+   page flow, one after another — no shared scroll box. */
 .article-content .reactions-scroll {
-  max-height: 720px;
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
   margin: 1.6em 0;
-  padding: 1rem 0.75rem;
-  border: 1px solid #eee;
-  border-radius: 1rem;
-  background: #fafafa;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .article-content .reactions-scroll blockquote.twitter-tweet {
-  margin: 0 auto 1.2em auto;
+  margin: 0 0 1.6em 0;
 }
 
 .article-content .reactions-scroll blockquote.twitter-tweet:last-child {

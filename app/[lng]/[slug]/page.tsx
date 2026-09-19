@@ -39,9 +39,26 @@ export default async function ArticlePage({
         <ViewTracker slug={article.slug} lang={lng} />
         <TweetEmbeds />
         <article className="py-8">
-          <p className="text-xs font-bold text-neutral-400 mb-3">
-            {tHome("publishedOn")}:{" "}
-            {dateFormatter(lng).format(new Date(article.published_at))}
+          <p className="text-xs font-bold text-neutral-400 mb-3 flex flex-wrap items-center gap-x-3 gap-y-1">
+            <span>
+              {tHome("publishedOn")}:{" "}
+              {dateFormatter(lng).format(new Date(article.published_at))}
+            </span>
+            <span className="inline-flex items-center gap-1">
+              <svg
+                width="14"
+                height="14"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                aria-hidden="true"
+              >
+                <path d="M1 12s4-7 11-7 11 7 11 7-4 7-11 7-11-7-11-7z" />
+                <circle cx="12" cy="12" r="3" />
+              </svg>
+              {tHome("views")}: {(article.view_count ?? 0).toLocaleString(lng === "ja" ? "ja-JP" : "en-US")}
+            </span>
           </p>
           <h1 className="text-3xl max-sm:text-2xl font-bold text-black leading-tight mb-6">
             {article.title}

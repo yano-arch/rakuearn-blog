@@ -9,6 +9,9 @@ export type Article = {
   lang: string;
   tags: string[] | null;
   source_urls: string[] | null;
+  image_url: string | null;
+  image_credit: string | null;
+  image_credit_url: string | null;
   published: boolean;
   published_at: string;
   created_at: string;

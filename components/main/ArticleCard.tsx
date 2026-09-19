@@ -18,6 +18,16 @@ const ArticleCard: React.FC<{ article: Article; lng: string; readMore: string }>
       href={`/${lng}/${article.slug}`}
       className="flex flex-col gap-3 py-6 border-b border-neutral-100 hover:opacity-70 transition-opacity"
     >
+      {article.image_url && (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img
+          src={article.image_url}
+          alt=""
+          loading="lazy"
+          referrerPolicy="no-referrer"
+          className="w-full aspect-[16/9] object-cover rounded-xl bg-neutral-100"
+        />
+      )}
       <span className="text-xs font-bold text-neutral-400">
         {dateFormatter(lng).format(new Date(article.published_at))}
       </span>

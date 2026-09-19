@@ -42,6 +42,33 @@ export default async function ArticlePage({
           <h1 className="text-3xl max-sm:text-2xl font-bold text-black leading-tight mb-6">
             {article.title}
           </h1>
+          {article.image_url && (
+            <figure className="mb-6">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img
+                src={article.image_url}
+                alt=""
+                referrerPolicy="no-referrer"
+                className="w-full rounded-xl bg-neutral-100"
+              />
+              {article.image_credit && (
+                <figcaption className="mt-2 text-xs text-neutral-400">
+                  {article.image_credit_url ? (
+                    <a
+                      href={article.image_credit_url}
+                      target="_blank"
+                      rel="noopener noreferrer nofollow"
+                      className="hover:text-neutral-600"
+                    >
+                      {article.image_credit}
+                    </a>
+                  ) : (
+                    article.image_credit
+                  )}
+                </figcaption>
+              )}
+            </figure>
+          )}
           <div
             className="article-content"
             dangerouslySetInnerHTML={{ __html: html }}

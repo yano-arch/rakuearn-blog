@@ -81,6 +81,13 @@ body {
   margin: 1.4em 0;
 }
 
+.article-content blockquote.twitter-tweet {
+  border-left: none;
+  padding-left: 0;
+  margin: 1.6em auto;
+  max-width: 550px;
+}
+
 .article-content img {
   width: 100%;
   height: auto;

@@ -19,9 +19,34 @@ const notoSansJp = Noto_Sans_JP({
   weight: ["400", "500", "700"],
 });
 
+const SITE_URL = "https://rakuearn-blog.vercel.app";
+const SITE_NAME = "ミリオン記事速報";
+const SITE_DESCRIPTION =
+  "SNSやニュースで注目のトピックを毎日リサーチし、わかりやすい記事にまとめてお届けします。";
+
 export const metadata: Metadata = {
-  title: "ミリオン記事速報 | 今話題のニュースを、わかりやすく",
-  description: "SNSやニュースで注目のトピックを毎日リサーチし、わかりやすい記事にまとめてお届けします。",
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: `${SITE_NAME} | 今話題のニュースを、わかりやすく`,
+    template: `%s | ${SITE_NAME}`,
+  },
+  description: SITE_DESCRIPTION,
+  openGraph: {
+    siteName: SITE_NAME,
+    title: `${SITE_NAME} | 今話題のニュースを、わかりやすく`,
+    description: SITE_DESCRIPTION,
+    url: SITE_URL,
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: `${SITE_NAME} | 今話題のニュースを、わかりやすく`,
+    description: SITE_DESCRIPTION,
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export async function generateStaticParams() {

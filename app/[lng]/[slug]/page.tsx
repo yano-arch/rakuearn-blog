@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import { marked } from "marked";
+import type { Metadata } from "next";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import { Layout } from "@/components/layout/Layout";
@@ -10,12 +11,58 @@ import { getT } from "@/app/i18n";
 
 export const revalidate = 60;
 
+const SITE_URL = "https://rakuearn-blog.vercel.app";
+const SITE_NAME = "ミリオン記事速報";
+
 const dateFormatter = (lng: string) =>
   new Intl.DateTimeFormat(lng === "ja" ? "ja-JP" : "en-US", {
     year: "numeric",
     month: "long",
     day: "numeric",
   });
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ lng: string; slug: string }>;
+}): Promise<Metadata> {
+  const { lng, slug } = await params;
+  const article = await getArticleBySlug(lng, slug);
+
+  if (!article) {
+    return { title: "記事が見つかりませんでした" };
+  }
+
+  const url = `${SITE_URL}/${lng}/${slug}`;
+  const description =
+    article.excerpt ?? article.title.slice(0, 120);
+
+  return {
+    // The root layout's title.template appends " | サイト名" automatically,
+    // so this stays just the article title to avoid the site name showing twice.
+    title: article.title,
+    description,
+    alternates: { canonical: url },
+    openGraph: {
+      title: article.title,
+      description,
+      url,
+      siteName: SITE_NAME,
+      type: "article",
+      publishedTime: article.published_at,
+      locale: lng === "ja" ? "ja_JP" : "en_US",
+      images: article.image_url
+        ? [{ url: article.image_url, width: 1600, height: 900 }]
+        : undefined,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description,
+      images: article.image_url ? [article.image_url] : undefined,
+    },
+  };
+}
 
 export default async function ArticlePage({
   params,
@@ -32,9 +79,38 @@ export default async function ArticlePage({
 
   const html = marked.parse(article.content, { async: false }) as string;
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    headline: article.title,
+    description: article.excerpt ?? undefined,
+    image: article.image_url ? [article.image_url] : undefined,
+    datePublished: article.published_at,
+    dateModified: article.published_at,
+    inLanguage: lng,
+    author: [{ "@type": "Organization", name: SITE_NAME }],
+    publisher: {
+      "@type": "Organization",
+      name: SITE_NAME,
+      logo: {
+        "@type": "ImageObject",
+        url: `${SITE_URL}/${lng}/favicon.ico`,
+      },
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": `${SITE_URL}/${lng}/${article.slug}`,
+    },
+  };
+
   return (
     <Layout>
       <div className="w-full max-w-[720px] px-6 max-sm:px-4">
+        <script
+          type="application/ld+json"
+          // eslint-disable-next-line react/no-danger
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         <Header />
         <ViewTracker slug={article.slug} lang={lng} />
         <TweetEmbeds />

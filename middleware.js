@@ -10,10 +10,18 @@ export const config = {
 
 const defaultLng = 'ja'
 
+const seoRoutes = new Set(['/sitemap.xml', '/robots.txt'])
+
 export function middleware(req) {
   const pathname = req.nextUrl.pathname
 
   if (pathname.indexOf('icon') > -1 || pathname.indexOf('chrome') > -1) {
+    return NextResponse.next()
+  }
+
+  // /sitemap.xml and /robots.txt must stay at the site root (that's where
+  // Google and other crawlers look for them) — never locale-prefixed.
+  if (seoRoutes.has(pathname)) {
     return NextResponse.next()
   }
 

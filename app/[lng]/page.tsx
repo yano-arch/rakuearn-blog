@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import { Layout } from "@/components/layout/Layout";
@@ -12,6 +13,13 @@ export async function generateStaticParams() {
 
 export const revalidate = 60;
 
+const dateFormatter = (lng: string) =>
+  new Intl.DateTimeFormat(lng === "ja" ? "ja-JP" : "en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
+
 export default async function HomePage({
   params,
 }: {
@@ -21,6 +29,10 @@ export default async function HomePage({
   const { t: tHome } = await getT("home");
   const { t: tCommon } = await getT("common");
   const articles = await getArticles(lng);
+  const featured = articles.find((a) => a.image_url) ?? null;
+  const restArticles = featured
+    ? articles.filter((a) => a.id !== featured.id)
+    : articles;
 
   return (
     <Layout>
@@ -37,15 +49,46 @@ export default async function HomePage({
             {tHome("heroSubtitle")}
           </p>
         </section>
+        {featured && (
+          <section className="py-8 border-b border-neutral-100">
+            <Link href={`/${lng}/${featured.slug}`} className="block group">
+              <figure className="mb-4">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={featured.image_url!}
+                  alt=""
+                  referrerPolicy="no-referrer"
+                  className="w-full aspect-[16/9] object-cover rounded-2xl bg-neutral-100 group-hover:opacity-90 transition-opacity"
+                />
+                {featured.image_credit && (
+                  <figcaption className="mt-2 text-xs text-neutral-400">
+                    {featured.image_credit}
+                  </figcaption>
+                )}
+              </figure>
+              <span className="text-xs font-bold text-neutral-400">
+                {dateFormatter(lng).format(new Date(featured.published_at))}
+              </span>
+              <h2 className="text-2xl max-sm:text-xl font-bold text-black leading-snug mt-1 mb-2 group-hover:text-[#8771EF] transition-colors">
+                {featured.title}
+              </h2>
+              {featured.excerpt && (
+                <p className="text-base text-neutral-600 leading-relaxed">
+                  {featured.excerpt}
+                </p>
+              )}
+            </Link>
+          </section>
+        )}
         <section className="py-8">
           <h2 className="text-lg font-bold text-black mb-2">
             {tHome("latestArticles")}
           </h2>
-          {articles.length === 0 ? (
+          {restArticles.length === 0 ? (
             <p className="py-10 text-neutral-500">{tHome("noArticles")}</p>
           ) : (
             <div className="flex flex-col">
-              {articles.map((article) => (
+              {restArticles.map((article) => (
                 <ArticleCard
                   key={article.id}
                   article={article}

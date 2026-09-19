@@ -12,6 +12,7 @@ export type Article = {
   image_url: string | null;
   image_credit: string | null;
   image_credit_url: string | null;
+  view_count: number | null;
   published: boolean;
   published_at: string;
   created_at: string;
@@ -39,6 +40,27 @@ export async function getArticles(lang: string): Promise<Article[]> {
     .order("published_at", { ascending: false });
   if (error) {
     console.error("Failed to load articles", error.message);
+    return [];
+  }
+  return data ?? [];
+}
+
+export async function getTopArticlesByViews(
+  lang: string,
+  limit = 10
+): Promise<Article[]> {
+  const supabase = getSupabase();
+  if (!supabase) return [];
+  const { data, error } = await supabase
+    .from("articles")
+    .select("*")
+    .eq("published", true)
+    .eq("lang", lang)
+    .order("view_count", { ascending: false })
+    .order("published_at", { ascending: false })
+    .limit(limit);
+  if (error) {
+    console.error("Failed to load ranking", error.message);
     return [];
   }
   return data ?? [];

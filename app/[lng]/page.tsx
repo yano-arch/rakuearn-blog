@@ -87,14 +87,9 @@ export default async function HomePage({
           {restArticles.length === 0 ? (
             <p className="py-10 text-neutral-500">{tHome("noArticles")}</p>
           ) : (
-            <div className="flex flex-col">
+            <div className="grid grid-cols-2 gap-x-4 gap-y-8 sm:gap-x-6">
               {restArticles.map((article) => (
-                <ArticleCard
-                  key={article.id}
-                  article={article}
-                  lng={lng}
-                  readMore={tHome("readMore")}
-                />
+                <ArticleCard key={article.id} article={article} lng={lng} />
               ))}
             </div>
           )}

@@ -13,6 +13,7 @@ create table if not exists public.articles (
   image_url text,
   image_credit text,
   image_credit_url text,
+  view_count integer not null default 0,
   published boolean not null default true,
   published_at timestamptz not null default now(),
   created_at timestamptz not null default now(),
@@ -35,3 +36,20 @@ create policy "public can read published articles"
 -- No insert/update/delete policy is defined for anon/authenticated:
 -- writes are only possible with the service_role key (used by the
 -- automated publishing pipeline), which bypasses RLS by design.
+
+-- Lets the public website (using the anon key) safely increment an
+-- article's view_count from the browser, without granting it general
+-- UPDATE rights on the table (SECURITY DEFINER bypasses RLS just for
+-- this one narrow operation).
+create or replace function public.increment_view_count(article_slug text, article_lang text)
+returns void
+language sql
+security definer
+set search_path = public
+as $$
+  update public.articles
+  set view_count = view_count + 1
+  where slug = article_slug and lang = article_lang;
+$$;
+
+grant execute on function public.increment_view_count(text, text) to anon;

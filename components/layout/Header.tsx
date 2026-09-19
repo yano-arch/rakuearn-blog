@@ -22,6 +22,9 @@ const Header: React.FC = () => {
         <Link href={`/${lng}`} className="text-sm font-bold text-black">
           {t("home")}
         </Link>
+        <Link href={`/${lng}/ranking`} className="text-sm font-bold text-black">
+          {t("ranking")}
+        </Link>
       </nav>
     </header>
   );

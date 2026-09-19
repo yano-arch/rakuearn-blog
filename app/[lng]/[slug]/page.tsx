@@ -3,6 +3,7 @@ import { marked } from "marked";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import { Layout } from "@/components/layout/Layout";
+import ViewTracker from "@/components/main/ViewTracker";
 import { getArticleBySlug } from "@/utils/supabase/articles";
 import { getT } from "@/app/i18n";
 
@@ -34,6 +35,7 @@ export default async function ArticlePage({
     <Layout>
       <div className="w-full max-w-[720px] px-6 max-sm:px-4">
         <Header />
+        <ViewTracker slug={article.slug} lang={lng} />
         <article className="py-8">
           <p className="text-xs font-bold text-neutral-400 mb-3">
             {tHome("publishedOn")}:{" "}

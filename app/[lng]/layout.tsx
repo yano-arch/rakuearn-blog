@@ -47,6 +47,9 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+  verification: {
+    google: "BG2Q2lTcIvihYc377j9Bq-N9i3npiwnM1jVhqzTKAtY",
+  },
 };
 
 export async function generateStaticParams() {

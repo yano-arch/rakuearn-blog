@@ -6,6 +6,7 @@ import Footer from "@/components/layout/Footer";
 import { Layout } from "@/components/layout/Layout";
 import ViewTracker from "@/components/main/ViewTracker";
 import TweetEmbeds from "@/components/main/TweetEmbeds";
+import AdmaxEmbeds from "@/components/main/AdmaxEmbeds";
 import { getArticleBySlug } from "@/utils/supabase/articles";
 import { getT } from "@/app/i18n";
 
@@ -114,6 +115,7 @@ export default async function ArticlePage({
         <Header />
         <ViewTracker slug={article.slug} lang={lng} />
         <TweetEmbeds />
+        <AdmaxEmbeds />
         <article className="py-8">
           <p className="text-xs font-bold text-neutral-400 mb-3 flex flex-wrap items-center gap-x-3 gap-y-1">
             <span>

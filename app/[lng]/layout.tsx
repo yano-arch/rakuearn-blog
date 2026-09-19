@@ -20,7 +20,7 @@ const notoSansJp = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  title: "らくアーン | 今話題のニュースを、わかりやすく",
+  title: "ミリオン記事速報 | 今話題のニュースを、わかりやすく",
   description: "SNSやニュースで注目のトピックを毎日リサーチし、わかりやすい記事にまとめてお届けします。",
 };
 

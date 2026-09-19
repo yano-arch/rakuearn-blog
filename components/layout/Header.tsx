@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { usePathname, useParams } from "next/navigation";
 import { useT } from "@/app/i18n/client";
-import Logo from "@/assets/images/logo.webp";
+import Logo from "@/assets/images/logo.svg";
 
 const Header: React.FC = () => {
   const { t } = useT("common");

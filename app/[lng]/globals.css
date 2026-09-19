@@ -103,6 +103,17 @@ body {
   margin: 0;
 }
 
+/* The admax ad box (280px tall) is much shorter than a tweet embed card,
+   so the same tweet-to-tweet gap looks like an oversized empty margin
+   around it. This is most noticeable on narrow (mobile) screens, where
+   tweet cards render shorter too — PC looks fine as-is, so this only
+   tightens spacing below the mobile breakpoint used elsewhere on this site. */
+@media (max-width: 639px) {
+  .article-content .reactions-scroll .admax-ad {
+    margin: -2em 0;
+  }
+}
+
 .article-content img {
   width: 100%;
   height: auto;

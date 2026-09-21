@@ -33,8 +33,15 @@ export function middleware(req) {
     !pathname.startsWith('/api') &&
     !pathname.endsWith('.html')
   ) {
+    // Avoid appending "/" for the root path — "/" + "/" produces "/ja/",
+    // which Next.js then 308-redirects again to "/ja" (trailingSlash: false
+    // is the default), turning every visit to "/" into a two-hop redirect
+    // chain ("/" -> "/ja/" -> "/ja"). Google Search Console flagged this
+    // ("ページにリダイレクトがあります") on the /ja page. Redirecting straight
+    // to "/ja" collapses it to a single hop.
+    const suffix = pathname === '/' ? '' : pathname
     return NextResponse.redirect(
-      new URL(`/${defaultLng}${pathname}${req.nextUrl.search}`, req.url)
+      new URL(`/${defaultLng}${suffix}${req.nextUrl.search}`, req.url)
     )
   }
 

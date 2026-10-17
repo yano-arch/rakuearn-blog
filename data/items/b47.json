@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "picnic",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Picnic basket and blanket",
+    "A wicker picnic basket on a checkered blanket with an apple.",
+    [
+     "picnic",
+     "basket",
+     "outdoors",
+     "weekend"
+    ]
+   ],
+   "ja": [
+    "ピクニックのバスケット",
+    "チェックのレジャーシートに置いたピクニックバスケットとりんご。",
+    [
+     "ピクニック",
+     "バスケット",
+     "レジャーシート",
+     "お出かけ"
+    ]
+   ],
+   "es": [
+    "Cesta y manta de pícnic",
+    "Una cesta de pícnic sobre una manta de cuadros con una manzana.",
+    [
+     "pícnic",
+     "cesta",
+     "aire libre",
+     "fin de semana"
+    ]
+   ],
+   "pt": [
+    "Cesta e toalha de piquenique",
+    "Uma cesta de piquenique sobre uma toalha xadrez com uma maçã.",
+    [
+     "piquenique",
+     "cesta",
+     "passeio",
+     "ao ar livre"
+    ]
+   ],
+   "fr": [
+    "Panier et nappe de pique-nique",
+    "Un panier de pique-nique sur une nappe à carreaux avec une pomme.",
+    [
+     "pique-nique",
+     "panier",
+     "plein air",
+     "week-end"
+    ]
+   ],
+   "de": [
+    "Picknickkorb und Decke",
+    "Ein Picknickkorb auf einer karierten Decke mit einem Apfel.",
+    [
+     "Picknick",
+     "Picknickkorb",
+     "Ausflug",
+     "Freizeit"
+    ]
+   ],
+   "zh": [
+    "野餐篮和野餐垫",
+    "放在格子野餐垫上的野餐篮和苹果。",
+    [
+     "野餐",
+     "野餐篮",
+     "户外",
+     "周末"
+    ]
+   ],
+   "ko": [
+    "피크닉 바구니와 돗자리",
+    "체크무늬 돗자리 위의 피크닉 바구니와 사과.",
+    [
+     "피크닉",
+     "소풍",
+     "바구니",
+     "야외"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "barbecue",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Barbecue grill",
+    "A round barbecue grill with meat and sausages sizzling on top.",
+    [
+     "barbecue",
+     "BBQ",
+     "grill",
+     "camping"
+    ]
+   ],
+   "ja": [
+    "バーベキューグリル",
+    "お肉やソーセージを焼いている丸いバーベキューグリル。",
+    [
+     "バーベキュー",
+     "BBQ",
+     "グリル",
+     "キャンプ"
+    ]
+   ],
+   "es": [
+    "Parrilla de barbacoa",
+    "Una parrilla redonda con carne y salchichas asándose.",
+    [
+     "barbacoa",
+     "parrilla",
+     "asado",
+     "camping"
+    ]
+   ],
+   "pt": [
+    "Churrasqueira",
+    "Uma churrasqueira redonda com carne e linguiças assando.",
+    [
+     "churrasco",
+     "churrasqueira",
+     "grelha",
+     "acampamento"
+    ]
+   ],
+   "fr": [
+    "Barbecue",
+    "Un barbecue rond avec de la viande et des saucisses qui grillent.",
+    [
+     "barbecue",
+     "grillade",
+     "BBQ",
+     "camping"
+    ]
+   ],
+   "de": [
+    "Grill",
+    "Ein runder Kugelgrill mit Fleisch und Würstchen.",
+    [
+     "Grillen",
+     "Grill",
+     "BBQ",
+     "Camping"
+    ]
+   ],
+   "zh": [
+    "烧烤炉",
+    "正在烤肉和香肠的圆形烧烤炉。",
+    [
+     "烧烤",
+     "BBQ",
+     "烤肉",
+     "露营"
+    ]
+   ],
+   "ko": [
+    "바비큐 그릴",
+    "고기와 소시지를 굽고 있는 둥근 바비큐 그릴.",
+    [
+     "바비큐",
+     "BBQ",
+     "그릴",
+     "캠핑"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "japanese-castle",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Japanese castle",
+    "A traditional Japanese castle with white walls and layered roofs on a stone base.",
+    [
+     "Japanese castle",
+     "Japan",
+     "castle",
+     "sightseeing"
+    ]
+   ],
+   "ja": [
+    "日本のお城",
+    "石垣の上に建つ、白い壁と重なる屋根の日本のお城。",
+    [
+     "お城",
+     "日本",
+     "天守閣",
+     "観光"
+    ]
+   ],
+   "es": [
+    "Castillo japonés",
+    "Un castillo japonés tradicional de paredes blancas sobre una base de piedra.",
+    [
+     "castillo japonés",
+     "Japón",
+     "castillo",
+     "turismo"
+    ]
+   ],
+   "pt": [
+    "Castelo japonês",
+    "Um castelo japonês tradicional com paredes brancas sobre uma base de pedra.",
+    [
+     "castelo japonês",
+     "Japão",
+     "castelo",
+     "turismo"
+    ]
+   ],
+   "fr": [
+    "Château japonais",
+    "Un château japonais traditionnel aux murs blancs sur une base en pierre.",
+    [
+     "château japonais",
+     "Japon",
+     "château",
+     "tourisme"
+    ]
+   ],
+   "de": [
+    "Japanische Burg",
+    "Eine traditionelle japanische Burg mit weißen Wänden auf einem Steinsockel.",
+    [
+     "japanische Burg",
+     "Japan",
+     "Burg",
+     "Sehenswürdigkeit"
+    ]
+   ],
+   "zh": [
+    "日本城堡",
+    "建在石墙上、白墙多层屋顶的日本传统城堡。",
+    [
+     "日本城",
+     "日本",
+     "城堡",
+     "观光"
+    ]
+   ],
+   "ko": [
+    "일본 성",
+    "돌담 위에 세워진 하얀 벽과 겹지붕의 일본 성.",
+    [
+     "일본 성",
+     "일본",
+     "성",
+     "관광"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "european-castle",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "European castle",
+    "A storybook European castle with two towers and pointed blue roofs.",
+    [
+     "castle",
+     "Europe",
+     "fairy tale",
+     "sightseeing"
+    ]
+   ],
+   "ja": [
+    "ヨーロッパのお城",
+    "2つの塔ととんがり屋根がある、絵本のようなヨーロッパのお城。",
+    [
+     "お城",
+     "ヨーロッパ",
+     "西洋",
+     "観光"
+    ]
+   ],
+   "es": [
+    "Castillo europeo",
+    "Un castillo europeo de cuento con dos torres y tejados azules puntiagudos.",
+    [
+     "castillo",
+     "Europa",
+     "cuento",
+     "turismo"
+    ]
+   ],
+   "pt": [
+    "Castelo europeu",
+    "Um castelo europeu de conto de fadas com duas torres e telhados pontudos.",
+    [
+     "castelo",
+     "Europa",
+     "conto de fadas",
+     "turismo"
+    ]
+   ],
+   "fr": [
+    "Château européen",
+    "Un château de conte de fées avec deux tours et des toits bleus pointus.",
+    [
+     "château",
+     "Europe",
+     "conte de fées",
+     "tourisme"
+    ]
+   ],
+   "de": [
+    "Europäisches Schloss",
+    "Ein märchenhaftes Schloss mit zwei Türmen und spitzen blauen Dächern.",
+    [
+     "Schloss",
+     "Europa",
+     "Märchen",
+     "Sehenswürdigkeit"
+    ]
+   ],
+   "zh": [
+    "欧洲城堡",
+    "有两座尖顶塔楼的童话风欧洲城堡。",
+    [
+     "城堡",
+     "欧洲",
+     "童话",
+     "观光"
+    ]
+   ],
+   "ko": [
+    "유럽의 성",
+    "뾰족한 파란 지붕의 탑이 두 개 있는 동화 같은 유럽 성.",
+    [
+     "성",
+     "유럽",
+     "동화",
+     "관광"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pagoda",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Five-story pagoda",
+    "A tall Asian pagoda with five stacked roofs.",
+    [
+     "pagoda",
+     "temple",
+     "Asia",
+     "sightseeing"
+    ]
+   ],
+   "ja": [
+    "五重塔",
+    "屋根が5つ重なった背の高い五重塔。",
+    [
+     "五重塔",
+     "塔",
+     "京都",
+     "観光"
+    ]
+   ],
+   "es": [
+    "Pagoda de cinco pisos",
+    "Una alta pagoda asiática con cinco tejados superpuestos.",
+    [
+     "pagoda",
+     "templo",
+     "Asia",
+     "turismo"
+    ]
+   ],
+   "pt": [
+    "Pagode de cinco andares",
+    "Um pagode asiático alto com cinco telhados empilhados.",
+    [
+     "pagode",
+     "templo",
+     "Ásia",
+     "turismo"
+    ]
+   ],
+   "fr": [
+    "Pagode à cinq étages",
+    "Une haute pagode asiatique aux cinq toits superposés.",
+    [
+     "pagode",
+     "temple",
+     "Asie",
+     "tourisme"
+    ]
+   ],
+   "de": [
+    "Fünfstöckige Pagode",
+    "Eine hohe asiatische Pagode mit fünf übereinanderliegenden Dächern.",
+    [
+     "Pagode",
+     "Tempel",
+     "Asien",
+     "Sehenswürdigkeit"
+    ]
+   ],
+   "zh": [
+    "五重塔",
+    "有五层屋檐的高高佛塔。",
+    [
+     "五重塔",
+     "宝塔",
+     "亚洲",
+     "观光"
+    ]
+   ],
+   "ko": [
+    "오층탑",
+    "지붕이 다섯 겹으로 쌓인 높은 탑.",
+    [
+     "오층탑",
+     "탑",
+     "아시아",
+     "관광"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "torii",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Torii gate",
+    "A red Japanese torii gate standing on a grassy hill.",
+    [
+     "torii",
+     "Japan",
+     "gate",
+     "sightseeing"
+    ]
+   ],
+   "ja": [
+    "鳥居",
+    "草の上に立つ赤い鳥居。",
+    [
+     "鳥居",
+     "神社",
+     "日本",
+     "観光"
+    ]
+   ],
+   "es": [
+    "Puerta torii",
+    "Una puerta torii japonesa roja sobre una colina verde.",
+    [
+     "torii",
+     "Japón",
+     "puerta",
+     "turismo"
+    ]
+   ],
+   "pt": [
+    "Portal torii",
+    "Um portal torii japonês vermelho sobre um morro gramado.",
+    [
+     "torii",
+     "Japão",
+     "portal",
+     "turismo"
+    ]
+   ],
+   "fr": [
+    "Portail torii",
+    "Un torii japonais rouge sur une colline herbeuse.",
+    [
+     "torii",
+     "Japon",
+     "portail",
+     "tourisme"
+    ]
+   ],
+   "de": [
+    "Torii-Tor",
+    "Ein rotes japanisches Torii-Tor auf einem grünen Hügel.",
+    [
+     "Torii",
+     "Japan",
+     "Tor",
+     "Sehenswürdigkeit"
+    ]
+   ],
+   "zh": [
+    "鸟居",
+    "立在草地上的红色日本鸟居。",
+    [
+     "鸟居",
+     "日本",
+     "神社",
+     "观光"
+    ]
+   ],
+   "ko": [
+    "도리이",
+    "풀밭 위에 서 있는 빨간 일본 도리이.",
+    [
+     "도리이",
+     "일본",
+     "신사",
+     "관광"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "lighthouse",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Lighthouse",
+    "A red and white striped lighthouse shining over the sea.",
+    [
+     "lighthouse",
+     "sea",
+     "coast",
+     "harbor"
+    ]
+   ],
+   "ja": [
+    "灯台",
+    "海を照らす赤と白のしましまの灯台。",
+    [
+     "灯台",
+     "海",
+     "港",
+     "海岸"
+    ]
+   ],
+   "es": [
+    "Faro",
+    "Un faro de rayas rojas y blancas que ilumina el mar.",
+    [
+     "faro",
+     "mar",
+     "costa",
+     "puerto"
+    ]
+   ],
+   "pt": [
+    "Farol",
+    "Um farol listrado de vermelho e branco iluminando o mar.",
+    [
+     "farol",
+     "mar",
+     "litoral",
+     "porto"
+    ]
+   ],
+   "fr": [
+    "Phare",
+    "Un phare rayé rouge et blanc qui éclaire la mer.",
+    [
+     "phare",
+     "mer",
+     "côte",
+     "port"
+    ]
+   ],
+   "de": [
+    "Leuchtturm",
+    "Ein rot-weiß gestreifter Leuchtturm, der übers Meer leuchtet.",
+    [
+     "Leuchtturm",
+     "Meer",
+     "Küste",
+     "Hafen"
+    ]
+   ],
+   "zh": [
+    "灯塔",
+    "照亮大海的红白条纹灯塔。",
+    [
+     "灯塔",
+     "大海",
+     "海边",
+     "港口"
+    ]
+   ],
+   "ko": [
+    "등대",
+    "바다를 비추는 빨간색과 흰색 줄무늬 등대.",
+    [
+     "등대",
+     "바다",
+     "해안",
+     "항구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "windmill",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Windmill",
+    "A classic windmill with four big sails on a green hill.",
+    [
+     "windmill",
+     "Netherlands",
+     "countryside",
+     "sightseeing"
+    ]
+   ],
+   "ja": [
+    "風車",
+    "緑の丘に立つ、4枚の羽根の風車。",
+    [
+     "風車",
+     "オランダ",
+     "田舎",
+     "観光"
+    ]
+   ],
+   "es": [
+    "Molino de viento",
+    "Un molino de viento clásico con cuatro aspas en una colina verde.",
+    [
+     "molino",
+     "Países Bajos",
+     "campo",
+     "turismo"
+    ]
+   ],
+   "pt": [
+    "Moinho de vento",
+    "Um moinho de vento clássico com quatro pás em uma colina verde.",
+    [
+     "moinho",
+     "Holanda",
+     "campo",
+     "turismo"
+    ]
+   ],
+   "fr": [
+    "Moulin à vent",
+    "Un moulin à vent classique avec quatre grandes ailes sur une colline.",
+    [
+     "moulin",
+     "Pays-Bas",
+     "campagne",
+     "tourisme"
+    ]
+   ],
+   "de": [
+    "Windmühle",
+    "Eine klassische Windmühle mit vier Flügeln auf einem grünen Hügel.",
+    [
+     "Windmühle",
+     "Niederlande",
+     "Land",
+     "Sehenswürdigkeit"
+    ]
+   ],
+   "zh": [
+    "风车",
+    "绿色山丘上有四片叶片的风车。",
+    [
+     "风车",
+     "荷兰",
+     "乡村",
+     "观光"
+    ]
+   ],
+   "ko": [
+    "풍차",
+    "초록 언덕 위에 서 있는 날개 네 개의 풍차.",
+    [
+     "풍차",
+     "네덜란드",
+     "시골",
+     "관광"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bridge",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bridge over the river",
+    "A red arch bridge crossing over blue water.",
+    [
+     "bridge",
+     "river",
+     "landmark",
+     "scenery"
+    ]
+   ],
+   "ja": [
+    "川にかかる橋",
+    "青い水の上にかかるアーチ型の橋。",
+    [
+     "橋",
+     "川",
+     "風景",
+     "名所"
+    ]
+   ],
+   "es": [
+    "Puente sobre el río",
+    "Un puente de arcos rojo sobre el agua azul.",
+    [
+     "puente",
+     "río",
+     "paisaje",
+     "monumento"
+    ]
+   ],
+   "pt": [
+    "Ponte sobre o rio",
+    "Uma ponte em arcos vermelha sobre a água azul.",
+    [
+     "ponte",
+     "rio",
+     "paisagem",
+     "ponto turístico"
+    ]
+   ],
+   "fr": [
+    "Pont sur la rivière",
+    "Un pont à arches rouge au-dessus de l'eau bleue.",
+    [
+     "pont",
+     "rivière",
+     "paysage",
+     "monument"
+    ]
+   ],
+   "de": [
+    "Brücke über den Fluss",
+    "Eine rote Bogenbrücke über blauem Wasser.",
+    [
+     "Brücke",
+     "Fluss",
+     "Landschaft",
+     "Wahrzeichen"
+    ]
+   ],
+   "zh": [
+    "河上的桥",
+    "横跨蓝色河面的拱桥。",
+    [
+     "桥",
+     "河",
+     "风景",
+     "名胜"
+    ]
+   ],
+   "ko": [
+    "강 위의 다리",
+    "파란 물 위를 가로지르는 아치형 다리.",
+    [
+     "다리",
+     "강",
+     "풍경",
+     "명소"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pyramid",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pyramids in the desert",
+    "Two pyramids standing in the desert under a bright sun.",
+    [
+     "pyramid",
+     "Egypt",
+     "desert",
+     "ancient"
+    ]
+   ],
+   "ja": [
+    "砂漠のピラミッド",
+    "太陽の下、砂漠に並ぶ2つのピラミッド。",
+    [
+     "ピラミッド",
+     "エジプト",
+     "砂漠",
+     "遺跡"
+    ]
+   ],
+   "es": [
+    "Pirámides en el desierto",
+    "Dos pirámides en el desierto bajo un sol brillante.",
+    [
+     "pirámide",
+     "Egipto",
+     "desierto",
+     "antiguo"
+    ]
+   ],
+   "pt": [
+    "Pirâmides no deserto",
+    "Duas pirâmides no deserto sob um sol forte.",
+    [
+     "pirâmide",
+     "Egito",
+     "deserto",
+     "antigo"
+    ]
+   ],
+   "fr": [
+    "Pyramides dans le désert",
+    "Deux pyramides dans le désert sous un soleil éclatant.",
+    [
+     "pyramide",
+     "Égypte",
+     "désert",
+     "antiquité"
+    ]
+   ],
+   "de": [
+    "Pyramiden in der Wüste",
+    "Zwei Pyramiden in der Wüste unter strahlender Sonne.",
+    [
+     "Pyramide",
+     "Ägypten",
+     "Wüste",
+     "Antike"
+    ]
+   ],
+   "zh": [
+    "沙漠中的金字塔",
+    "烈日下沙漠里的两座金字塔。",
+    [
+     "金字塔",
+     "埃及",
+     "沙漠",
+     "古迹"
+    ]
+   ],
+   "ko": [
+    "사막의 피라미드",
+    "밝은 해 아래 사막에 서 있는 두 개의 피라미드.",
+    [
+     "피라미드",
+     "이집트",
+     "사막",
+     "유적"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cruise-ship",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cruise ship",
+    "A big cruise ship with many decks and windows sailing on the sea.",
+    [
+     "cruise",
+     "ship",
+     "sea",
+     "vacation"
+    ]
+   ],
+   "ja": [
+    "豪華客船",
+    "たくさんの窓とデッキがある大きなクルーズ船。",
+    [
+     "客船",
+     "クルーズ",
+     "船旅",
+     "海"
+    ]
+   ],
+   "es": [
+    "Crucero",
+    "Un gran crucero con muchas cubiertas y ventanas navegando en el mar.",
+    [
+     "crucero",
+     "barco",
+     "mar",
+     "vacaciones"
+    ]
+   ],
+   "pt": [
+    "Navio de cruzeiro",
+    "Um grande navio de cruzeiro com vários andares navegando no mar.",
+    [
+     "cruzeiro",
+     "navio",
+     "mar",
+     "férias"
+    ]
+   ],
+   "fr": [
+    "Bateau de croisière",
+    "Un grand paquebot de croisière avec de nombreux ponts sur la mer.",
+    [
+     "croisière",
+     "paquebot",
+     "mer",
+     "vacances"
+    ]
+   ],
+   "de": [
+    "Kreuzfahrtschiff",
+    "Ein großes Kreuzfahrtschiff mit vielen Decks auf dem Meer.",
+    [
+     "Kreuzfahrt",
+     "Schiff",
+     "Meer",
+     "Urlaub"
+    ]
+   ],
+   "zh": [
+    "邮轮",
+    "在海上航行的多层大型邮轮。",
+    [
+     "邮轮",
+     "轮船",
+     "大海",
+     "度假"
+    ]
+   ],
+   "ko": [
+    "크루즈선",
+    "갑판과 창문이 많은 커다란 크루즈선.",
+    [
+     "크루즈",
+     "배",
+     "바다",
+     "휴가"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "world-trip",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Trip around the world",
+    "A small airplane flying around the globe.",
+    [
+     "world trip",
+     "travel",
+     "airplane",
+     "globe"
+    ]
+   ],
+   "ja": [
+    "世界一周旅行",
+    "地球のまわりをぐるりと飛ぶ飛行機。",
+    [
+     "世界一周",
+     "海外旅行",
+     "飛行機",
+     "地球"
+    ]
+   ],
+   "es": [
+    "Vuelta al mundo",
+    "Un avioncito volando alrededor del planeta.",
+    [
+     "vuelta al mundo",
+     "viaje",
+     "avión",
+     "planeta"
+    ]
+   ],
+   "pt": [
+    "Volta ao mundo",
+    "Um aviãozinho voando ao redor do globo.",
+    [
+     "volta ao mundo",
+     "viagem",
+     "avião",
+     "globo"
+    ]
+   ],
+   "fr": [
+    "Tour du monde",
+    "Un petit avion qui fait le tour de la planète.",
+    [
+     "tour du monde",
+     "voyage",
+     "avion",
+     "planète"
+    ]
+   ],
+   "de": [
+    "Weltreise",
+    "Ein kleines Flugzeug fliegt um die Erde.",
+    [
+     "Weltreise",
+     "Reisen",
+     "Flugzeug",
+     "Erde"
+    ]
+   ],
+   "zh": [
+    "环游世界",
+    "绕着地球飞行的小飞机。",
+    [
+     "环游世界",
+     "旅行",
+     "飞机",
+     "地球"
+    ]
+   ],
+   "ko": [
+    "세계 일주",
+    "지구 주위를 빙 도는 작은 비행기.",
+    [
+     "세계 일주",
+     "해외여행",
+     "비행기",
+     "지구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "duffel-bag",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Travel duffel bag",
+    "A roomy duffel bag with handles for a weekend trip.",
+    [
+     "duffel bag",
+     "bag",
+     "luggage",
+     "trip"
+    ]
+   ],
+   "ja": [
+    "ボストンバッグ",
+    "持ち手のついた大きな旅行用ボストンバッグ。",
+    [
+     "ボストンバッグ",
+     "旅行かばん",
+     "荷物",
+     "旅行"
+    ]
+   ],
+   "es": [
+    "Bolsa de viaje",
+    "Una bolsa de viaje amplia con asas para una escapada.",
+    [
+     "bolsa de viaje",
+     "bolso",
+     "equipaje",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Bolsa de viagem",
+    "Uma bolsa de viagem espaçosa com alças para um fim de semana fora.",
+    [
+     "bolsa de viagem",
+     "mala",
+     "bagagem",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Sac de voyage",
+    "Un grand sac polochon avec des poignées pour un week-end.",
+    [
+     "sac de voyage",
+     "sac",
+     "bagage",
+     "voyage"
+    ]
+   ],
+   "de": [
+    "Reisetasche",
+    "Eine geräumige Reisetasche mit Henkeln für den Wochenendtrip.",
+    [
+     "Reisetasche",
+     "Tasche",
+     "Gepäck",
+     "Reise"
+    ]
+   ],
+   "zh": [
+    "旅行包",
+    "带提手的大容量旅行包。",
+    [
+     "旅行包",
+     "行李",
+     "包",
+     "旅行"
+    ]
+   ],
+   "ko": [
+    "여행용 보스턴백",
+    "손잡이가 달린 넉넉한 여행용 가방.",
+    [
+     "보스턴백",
+     "여행 가방",
+     "짐",
+     "여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tourist-photo",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tourist taking a photo",
+    "A smiling tourist in a sun hat taking a picture with a camera.",
+    [
+     "tourist",
+     "camera",
+     "photo",
+     "sightseeing"
+    ]
+   ],
+   "ja": [
+    "写真を撮る観光客",
+    "麦わら帽子をかぶってカメラで写真を撮る観光客。",
+    [
+     "観光客",
+     "カメラ",
+     "写真",
+     "旅行"
+    ]
+   ],
+   "es": [
+    "Turista tomando una foto",
+    "Un turista sonriente con sombrero sacando una foto con su cámara.",
+    [
+     "turista",
+     "cámara",
+     "foto",
+     "turismo"
+    ]
+   ],
+   "pt": [
+    "Turista tirando foto",
+    "Um turista sorridente de chapéu tirando foto com a câmera.",
+    [
+     "turista",
+     "câmera",
+     "foto",
+     "passeio"
+    ]
+   ],
+   "fr": [
+    "Touriste qui prend une photo",
+    "Un touriste souriant au chapeau de soleil qui prend une photo.",
+    [
+     "touriste",
+     "appareil photo",
+     "photo",
+     "tourisme"
+    ]
+   ],
+   "de": [
+    "Tourist beim Fotografieren",
+    "Ein lächelnder Tourist mit Sonnenhut macht ein Foto.",
+    [
+     "Tourist",
+     "Kamera",
+     "Foto",
+     "Sightseeing"
+    ]
+   ],
+   "zh": [
+    "拍照的游客",
+    "戴着草帽用相机拍照的游客。",
+    [
+     "游客",
+     "相机",
+     "拍照",
+     "旅游"
+    ]
+   ],
+   "ko": [
+    "사진 찍는 관광객",
+    "밀짚모자를 쓰고 카메라로 사진을 찍는 관광객.",
+    [
+     "관광객",
+     "카메라",
+     "사진",
+     "여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "road-trip",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Road trip",
+    "A little car driving along a winding country road.",
+    [
+     "road trip",
+     "drive",
+     "car",
+     "road"
+    ]
+   ],
+   "ja": [
+    "ドライブ旅行",
+    "くねくね道を走る、荷物を積んだ小さな車。",
+    [
+     "ドライブ",
+     "車",
+     "旅行",
+     "道"
+    ]
+   ],
+   "es": [
+    "Viaje por carretera",
+    "Un cochecito recorriendo una carretera con curvas.",
+    [
+     "viaje por carretera",
+     "coche",
+     "conducir",
+     "carretera"
+    ]
+   ],
+   "pt": [
+    "Viagem de carro",
+    "Um carrinho percorrendo uma estrada cheia de curvas.",
+    [
+     "viagem de carro",
+     "carro",
+     "estrada",
+     "passeio"
+    ]
+   ],
+   "fr": [
+    "Road trip",
+    "Une petite voiture sur une route sinueuse de campagne.",
+    [
+     "road trip",
+     "voiture",
+     "route",
+     "balade"
+    ]
+   ],
+   "de": [
+    "Roadtrip",
+    "Ein kleines Auto auf einer kurvigen Landstraße.",
+    [
+     "Roadtrip",
+     "Auto",
+     "Straße",
+     "Ausflug"
+    ]
+   ],
+   "zh": [
+    "自驾游",
+    "行驶在蜿蜒山路上的小汽车。",
+    [
+     "自驾游",
+     "汽车",
+     "兜风",
+     "公路"
+    ]
+   ],
+   "ko": [
+    "자동차 여행",
+    "구불구불한 길을 달리는 작은 자동차.",
+    [
+     "자동차 여행",
+     "드라이브",
+     "차",
+     "도로"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tunnel",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tunnel",
+    "A road leading into a tunnel through a green hill.",
+    [
+     "tunnel",
+     "road",
+     "mountain",
+     "drive"
+    ]
+   ],
+   "ja": [
+    "トンネル",
+    "緑の山に入っていく道路のトンネル。",
+    [
+     "トンネル",
+     "道路",
+     "山",
+     "ドライブ"
+    ]
+   ],
+   "es": [
+    "Túnel",
+    "Una carretera que entra en un túnel bajo una colina verde.",
+    [
+     "túnel",
+     "carretera",
+     "montaña",
+     "conducir"
+    ]
+   ],
+   "pt": [
+    "Túnel",
+    "Uma estrada entrando em um túnel na montanha verde.",
+    [
+     "túnel",
+     "estrada",
+     "montanha",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Tunnel",
+    "Une route qui entre dans un tunnel sous une colline verte.",
+    [
+     "tunnel",
+     "route",
+     "montagne",
+     "trajet"
+    ]
+   ],
+   "de": [
+    "Tunnel",
+    "Eine Straße führt in einen Tunnel durch einen grünen Hügel.",
+    [
+     "Tunnel",
+     "Straße",
+     "Berg",
+     "Autofahrt"
+    ]
+   ],
+   "zh": [
+    "隧道",
+    "穿过绿色山丘的公路隧道。",
+    [
+     "隧道",
+     "公路",
+     "山",
+     "开车"
+    ]
+   ],
+   "ko": [
+    "터널",
+    "초록 산으로 이어지는 도로 터널.",
+    [
+     "터널",
+     "도로",
+     "산",
+     "드라이브"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "highway",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Highway",
+    "A straight highway stretching to the horizon with a car and a road sign.",
+    [
+     "highway",
+     "road",
+     "car",
+     "drive"
+    ]
+   ],
+   "ja": [
+    "高速道路",
+    "地平線までまっすぐのびる高速道路と車。",
+    [
+     "高速道路",
+     "道路",
+     "車",
+     "ドライブ"
+    ]
+   ],
+   "es": [
+    "Autopista",
+    "Una autopista recta hacia el horizonte con un coche y una señal.",
+    [
+     "autopista",
+     "carretera",
+     "coche",
+     "conducir"
+    ]
+   ],
+   "pt": [
+    "Rodovia",
+    "Uma rodovia reta até o horizonte com um carro e uma placa.",
+    [
+     "rodovia",
+     "estrada",
+     "carro",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Autoroute",
+    "Une autoroute droite vers l'horizon avec une voiture et un panneau.",
+    [
+     "autoroute",
+     "route",
+     "voiture",
+     "trajet"
+    ]
+   ],
+   "de": [
+    "Autobahn",
+    "Eine gerade Autobahn bis zum Horizont mit Auto und Schild.",
+    [
+     "Autobahn",
+     "Straße",
+     "Auto",
+     "Autofahrt"
+    ]
+   ],
+   "zh": [
+    "高速公路",
+    "笔直延伸到远方的高速公路和汽车。",
+    [
+     "高速公路",
+     "公路",
+     "汽车",
+     "开车"
+    ]
+   ],
+   "ko": [
+    "고속도로",
+    "지평선까지 곧게 뻗은 고속도로와 자동차.",
+    [
+     "고속도로",
+     "도로",
+     "자동차",
+     "드라이브"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "train-window",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "View from a train window",
+    "Mountains and fields seen from a train window, with a drink and snack on the sill.",
+    [
+     "train",
+     "window",
+     "scenery",
+     "journey"
+    ]
+   ],
+   "ja": [
+    "電車の窓からの景色",
+    "山や野原が見える電車の窓辺と飲みもの。",
+    [
+     "車窓",
+     "電車",
+     "景色",
+     "旅"
+    ]
+   ],
+   "es": [
+    "Vista desde la ventana del tren",
+    "Montañas y campos vistos desde la ventanilla del tren, con una bebida.",
+    [
+     "tren",
+     "ventanilla",
+     "paisaje",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Vista da janela do trem",
+    "Montanhas e campos vistos da janela do trem, com uma bebida.",
+    [
+     "trem",
+     "janela",
+     "paisagem",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Vue depuis la fenêtre du train",
+    "Montagnes et champs vus par la fenêtre du train, avec une boisson.",
+    [
+     "train",
+     "fenêtre",
+     "paysage",
+     "voyage"
+    ]
+   ],
+   "de": [
+    "Blick aus dem Zugfenster",
+    "Berge und Felder aus dem Zugfenster, mit einem Getränk.",
+    [
+     "Zug",
+     "Zugfenster",
+     "Landschaft",
+     "Reise"
+    ]
+   ],
+   "zh": [
+    "火车窗外的风景",
+    "从火车车窗看到的山和田野，还有一杯饮料。",
+    [
+     "火车",
+     "车窗",
+     "风景",
+     "旅途"
+    ]
+   ],
+   "ko": [
+    "기차 창밖 풍경",
+    "기차 창문 너머로 보이는 산과 들, 그리고 음료.",
+    [
+     "기차",
+     "창밖",
+     "풍경",
+     "여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ferry",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ferry boat",
+    "A ferry carrying cars across the sea.",
+    [
+     "ferry",
+     "boat",
+     "sea",
+     "transport"
+    ]
+   ],
+   "ja": [
+    "フェリー",
+    "車を乗せて海をわたるフェリー。",
+    [
+     "フェリー",
+     "船",
+     "海",
+     "乗り物"
+    ]
+   ],
+   "es": [
+    "Ferri",
+    "Un ferri que cruza el mar llevando coches.",
+    [
+     "ferri",
+     "barco",
+     "mar",
+     "transporte"
+    ]
+   ],
+   "pt": [
+    "Balsa",
+    "Uma balsa atravessando o mar com carros a bordo.",
+    [
+     "balsa",
+     "barco",
+     "mar",
+     "transporte"
+    ]
+   ],
+   "fr": [
+    "Ferry",
+    "Un ferry qui traverse la mer avec des voitures.",
+    [
+     "ferry",
+     "bateau",
+     "mer",
+     "transport"
+    ]
+   ],
+   "de": [
+    "Fähre",
+    "Eine Fähre, die Autos über das Meer bringt.",
+    [
+     "Fähre",
+     "Schiff",
+     "Meer",
+     "Verkehrsmittel"
+    ]
+   ],
+   "zh": [
+    "渡轮",
+    "载着汽车渡海的渡轮。",
+    [
+     "渡轮",
+     "船",
+     "大海",
+     "交通工具"
+    ]
+   ],
+   "ko": [
+    "페리",
+    "자동차를 싣고 바다를 건너는 페리.",
+    [
+     "페리",
+     "배",
+     "바다",
+     "교통수단"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rental-car-key",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Car key",
+    "A car key with a remote fob, key ring and tag.",
+    [
+     "car key",
+     "rental car",
+     "key",
+     "car"
+    ]
+   ],
+   "ja": [
+    "車のカギ",
+    "リモコン付きの車のカギとキーホルダーのタグ。",
+    [
+     "車のカギ",
+     "レンタカー",
+     "カギ",
+     "車"
+    ]
+   ],
+   "es": [
+    "Llave del coche",
+    "Una llave de coche con mando, llavero y etiqueta.",
+    [
+     "llave del coche",
+     "alquiler de coches",
+     "llave",
+     "coche"
+    ]
+   ],
+   "pt": [
+    "Chave do carro",
+    "Uma chave de carro com controle, chaveiro e etiqueta.",
+    [
+     "chave do carro",
+     "carro alugado",
+     "chave",
+     "carro"
+    ]
+   ],
+   "fr": [
+    "Clé de voiture",
+    "Une clé de voiture avec télécommande, anneau et étiquette.",
+    [
+     "clé de voiture",
+     "location de voiture",
+     "clé",
+     "voiture"
+    ]
+   ],
+   "de": [
+    "Autoschlüssel",
+    "Ein Autoschlüssel mit Fernbedienung, Schlüsselring und Anhänger.",
+    [
+     "Autoschlüssel",
+     "Mietwagen",
+     "Schlüssel",
+     "Auto"
+    ]
+   ],
+   "zh": [
+    "车钥匙",
+    "带遥控器、钥匙圈和吊牌的车钥匙。",
+    [
+     "车钥匙",
+     "租车",
+     "钥匙",
+     "汽车"
+    ]
+   ],
+   "ko": [
+    "자동차 키",
+    "리모컨과 열쇠고리, 태그가 달린 자동차 키.",
+    [
+     "자동차 키",
+     "렌터카",
+     "열쇠",
+     "자동차"
+    ]
+   ]
+  }
+ }
+]

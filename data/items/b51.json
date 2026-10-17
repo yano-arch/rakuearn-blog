@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "balloon-bunch",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bunch of Balloons",
+    "A colorful bunch of balloons tied together with a ribbon.",
+    [
+     "balloons",
+     "party",
+     "celebration",
+     "birthday"
+    ]
+   ],
+   "ja": [
+    "風船の束",
+    "リボンでまとめたカラフルな風船の束。",
+    [
+     "風船",
+     "パーティー",
+     "お祝い",
+     "誕生日"
+    ]
+   ],
+   "es": [
+    "Ramo de globos",
+    "Un ramo de globos de colores atados con un lazo.",
+    [
+     "globos",
+     "fiesta",
+     "celebración",
+     "cumpleaños"
+    ]
+   ],
+   "pt": [
+    "Buquê de balões",
+    "Um buquê de balões coloridos amarrados com uma fita.",
+    [
+     "balões",
+     "festa",
+     "comemoração",
+     "aniversário"
+    ]
+   ],
+   "fr": [
+    "Bouquet de ballons",
+    "Un bouquet de ballons colorés noués par un ruban.",
+    [
+     "ballons",
+     "fête",
+     "célébration",
+     "anniversaire"
+    ]
+   ],
+   "de": [
+    "Luftballonstrauß",
+    "Ein bunter Strauß Luftballons, mit einer Schleife zusammengebunden.",
+    [
+     "Luftballons",
+     "Party",
+     "Feier",
+     "Geburtstag"
+    ]
+   ],
+   "zh": [
+    "一束气球",
+    "用丝带系在一起的一束彩色气球。",
+    [
+     "气球",
+     "派对",
+     "庆祝",
+     "生日"
+    ]
+   ],
+   "ko": [
+    "풍선 다발",
+    "리본으로 묶은 알록달록한 풍선 다발.",
+    [
+     "풍선",
+     "파티",
+     "축하",
+     "생일"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "confetti",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Confetti",
+    "Colorful confetti and streamers flying through the air.",
+    [
+     "confetti",
+     "party",
+     "celebration",
+     "streamers"
+    ]
+   ],
+   "ja": [
+    "紙吹雪",
+    "色とりどりの紙吹雪とリボンが舞うようす。",
+    [
+     "紙吹雪",
+     "パーティー",
+     "お祝い",
+     "クラッカー"
+    ]
+   ],
+   "es": [
+    "Confeti",
+    "Confeti y serpentinas de colores volando por el aire.",
+    [
+     "confeti",
+     "fiesta",
+     "celebración",
+     "serpentinas"
+    ]
+   ],
+   "pt": [
+    "Confete",
+    "Confetes e serpentinas coloridos voando pelo ar.",
+    [
+     "confete",
+     "festa",
+     "comemoração",
+     "serpentina"
+    ]
+   ],
+   "fr": [
+    "Confettis",
+    "Des confettis et serpentins colorés qui volent dans les airs.",
+    [
+     "confettis",
+     "fête",
+     "célébration",
+     "serpentins"
+    ]
+   ],
+   "de": [
+    "Konfetti",
+    "Buntes Konfetti und Luftschlangen fliegen durch die Luft.",
+    [
+     "Konfetti",
+     "Party",
+     "Feier",
+     "Luftschlangen"
+    ]
+   ],
+   "zh": [
+    "彩色纸屑",
+    "漫天飞舞的彩色纸屑和彩带。",
+    [
+     "彩纸",
+     "派对",
+     "庆祝",
+     "彩带"
+    ]
+   ],
+   "ko": [
+    "색종이 꽃가루",
+    "알록달록한 꽃가루와 리본이 흩날리는 모습.",
+    [
+     "꽃가루",
+     "파티",
+     "축하",
+     "색종이"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pinata",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Piñata",
+    "A striped donkey piñata hanging from a rope.",
+    [
+     "piñata",
+     "party",
+     "birthday",
+     "fiesta"
+    ]
+   ],
+   "ja": [
+    "ピニャータ",
+    "ひもでつるされた、しま模様のロバのピニャータ。",
+    [
+     "ピニャータ",
+     "パーティー",
+     "誕生日",
+     "メキシコ"
+    ]
+   ],
+   "es": [
+    "Piñata",
+    "Una piñata de burrito a rayas colgada de una cuerda.",
+    [
+     "piñata",
+     "fiesta",
+     "cumpleaños",
+     "burrito"
+    ]
+   ],
+   "pt": [
+    "Pinhata",
+    "Uma pinhata de burrinho listrada pendurada por uma corda.",
+    [
+     "pinhata",
+     "festa",
+     "aniversário",
+     "burrinho"
+    ]
+   ],
+   "fr": [
+    "Piñata",
+    "Une piñata en forme d’âne rayé suspendue à une corde.",
+    [
+     "piñata",
+     "fête",
+     "anniversaire",
+     "âne"
+    ]
+   ],
+   "de": [
+    "Piñata",
+    "Eine gestreifte Esel-Piñata, die an einem Seil hängt.",
+    [
+     "Piñata",
+     "Party",
+     "Kindergeburtstag",
+     "Esel"
+    ]
+   ],
+   "zh": [
+    "皮纳塔",
+    "挂在绳子上的条纹小驴皮纳塔。",
+    [
+     "皮纳塔",
+     "派对",
+     "生日",
+     "墨西哥"
+    ]
+   ],
+   "ko": [
+    "피냐타",
+    "줄에 매달린 줄무늬 당나귀 피냐타.",
+    [
+     "피냐타",
+     "파티",
+     "생일",
+     "멕시코"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "festival-stall",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Festival Food Stall",
+    "A festival food stall with a striped awning and paper lanterns.",
+    [
+     "food stall",
+     "festival",
+     "summer festival",
+     "street food"
+    ]
+   ],
+   "ja": [
+    "お祭りの屋台",
+    "しま模様の屋根とちょうちんが付いたお祭りの屋台。",
+    [
+     "屋台",
+     "お祭り",
+     "夏祭り",
+     "縁日"
+    ]
+   ],
+   "es": [
+    "Puesto de feria",
+    "Un puesto de comida de feria con toldo a rayas y farolillos.",
+    [
+     "puesto",
+     "feria",
+     "festival",
+     "comida callejera"
+    ]
+   ],
+   "pt": [
+    "Barraca de festa",
+    "Uma barraca de comida de festa com toldo listrado e lanternas.",
+    [
+     "barraca",
+     "festa",
+     "quermesse",
+     "comida de rua"
+    ]
+   ],
+   "fr": [
+    "Stand de fête foraine",
+    "Un stand de nourriture avec un auvent rayé et des lanternes.",
+    [
+     "stand",
+     "fête",
+     "festival",
+     "street food"
+    ]
+   ],
+   "de": [
+    "Imbissstand auf dem Fest",
+    "Ein Essensstand auf einem Fest mit gestreiftem Dach und Laternen.",
+    [
+     "Imbissstand",
+     "Fest",
+     "Sommerfest",
+     "Streetfood"
+    ]
+   ],
+   "zh": [
+    "庙会小吃摊",
+    "带条纹顶棚和灯笼的庙会小吃摊。",
+    [
+     "小吃摊",
+     "庙会",
+     "夏日祭",
+     "街头美食"
+    ]
+   ],
+   "ko": [
+    "축제 포장마차",
+    "줄무늬 지붕과 등불이 달린 축제 노점.",
+    [
+     "노점",
+     "축제",
+     "여름 축제",
+     "길거리 음식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "goldfish-scooping",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Goldfish Scooping",
+    "A tub of goldfish with a paper scoop and a small bowl at a summer festival.",
+    [
+     "goldfish scooping",
+     "summer festival",
+     "goldfish",
+     "Japan"
+    ]
+   ],
+   "ja": [
+    "金魚すくい",
+    "ポイとおわんで金魚をすくう、お祭りの金魚すくい。",
+    [
+     "金魚すくい",
+     "夏祭り",
+     "金魚",
+     "縁日"
+    ]
+   ],
+   "es": [
+    "Pesca de peces dorados",
+    "Una tina con peces dorados, una red de papel y un cuenco en un festival.",
+    [
+     "pesca de peces",
+     "festival de verano",
+     "pez dorado",
+     "Japón"
+    ]
+   ],
+   "pt": [
+    "Pescaria de peixinhos",
+    "Uma bacia de peixinhos dourados com uma rede de papel e uma tigela.",
+    [
+     "pescaria",
+     "festival de verão",
+     "peixinho dourado",
+     "Japão"
+    ]
+   ],
+   "fr": [
+    "Pêche aux poissons rouges",
+    "Un bac de poissons rouges avec une épuisette en papier et un bol.",
+    [
+     "pêche aux poissons",
+     "fête d’été",
+     "poisson rouge",
+     "Japon"
+    ]
+   ],
+   "de": [
+    "Goldfischfangen",
+    "Ein Becken mit Goldfischen, Papierkescher und Schälchen auf einem Sommerfest.",
+    [
+     "Goldfischfangen",
+     "Sommerfest",
+     "Goldfisch",
+     "Japan"
+    ]
+   ],
+   "zh": [
+    "捞金鱼",
+    "用纸网和小碗捞金鱼的夏日祭游戏。",
+    [
+     "捞金鱼",
+     "夏日祭",
+     "金鱼",
+     "日本"
+    ]
+   ],
+   "ko": [
+    "금붕어 건지기",
+    "종이 뜰채와 그릇으로 금붕어를 건지는 축제 놀이.",
+    [
+     "금붕어 건지기",
+     "여름 축제",
+     "금붕어",
+     "일본"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "candy-apple",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Candy Apple",
+    "A shiny red candy apple on a stick with a smiling face.",
+    [
+     "candy apple",
+     "festival food",
+     "sweets",
+     "fair"
+    ]
+   ],
+   "ja": [
+    "りんご飴",
+    "ぴかぴかの赤いりんご飴。にっこり顔つき。",
+    [
+     "りんご飴",
+     "屋台",
+     "お祭り",
+     "スイーツ"
+    ]
+   ],
+   "es": [
+    "Manzana de caramelo",
+    "Una manzana de caramelo roja y brillante en un palito.",
+    [
+     "manzana de caramelo",
+     "feria",
+     "dulces",
+     "festival"
+    ]
+   ],
+   "pt": [
+    "Maçã do amor",
+    "Uma maçã do amor vermelha e brilhante no palito.",
+    [
+     "maçã do amor",
+     "festa junina",
+     "doce",
+     "quermesse"
+    ]
+   ],
+   "fr": [
+    "Pomme d’amour",
+    "Une pomme d’amour rouge et brillante sur un bâton.",
+    [
+     "pomme d’amour",
+     "fête foraine",
+     "friandise",
+     "festival"
+    ]
+   ],
+   "de": [
+    "Liebesapfel",
+    "Ein glänzend roter Liebesapfel am Stiel mit lächelndem Gesicht.",
+    [
+     "Liebesapfel",
+     "Jahrmarkt",
+     "Süßigkeit",
+     "Kirmes"
+    ]
+   ],
+   "zh": [
+    "糖苹果",
+    "插在竹签上、亮晶晶的红色糖苹果。",
+    [
+     "糖苹果",
+     "庙会",
+     "甜点",
+     "小吃"
+    ]
+   ],
+   "ko": [
+    "사과 사탕",
+    "막대에 꽂힌 반짝반짝 빨간 사과 사탕.",
+    [
+     "사과 사탕",
+     "축제",
+     "간식",
+     "디저트"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "taiko-drum",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Taiko Drum",
+    "A Japanese taiko drum on a stand with two drumsticks.",
+    [
+     "taiko",
+     "drum",
+     "Japanese festival",
+     "music"
+    ]
+   ],
+   "ja": [
+    "和太鼓",
+    "台にのった和太鼓とバチ。",
+    [
+     "太鼓",
+     "和太鼓",
+     "お祭り",
+     "盆踊り"
+    ]
+   ],
+   "es": [
+    "Tambor taiko",
+    "Un tambor taiko japonés sobre un soporte con dos baquetas.",
+    [
+     "taiko",
+     "tambor",
+     "festival japonés",
+     "música"
+    ]
+   ],
+   "pt": [
+    "Tambor taiko",
+    "Um tambor taiko japonês no suporte com duas baquetas.",
+    [
+     "taiko",
+     "tambor",
+     "festival japonês",
+     "música"
+    ]
+   ],
+   "fr": [
+    "Tambour taiko",
+    "Un tambour taiko japonais sur son support avec deux baguettes.",
+    [
+     "taiko",
+     "tambour",
+     "fête japonaise",
+     "musique"
+    ]
+   ],
+   "de": [
+    "Taiko-Trommel",
+    "Eine japanische Taiko-Trommel auf einem Gestell mit zwei Schlägeln.",
+    [
+     "Taiko",
+     "Trommel",
+     "japanisches Fest",
+     "Musik"
+    ]
+   ],
+   "zh": [
+    "日本太鼓",
+    "架在支架上的日本太鼓和两根鼓槌。",
+    [
+     "太鼓",
+     "鼓",
+     "日本祭典",
+     "音乐"
+    ]
+   ],
+   "ko": [
+    "일본 북 타이코",
+    "받침대 위의 일본 북과 북채 두 개.",
+    [
+     "타이코",
+     "북",
+     "일본 축제",
+     "음악"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "carnival-mask",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Carnival Mask",
+    "A purple masquerade mask with feathers on a handle.",
+    [
+     "carnival",
+     "masquerade",
+     "mask",
+     "Mardi Gras"
+    ]
+   ],
+   "ja": [
+    "カーニバルの仮面",
+    "羽根飾りが付いた紫の仮面舞踏会マスク。",
+    [
+     "仮面",
+     "カーニバル",
+     "仮面舞踏会",
+     "ベネチア"
+    ]
+   ],
+   "es": [
+    "Máscara de carnaval",
+    "Un antifaz morado con plumas y mango.",
+    [
+     "carnaval",
+     "antifaz",
+     "máscara",
+     "baile de máscaras"
+    ]
+   ],
+   "pt": [
+    "Máscara de carnaval",
+    "Uma máscara roxa de baile com penas e cabo.",
+    [
+     "carnaval",
+     "máscara",
+     "baile de máscaras",
+     "fantasia"
+    ]
+   ],
+   "fr": [
+    "Masque de carnaval",
+    "Un loup violet à plumes monté sur un manche.",
+    [
+     "carnaval",
+     "masque",
+     "bal masqué",
+     "Mardi gras"
+    ]
+   ],
+   "de": [
+    "Karnevalsmaske",
+    "Eine lila Maskenballmaske mit Federn an einem Stab.",
+    [
+     "Karneval",
+     "Maske",
+     "Maskenball",
+     "Fasching"
+    ]
+   ],
+   "zh": [
+    "狂欢节面具",
+    "带羽毛和手柄的紫色假面舞会面具。",
+    [
+     "狂欢节",
+     "面具",
+     "假面舞会",
+     "威尼斯"
+    ]
+   ],
+   "ko": [
+    "카니발 가면",
+    "깃털 장식이 달린 보라색 가면무도회 가면.",
+    [
+     "카니발",
+     "가면",
+     "가면무도회",
+     "축제"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "music-festival",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Music Festival Stage",
+    "An outdoor concert stage with lights, speakers and a cheering crowd.",
+    [
+     "music festival",
+     "concert",
+     "stage",
+     "live music"
+    ]
+   ],
+   "ja": [
+    "音楽フェスのステージ",
+    "ライトとスピーカーのある野外ステージと盛り上がる観客。",
+    [
+     "フェス",
+     "ライブ",
+     "ステージ",
+     "コンサート"
+    ]
+   ],
+   "es": [
+    "Escenario de festival de música",
+    "Un escenario al aire libre con luces, altavoces y público animado.",
+    [
+     "festival de música",
+     "concierto",
+     "escenario",
+     "música en vivo"
+    ]
+   ],
+   "pt": [
+    "Palco de festival de música",
+    "Um palco ao ar livre com luzes, caixas de som e público animado.",
+    [
+     "festival de música",
+     "show",
+     "palco",
+     "música ao vivo"
+    ]
+   ],
+   "fr": [
+    "Scène de festival de musique",
+    "Une scène en plein air avec projecteurs, enceintes et public enthousiaste.",
+    [
+     "festival de musique",
+     "concert",
+     "scène",
+     "live"
+    ]
+   ],
+   "de": [
+    "Musikfestival-Bühne",
+    "Eine Open-Air-Bühne mit Scheinwerfern, Boxen und jubelndem Publikum.",
+    [
+     "Musikfestival",
+     "Konzert",
+     "Bühne",
+     "Livemusik"
+    ]
+   ],
+   "zh": [
+    "音乐节舞台",
+    "有灯光、音箱和欢呼观众的户外舞台。",
+    [
+     "音乐节",
+     "演唱会",
+     "舞台",
+     "现场音乐"
+    ]
+   ],
+   "ko": [
+    "음악 페스티벌 무대",
+    "조명과 스피커가 있는 야외 무대와 환호하는 관객.",
+    [
+     "페스티벌",
+     "콘서트",
+     "무대",
+     "공연"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sparklers",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hand Sparklers",
+    "A hand holding two glittering sparklers.",
+    [
+     "sparklers",
+     "fireworks",
+     "summer",
+     "celebration"
+    ]
+   ],
+   "ja": [
+    "手持ち花火",
+    "キラキラ光る手持ち花火を2本持つ手。",
+    [
+     "手持ち花火",
+     "花火",
+     "夏",
+     "夏休み"
+    ]
+   ],
+   "es": [
+    "Bengalas",
+    "Una mano sosteniendo dos bengalas brillantes.",
+    [
+     "bengalas",
+     "fuegos artificiales",
+     "verano",
+     "celebración"
+    ]
+   ],
+   "pt": [
+    "Estrelinhas",
+    "Uma mão segurando duas estrelinhas brilhantes.",
+    [
+     "estrelinha",
+     "fogos de artifício",
+     "verão",
+     "festa"
+    ]
+   ],
+   "fr": [
+    "Cierges magiques",
+    "Une main qui tient deux cierges magiques étincelants.",
+    [
+     "cierges magiques",
+     "feux d’artifice",
+     "été",
+     "fête"
+    ]
+   ],
+   "de": [
+    "Wunderkerzen",
+    "Eine Hand hält zwei funkelnde Wunderkerzen.",
+    [
+     "Wunderkerzen",
+     "Feuerwerk",
+     "Sommer",
+     "Feier"
+    ]
+   ],
+   "zh": [
+    "手持烟花",
+    "手里拿着两根闪闪发光的仙女棒。",
+    [
+     "仙女棒",
+     "烟花",
+     "夏天",
+     "庆祝"
+    ]
+   ],
+   "ko": [
+    "손 불꽃놀이",
+    "반짝이는 불꽃 막대 두 개를 든 손.",
+    [
+     "불꽃 막대",
+     "불꽃놀이",
+     "여름",
+     "축하"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "kids-birthday",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Child’s Birthday",
+    "A child in a party hat holding a birthday cake with a candle.",
+    [
+     "birthday",
+     "child",
+     "party hat",
+     "birthday cake"
+    ]
+   ],
+   "ja": [
+    "子どもの誕生日",
+    "とんがり帽子をかぶってケーキを持つ子ども。",
+    [
+     "誕生日",
+     "子ども",
+     "バースデーケーキ",
+     "パーティー"
+    ]
+   ],
+   "es": [
+    "Cumpleaños infantil",
+    "Un niño con gorro de fiesta sosteniendo un pastel con una vela.",
+    [
+     "cumpleaños",
+     "niño",
+     "gorro de fiesta",
+     "pastel"
+    ]
+   ],
+   "pt": [
+    "Aniversário infantil",
+    "Uma criança com chapéu de festa segurando um bolo com vela.",
+    [
+     "aniversário",
+     "criança",
+     "chapéu de festa",
+     "bolo"
+    ]
+   ],
+   "fr": [
+    "Anniversaire d’enfant",
+    "Un enfant avec un chapeau pointu qui tient un gâteau avec une bougie.",
+    [
+     "anniversaire",
+     "enfant",
+     "chapeau de fête",
+     "gâteau"
+    ]
+   ],
+   "de": [
+    "Kindergeburtstag",
+    "Ein Kind mit Partyhut hält einen Geburtstagskuchen mit Kerze.",
+    [
+     "Kindergeburtstag",
+     "Kind",
+     "Partyhut",
+     "Geburtstagskuchen"
+    ]
+   ],
+   "zh": [
+    "儿童生日",
+    "戴着派对帽、捧着生日蛋糕的孩子。",
+    [
+     "生日",
+     "儿童",
+     "派对帽",
+     "生日蛋糕"
+    ]
+   ],
+   "ko": [
+    "아이 생일",
+    "고깔모자를 쓰고 생일 케이크를 든 아이.",
+    [
+     "생일",
+     "아이",
+     "고깔모자",
+     "생일 케이크"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "surprise-party",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Surprise Party",
+    "A person cheering with raised arms under a party garland.",
+    [
+     "surprise party",
+     "party",
+     "celebration",
+     "garland"
+    ]
+   ],
+   "ja": [
+    "サプライズパーティー",
+    "ガーランドの下でバンザイして喜ぶ人。",
+    [
+     "サプライズ",
+     "パーティー",
+     "お祝い",
+     "ガーランド"
+    ]
+   ],
+   "es": [
+    "Fiesta sorpresa",
+    "Una persona celebrando con los brazos en alto bajo una guirnalda.",
+    [
+     "fiesta sorpresa",
+     "fiesta",
+     "celebración",
+     "guirnalda"
+    ]
+   ],
+   "pt": [
+    "Festa surpresa",
+    "Uma pessoa comemorando de braços para cima sob uma bandeirinha.",
+    [
+     "festa surpresa",
+     "festa",
+     "comemoração",
+     "bandeirinhas"
+    ]
+   ],
+   "fr": [
+    "Fête surprise",
+    "Une personne qui fête les bras levés sous une guirlande de fanions.",
+    [
+     "fête surprise",
+     "fête",
+     "célébration",
+     "guirlande"
+    ]
+   ],
+   "de": [
+    "Überraschungsparty",
+    "Eine Person jubelt mit erhobenen Armen unter einer Wimpelkette.",
+    [
+     "Überraschungsparty",
+     "Party",
+     "Feier",
+     "Wimpelkette"
+    ]
+   ],
+   "zh": [
+    "惊喜派对",
+    "在彩旗下举起双手欢呼的人。",
+    [
+     "惊喜派对",
+     "派对",
+     "庆祝",
+     "彩旗"
+    ]
+   ],
+   "ko": [
+    "깜짝 파티",
+    "가랜드 아래에서 두 팔을 들고 기뻐하는 사람.",
+    [
+     "깜짝 파티",
+     "파티",
+     "축하",
+     "가랜드"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "gift-wrapping",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Wrapping a Gift",
+    "Hands tying a ribbon on a gift box over wrapping paper.",
+    [
+     "gift wrapping",
+     "present",
+     "ribbon",
+     "wrapping paper"
+    ]
+   ],
+   "ja": [
+    "プレゼントのラッピング",
+    "包装紙の上でプレゼントにリボンを結ぶ手。",
+    [
+     "ラッピング",
+     "プレゼント",
+     "リボン",
+     "包装紙"
+    ]
+   ],
+   "es": [
+    "Envolver un regalo",
+    "Manos atando un lazo a una caja de regalo sobre papel de regalo.",
+    [
+     "envolver regalo",
+     "regalo",
+     "lazo",
+     "papel de regalo"
+    ]
+   ],
+   "pt": [
+    "Embrulhando um presente",
+    "Mãos amarrando uma fita em uma caixa de presente sobre papel de presente.",
+    [
+     "embrulho",
+     "presente",
+     "fita",
+     "papel de presente"
+    ]
+   ],
+   "fr": [
+    "Emballer un cadeau",
+    "Des mains nouent un ruban sur un cadeau posé sur du papier cadeau.",
+    [
+     "emballage cadeau",
+     "cadeau",
+     "ruban",
+     "papier cadeau"
+    ]
+   ],
+   "de": [
+    "Geschenk einpacken",
+    "Hände binden eine Schleife um ein Geschenk auf Geschenkpapier.",
+    [
+     "Geschenk einpacken",
+     "Geschenk",
+     "Schleife",
+     "Geschenkpapier"
+    ]
+   ],
+   "zh": [
+    "包装礼物",
+    "在包装纸上给礼盒系丝带的双手。",
+    [
+     "包装礼物",
+     "礼物",
+     "丝带",
+     "包装纸"
+    ]
+   ],
+   "ko": [
+    "선물 포장",
+    "포장지 위에서 선물 상자에 리본을 묶는 손.",
+    [
+     "선물 포장",
+     "선물",
+     "리본",
+     "포장지"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "invitation",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Invitation Card",
+    "An invitation card in an envelope sealed with a red wax seal.",
+    [
+     "invitation",
+     "envelope",
+     "wax seal",
+     "card"
+    ]
+   ],
+   "ja": [
+    "招待状",
+    "赤いシーリングスタンプで封をした封筒と招待状。",
+    [
+     "招待状",
+     "封筒",
+     "シーリングスタンプ",
+     "カード"
+    ]
+   ],
+   "es": [
+    "Invitación",
+    "Una tarjeta de invitación en un sobre con sello de lacre rojo.",
+    [
+     "invitación",
+     "sobre",
+     "sello de lacre",
+     "tarjeta"
+    ]
+   ],
+   "pt": [
+    "Convite",
+    "Um convite em um envelope fechado com um selo de cera vermelho.",
+    [
+     "convite",
+     "envelope",
+     "selo de cera",
+     "cartão"
+    ]
+   ],
+   "fr": [
+    "Carte d’invitation",
+    "Une carte d’invitation dans une enveloppe scellée à la cire rouge.",
+    [
+     "invitation",
+     "enveloppe",
+     "sceau de cire",
+     "carte"
+    ]
+   ],
+   "de": [
+    "Einladungskarte",
+    "Eine Einladungskarte im Umschlag mit rotem Wachssiegel.",
+    [
+     "Einladung",
+     "Umschlag",
+     "Wachssiegel",
+     "Karte"
+    ]
+   ],
+   "zh": [
+    "邀请函",
+    "用红色火漆封口的信封和邀请卡。",
+    [
+     "邀请函",
+     "信封",
+     "火漆印章",
+     "卡片"
+    ]
+   ],
+   "ko": [
+    "초대장",
+    "빨간 실링 왁스로 봉한 봉투와 초대 카드.",
+    [
+     "초대장",
+     "봉투",
+     "실링 왁스",
+     "카드"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cheers-glasses",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Clinking Glasses",
+    "Two wine glasses clinking together in a toast.",
+    [
+     "cheers",
+     "toast",
+     "wine glasses",
+     "celebration"
+    ]
+   ],
+   "ja": [
+    "乾杯するグラス",
+    "カチンと乾杯する2つのワイングラス。",
+    [
+     "乾杯",
+     "グラス",
+     "ワイン",
+     "お祝い"
+    ]
+   ],
+   "es": [
+    "Brindis con copas",
+    "Dos copas de vino chocando en un brindis.",
+    [
+     "brindis",
+     "salud",
+     "copas",
+     "celebración"
+    ]
+   ],
+   "pt": [
+    "Brinde com taças",
+    "Duas taças de vinho se tocando em um brinde.",
+    [
+     "brinde",
+     "saúde",
+     "taças",
+     "comemoração"
+    ]
+   ],
+   "fr": [
+    "Trinquer",
+    "Deux verres de vin qui trinquent.",
+    [
+     "trinquer",
+     "santé",
+     "verres",
+     "célébration"
+    ]
+   ],
+   "de": [
+    "Anstoßen",
+    "Zwei Weingläser stoßen miteinander an.",
+    [
+     "Prost",
+     "Anstoßen",
+     "Weingläser",
+     "Feier"
+    ]
+   ],
+   "zh": [
+    "碰杯",
+    "两只酒杯碰在一起干杯。",
+    [
+     "干杯",
+     "碰杯",
+     "酒杯",
+     "庆祝"
+    ]
+   ],
+   "ko": [
+    "건배하는 잔",
+    "쨍 하고 건배하는 와인잔 두 개.",
+    [
+     "건배",
+     "와인잔",
+     "축하",
+     "파티"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "anniversary",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Anniversary Cake",
+    "A two-tier cake with a heart topper surrounded by hearts.",
+    [
+     "anniversary",
+     "heart",
+     "cake",
+     "love"
+    ]
+   ],
+   "ja": [
+    "記念日のケーキ",
+    "ハートを飾った2段ケーキとたくさんのハート。",
+    [
+     "記念日",
+     "ハート",
+     "ケーキ",
+     "結婚記念日"
+    ]
+   ],
+   "es": [
+    "Pastel de aniversario",
+    "Un pastel de dos pisos con un corazón encima, rodeado de corazones.",
+    [
+     "aniversario",
+     "corazón",
+     "pastel",
+     "amor"
+    ]
+   ],
+   "pt": [
+    "Bolo de bodas",
+    "Um bolo de dois andares com um coração no topo, cercado de corações.",
+    [
+     "aniversário de casamento",
+     "coração",
+     "bolo",
+     "amor"
+    ]
+   ],
+   "fr": [
+    "Gâteau d’anniversaire de couple",
+    "Un gâteau à deux étages surmonté d’un cœur, entouré de cœurs.",
+    [
+     "anniversaire de mariage",
+     "cœur",
+     "gâteau",
+     "amour"
+    ]
+   ],
+   "de": [
+    "Jahrestagstorte",
+    "Eine zweistöckige Torte mit Herz-Topper, umgeben von Herzen.",
+    [
+     "Jahrestag",
+     "Herz",
+     "Torte",
+     "Liebe"
+    ]
+   ],
+   "zh": [
+    "纪念日蛋糕",
+    "顶着爱心装饰的双层蛋糕，周围飘着爱心。",
+    [
+     "纪念日",
+     "爱心",
+     "蛋糕",
+     "结婚纪念日"
+    ]
+   ],
+   "ko": [
+    "기념일 케이크",
+    "하트 장식을 올린 2단 케이크와 하트들.",
+    [
+     "기념일",
+     "하트",
+     "케이크",
+     "결혼기념일"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "baby-shower",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Baby Shower",
+    "A baby onesie with a heart, surrounded by balloons.",
+    [
+     "baby shower",
+     "onesie",
+     "baby",
+     "balloons"
+    ]
+   ],
+   "ja": [
+    "ベビーシャワー",
+    "ハート柄のベビー服と風船。",
+    [
+     "ベビーシャワー",
+     "ベビー服",
+     "赤ちゃん",
+     "風船"
+    ]
+   ],
+   "es": [
+    "Baby shower",
+    "Un body de bebé con un corazón, rodeado de globos.",
+    [
+     "baby shower",
+     "body de bebé",
+     "bebé",
+     "globos"
+    ]
+   ],
+   "pt": [
+    "Chá de bebê",
+    "Um body de bebê com coração, cercado de balões.",
+    [
+     "chá de bebê",
+     "body",
+     "bebê",
+     "balões"
+    ]
+   ],
+   "fr": [
+    "Baby shower",
+    "Un body de bébé avec un cœur, entouré de ballons.",
+    [
+     "baby shower",
+     "body",
+     "bébé",
+     "ballons"
+    ]
+   ],
+   "de": [
+    "Babyparty",
+    "Ein Babybody mit Herz, umgeben von Luftballons.",
+    [
+     "Babyparty",
+     "Babybody",
+     "Baby",
+     "Luftballons"
+    ]
+   ],
+   "zh": [
+    "迎婴派对",
+    "带爱心图案的婴儿连体衣和气球。",
+    [
+     "迎婴派对",
+     "婴儿连体衣",
+     "宝宝",
+     "气球"
+    ]
+   ],
+   "ko": [
+    "베이비 샤워",
+    "하트 무늬 아기 바디슈트와 풍선.",
+    [
+     "베이비 샤워",
+     "아기 옷",
+     "아기",
+     "풍선"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "graduation-party",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Graduation Party",
+    "A graduation cap and diploma with flying confetti.",
+    [
+     "graduation",
+     "graduation cap",
+     "diploma",
+     "celebration"
+    ]
+   ],
+   "ja": [
+    "卒業パーティー",
+    "角帽と卒業証書、舞い散る紙吹雪。",
+    [
+     "卒業",
+     "角帽",
+     "卒業証書",
+     "お祝い"
+    ]
+   ],
+   "es": [
+    "Fiesta de graduación",
+    "Un birrete y un diploma con confeti volando.",
+    [
+     "graduación",
+     "birrete",
+     "diploma",
+     "celebración"
+    ]
+   ],
+   "pt": [
+    "Festa de formatura",
+    "Um capelo e um diploma com confetes voando.",
+    [
+     "formatura",
+     "capelo",
+     "diploma",
+     "comemoração"
+    ]
+   ],
+   "fr": [
+    "Fête de remise de diplôme",
+    "Une toque de diplômé et un diplôme avec des confettis.",
+    [
+     "remise de diplôme",
+     "toque",
+     "diplôme",
+     "fête"
+    ]
+   ],
+   "de": [
+    "Abschlussfeier",
+    "Ein Doktorhut und ein Diplom mit fliegendem Konfetti.",
+    [
+     "Abschluss",
+     "Doktorhut",
+     "Zeugnis",
+     "Feier"
+    ]
+   ],
+   "zh": [
+    "毕业派对",
+    "学士帽、毕业证书和飞舞的彩纸。",
+    [
+     "毕业",
+     "学士帽",
+     "毕业证书",
+     "庆祝"
+    ]
+   ],
+   "ko": [
+    "졸업 파티",
+    "학사모와 졸업장, 흩날리는 꽃가루.",
+    [
+     "졸업",
+     "학사모",
+     "졸업장",
+     "축하"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sports-day-flags",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sports Day Flags",
+    "Strings of colorful pennant flags hung between poles for sports day.",
+    [
+     "sports day",
+     "flags",
+     "bunting",
+     "school event"
+    ]
+   ],
+   "ja": [
+    "運動会の旗",
+    "ポールの間に張られたカラフルな三角旗。運動会の飾り。",
+    [
+     "運動会",
+     "旗",
+     "ガーランド",
+     "学校行事"
+    ]
+   ],
+   "es": [
+    "Banderines del día deportivo",
+    "Cuerdas de banderines de colores colgadas entre postes para el día deportivo.",
+    [
+     "día deportivo",
+     "banderines",
+     "guirnalda",
+     "evento escolar"
+    ]
+   ],
+   "pt": [
+    "Bandeirinhas da gincana",
+    "Cordões de bandeirinhas coloridas pendurados entre postes para a gincana.",
+    [
+     "gincana",
+     "bandeirinhas",
+     "olimpíada escolar",
+     "evento escolar"
+    ]
+   ],
+   "fr": [
+    "Fanions de la fête du sport",
+    "Des guirlandes de fanions colorés tendues entre des poteaux.",
+    [
+     "fête du sport",
+     "fanions",
+     "guirlande",
+     "école"
+    ]
+   ],
+   "de": [
+    "Wimpel zum Sportfest",
+    "Bunte Wimpelketten zwischen zwei Masten beim Sportfest.",
+    [
+     "Sportfest",
+     "Wimpel",
+     "Wimpelkette",
+     "Schulfest"
+    ]
+   ],
+   "zh": [
+    "运动会彩旗",
+    "挂在两根杆子之间的彩色三角旗。",
+    [
+     "运动会",
+     "彩旗",
+     "三角旗",
+     "学校活动"
+    ]
+   ],
+   "ko": [
+    "운동회 깃발",
+    "기둥 사이에 걸린 알록달록한 삼각 깃발.",
+    [
+     "운동회",
+     "깃발",
+     "가랜드",
+     "학교 행사"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cultural-festival",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "School Festival Stage",
+    "A student singing on a school festival stage with red curtains.",
+    [
+     "school festival",
+     "stage",
+     "performance",
+     "student"
+    ]
+   ],
+   "ja": [
+    "文化祭のステージ",
+    "赤い幕のステージで歌う生徒。文化祭の発表。",
+    [
+     "文化祭",
+     "ステージ",
+     "発表",
+     "学園祭"
+    ]
+   ],
+   "es": [
+    "Escenario del festival escolar",
+    "Un estudiante cantando en un escenario escolar con telón rojo.",
+    [
+     "festival escolar",
+     "escenario",
+     "actuación",
+     "estudiante"
+    ]
+   ],
+   "pt": [
+    "Palco da festa da escola",
+    "Um aluno cantando no palco da escola com cortinas vermelhas.",
+    [
+     "festa da escola",
+     "palco",
+     "apresentação",
+     "aluno"
+    ]
+   ],
+   "fr": [
+    "Scène de la fête de l’école",
+    "Un élève qui chante sur la scène de l’école aux rideaux rouges.",
+    [
+     "fête de l’école",
+     "scène",
+     "spectacle",
+     "élève"
+    ]
+   ],
+   "de": [
+    "Schulfest-Bühne",
+    "Ein Schüler singt auf der Schulbühne mit rotem Vorhang.",
+    [
+     "Schulfest",
+     "Bühne",
+     "Aufführung",
+     "Schüler"
+    ]
+   ],
+   "zh": [
+    "校园文化节舞台",
+    "在红色帷幕舞台上唱歌的学生。",
+    [
+     "文化节",
+     "舞台",
+     "演出",
+     "学生"
+    ]
+   ],
+   "ko": [
+    "학교 축제 무대",
+    "빨간 막이 있는 학교 축제 무대에서 노래하는 학생.",
+    [
+     "학교 축제",
+     "무대",
+     "공연",
+     "학생"
+    ]
+   ]
+  }
+ }
+]

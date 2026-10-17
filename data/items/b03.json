@@ -1,0 +1,872 @@
+[
+ {
+  "slug": "cat-sitting",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cat sitting",
+    "A cute orange cat sitting with its tail curled around.",
+    [
+     "cat",
+     "kitten",
+     "pet",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "おすわりするねこ",
+    "しっぽをくるんと丸めておすわりするかわいいねこ。",
+    [
+     "ねこ",
+     "猫",
+     "ペット",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Gato sentado",
+    "Un gato naranja adorable sentado con la cola enroscada.",
+    [
+     "gato",
+     "gatito",
+     "mascota",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Gato sentado",
+    "Um gato laranja fofo sentado com o rabo enrolado.",
+    [
+     "gato",
+     "gatinho",
+     "pet",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Chat assis",
+    "Un adorable chat roux assis, la queue enroulée.",
+    [
+     "chat",
+     "chaton",
+     "animal de compagnie",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Sitzende Katze",
+    "Eine niedliche rote Katze, die mit eingerolltem Schwanz sitzt.",
+    [
+     "Katze",
+     "Kätzchen",
+     "Haustier",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "坐着的猫咪",
+    "一只尾巴卷起来、乖乖坐着的可爱橘猫。",
+    [
+     "猫",
+     "小猫",
+     "宠物",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "앉아 있는 고양이",
+    "꼬리를 동그랗게 말고 앉아 있는 귀여운 고양이.",
+    [
+     "고양이",
+     "냥이",
+     "반려동물",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rabbit",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "White rabbit",
+    "A fluffy white rabbit with long ears.",
+    [
+     "rabbit",
+     "bunny",
+     "animal",
+     "cute"
+    ]
+   ],
+   "ja": [
+    "しろいうさぎ",
+    "長い耳のふわふわした白いうさぎ。",
+    [
+     "うさぎ",
+     "ウサギ",
+     "動物",
+     "かわいい"
+    ]
+   ],
+   "es": [
+    "Conejo blanco",
+    "Un conejo blanco y esponjoso de orejas largas.",
+    [
+     "conejo",
+     "conejito",
+     "animal",
+     "tierno"
+    ]
+   ],
+   "pt": [
+    "Coelho branco",
+    "Um coelhinho branco e fofinho de orelhas compridas.",
+    [
+     "coelho",
+     "coelhinho",
+     "animal",
+     "fofo"
+    ]
+   ],
+   "fr": [
+    "Lapin blanc",
+    "Un lapin blanc tout doux aux longues oreilles.",
+    [
+     "lapin",
+     "lapinou",
+     "animal",
+     "mignon"
+    ]
+   ],
+   "de": [
+    "Weißes Kaninchen",
+    "Ein flauschiges weißes Kaninchen mit langen Ohren.",
+    [
+     "Kaninchen",
+     "Hase",
+     "Tier",
+     "niedlich"
+    ]
+   ],
+   "zh": [
+    "小白兔",
+    "一只长耳朵、毛茸茸的小白兔。",
+    [
+     "兔子",
+     "小白兔",
+     "动物",
+     "可爱"
+    ]
+   ],
+   "ko": [
+    "하얀 토끼",
+    "귀가 긴 복슬복슬한 하얀 토끼.",
+    [
+     "토끼",
+     "하얀 토끼",
+     "동물",
+     "귀여운"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bear",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Brown bear sitting",
+    "A friendly brown bear sitting down.",
+    [
+     "bear",
+     "teddy bear",
+     "animal",
+     "forest"
+    ]
+   ],
+   "ja": [
+    "おすわりするくま",
+    "ちょこんと座っている茶色いくま。",
+    [
+     "くま",
+     "クマ",
+     "動物",
+     "森"
+    ]
+   ],
+   "es": [
+    "Oso pardo sentado",
+    "Un simpático oso pardo sentado.",
+    [
+     "oso",
+     "osito",
+     "animal",
+     "bosque"
+    ]
+   ],
+   "pt": [
+    "Urso marrom sentado",
+    "Um urso marrom simpático sentadinho.",
+    [
+     "urso",
+     "ursinho",
+     "animal",
+     "floresta"
+    ]
+   ],
+   "fr": [
+    "Ours brun assis",
+    "Un gentil ours brun assis.",
+    [
+     "ours",
+     "nounours",
+     "animal",
+     "forêt"
+    ]
+   ],
+   "de": [
+    "Sitzender Braunbär",
+    "Ein freundlicher Braunbär, der gemütlich sitzt.",
+    [
+     "Bär",
+     "Teddybär",
+     "Tier",
+     "Wald"
+    ]
+   ],
+   "zh": [
+    "坐着的棕熊",
+    "一只乖乖坐着的友善小棕熊。",
+    [
+     "熊",
+     "小熊",
+     "动物",
+     "森林"
+    ]
+   ],
+   "ko": [
+    "앉아 있는 갈색 곰",
+    "얌전히 앉아 있는 다정한 갈색 곰.",
+    [
+     "곰",
+     "곰돌이",
+     "동물",
+     "숲"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "panda",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Panda holding bamboo",
+    "A panda sitting and holding a bamboo stalk.",
+    [
+     "panda",
+     "bamboo",
+     "animal",
+     "cute"
+    ]
+   ],
+   "ja": [
+    "笹を持つパンダ",
+    "竹を手に持っておすわりするパンダ。",
+    [
+     "パンダ",
+     "笹",
+     "竹",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Panda con bambú",
+    "Un panda sentado sujetando una caña de bambú.",
+    [
+     "panda",
+     "bambú",
+     "animal",
+     "tierno"
+    ]
+   ],
+   "pt": [
+    "Panda com bambu",
+    "Um panda sentado segurando um galho de bambu.",
+    [
+     "panda",
+     "bambu",
+     "animal",
+     "fofo"
+    ]
+   ],
+   "fr": [
+    "Panda avec du bambou",
+    "Un panda assis qui tient une tige de bambou.",
+    [
+     "panda",
+     "bambou",
+     "animal",
+     "mignon"
+    ]
+   ],
+   "de": [
+    "Panda mit Bambus",
+    "Ein sitzender Panda, der einen Bambusstängel hält.",
+    [
+     "Panda",
+     "Bambus",
+     "Tier",
+     "niedlich"
+    ]
+   ],
+   "zh": [
+    "抱着竹子的熊猫",
+    "一只坐着抱着竹子的大熊猫。",
+    [
+     "熊猫",
+     "竹子",
+     "动物",
+     "可爱"
+    ]
+   ],
+   "ko": [
+    "대나무를 든 판다",
+    "대나무 줄기를 들고 앉아 있는 판다.",
+    [
+     "판다",
+     "대나무",
+     "동물",
+     "귀여운"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "penguin",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Penguin standing",
+    "A cute penguin standing upright.",
+    [
+     "penguin",
+     "bird",
+     "animal",
+     "winter"
+    ]
+   ],
+   "ja": [
+    "立っているペンギン",
+    "ちょこんと立っているかわいいペンギン。",
+    [
+     "ペンギン",
+     "鳥",
+     "動物",
+     "冬"
+    ]
+   ],
+   "es": [
+    "Pingüino de pie",
+    "Un pingüino adorable de pie.",
+    [
+     "pingüino",
+     "ave",
+     "animal",
+     "invierno"
+    ]
+   ],
+   "pt": [
+    "Pinguim em pé",
+    "Um pinguim fofo em pé.",
+    [
+     "pinguim",
+     "ave",
+     "animal",
+     "inverno"
+    ]
+   ],
+   "fr": [
+    "Pingouin debout",
+    "Un adorable manchot qui se tient debout.",
+    [
+     "pingouin",
+     "manchot",
+     "oiseau",
+     "hiver"
+    ]
+   ],
+   "de": [
+    "Stehender Pinguin",
+    "Ein niedlicher Pinguin, der aufrecht steht.",
+    [
+     "Pinguin",
+     "Vogel",
+     "Tier",
+     "Winter"
+    ]
+   ],
+   "zh": [
+    "站着的企鹅",
+    "一只站得笔直的可爱企鹅。",
+    [
+     "企鹅",
+     "鸟",
+     "动物",
+     "冬天"
+    ]
+   ],
+   "ko": [
+    "서 있는 펭귄",
+    "똑바로 서 있는 귀여운 펭귄.",
+    [
+     "펭귄",
+     "새",
+     "동물",
+     "겨울"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "owl",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Owl on a branch",
+    "A round owl perched on a tree branch.",
+    [
+     "owl",
+     "bird",
+     "forest",
+     "night"
+    ]
+   ],
+   "ja": [
+    "枝にとまるフクロウ",
+    "木の枝にとまっている丸いフクロウ。",
+    [
+     "フクロウ",
+     "ふくろう",
+     "鳥",
+     "森"
+    ]
+   ],
+   "es": [
+    "Búho en una rama",
+    "Un búho redondito posado en una rama.",
+    [
+     "búho",
+     "lechuza",
+     "ave",
+     "bosque"
+    ]
+   ],
+   "pt": [
+    "Coruja no galho",
+    "Uma coruja redondinha pousada num galho.",
+    [
+     "coruja",
+     "ave",
+     "floresta",
+     "noite"
+    ]
+   ],
+   "fr": [
+    "Hibou sur une branche",
+    "Un hibou tout rond perché sur une branche.",
+    [
+     "hibou",
+     "chouette",
+     "oiseau",
+     "forêt"
+    ]
+   ],
+   "de": [
+    "Eule auf einem Ast",
+    "Eine runde Eule, die auf einem Ast sitzt.",
+    [
+     "Eule",
+     "Vogel",
+     "Wald",
+     "Nacht"
+    ]
+   ],
+   "zh": [
+    "树枝上的猫头鹰",
+    "一只停在树枝上的圆滚滚猫头鹰。",
+    [
+     "猫头鹰",
+     "鸟",
+     "森林",
+     "夜晚"
+    ]
+   ],
+   "ko": [
+    "나뭇가지 위 부엉이",
+    "나뭇가지에 앉아 있는 동글동글한 부엉이.",
+    [
+     "부엉이",
+     "올빼미",
+     "새",
+     "숲"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "goldfish",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Goldfish swimming",
+    "An orange goldfish swimming with little bubbles.",
+    [
+     "goldfish",
+     "fish",
+     "pet",
+     "summer"
+    ]
+   ],
+   "ja": [
+    "泳ぐ金魚",
+    "泡をぷくぷく出しながら泳ぐオレンジ色の金魚。",
+    [
+     "金魚",
+     "魚",
+     "夏",
+     "ペット"
+    ]
+   ],
+   "es": [
+    "Pez dorado nadando",
+    "Un pez dorado naranja que nada entre burbujitas.",
+    [
+     "pez dorado",
+     "pez",
+     "mascota",
+     "verano"
+    ]
+   ],
+   "pt": [
+    "Peixinho dourado nadando",
+    "Um peixinho dourado laranja nadando com bolhinhas.",
+    [
+     "peixinho dourado",
+     "peixe",
+     "pet",
+     "verão"
+    ]
+   ],
+   "fr": [
+    "Poisson rouge qui nage",
+    "Un poisson rouge orange qui nage avec quelques bulles.",
+    [
+     "poisson rouge",
+     "poisson",
+     "animal de compagnie",
+     "été"
+    ]
+   ],
+   "de": [
+    "Schwimmender Goldfisch",
+    "Ein orangefarbener Goldfisch, der mit kleinen Blasen schwimmt.",
+    [
+     "Goldfisch",
+     "Fisch",
+     "Haustier",
+     "Sommer"
+    ]
+   ],
+   "zh": [
+    "游泳的金鱼",
+    "一条吐着小泡泡游来游去的橙色金鱼。",
+    [
+     "金鱼",
+     "鱼",
+     "宠物",
+     "夏天"
+    ]
+   ],
+   "ko": [
+    "헤엄치는 금붕어",
+    "보글보글 거품을 내며 헤엄치는 주황색 금붕어.",
+    [
+     "금붕어",
+     "물고기",
+     "반려동물",
+     "여름"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "frog",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Green frog",
+    "A happy green frog sitting down.",
+    [
+     "frog",
+     "animal",
+     "rainy season",
+     "green"
+    ]
+   ],
+   "ja": [
+    "すわっているカエル",
+    "にっこり座っている緑のカエル。",
+    [
+     "カエル",
+     "かえる",
+     "動物",
+     "梅雨"
+    ]
+   ],
+   "es": [
+    "Rana verde",
+    "Una rana verde y sonriente sentada.",
+    [
+     "rana",
+     "animal",
+     "lluvia",
+     "verde"
+    ]
+   ],
+   "pt": [
+    "Sapinho verde",
+    "Um sapinho verde e sorridente sentado.",
+    [
+     "sapo",
+     "rã",
+     "animal",
+     "verde"
+    ]
+   ],
+   "fr": [
+    "Grenouille verte",
+    "Une grenouille verte toute souriante, assise.",
+    [
+     "grenouille",
+     "animal",
+     "pluie",
+     "vert"
+    ]
+   ],
+   "de": [
+    "Grüner Frosch",
+    "Ein fröhlicher grüner Frosch, der sitzt.",
+    [
+     "Frosch",
+     "Tier",
+     "Regen",
+     "grün"
+    ]
+   ],
+   "zh": [
+    "绿色小青蛙",
+    "一只笑眯眯坐着的绿色青蛙。",
+    [
+     "青蛙",
+     "动物",
+     "雨季",
+     "绿色"
+    ]
+   ],
+   "ko": [
+    "앉아 있는 개구리",
+    "방긋 웃으며 앉아 있는 초록 개구리.",
+    [
+     "개구리",
+     "동물",
+     "장마",
+     "초록"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hamster",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hamster with a seed",
+    "A round hamster holding a sunflower seed.",
+    [
+     "hamster",
+     "pet",
+     "sunflower seed",
+     "cute"
+    ]
+   ],
+   "ja": [
+    "ひまわりの種を持つハムスター",
+    "ひまわりの種を両手で持つまんまるハムスター。",
+    [
+     "ハムスター",
+     "ペット",
+     "ひまわりの種",
+     "かわいい"
+    ]
+   ],
+   "es": [
+    "Hámster con una semilla",
+    "Un hámster redondito sujetando una pipa de girasol.",
+    [
+     "hámster",
+     "mascota",
+     "pipa de girasol",
+     "tierno"
+    ]
+   ],
+   "pt": [
+    "Hamster com sementinha",
+    "Um hamster gordinho segurando uma semente de girassol.",
+    [
+     "hamster",
+     "pet",
+     "semente de girassol",
+     "fofo"
+    ]
+   ],
+   "fr": [
+    "Hamster et sa graine",
+    "Un hamster tout rond qui tient une graine de tournesol.",
+    [
+     "hamster",
+     "animal de compagnie",
+     "graine de tournesol",
+     "mignon"
+    ]
+   ],
+   "de": [
+    "Hamster mit Kern",
+    "Ein runder Hamster, der einen Sonnenblumenkern hält.",
+    [
+     "Hamster",
+     "Haustier",
+     "Sonnenblumenkern",
+     "niedlich"
+    ]
+   ],
+   "zh": [
+    "抱着瓜子的仓鼠",
+    "一只双手捧着葵花籽的圆滚滚仓鼠。",
+    [
+     "仓鼠",
+     "宠物",
+     "葵花籽",
+     "可爱"
+    ]
+   ],
+   "ko": [
+    "해바라기씨를 든 햄스터",
+    "해바라기씨를 두 손으로 든 동글동글한 햄스터.",
+    [
+     "햄스터",
+     "반려동물",
+     "해바라기씨",
+     "귀여운"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "chick",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Baby chick",
+    "A fluffy little yellow chick.",
+    [
+     "chick",
+     "bird",
+     "spring",
+     "Easter"
+    ]
+   ],
+   "ja": [
+    "ひよこ",
+    "ふわふわの黄色いひよこ。",
+    [
+     "ひよこ",
+     "ヒヨコ",
+     "鳥",
+     "春"
+    ]
+   ],
+   "es": [
+    "Pollito",
+    "Un pollito amarillo y esponjoso.",
+    [
+     "pollito",
+     "ave",
+     "primavera",
+     "Pascua"
+    ]
+   ],
+   "pt": [
+    "Pintinho",
+    "Um pintinho amarelo bem fofinho.",
+    [
+     "pintinho",
+     "ave",
+     "primavera",
+     "Páscoa"
+    ]
+   ],
+   "fr": [
+    "Poussin",
+    "Un petit poussin jaune tout duveteux.",
+    [
+     "poussin",
+     "oiseau",
+     "printemps",
+     "Pâques"
+    ]
+   ],
+   "de": [
+    "Küken",
+    "Ein flauschiges kleines gelbes Küken.",
+    [
+     "Küken",
+     "Vogel",
+     "Frühling",
+     "Ostern"
+    ]
+   ],
+   "zh": [
+    "小鸡",
+    "一只毛茸茸的黄色小鸡。",
+    [
+     "小鸡",
+     "鸟",
+     "春天",
+     "复活节"
+    ]
+   ],
+   "ko": [
+    "병아리",
+    "보송보송한 노란 병아리.",
+    [
+     "병아리",
+     "새",
+     "봄",
+     "부활절"
+    ]
+   ]
+  }
+ }
+]

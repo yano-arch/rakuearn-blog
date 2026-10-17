@@ -1,0 +1,872 @@
+[
+ {
+  "slug": "doctor",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Doctor with a stethoscope",
+    "A friendly doctor in a white coat with a stethoscope around the neck.",
+    [
+     "doctor",
+     "medical",
+     "hospital",
+     "health"
+    ]
+   ],
+   "ja": [
+    "聴診器をかけたお医者さん",
+    "白衣を着て首に聴診器をかけた、やさしいお医者さん。",
+    [
+     "医者",
+     "医療",
+     "病院",
+     "健康"
+    ]
+   ],
+   "es": [
+    "Médico con estetoscopio",
+    "Un médico amable con bata blanca y un estetoscopio al cuello.",
+    [
+     "médico",
+     "medicina",
+     "hospital",
+     "salud"
+    ]
+   ],
+   "pt": [
+    "Médico com estetoscópio",
+    "Um médico simpático de jaleco branco com estetoscópio no pescoço.",
+    [
+     "médico",
+     "medicina",
+     "hospital",
+     "saúde"
+    ]
+   ],
+   "fr": [
+    "Médecin avec stéthoscope",
+    "Un médecin souriant en blouse blanche, un stéthoscope autour du cou.",
+    [
+     "médecin",
+     "médical",
+     "hôpital",
+     "santé"
+    ]
+   ],
+   "de": [
+    "Arzt mit Stethoskop",
+    "Ein freundlicher Arzt im weißen Kittel mit Stethoskop um den Hals.",
+    [
+     "Arzt",
+     "Medizin",
+     "Krankenhaus",
+     "Gesundheit"
+    ]
+   ],
+   "zh": [
+    "戴听诊器的医生",
+    "身穿白大褂、脖子上挂着听诊器的亲切医生。",
+    [
+     "医生",
+     "医疗",
+     "医院",
+     "健康"
+    ]
+   ],
+   "ko": [
+    "청진기를 건 의사",
+    "흰 가운을 입고 목에 청진기를 건 친절한 의사.",
+    [
+     "의사",
+     "의료",
+     "병원",
+     "건강"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "nurse",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Nurse with a clipboard",
+    "A smiling nurse in light-blue scrubs holding a clipboard.",
+    [
+     "nurse",
+     "medical",
+     "hospital",
+     "care"
+    ]
+   ],
+   "ja": [
+    "カルテを持つ看護師さん",
+    "水色のスクラブを着て、クリップボードを持った笑顔の看護師さん。",
+    [
+     "看護師",
+     "ナース",
+     "病院",
+     "医療"
+    ]
+   ],
+   "es": [
+    "Enfermera con portapapeles",
+    "Una enfermera sonriente con uniforme celeste que sostiene un portapapeles.",
+    [
+     "enfermera",
+     "medicina",
+     "hospital",
+     "cuidado"
+    ]
+   ],
+   "pt": [
+    "Enfermeira com prancheta",
+    "Uma enfermeira sorridente de pijama cirúrgico azul-claro segurando uma prancheta.",
+    [
+     "enfermeira",
+     "saúde",
+     "hospital",
+     "cuidado"
+    ]
+   ],
+   "fr": [
+    "Infirmière avec un porte-bloc",
+    "Une infirmière souriante en tenue bleu clair qui tient un porte-bloc.",
+    [
+     "infirmière",
+     "médical",
+     "hôpital",
+     "soins"
+    ]
+   ],
+   "de": [
+    "Krankenpflegerin mit Klemmbrett",
+    "Eine lächelnde Pflegekraft in hellblauer Kleidung mit einem Klemmbrett.",
+    [
+     "Pflegekraft",
+     "Krankenschwester",
+     "Krankenhaus",
+     "Pflege"
+    ]
+   ],
+   "zh": [
+    "拿着记录板的护士",
+    "穿着浅蓝色护士服、手拿记录板的微笑护士。",
+    [
+     "护士",
+     "医疗",
+     "医院",
+     "护理"
+    ]
+   ],
+   "ko": [
+    "클립보드를 든 간호사",
+    "하늘색 수술복을 입고 클립보드를 든 웃는 간호사.",
+    [
+     "간호사",
+     "의료",
+     "병원",
+     "돌봄"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "chef",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Chef with a frying pan",
+    "A cheerful chef in a tall white hat cooking an egg in a frying pan.",
+    [
+     "chef",
+     "cooking",
+     "restaurant",
+     "kitchen"
+    ]
+   ],
+   "ja": [
+    "フライパンを持つシェフ",
+    "背の高いコック帽をかぶり、フライパンで目玉焼きを作る元気なシェフ。",
+    [
+     "シェフ",
+     "料理人",
+     "料理",
+     "レストラン"
+    ]
+   ],
+   "es": [
+    "Chef con sartén",
+    "Un chef alegre con gorro blanco alto cocinando un huevo en la sartén.",
+    [
+     "chef",
+     "cocinero",
+     "cocina",
+     "restaurante"
+    ]
+   ],
+   "pt": [
+    "Chef com frigideira",
+    "Um chef alegre de chapéu branco alto fritando um ovo na frigideira.",
+    [
+     "chef",
+     "cozinheiro",
+     "cozinha",
+     "restaurante"
+    ]
+   ],
+   "fr": [
+    "Chef cuisinier avec une poêle",
+    "Un chef joyeux avec une grande toque blanche qui cuit un œuf à la poêle.",
+    [
+     "chef",
+     "cuisinier",
+     "cuisine",
+     "restaurant"
+    ]
+   ],
+   "de": [
+    "Koch mit Pfanne",
+    "Ein fröhlicher Koch mit hoher weißer Kochmütze brät ein Ei in der Pfanne.",
+    [
+     "Koch",
+     "Kochen",
+     "Restaurant",
+     "Küche"
+    ]
+   ],
+   "zh": [
+    "拿平底锅的厨师",
+    "戴着高高白色厨师帽、用平底锅煎蛋的开心厨师。",
+    [
+     "厨师",
+     "做饭",
+     "餐厅",
+     "厨房"
+    ]
+   ],
+   "ko": [
+    "프라이팬을 든 요리사",
+    "높은 흰색 요리사 모자를 쓰고 프라이팬으로 달걀을 굽는 요리사.",
+    [
+     "요리사",
+     "셰프",
+     "요리",
+     "레스토랑"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "teacher",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Teacher at the board",
+    "A teacher with a pointer stick standing next to a small green chalkboard.",
+    [
+     "teacher",
+     "school",
+     "class",
+     "education"
+    ]
+   ],
+   "ja": [
+    "黒板の前の先生",
+    "指し棒を持って小さな黒板の横に立つ先生。",
+    [
+     "先生",
+     "教師",
+     "学校",
+     "授業"
+    ]
+   ],
+   "es": [
+    "Profesora en la pizarra",
+    "Una profesora con un puntero junto a una pequeña pizarra verde.",
+    [
+     "profesora",
+     "escuela",
+     "clase",
+     "educación"
+    ]
+   ],
+   "pt": [
+    "Professora no quadro",
+    "Uma professora com uma vareta ao lado de um pequeno quadro verde.",
+    [
+     "professora",
+     "escola",
+     "aula",
+     "educação"
+    ]
+   ],
+   "fr": [
+    "Enseignante au tableau",
+    "Une enseignante avec une baguette à côté d'un petit tableau vert.",
+    [
+     "enseignante",
+     "école",
+     "cours",
+     "éducation"
+    ]
+   ],
+   "de": [
+    "Lehrerin an der Tafel",
+    "Eine Lehrerin mit Zeigestock neben einer kleinen grünen Tafel.",
+    [
+     "Lehrerin",
+     "Schule",
+     "Unterricht",
+     "Bildung"
+    ]
+   ],
+   "zh": [
+    "黑板前的老师",
+    "手拿教鞭、站在小黑板旁边的老师。",
+    [
+     "老师",
+     "学校",
+     "上课",
+     "教育"
+    ]
+   ],
+   "ko": [
+    "칠판 앞의 선생님",
+    "지시봉을 들고 작은 초록 칠판 옆에 서 있는 선생님.",
+    [
+     "선생님",
+     "교사",
+     "학교",
+     "수업"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "firefighter",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Firefighter with a hose",
+    "A brave firefighter in a red helmet spraying water from a hose.",
+    [
+     "firefighter",
+     "fire",
+     "rescue",
+     "emergency"
+    ]
+   ],
+   "ja": [
+    "ホースを持つ消防士",
+    "赤いヘルメットをかぶり、ホースで放水する消防士さん。",
+    [
+     "消防士",
+     "消防",
+     "火事",
+     "救助"
+    ]
+   ],
+   "es": [
+    "Bombera con manguera",
+    "Una bombera valiente con casco rojo lanzando agua con una manguera.",
+    [
+     "bombero",
+     "incendio",
+     "rescate",
+     "emergencia"
+    ]
+   ],
+   "pt": [
+    "Bombeira com mangueira",
+    "Uma bombeira corajosa de capacete vermelho jogando água com a mangueira.",
+    [
+     "bombeiro",
+     "incêndio",
+     "resgate",
+     "emergência"
+    ]
+   ],
+   "fr": [
+    "Pompière avec une lance",
+    "Une pompière courageuse au casque rouge qui arrose avec un tuyau.",
+    [
+     "pompier",
+     "incendie",
+     "secours",
+     "urgence"
+    ]
+   ],
+   "de": [
+    "Feuerwehrfrau mit Schlauch",
+    "Eine mutige Feuerwehrfrau mit rotem Helm spritzt Wasser aus dem Schlauch.",
+    [
+     "Feuerwehr",
+     "Feuer",
+     "Rettung",
+     "Notfall"
+    ]
+   ],
+   "zh": [
+    "拿水管的消防员",
+    "戴着红色头盔、用水管喷水的勇敢消防员。",
+    [
+     "消防员",
+     "消防",
+     "火灾",
+     "救援"
+    ]
+   ],
+   "ko": [
+    "호스를 든 소방관",
+    "빨간 헬멧을 쓰고 호스로 물을 뿌리는 용감한 소방관.",
+    [
+     "소방관",
+     "소방",
+     "화재",
+     "구조"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "farmer",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Farmer with a vegetable basket",
+    "A farmer in a straw hat holding a basket of fresh vegetables.",
+    [
+     "farmer",
+     "farm",
+     "vegetables",
+     "harvest"
+    ]
+   ],
+   "ja": [
+    "野菜かごを持つ農家さん",
+    "麦わら帽子をかぶり、とれたて野菜のかごを持つ農家さん。",
+    [
+     "農家",
+     "農業",
+     "野菜",
+     "収穫"
+    ]
+   ],
+   "es": [
+    "Agricultor con cesta de verduras",
+    "Un agricultor con sombrero de paja que lleva una cesta de verduras frescas.",
+    [
+     "agricultor",
+     "granja",
+     "verduras",
+     "cosecha"
+    ]
+   ],
+   "pt": [
+    "Agricultor com cesta de legumes",
+    "Um agricultor de chapéu de palha segurando uma cesta de legumes frescos.",
+    [
+     "agricultor",
+     "fazenda",
+     "legumes",
+     "colheita"
+    ]
+   ],
+   "fr": [
+    "Agriculteur avec un panier de légumes",
+    "Un agriculteur en chapeau de paille qui tient un panier de légumes frais.",
+    [
+     "agriculteur",
+     "ferme",
+     "légumes",
+     "récolte"
+    ]
+   ],
+   "de": [
+    "Bauer mit Gemüsekorb",
+    "Ein Bauer mit Strohhut hält einen Korb voll frischem Gemüse.",
+    [
+     "Bauer",
+     "Landwirtschaft",
+     "Gemüse",
+     "Ernte"
+    ]
+   ],
+   "zh": [
+    "提着蔬菜篮的农民",
+    "戴着草帽、提着一篮新鲜蔬菜的农民。",
+    [
+     "农民",
+     "农业",
+     "蔬菜",
+     "丰收"
+    ]
+   ],
+   "ko": [
+    "채소 바구니를 든 농부",
+    "밀짚모자를 쓰고 신선한 채소 바구니를 든 농부.",
+    [
+     "농부",
+     "농업",
+     "채소",
+     "수확"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "construction-worker",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Construction worker with a wrench",
+    "A construction worker in a yellow hard hat and safety vest holding a wrench.",
+    [
+     "construction",
+     "worker",
+     "builder",
+     "repair"
+    ]
+   ],
+   "ja": [
+    "スパナを持つ作業員",
+    "黄色いヘルメットと安全ベストを着て、スパナを持つ工事現場の作業員。",
+    [
+     "作業員",
+     "工事",
+     "建設",
+     "修理"
+    ]
+   ],
+   "es": [
+    "Obrero con llave inglesa",
+    "Un obrero de la construcción con casco amarillo y chaleco de seguridad que sostiene una llave.",
+    [
+     "obrero",
+     "construcción",
+     "trabajador",
+     "reparación"
+    ]
+   ],
+   "pt": [
+    "Pedreiro com chave inglesa",
+    "Um trabalhador da construção de capacete amarelo e colete de segurança segurando uma chave.",
+    [
+     "construção",
+     "pedreiro",
+     "obra",
+     "conserto"
+    ]
+   ],
+   "fr": [
+    "Ouvrier avec une clé",
+    "Un ouvrier du chantier en casque jaune et gilet de sécurité qui tient une clé.",
+    [
+     "ouvrier",
+     "chantier",
+     "construction",
+     "réparation"
+    ]
+   ],
+   "de": [
+    "Bauarbeiter mit Schraubenschlüssel",
+    "Ein Bauarbeiter mit gelbem Schutzhelm und Warnweste hält einen Schraubenschlüssel.",
+    [
+     "Bauarbeiter",
+     "Baustelle",
+     "Handwerker",
+     "Reparatur"
+    ]
+   ],
+   "zh": [
+    "拿扳手的建筑工人",
+    "戴着黄色安全帽、穿着安全背心、手拿扳手的建筑工人。",
+    [
+     "建筑工人",
+     "施工",
+     "工地",
+     "维修"
+    ]
+   ],
+   "ko": [
+    "스패너를 든 건설 노동자",
+    "노란 안전모와 안전 조끼를 입고 스패너를 든 건설 노동자.",
+    [
+     "건설",
+     "작업자",
+     "공사",
+     "수리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "office-worker-laptop",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Office worker on a laptop",
+    "A person in a shirt and tie typing on a laptop at a desk.",
+    [
+     "office",
+     "business",
+     "laptop",
+     "remote work"
+    ]
+   ],
+   "ja": [
+    "パソコンで仕事する会社員",
+    "シャツとネクタイ姿で、机の上のノートパソコンを打つ会社員。",
+    [
+     "会社員",
+     "ビジネス",
+     "パソコン",
+     "仕事"
+    ]
+   ],
+   "es": [
+    "Oficinista con portátil",
+    "Una persona con camisa y corbata escribiendo en su portátil en el escritorio.",
+    [
+     "oficina",
+     "negocios",
+     "portátil",
+     "trabajo"
+    ]
+   ],
+   "pt": [
+    "Funcionário no notebook",
+    "Uma pessoa de camisa e gravata digitando no notebook na mesa.",
+    [
+     "escritório",
+     "negócios",
+     "notebook",
+     "trabalho"
+    ]
+   ],
+   "fr": [
+    "Employé sur un ordinateur portable",
+    "Une personne en chemise et cravate qui tape sur un ordinateur portable.",
+    [
+     "bureau",
+     "entreprise",
+     "ordinateur portable",
+     "travail"
+    ]
+   ],
+   "de": [
+    "Büroangestellter am Laptop",
+    "Eine Person in Hemd und Krawatte tippt am Schreibtisch auf dem Laptop.",
+    [
+     "Büro",
+     "Business",
+     "Laptop",
+     "Arbeit"
+    ]
+   ],
+   "zh": [
+    "用笔记本电脑工作的上班族",
+    "穿着衬衫打着领带、在桌前用笔记本电脑打字的上班族。",
+    [
+     "上班族",
+     "办公",
+     "笔记本电脑",
+     "工作"
+    ]
+   ],
+   "ko": [
+    "노트북으로 일하는 회사원",
+    "셔츠에 넥타이를 매고 책상에서 노트북을 치는 회사원.",
+    [
+     "회사원",
+     "사무실",
+     "노트북",
+     "업무"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "delivery-person",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Delivery person with a box",
+    "A delivery person in a cap carrying a cardboard box.",
+    [
+     "delivery",
+     "package",
+     "shipping",
+     "courier"
+    ]
+   ],
+   "ja": [
+    "荷物を運ぶ配達員",
+    "帽子をかぶって段ボール箱を運ぶ配達員さん。",
+    [
+     "配達",
+     "宅配",
+     "荷物",
+     "段ボール"
+    ]
+   ],
+   "es": [
+    "Repartidor con una caja",
+    "Un repartidor con gorra que lleva una caja de cartón.",
+    [
+     "reparto",
+     "paquete",
+     "envío",
+     "mensajero"
+    ]
+   ],
+   "pt": [
+    "Entregador com caixa",
+    "Um entregador de boné carregando uma caixa de papelão.",
+    [
+     "entrega",
+     "encomenda",
+     "pacote",
+     "entregador"
+    ]
+   ],
+   "fr": [
+    "Livreur avec un carton",
+    "Un livreur en casquette qui porte un carton.",
+    [
+     "livraison",
+     "colis",
+     "livreur",
+     "expédition"
+    ]
+   ],
+   "de": [
+    "Paketbote mit Karton",
+    "Ein Paketbote mit Kappe trägt einen Pappkarton.",
+    [
+     "Lieferung",
+     "Paket",
+     "Versand",
+     "Paketbote"
+    ]
+   ],
+   "zh": [
+    "搬纸箱的快递员",
+    "戴着帽子、抱着纸箱的快递员。",
+    [
+     "快递",
+     "包裹",
+     "配送",
+     "快递员"
+    ]
+   ],
+   "ko": [
+    "상자를 든 택배 기사",
+    "모자를 쓰고 종이 상자를 나르는 택배 기사.",
+    [
+     "택배",
+     "배달",
+     "소포",
+     "배송"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "scientist",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Scientist with a flask",
+    "A scientist in goggles holding a flask of bubbling colorful liquid.",
+    [
+     "scientist",
+     "science",
+     "lab",
+     "experiment"
+    ]
+   ],
+   "ja": [
+    "フラスコを持つ科学者",
+    "ゴーグルをつけて、カラフルな液体のフラスコを持つ科学者。",
+    [
+     "科学者",
+     "実験",
+     "研究",
+     "理科"
+    ]
+   ],
+   "es": [
+    "Científica con matraz",
+    "Una científica con gafas protectoras que sostiene un matraz con líquido de color.",
+    [
+     "científica",
+     "ciencia",
+     "laboratorio",
+     "experimento"
+    ]
+   ],
+   "pt": [
+    "Cientista com frasco",
+    "Uma cientista de óculos de proteção segurando um frasco com líquido colorido.",
+    [
+     "cientista",
+     "ciência",
+     "laboratório",
+     "experimento"
+    ]
+   ],
+   "fr": [
+    "Scientifique avec une fiole",
+    "Une scientifique en lunettes de protection qui tient une fiole de liquide coloré.",
+    [
+     "scientifique",
+     "science",
+     "laboratoire",
+     "expérience"
+    ]
+   ],
+   "de": [
+    "Wissenschaftlerin mit Kolben",
+    "Eine Wissenschaftlerin mit Schutzbrille hält einen Kolben mit bunter Flüssigkeit.",
+    [
+     "Wissenschaft",
+     "Labor",
+     "Experiment",
+     "Forschung"
+    ]
+   ],
+   "zh": [
+    "拿烧瓶的科学家",
+    "戴着护目镜、手拿装有彩色液体烧瓶的科学家。",
+    [
+     "科学家",
+     "科学",
+     "实验室",
+     "实验"
+    ]
+   ],
+   "ko": [
+    "플라스크를 든 과학자",
+    "고글을 쓰고 알록달록한 액체가 담긴 플라스크를 든 과학자.",
+    [
+     "과학자",
+     "과학",
+     "실험실",
+     "실험"
+    ]
+   ]
+  }
+ }
+]

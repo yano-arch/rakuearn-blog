@@ -16,7 +16,7 @@ FuwaFuwa は無料・商用利用OKのイラスト素材サイト（8言語）�
    - 8言語すべて必須（en, ja, es, pt(ブラジル), fr, de, zh(簡体字), ko）。各言語のネイティブが素材を探すときに使う自然な言葉で。
    - title は短い名詞句（例「おすわりする子犬」）、description は1文、tags は3〜4個（検索されやすい語）。
    - zh は簡体字。pt はブラジル式（celular など）。JSON は ensure_ascii=False で整形して保存してよい。
-   - cat は指定どおり（people, work, animals, food, nature, home, tech, school, travel, events, sports のいずれか）。
+   - cat は指定どおり（people, work, animals, food, nature, home, tech, school, travel, events, sports, health, hobby のいずれか）。
 
 ## 画風ルール（最重要）
 `art.py` を最初に読み、既存10点（I['01_hello']〜I['10_cake']）の描き方を真似ること。
@@ -27,7 +27,7 @@ FuwaFuwa は無料・商用利用OKのイラスト素材サイト（8言語）�
 - 顔のある人物は `face(cx, cy, skin, hair, mouth)` を使う（mouth='smile' / 'open' / 'o'）。目は点、ほっぺはピンク。
 - 動物・擬人化した物も、点の目＋ピンクのほっぺ＋小さな口を基本にする（すべての物に顔を付ける必要はない。既存の飛行機・家・ギフトには顔がない）。
 - 配色は既存の柔らかいパレットから選ぶ：#f5b971 #7cc4b0 #e8735a #8fc7e8 #9ccf7a #f5d58a #f6e0c4 #f6a6b8 #f07a8a #8fb3e0 #d9a66b #9a6a3f #b9a99c #5b6b7a #ffe27a #ffffff #f4f4f0 #c9d3db #8b6b4f #7cc4a0 #ffc94d #e04b5a
-  肌色は標準の肌色 #ffd9b8 で統一する（茶色系の肌色は使わない）。髪色 #5a4033 #2b2220 #c9a36b #e8e1d8（白髪）など。
+  肌色は標準の肌色 #ffd9b8 で統一する（茶色系の肌色は使わない）。サイトの「肌の色切り替え」はこの色を置き換えて動くので、人の肌（顔・手・足）には必ず #ffd9b8 を使い、肌以外のもの（食べもの・家具など）には #ffd9b8 を絶対に使わないこと。髪色 #5a4033 #2b2220 #c9a36b #e8e1d8（白髪）など。
 - 文字・数字・ロゴ・国旗・実在ブランド・既存キャラクター・宗教的シンボルは描かない（言語に依存しない素材にするため）。
 - グラデーション、影、フィルター、テキスト要素は使わない。フラットな塗り＋線だけ。
 - パスの塗り：線だけのパスには fill を付けない（s('path', d=...) は fill='none' がデフォルト）。

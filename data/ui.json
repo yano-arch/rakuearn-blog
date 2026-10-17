@@ -37,7 +37,9 @@
       "work": "Work & jobs",
       "food": "Food",
       "school": "School",
-      "sports": "Sports"
+      "sports": "Sports",
+      "health": "Health",
+      "hobby": "Hobbies & music"
     },
     "license_title": "License & terms of use",
     "license_body": [
@@ -81,7 +83,11 @@
     "rw_loading": "Loading the ad…",
     "rw_closed": "Your download starts once the ad finishes. You can try again anytime.",
     "rw_thanks": "Thank you! Your download is starting.",
-    "skin_label": "Skin tone"
+    "skin_label": "Skin tone",
+    "browse": "Browse by category",
+    "results": "Search results",
+    "prev": "Previous",
+    "next": "Next"
   },
   "ja": {
     "lang_name": "日本語",
@@ -121,7 +127,9 @@
       "work": "仕事・職業",
       "food": "食べもの",
       "school": "学校・勉強",
-      "sports": "スポーツ"
+      "sports": "スポーツ",
+      "health": "健康・医療",
+      "hobby": "趣味・音楽"
     },
     "license_title": "利用規約・ライセンス",
     "license_body": [
@@ -165,7 +173,11 @@
     "rw_loading": "広告を読み込んでいます…",
     "rw_closed": "広告を最後まで見るとダウンロードが始まります。もう一度お試しいただけます。",
     "rw_thanks": "ありがとうございます！ダウンロードを開始します。",
-    "skin_label": "肌の色"
+    "skin_label": "肌の色",
+    "browse": "カテゴリーから探す",
+    "results": "検索結果",
+    "prev": "前へ",
+    "next": "次へ"
   },
   "es": {
     "lang_name": "Español",
@@ -205,7 +217,9 @@
       "work": "Trabajo",
       "food": "Comida",
       "school": "Escuela",
-      "sports": "Deportes"
+      "sports": "Deportes",
+      "health": "Salud",
+      "hobby": "Aficiones y música"
     },
     "license_title": "Licencia y condiciones de uso",
     "license_body": [
@@ -249,7 +263,11 @@
     "rw_loading": "Cargando el anuncio…",
     "rw_closed": "La descarga empieza cuando termina el anuncio. Puedes intentarlo de nuevo cuando quieras.",
     "rw_thanks": "¡Gracias! Tu descarga está comenzando.",
-    "skin_label": "Tono de piel"
+    "skin_label": "Tono de piel",
+    "browse": "Explorar por categoría",
+    "results": "Resultados de búsqueda",
+    "prev": "Anterior",
+    "next": "Siguiente"
   },
   "pt": {
     "lang_name": "Português",
@@ -289,7 +307,9 @@
       "work": "Trabalho",
       "food": "Comida",
       "school": "Escola",
-      "sports": "Esportes"
+      "sports": "Esportes",
+      "health": "Saúde",
+      "hobby": "Hobbies e música"
     },
     "license_title": "Licença e termos de uso",
     "license_body": [
@@ -333,7 +353,11 @@
     "rw_loading": "Carregando o anúncio…",
     "rw_closed": "O download começa quando o anúncio termina. Você pode tentar de novo quando quiser.",
     "rw_thanks": "Obrigado! Seu download está começando.",
-    "skin_label": "Tom de pele"
+    "skin_label": "Tom de pele",
+    "browse": "Explorar por categoria",
+    "results": "Resultados da busca",
+    "prev": "Anterior",
+    "next": "Próxima"
   },
   "fr": {
     "lang_name": "Français",
@@ -373,7 +397,9 @@
       "work": "Travail et métiers",
       "food": "Nourriture",
       "school": "École",
-      "sports": "Sports"
+      "sports": "Sports",
+      "health": "Santé",
+      "hobby": "Loisirs et musique"
     },
     "license_title": "Licence et conditions d'utilisation",
     "license_body": [
@@ -417,7 +443,11 @@
     "rw_loading": "Chargement de la publicité…",
     "rw_closed": "Le téléchargement démarre à la fin de la publicité. Vous pouvez réessayer à tout moment.",
     "rw_thanks": "Merci ! Votre téléchargement commence.",
-    "skin_label": "Teint"
+    "skin_label": "Teint",
+    "browse": "Parcourir par catégorie",
+    "results": "Résultats de recherche",
+    "prev": "Précédent",
+    "next": "Suivant"
   },
   "de": {
     "lang_name": "Deutsch",
@@ -457,7 +487,9 @@
       "work": "Arbeit & Berufe",
       "food": "Essen",
       "school": "Schule",
-      "sports": "Sport"
+      "sports": "Sport",
+      "health": "Gesundheit",
+      "hobby": "Hobbys & Musik"
     },
     "license_title": "Lizenz und Nutzungsbedingungen",
     "license_body": [
@@ -501,7 +533,11 @@
     "rw_loading": "Anzeige wird geladen…",
     "rw_closed": "Der Download startet, sobald die Anzeige zu Ende ist. Du kannst es jederzeit erneut versuchen.",
     "rw_thanks": "Danke! Dein Download startet.",
-    "skin_label": "Hautton"
+    "skin_label": "Hautton",
+    "browse": "Nach Kategorie stöbern",
+    "results": "Suchergebnisse",
+    "prev": "Zurück",
+    "next": "Weiter"
   },
   "zh": {
     "lang_name": "简体中文",
@@ -541,7 +577,9 @@
       "work": "工作职业",
       "food": "美食",
       "school": "学校学习",
-      "sports": "运动"
+      "sports": "运动",
+      "health": "健康医疗",
+      "hobby": "兴趣音乐"
     },
     "license_title": "使用条款与许可",
     "license_body": [
@@ -585,7 +623,11 @@
     "rw_loading": "正在加载广告…",
     "rw_closed": "广告播放完毕后才会开始下载。你可以随时再试一次。",
     "rw_thanks": "谢谢！下载即将开始。",
-    "skin_label": "肤色"
+    "skin_label": "肤色",
+    "browse": "按分类浏览",
+    "results": "搜索结果",
+    "prev": "上一页",
+    "next": "下一页"
   },
   "ko": {
     "lang_name": "한국어",
@@ -625,7 +667,9 @@
       "work": "일·직업",
       "food": "음식",
       "school": "학교·공부",
-      "sports": "스포츠"
+      "sports": "스포츠",
+      "health": "건강·의료",
+      "hobby": "취미·음악"
     },
     "license_title": "이용약관 및 라이선스",
     "license_body": [
@@ -669,6 +713,10 @@
     "rw_loading": "광고를 불러오는 중…",
     "rw_closed": "광고가 끝나면 다운로드가 시작돼요. 언제든 다시 시도할 수 있어요.",
     "rw_thanks": "감사합니다! 다운로드를 시작할게요.",
-    "skin_label": "피부색"
+    "skin_label": "피부색",
+    "browse": "카테고리로 찾기",
+    "results": "검색 결과",
+    "prev": "이전",
+    "next": "다음"
   }
 }

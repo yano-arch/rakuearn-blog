@@ -19,7 +19,7 @@ ADSENSE_SLOTS = {"top": "", "feed": "", "side": "", "bottom": ""}  # 各広告�
 REWARDED_AD_UNIT = ""
 LANGS = ["en", "ja", "es", "pt", "fr", "de", "zh", "ko"]
 DEFAULT_LANG = "en"
-CATS = ["people", "work", "animals", "food", "nature", "home", "tech", "school", "travel", "events", "sports"]
+CATS = ["people", "work", "animals", "food", "nature", "home", "tech", "school", "travel", "events", "sports", "health", "hobby"]
 PREVIEW = "--preview" in sys.argv
 OUT = "dist"
 
@@ -27,10 +27,18 @@ UI = json.load(open("data/ui.json", encoding="utf-8"))
 # 肌の色の切り替え（人物イラスト）。先頭が標準の肌色で、イラストはこの色で描かれている
 SKIN_TONES = ["#ffd9b8", "#f1c27d", "#e0ac69", "#c68642", "#8d5a3b"]
 import glob
-_raw = json.load(open("data/illustrations.json", encoding="utf-8"))
-for _f in sorted(glob.glob("data/items/*.json")):
-    _raw += json.load(open(_f, encoding="utf-8"))
-ITEMS = sorted(_raw, key=lambda x: x["date"], reverse=True)
+_raw = []
+for _f in ["data/illustrations.json"] + sorted(glob.glob("data/items/*.json")):
+    try:
+        _raw += json.load(open(_f, encoding="utf-8"))
+    except Exception as _ex:
+        print("skip (not ready):", _f, _ex)
+# 画像を書き出し済み（＝チェック済み）のイラストだけを公開する。並びは追加した順
+ITEMS = [x for x in _raw if os.path.exists(f"public/images/svg/{x['slug']}.svg")]
+NEWEST = list(reversed(ITEMS))
+PER_PAGE = 60          # カテゴリーページ1ページあたりの点数
+NEW_ON_HOME = 20       # トップの「新着」に出す点数
+CAT_SAMPLES = 4        # トップのカテゴリーカードに出す代表イラストの数
 e = lambda s: html.escape(str(s), quote=True)
 import hashlib
 # CSS/JS は中身のハッシュをURLに付け、更新したら必ず新しいものが読み込まれるようにする
@@ -162,11 +170,23 @@ def hero_art():
         for s, x, y, w, d in HERO)
 
 
+def cat_items(c): return [i for i in ITEMS if i["cat"] == c]
+
+
+def cat_card(lang, c):
+    u = UI[lang]
+    items = cat_items(c)
+    imgs = "".join(f'<img src="/images/svg/{i["slug"]}.svg" alt="" width="100" height="100" loading="lazy">'
+                   for i in items[:CAT_SAMPLES])
+    return (f'<a class="cat-card" href="{url(lang, "cat", c)}"><span class="cat-imgs">{imgs}</span>'
+            f'<span class="cat-name">{e(u["cats"][c])}</span>'
+            f'<span class="cat-count">{e(u["count"].format(n=len(items)))}</span></a>')
+
+
 def page_home(lang):
     u = UI[lang]
-    cards = [card(i, lang) for i in ITEMS]
-    if len(cards) > 12: cards.insert(12, ad('feed', lang))
-    grid = "".join(cards)
+    cats = "".join(cat_card(lang, c) for c in CATS if cat_items(c))
+    new = "".join(card(i, lang) for i in NEWEST[:NEW_ON_HOME])
     body = f"""
 <section class="hero">
   <div class="hero-text">
@@ -178,28 +198,62 @@ def page_home(lang):
 </section>
 <form class="search" role="search" onsubmit="return false">
   <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></g></svg>
-  <input id="q" type="search" placeholder="{e(u['search'])}" aria-label="{e(u['search'])}" autocomplete="off">
+  <input id="q" type="search" placeholder="{e(u['search'])}" aria-label="{e(u['search'])}" autocomplete="off"
+    data-index="/{lang}/search.json" data-base="/{lang}/illust/">
 </form>
-{chips(lang)}
+<section id="results" hidden>
+  <h2 class="section-title">{e(u['results'])} <small id="count" data-tpl="{e(u['count'])}"></small></h2>
+  <div class="grid" id="grid"></div>
+  <p class="empty" id="empty" hidden>{e(u['no_results'])}</p>
+</section>
+<div id="browse">
 {ad('top', lang)}
-<h2 class="section-title">{e(u['latest'])} <small id="count" data-tpl="{e(u['count'])}">{e(u['count'].format(n=len(ITEMS)))}</small></h2>
-<div class="grid" id="grid">{grid}</div>
-<p class="empty" id="empty" hidden>{e(u['no_results'])}</p>
+<h2 class="section-title">{e(u['browse'])} <small>{e(u['count'].format(n=len(ITEMS)))}</small></h2>
+<div class="cat-grid">{cats}</div>
+{ad('feed', lang)}
+<h2 class="section-title">{e(u['latest'])}</h2>
+<div class="grid">{new}</div>
+</div>
 {ad('bottom', lang)}"""
     return layout(lang, "home", None, SITE_NAME, u["meta_desc"], body)
 
 
-def page_cat(lang, c):
+def pager(lang, c, p, pages):
     u = UI[lang]
-    items = [i for i in ITEMS if i["cat"] == c]
+    if pages <= 1: return ""
+    link = lambda n: url(lang, "cat", c if n == 1 else f"{c}/{n}")
+    out = []
+    if p > 1: out.append(f'<a class="pg" href="{link(p - 1)}" rel="prev">‹ {e(u["prev"])}</a>')
+    for n in range(1, pages + 1):
+        out.append(f'<span class="pg on">{n}</span>' if n == p else f'<a class="pg" href="{link(n)}">{n}</a>')
+    if p < pages: out.append(f'<a class="pg" href="{link(p + 1)}" rel="next">{e(u["next"])} ›</a>')
+    return f'<nav class="pager">{"".join(out)}</nav>'
+
+
+def page_cat(lang, c, p=1):
+    u = UI[lang]
+    items = cat_items(c)
+    pages = max(1, -(-len(items) // PER_PAGE))
+    chunk = items[(p - 1) * PER_PAGE: p * PER_PAGE]
+    cards = [card(i, lang) for i in chunk]
+    if len(cards) > 12: cards.insert(12, ad('feed', lang))
+    name = u['cats'][c] + (f" ({p}/{pages})" if p > 1 else "")
     body = f"""
 <h1 class="page-title">{e(u['cats'][c])} <small>{e(u['count'].format(n=len(items)))}</small></h1>
 {chips(lang, c)}
 {ad('top', lang)}
-<div class="grid">{"".join(card(i, lang) for i in items[:12]) + (ad('feed', lang) if len(items) > 12 else "") + "".join(card(i, lang) for i in items[12:])}</div>
+<div class="grid">{"".join(cards)}</div>
+{pager(lang, c, p, pages)}
 {ad('bottom', lang)}"""
     desc = f"{u['cats'][c]} — {u['meta_desc']}"
-    return layout(lang, "cat", c, u["cats"][c], desc, body)
+    return layout(lang, "cat", c if p == 1 else f"{c}/{p}", name, desc, body)
+
+
+def search_index(lang):
+    # 英語のタイトル・タグも入れて、どの言語のページでも英語で探せるようにする
+    return json.dumps([[i["slug"], t(i, lang)[0], " ".join(t(i, lang)[2] + [t(i, "en")[0]] + t(i, "en")[2] + [UI[lang]["cats"][i["cat"]]]),
+                        i["cat"]] for i in NEWEST],
+                      ensure_ascii=False, separators=(",", ":"))
 
 
 def page_illust(lang, item):
@@ -303,7 +357,9 @@ location.replace("/{DEFAULT_LANG}/");}})();</script>
 def sitemap():
     rows = []
     pages = [("home", None), ("license", None), ("privacy", None)]
-    pages += [("cat", c) for c in CATS if any(i["cat"] == c for i in ITEMS)]
+    for c in CATS:
+        n = -(-len(cat_items(c)) // PER_PAGE)
+        pages += [("cat", c if k == 1 else f"{c}/{k}") for k in range(1, n + 1)]
     pages += [("illust", i["slug"]) for i in ITEMS]
     for kind, arg in pages:
         alts = "".join(f'<xhtml:link rel="alternate" hreflang="{UI[l]["html_lang"]}" href="{SITE_URL}{url(l, kind, arg)}"/>'
@@ -330,8 +386,10 @@ def main():
         write(url(lang, "license"), page_text(lang, "license"))
         write(url(lang, "privacy"), page_text(lang, "privacy"))
         for c in CATS:
-            if any(i["cat"] == c for i in ITEMS):
-                write(url(lang, "cat", c), page_cat(lang, c))
+            n = -(-len(cat_items(c)) // PER_PAGE)
+            for k in range(1, n + 1):
+                write(url(lang, "cat", c if k == 1 else f"{c}/{k}"), page_cat(lang, c, k))
+        write(f"/{lang}/search.json", search_index(lang))
         for item in ITEMS:
             write(url(lang, "illust", item["slug"]), page_illust(lang, item))
     write("/index.html", page_root())

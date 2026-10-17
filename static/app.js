@@ -1,31 +1,45 @@
 (function () {
+  /* トップの検索：全イラストの索引（/{lang}/search.json）から探して表示する */
   var input = document.getElementById("q");
-  var grid = document.getElementById("grid");
-  if (!input || !grid) return;
-  var cards = grid.querySelectorAll(".card");
-  var empty = document.getElementById("empty");
-  var count = document.getElementById("count");
+  if (!input) return;
+  var results = document.getElementById("results"), browse = document.getElementById("browse");
+  var grid = document.getElementById("grid"), empty = document.getElementById("empty"), count = document.getElementById("count");
+  var base = input.getAttribute("data-base"), index = null, loading = null;
 
+  function load() {
+    if (index) return Promise.resolve(index);
+    if (!loading) loading = fetch(input.getAttribute("data-index")).then(function (r) { return r.json(); })
+      .then(function (d) { index = d.map(function (x) { return { s: x[0], t: x[1], h: norm(x[1] + " " + x[2] + " " + x[0].replace(/-/g, " ")) }; }); return index; });
+    return loading;
+  }
+  // ひらがな・カタカナ・全角英数を同じものとして扱う
+  function norm(t) {
+    return t.toLowerCase().replace(/[\u30a1-\u30f6]/g, function (c) { return String.fromCharCode(c.charCodeAt(0) - 0x60); })
+      .replace(/[\uff01-\uff5e]/g, function (c) { return String.fromCharCode(c.charCodeAt(0) - 0xfee0); });
+  }
+  function esc(t) { return t.replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
   function run() {
-    var q = input.value.trim().toLowerCase();
-    var words = q ? q.split(/\s+/) : [];
-    var shown = 0;
-    cards.forEach(function (c) {
-      var hay = c.getAttribute("data-q") || "";
-      var ok = words.every(function (w) { return hay.indexOf(w) > -1; });
-      c.hidden = !ok;
-      if (ok) shown++;
-    });
-    if (empty) empty.hidden = shown !== 0;
-    if (count) count.textContent = count.getAttribute("data-tpl").replace("{n}", shown);
+    var q = norm(input.value.trim());
     var u = new URL(location.href);
     if (q) u.searchParams.set("q", input.value.trim()); else u.searchParams.delete("q");
     history.replaceState(null, "", u);
+    if (!q) { results.hidden = true; browse.hidden = false; return; }
+    load().then(function (idx) {
+      var words = q.split(/\s+/);
+      var hits = idx.filter(function (x) { return words.every(function (w) { return x.h.indexOf(w) > -1; }); });
+      grid.innerHTML = hits.slice(0, 120).map(function (x) {
+        return '<a class="card" href="' + base + x.s + '/"><span class="thumb"><img src="/images/svg/' + x.s +
+          '.svg" alt="' + esc(x.t) + '" width="200" height="200" loading="lazy"></span><span class="name">' + esc(x.t) + "</span></a>";
+      }).join("");
+      empty.hidden = hits.length !== 0;
+      count.textContent = count.getAttribute("data-tpl").replace("{n}", hits.length);
+      results.hidden = false; browse.hidden = true;
+    });
   }
-
+  var timer;
+  input.addEventListener("input", function () { clearTimeout(timer); timer = setTimeout(run, 120); });
   var init = new URLSearchParams(location.search).get("q");
   if (init) { input.value = init; run(); }
-  input.addEventListener("input", run);
 })();
 
 /* ダウンロード共通処理と、人物イラストの肌の色切り替え */

@@ -1,0 +1,5302 @@
+[
+ {
+  "batch": "b11",
+  "cat": "people",
+  "items": [
+   {
+    "cat": "people",
+    "slug": "person-laughing",
+    "hint": "laughing out loud with eyes closed"
+   },
+   {
+    "cat": "people",
+    "slug": "person-embarrassed",
+    "hint": "blushing and scratching the back of the head"
+   },
+   {
+    "cat": "people",
+    "slug": "person-worried",
+    "hint": "worried, sweat drop, hands clasped"
+   },
+   {
+    "cat": "people",
+    "slug": "person-tired",
+    "hint": "exhausted, slumped shoulders, sigh puff"
+   },
+   {
+    "cat": "people",
+    "slug": "person-shy",
+    "hint": "peeking from behind both hands"
+   },
+   {
+    "cat": "people",
+    "slug": "person-confused",
+    "hint": "small question marks floating around the head"
+   },
+   {
+    "cat": "people",
+    "slug": "person-proud",
+    "hint": "confident, hands on hips"
+   },
+   {
+    "cat": "people",
+    "slug": "person-wishing",
+    "hint": "hands together making a wish, a small star above"
+   },
+   {
+    "cat": "people",
+    "slug": "person-clapping",
+    "hint": "clapping hands with tiny motion lines"
+   },
+   {
+    "cat": "people",
+    "slug": "person-pointing",
+    "hint": "pointing to the side with one finger"
+   },
+   {
+    "cat": "people",
+    "slug": "person-ok-sign",
+    "hint": "arms forming a big circle over the head (OK)"
+   },
+   {
+    "cat": "people",
+    "slug": "person-x-sign",
+    "hint": "arms crossed in an X in front of the chest (no)"
+   },
+   {
+    "cat": "people",
+    "slug": "person-shrugging",
+    "hint": "shrugging with palms up"
+   },
+   {
+    "cat": "people",
+    "slug": "person-yawning",
+    "hint": "big yawn, sleepy eyes"
+   },
+   {
+    "cat": "people",
+    "slug": "person-hungry",
+    "hint": "hungry, holding a fork, drool drop"
+   },
+   {
+    "cat": "people",
+    "slug": "person-in-love",
+    "hint": "dreamy smile with small hearts floating"
+   },
+   {
+    "cat": "people",
+    "slug": "person-scared",
+    "hint": "scared and shivering, wobble lines"
+   },
+   {
+    "cat": "people",
+    "slug": "person-cheering-pompoms",
+    "hint": "cheering with pom-poms"
+   },
+   {
+    "cat": "people",
+    "slug": "person-bye-bye",
+    "hint": "waving goodbye with a big wave"
+   },
+   {
+    "cat": "people",
+    "slug": "person-hugging-heart",
+    "hint": "hugging a big heart shape"
+   }
+  ]
+ },
+ {
+  "batch": "b12",
+  "cat": "people",
+  "items": [
+   {
+    "cat": "people",
+    "slug": "grandpa-cane",
+    "hint": "kind grandfather with a walking cane"
+   },
+   {
+    "cat": "people",
+    "slug": "grandparents-couple",
+    "hint": "grandmother and grandfather side by side smiling"
+   },
+   {
+    "cat": "people",
+    "slug": "family-three",
+    "hint": "mother, father and a small child together"
+   },
+   {
+    "cat": "people",
+    "slug": "mother-holding-baby",
+    "hint": "mother holding a baby in her arms"
+   },
+   {
+    "cat": "people",
+    "slug": "father-piggyback",
+    "hint": "father giving a child a piggyback ride"
+   },
+   {
+    "cat": "people",
+    "slug": "siblings-holding-hands",
+    "hint": "two small siblings holding hands"
+   },
+   {
+    "cat": "people",
+    "slug": "couple-holding-hands",
+    "hint": "young couple holding hands"
+   },
+   {
+    "cat": "people",
+    "slug": "friends-high-five",
+    "hint": "two friends doing a high five"
+   },
+   {
+    "cat": "people",
+    "slug": "child-drawing",
+    "hint": "child drawing with crayons on paper"
+   },
+   {
+    "cat": "people",
+    "slug": "girl-hair-ribbon",
+    "hint": "little girl with a big hair ribbon smiling"
+   },
+   {
+    "cat": "people",
+    "slug": "teen-headphones",
+    "hint": "teenager wearing headphones, relaxed"
+   },
+   {
+    "cat": "people",
+    "slug": "person-reading-book",
+    "hint": "person reading a book"
+   },
+   {
+    "cat": "people",
+    "slug": "person-writing-letter",
+    "hint": "person writing a letter at a desk"
+   },
+   {
+    "cat": "people",
+    "slug": "person-phone-call",
+    "hint": "person talking on a smartphone"
+   },
+   {
+    "cat": "people",
+    "slug": "person-selfie",
+    "hint": "person taking a selfie with a phone"
+   },
+   {
+    "cat": "people",
+    "slug": "person-umbrella-rain",
+    "hint": "person holding an umbrella in the rain"
+   },
+   {
+    "cat": "people",
+    "slug": "person-walking-dog",
+    "hint": "person walking a small dog on a leash"
+   },
+   {
+    "cat": "people",
+    "slug": "person-shopping-bags",
+    "hint": "person carrying shopping bags"
+   },
+   {
+    "cat": "people",
+    "slug": "person-shopping-cart",
+    "hint": "person pushing a shopping cart"
+   },
+   {
+    "cat": "people",
+    "slug": "person-eating-meal",
+    "hint": "person eating with a fork, plate in front"
+   }
+  ]
+ },
+ {
+  "batch": "b13",
+  "cat": "people",
+  "items": [
+   {
+    "cat": "people",
+    "slug": "person-drinking-water",
+    "hint": "person drinking a glass of water"
+   },
+   {
+    "cat": "people",
+    "slug": "person-brushing-teeth",
+    "hint": "person brushing teeth"
+   },
+   {
+    "cat": "people",
+    "slug": "person-washing-face",
+    "hint": "person washing face with water splashes"
+   },
+   {
+    "cat": "people",
+    "slug": "person-getting-dressed",
+    "hint": "person pulling on a sweater"
+   },
+   {
+    "cat": "people",
+    "slug": "person-morning-stretch",
+    "hint": "person stretching arms up after waking"
+   },
+   {
+    "cat": "people",
+    "slug": "person-train-strap",
+    "hint": "commuter holding a train hand strap"
+   },
+   {
+    "cat": "people",
+    "slug": "person-riding-bicycle",
+    "hint": "person riding a bicycle"
+   },
+   {
+    "cat": "people",
+    "slug": "person-wearing-mask",
+    "hint": "person wearing a face mask"
+   },
+   {
+    "cat": "people",
+    "slug": "person-wheelchair",
+    "hint": "person in a wheelchair smiling"
+   },
+   {
+    "cat": "people",
+    "slug": "person-giving-flowers",
+    "hint": "person holding out a bouquet"
+   },
+   {
+    "cat": "people",
+    "slug": "person-receiving-gift",
+    "hint": "person happily receiving a gift box"
+   },
+   {
+    "cat": "people",
+    "slug": "person-apologizing",
+    "hint": "apologizing with hands pressed together"
+   },
+   {
+    "cat": "people",
+    "slug": "people-whispering",
+    "hint": "one person whispering to another"
+   },
+   {
+    "cat": "people",
+    "slug": "people-arguing",
+    "hint": "two people quarreling with scribble cloud"
+   },
+   {
+    "cat": "people",
+    "slug": "people-making-up",
+    "hint": "two people shaking hands to make up"
+   },
+   {
+    "cat": "people",
+    "slug": "person-volunteer-cleanup",
+    "hint": "picking up litter with tongs and a bag"
+   },
+   {
+    "cat": "people",
+    "slug": "person-donation",
+    "hint": "putting a coin into a donation box"
+   },
+   {
+    "cat": "people",
+    "slug": "person-voting",
+    "hint": "putting a paper into a ballot box"
+   },
+   {
+    "cat": "people",
+    "slug": "people-queue",
+    "hint": "three people waiting in line"
+   },
+   {
+    "cat": "people",
+    "slug": "person-lost-map",
+    "hint": "confused person holding an open map"
+   }
+  ]
+ },
+ {
+  "batch": "b14",
+  "cat": "people",
+  "items": [
+   {
+    "cat": "people",
+    "slug": "person-asking-directions",
+    "hint": "one person pointing the way to another"
+   },
+   {
+    "cat": "people",
+    "slug": "person-flashlight",
+    "hint": "person searching with a flashlight"
+   },
+   {
+    "cat": "people",
+    "slug": "person-peeking-wall",
+    "hint": "person peeking out from behind a wall"
+   },
+   {
+    "cat": "people",
+    "slug": "person-sneezing",
+    "hint": "person sneezing with a burst"
+   },
+   {
+    "cat": "people",
+    "slug": "person-happy-tears",
+    "hint": "crying happy tears with a smile"
+   },
+   {
+    "cat": "people",
+    "slug": "person-determined",
+    "hint": "determined, clenched fist, sparkle"
+   },
+   {
+    "cat": "people",
+    "slug": "person-relaxing-tea",
+    "hint": "relaxing with a cup of tea"
+   },
+   {
+    "cat": "people",
+    "slug": "person-meditating",
+    "hint": "sitting cross-legged meditating"
+   },
+   {
+    "cat": "people",
+    "slug": "person-dancing",
+    "hint": "person dancing happily"
+   },
+   {
+    "cat": "people",
+    "slug": "person-whistling",
+    "hint": "person whistling with music notes"
+   },
+   {
+    "cat": "people",
+    "slug": "person-nodding",
+    "hint": "person nodding in agreement, check bubble"
+   },
+   {
+    "cat": "people",
+    "slug": "person-raising-hand",
+    "hint": "person raising a hand to ask"
+   },
+   {
+    "cat": "people",
+    "slug": "person-daydreaming",
+    "hint": "daydreaming with a thought cloud containing a heart"
+   },
+   {
+    "cat": "people",
+    "slug": "person-piggy-bank",
+    "hint": "person putting a coin into a piggy bank"
+   },
+   {
+    "cat": "people",
+    "slug": "person-empty-wallet",
+    "hint": "sad person holding an empty wallet"
+   },
+   {
+    "cat": "people",
+    "slug": "person-running-late",
+    "hint": "running in a hurry with toast in mouth"
+   },
+   {
+    "cat": "people",
+    "slug": "person-checking-watch",
+    "hint": "checking a wristwatch, waiting"
+   },
+   {
+    "cat": "people",
+    "slug": "person-sleepless",
+    "hint": "wide awake in bed at night, moon outside"
+   },
+   {
+    "cat": "people",
+    "slug": "person-hot-fan",
+    "hint": "hot and sweating, fanning with a hand fan"
+   },
+   {
+    "cat": "people",
+    "slug": "person-cold-scarf",
+    "hint": "cold, shivering in a scarf"
+   }
+  ]
+ },
+ {
+  "batch": "b15",
+  "cat": "people",
+  "items": [
+   {
+    "cat": "people",
+    "slug": "person-raincoat",
+    "hint": "child in a raincoat and boots"
+   },
+   {
+    "cat": "people",
+    "slug": "person-gardening",
+    "hint": "watering plants with a watering can"
+   },
+   {
+    "cat": "people",
+    "slug": "person-on-bench",
+    "hint": "person sitting on a park bench"
+   },
+   {
+    "cat": "people",
+    "slug": "person-lazy-sofa",
+    "hint": "lying on a sofa with a phone"
+   },
+   {
+    "cat": "people",
+    "slug": "friends-laughing",
+    "hint": "two friends laughing together"
+   },
+   {
+    "cat": "people",
+    "slug": "friends-group-photo",
+    "hint": "three friends posing together"
+   },
+   {
+    "cat": "people",
+    "slug": "person-welcome",
+    "hint": "welcoming with open arms"
+   },
+   {
+    "cat": "people",
+    "slug": "person-thank-you-card",
+    "hint": "holding a card with a heart"
+   },
+   {
+    "cat": "people",
+    "slug": "person-peace-sign",
+    "hint": "smiling and making a peace sign"
+   },
+   {
+    "cat": "people",
+    "slug": "person-opening-present",
+    "hint": "opening a present with sparkles"
+   },
+   {
+    "cat": "people",
+    "slug": "pregnant-woman",
+    "hint": "pregnant woman gently holding her belly"
+   },
+   {
+    "cat": "people",
+    "slug": "newborn-baby",
+    "hint": "newborn baby swaddled in a blanket"
+   },
+   {
+    "cat": "people",
+    "slug": "toddler-first-steps",
+    "hint": "toddler taking first steps"
+   },
+   {
+    "cat": "people",
+    "slug": "kid-tantrum",
+    "hint": "child having a tantrum"
+   },
+   {
+    "cat": "people",
+    "slug": "kid-sleeping-teddy",
+    "hint": "child sleeping hugging a teddy bear"
+   },
+   {
+    "cat": "people",
+    "slug": "grandma-knitting",
+    "hint": "grandmother knitting with yarn"
+   },
+   {
+    "cat": "people",
+    "slug": "grandpa-newspaper",
+    "hint": "grandfather reading a newspaper (no text)"
+   },
+   {
+    "cat": "people",
+    "slug": "avatar-person",
+    "hint": "simple round profile avatar of a person"
+   },
+   {
+    "cat": "people",
+    "slug": "avatar-group",
+    "hint": "three overlapping profile avatars"
+   },
+   {
+    "cat": "people",
+    "slug": "person-heart-hands",
+    "hint": "making a heart shape with hands"
+   }
+  ]
+ },
+ {
+  "batch": "b16",
+  "cat": "work",
+  "items": [
+   {
+    "cat": "work",
+    "slug": "police-officer",
+    "hint": "police officer saluting (no badge text)"
+   },
+   {
+    "cat": "work",
+    "slug": "pilot",
+    "hint": "airline pilot with cap"
+   },
+   {
+    "cat": "work",
+    "slug": "flight-attendant",
+    "hint": "flight attendant with scarf"
+   },
+   {
+    "cat": "work",
+    "slug": "train-conductor",
+    "hint": "train conductor with cap and whistle"
+   },
+   {
+    "cat": "work",
+    "slug": "bus-driver",
+    "hint": "bus driver at the steering wheel"
+   },
+   {
+    "cat": "work",
+    "slug": "taxi-driver",
+    "hint": "taxi driver with cap"
+   },
+   {
+    "cat": "work",
+    "slug": "mail-carrier",
+    "hint": "mail carrier with a letter bag"
+   },
+   {
+    "cat": "work",
+    "slug": "carpenter",
+    "hint": "carpenter with a saw and wood plank"
+   },
+   {
+    "cat": "work",
+    "slug": "electrician",
+    "hint": "electrician with tools and cable"
+   },
+   {
+    "cat": "work",
+    "slug": "plumber",
+    "hint": "plumber with a wrench and pipe"
+   },
+   {
+    "cat": "work",
+    "slug": "house-painter",
+    "hint": "painter with roller and paint bucket"
+   },
+   {
+    "cat": "work",
+    "slug": "gardener",
+    "hint": "gardener with pruning shears and hedge"
+   },
+   {
+    "cat": "work",
+    "slug": "fisherman",
+    "hint": "fisherman holding a fish"
+   },
+   {
+    "cat": "work",
+    "slug": "baker",
+    "hint": "baker holding a tray of bread"
+   },
+   {
+    "cat": "work",
+    "slug": "barista",
+    "hint": "barista making a latte"
+   },
+   {
+    "cat": "work",
+    "slug": "waiter",
+    "hint": "waiter carrying a tray with a cup"
+   },
+   {
+    "cat": "work",
+    "slug": "cashier",
+    "hint": "cashier at a register (no numbers)"
+   },
+   {
+    "cat": "work",
+    "slug": "shop-clerk",
+    "hint": "shop clerk bowing behind a counter"
+   },
+   {
+    "cat": "work",
+    "slug": "hairdresser",
+    "hint": "hairdresser with scissors and comb"
+   },
+   {
+    "cat": "work",
+    "slug": "florist",
+    "hint": "florist holding a flower bucket"
+   }
+  ]
+ },
+ {
+  "batch": "b17",
+  "cat": "work",
+  "items": [
+   {
+    "cat": "work",
+    "slug": "pharmacist",
+    "hint": "pharmacist holding a medicine bottle"
+   },
+   {
+    "cat": "work",
+    "slug": "dentist",
+    "hint": "dentist with a mirror tool and a big tooth"
+   },
+   {
+    "cat": "work",
+    "slug": "veterinarian",
+    "hint": "veterinarian holding a puppy"
+   },
+   {
+    "cat": "work",
+    "slug": "caregiver",
+    "hint": "caregiver supporting an elderly person"
+   },
+   {
+    "cat": "work",
+    "slug": "nursery-teacher",
+    "hint": "nursery teacher with apron and a small child"
+   },
+   {
+    "cat": "work",
+    "slug": "librarian",
+    "hint": "librarian holding books"
+   },
+   {
+    "cat": "work",
+    "slug": "programmer",
+    "hint": "programmer at two monitors"
+   },
+   {
+    "cat": "work",
+    "slug": "designer",
+    "hint": "designer drawing on a tablet"
+   },
+   {
+    "cat": "work",
+    "slug": "photographer",
+    "hint": "photographer with a camera"
+   },
+   {
+    "cat": "work",
+    "slug": "reporter",
+    "hint": "reporter holding a microphone"
+   },
+   {
+    "cat": "work",
+    "slug": "news-anchor",
+    "hint": "news anchor at a desk"
+   },
+   {
+    "cat": "work",
+    "slug": "lawyer",
+    "hint": "lawyer in a suit holding documents"
+   },
+   {
+    "cat": "work",
+    "slug": "judge",
+    "hint": "judge with a gavel"
+   },
+   {
+    "cat": "work",
+    "slug": "accountant",
+    "hint": "accountant with a calculator and papers"
+   },
+   {
+    "cat": "work",
+    "slug": "real-estate-agent",
+    "hint": "real estate agent holding a house key"
+   },
+   {
+    "cat": "work",
+    "slug": "salesperson",
+    "hint": "salesperson in a suit holding a brochure"
+   },
+   {
+    "cat": "work",
+    "slug": "receptionist",
+    "hint": "receptionist with a desk bell"
+   },
+   {
+    "cat": "work",
+    "slug": "call-center",
+    "hint": "call center worker with a headset"
+   },
+   {
+    "cat": "work",
+    "slug": "security-guard",
+    "hint": "security guard with a cap"
+   },
+   {
+    "cat": "work",
+    "slug": "janitor",
+    "hint": "cleaner with a mop and bucket"
+   }
+  ]
+ },
+ {
+  "batch": "b18",
+  "cat": "work",
+  "items": [
+   {
+    "cat": "work",
+    "slug": "factory-worker",
+    "hint": "factory worker with goggles and gloves"
+   },
+   {
+    "cat": "work",
+    "slug": "mechanic",
+    "hint": "mechanic with a wrench next to a tire"
+   },
+   {
+    "cat": "work",
+    "slug": "astronaut",
+    "hint": "astronaut in a spacesuit"
+   },
+   {
+    "cat": "work",
+    "slug": "archaeologist",
+    "hint": "archaeologist with a brush and a bone"
+   },
+   {
+    "cat": "work",
+    "slug": "architect",
+    "hint": "architect holding a blueprint roll"
+   },
+   {
+    "cat": "work",
+    "slug": "engineer",
+    "hint": "engineer with a hard hat and a gear"
+   },
+   {
+    "cat": "work",
+    "slug": "translator",
+    "hint": "translator between two speech bubbles"
+   },
+   {
+    "cat": "work",
+    "slug": "tour-guide",
+    "hint": "tour guide holding a small flag"
+   },
+   {
+    "cat": "work",
+    "slug": "hotel-concierge",
+    "hint": "hotel concierge with a bell cap"
+   },
+   {
+    "cat": "work",
+    "slug": "sushi-chef",
+    "hint": "sushi chef in a headband"
+   },
+   {
+    "cat": "work",
+    "slug": "video-creator",
+    "hint": "video creator in front of a camera and ring light"
+   },
+   {
+    "cat": "work",
+    "slug": "tailor",
+    "hint": "tailor with measuring tape"
+   },
+   {
+    "cat": "work",
+    "slug": "beekeeper",
+    "hint": "beekeeper in a veil with a honeycomb"
+   },
+   {
+    "cat": "work",
+    "slug": "zookeeper",
+    "hint": "zookeeper with a bucket of food"
+   },
+   {
+    "cat": "work",
+    "slug": "lifeguard",
+    "hint": "lifeguard with a float"
+   },
+   {
+    "cat": "work",
+    "slug": "park-ranger",
+    "hint": "park ranger with a hat"
+   },
+   {
+    "cat": "work",
+    "slug": "business-meeting",
+    "hint": "people around a meeting table"
+   },
+   {
+    "cat": "work",
+    "slug": "presentation",
+    "hint": "person presenting a chart on a board"
+   },
+   {
+    "cat": "work",
+    "slug": "handshake-deal",
+    "hint": "two business people shaking hands"
+   },
+   {
+    "cat": "work",
+    "slug": "business-team",
+    "hint": "team of three business people"
+   }
+  ]
+ },
+ {
+  "batch": "b19",
+  "cat": "work",
+  "items": [
+   {
+    "cat": "work",
+    "slug": "video-call",
+    "hint": "laptop showing a video call grid"
+   },
+   {
+    "cat": "work",
+    "slug": "working-from-home",
+    "hint": "person working on a laptop at home with a mug"
+   },
+   {
+    "cat": "work",
+    "slug": "overtime-night",
+    "hint": "tired worker at desk at night with moon"
+   },
+   {
+    "cat": "work",
+    "slug": "business-trip",
+    "hint": "business person with a rolling suitcase"
+   },
+   {
+    "cat": "work",
+    "slug": "job-interview",
+    "hint": "job interview across a desk"
+   },
+   {
+    "cat": "work",
+    "slug": "new-employee",
+    "hint": "new employee in a fresh suit, nervous smile"
+   },
+   {
+    "cat": "work",
+    "slug": "promotion-stairs",
+    "hint": "person climbing stairs with an arrow up"
+   },
+   {
+    "cat": "work",
+    "slug": "teamwork-puzzle",
+    "hint": "hands fitting puzzle pieces together"
+   },
+   {
+    "cat": "work",
+    "slug": "brainstorming",
+    "hint": "board with sticky notes and a lightbulb"
+   },
+   {
+    "cat": "work",
+    "slug": "deadline-hourglass",
+    "hint": "hourglass with a worried face"
+   },
+   {
+    "cat": "work",
+    "slug": "paperwork-stress",
+    "hint": "person buried in piles of paper"
+   },
+   {
+    "cat": "work",
+    "slug": "filing-cabinet",
+    "hint": "filing cabinet with folders"
+   },
+   {
+    "cat": "work",
+    "slug": "briefcase",
+    "hint": "business briefcase"
+   },
+   {
+    "cat": "work",
+    "slug": "business-cards",
+    "hint": "two hands exchanging business cards"
+   },
+   {
+    "cat": "work",
+    "slug": "coffee-break",
+    "hint": "coffee cup and a cookie on a desk"
+   },
+   {
+    "cat": "work",
+    "slug": "signing-contract",
+    "hint": "hand signing a document with a pen"
+   },
+   {
+    "cat": "work",
+    "slug": "hanko-stamp",
+    "hint": "Japanese name seal stamp and ink pad (no characters)"
+   },
+   {
+    "cat": "work",
+    "slug": "coin-stack",
+    "hint": "stack of gold coins"
+   },
+   {
+    "cat": "work",
+    "slug": "wallet",
+    "hint": "leather wallet with a card peeking out"
+   },
+   {
+    "cat": "work",
+    "slug": "credit-card",
+    "hint": "credit card (no numbers)"
+   }
+  ]
+ },
+ {
+  "batch": "b20",
+  "cat": "work",
+  "items": [
+   {
+    "cat": "work",
+    "slug": "storefront",
+    "hint": "small shop front with an awning"
+   },
+   {
+    "cat": "work",
+    "slug": "startup-rocket",
+    "hint": "rocket launching from a laptop"
+   },
+   {
+    "cat": "work",
+    "slug": "target-goal",
+    "hint": "target with an arrow in the center"
+   },
+   {
+    "cat": "work",
+    "slug": "strategy-chess",
+    "hint": "chess pieces on a board"
+   },
+   {
+    "cat": "work",
+    "slug": "falling-chart",
+    "hint": "bar chart going down with a sad arrow"
+   },
+   {
+    "cat": "work",
+    "slug": "pie-chart",
+    "hint": "pie chart with colorful slices"
+   },
+   {
+    "cat": "work",
+    "slug": "megaphone",
+    "hint": "megaphone for marketing announcement"
+   },
+   {
+    "cat": "work",
+    "slug": "customer-support",
+    "hint": "chat bubbles with a headset"
+   },
+   {
+    "cat": "work",
+    "slug": "delivery-truck",
+    "hint": "delivery truck with boxes"
+   },
+   {
+    "cat": "work",
+    "slug": "warehouse-boxes",
+    "hint": "warehouse shelves with boxes"
+   },
+   {
+    "cat": "work",
+    "slug": "factory-conveyor",
+    "hint": "conveyor belt with boxes"
+   },
+   {
+    "cat": "work",
+    "slug": "office-building",
+    "hint": "tall office building"
+   },
+   {
+    "cat": "work",
+    "slug": "office-desk",
+    "hint": "office desk with monitor and plant"
+   },
+   {
+    "cat": "work",
+    "slug": "office-chair",
+    "hint": "office swivel chair"
+   },
+   {
+    "cat": "work",
+    "slug": "time-card",
+    "hint": "time card machine (no numbers)"
+   },
+   {
+    "cat": "work",
+    "slug": "payday-envelope",
+    "hint": "pay envelope with coins"
+   },
+   {
+    "cat": "work",
+    "slug": "retirement-bouquet",
+    "hint": "retiring worker receiving a bouquet"
+   },
+   {
+    "cat": "work",
+    "slug": "award-certificate",
+    "hint": "framed certificate with a ribbon (no text)"
+   },
+   {
+    "cat": "work",
+    "slug": "it-support",
+    "hint": "IT support person fixing a computer"
+   },
+   {
+    "cat": "work",
+    "slug": "event-staff",
+    "hint": "event staff with a clipboard and cap"
+   }
+  ]
+ },
+ {
+  "batch": "b21",
+  "cat": "animals",
+  "items": [
+   {
+    "cat": "animals",
+    "slug": "shiba-dog",
+    "hint": "shiba inu dog"
+   },
+   {
+    "cat": "animals",
+    "slug": "poodle",
+    "hint": "fluffy poodle"
+   },
+   {
+    "cat": "animals",
+    "slug": "dachshund",
+    "hint": "dachshund dog"
+   },
+   {
+    "cat": "animals",
+    "slug": "corgi",
+    "hint": "corgi dog"
+   },
+   {
+    "cat": "animals",
+    "slug": "golden-retriever",
+    "hint": "golden retriever dog"
+   },
+   {
+    "cat": "animals",
+    "slug": "bulldog",
+    "hint": "bulldog"
+   },
+   {
+    "cat": "animals",
+    "slug": "cat-sleeping",
+    "hint": "cat curled up sleeping"
+   },
+   {
+    "cat": "animals",
+    "slug": "black-cat",
+    "hint": "black cat"
+   },
+   {
+    "cat": "animals",
+    "slug": "kitten-yarn",
+    "hint": "kitten playing with a yarn ball"
+   },
+   {
+    "cat": "animals",
+    "slug": "guinea-pig",
+    "hint": "guinea pig"
+   },
+   {
+    "cat": "animals",
+    "slug": "parakeet",
+    "hint": "budgie parakeet"
+   },
+   {
+    "cat": "animals",
+    "slug": "turtle",
+    "hint": "small turtle"
+   },
+   {
+    "cat": "animals",
+    "slug": "hedgehog",
+    "hint": "hedgehog"
+   },
+   {
+    "cat": "animals",
+    "slug": "lizard",
+    "hint": "gecko lizard"
+   },
+   {
+    "cat": "animals",
+    "slug": "cow",
+    "hint": "dairy cow"
+   },
+   {
+    "cat": "animals",
+    "slug": "pig",
+    "hint": "pink pig"
+   },
+   {
+    "cat": "animals",
+    "slug": "sheep",
+    "hint": "fluffy sheep"
+   },
+   {
+    "cat": "animals",
+    "slug": "horse",
+    "hint": "horse"
+   },
+   {
+    "cat": "animals",
+    "slug": "goat",
+    "hint": "goat"
+   },
+   {
+    "cat": "animals",
+    "slug": "hen",
+    "hint": "hen chicken"
+   }
+  ]
+ },
+ {
+  "batch": "b22",
+  "cat": "animals",
+  "items": [
+   {
+    "cat": "animals",
+    "slug": "rooster",
+    "hint": "rooster"
+   },
+   {
+    "cat": "animals",
+    "slug": "duck",
+    "hint": "duck"
+   },
+   {
+    "cat": "animals",
+    "slug": "donkey",
+    "hint": "donkey"
+   },
+   {
+    "cat": "animals",
+    "slug": "lion",
+    "hint": "lion with a mane"
+   },
+   {
+    "cat": "animals",
+    "slug": "tiger",
+    "hint": "tiger"
+   },
+   {
+    "cat": "animals",
+    "slug": "elephant",
+    "hint": "elephant"
+   },
+   {
+    "cat": "animals",
+    "slug": "giraffe",
+    "hint": "giraffe"
+   },
+   {
+    "cat": "animals",
+    "slug": "zebra",
+    "hint": "zebra"
+   },
+   {
+    "cat": "animals",
+    "slug": "hippo",
+    "hint": "hippopotamus"
+   },
+   {
+    "cat": "animals",
+    "slug": "rhino",
+    "hint": "rhinoceros"
+   },
+   {
+    "cat": "animals",
+    "slug": "monkey",
+    "hint": "monkey"
+   },
+   {
+    "cat": "animals",
+    "slug": "gorilla",
+    "hint": "gorilla"
+   },
+   {
+    "cat": "animals",
+    "slug": "kangaroo",
+    "hint": "kangaroo with a joey"
+   },
+   {
+    "cat": "animals",
+    "slug": "koala",
+    "hint": "koala on a branch"
+   },
+   {
+    "cat": "animals",
+    "slug": "sloth",
+    "hint": "sloth hanging"
+   },
+   {
+    "cat": "animals",
+    "slug": "fox",
+    "hint": "fox"
+   },
+   {
+    "cat": "animals",
+    "slug": "raccoon",
+    "hint": "raccoon"
+   },
+   {
+    "cat": "animals",
+    "slug": "deer",
+    "hint": "deer"
+   },
+   {
+    "cat": "animals",
+    "slug": "squirrel",
+    "hint": "squirrel holding an acorn"
+   },
+   {
+    "cat": "animals",
+    "slug": "wolf",
+    "hint": "wolf"
+   }
+  ]
+ },
+ {
+  "batch": "b23",
+  "cat": "animals",
+  "items": [
+   {
+    "cat": "animals",
+    "slug": "polar-bear",
+    "hint": "polar bear"
+   },
+   {
+    "cat": "animals",
+    "slug": "red-panda",
+    "hint": "red panda"
+   },
+   {
+    "cat": "animals",
+    "slug": "otter",
+    "hint": "otter floating on its back"
+   },
+   {
+    "cat": "animals",
+    "slug": "beaver",
+    "hint": "beaver"
+   },
+   {
+    "cat": "animals",
+    "slug": "bat",
+    "hint": "cute bat"
+   },
+   {
+    "cat": "animals",
+    "slug": "camel",
+    "hint": "camel"
+   },
+   {
+    "cat": "animals",
+    "slug": "alpaca",
+    "hint": "alpaca"
+   },
+   {
+    "cat": "animals",
+    "slug": "mouse",
+    "hint": "mouse"
+   },
+   {
+    "cat": "animals",
+    "slug": "dolphin",
+    "hint": "dolphin jumping"
+   },
+   {
+    "cat": "animals",
+    "slug": "whale",
+    "hint": "whale with a water spout"
+   },
+   {
+    "cat": "animals",
+    "slug": "shark",
+    "hint": "friendly shark"
+   },
+   {
+    "cat": "animals",
+    "slug": "octopus",
+    "hint": "octopus"
+   },
+   {
+    "cat": "animals",
+    "slug": "squid",
+    "hint": "squid"
+   },
+   {
+    "cat": "animals",
+    "slug": "crab",
+    "hint": "crab"
+   },
+   {
+    "cat": "animals",
+    "slug": "jellyfish",
+    "hint": "jellyfish"
+   },
+   {
+    "cat": "animals",
+    "slug": "seal",
+    "hint": "seal"
+   },
+   {
+    "cat": "animals",
+    "slug": "sea-turtle",
+    "hint": "sea turtle swimming"
+   },
+   {
+    "cat": "animals",
+    "slug": "clownfish",
+    "hint": "clownfish"
+   },
+   {
+    "cat": "animals",
+    "slug": "pufferfish",
+    "hint": "pufferfish"
+   },
+   {
+    "cat": "animals",
+    "slug": "starfish",
+    "hint": "starfish"
+   }
+  ]
+ },
+ {
+  "batch": "b24",
+  "cat": "animals",
+  "items": [
+   {
+    "cat": "animals",
+    "slug": "seahorse",
+    "hint": "seahorse"
+   },
+   {
+    "cat": "animals",
+    "slug": "sparrow",
+    "hint": "sparrow"
+   },
+   {
+    "cat": "animals",
+    "slug": "crow",
+    "hint": "crow"
+   },
+   {
+    "cat": "animals",
+    "slug": "pigeon",
+    "hint": "pigeon"
+   },
+   {
+    "cat": "animals",
+    "slug": "eagle",
+    "hint": "eagle"
+   },
+   {
+    "cat": "animals",
+    "slug": "flamingo",
+    "hint": "flamingo"
+   },
+   {
+    "cat": "animals",
+    "slug": "parrot",
+    "hint": "parrot"
+   },
+   {
+    "cat": "animals",
+    "slug": "peacock",
+    "hint": "peacock with open tail"
+   },
+   {
+    "cat": "animals",
+    "slug": "swan",
+    "hint": "swan"
+   },
+   {
+    "cat": "animals",
+    "slug": "hummingbird",
+    "hint": "hummingbird at a flower"
+   },
+   {
+    "cat": "animals",
+    "slug": "woodpecker",
+    "hint": "woodpecker on a tree"
+   },
+   {
+    "cat": "animals",
+    "slug": "butterfly",
+    "hint": "butterfly"
+   },
+   {
+    "cat": "animals",
+    "slug": "ladybug",
+    "hint": "ladybug"
+   },
+   {
+    "cat": "animals",
+    "slug": "bee",
+    "hint": "honey bee"
+   },
+   {
+    "cat": "animals",
+    "slug": "ant",
+    "hint": "ant carrying a crumb"
+   },
+   {
+    "cat": "animals",
+    "slug": "dragonfly",
+    "hint": "dragonfly"
+   },
+   {
+    "cat": "animals",
+    "slug": "rhinoceros-beetle",
+    "hint": "rhinoceros beetle"
+   },
+   {
+    "cat": "animals",
+    "slug": "stag-beetle",
+    "hint": "stag beetle"
+   },
+   {
+    "cat": "animals",
+    "slug": "caterpillar",
+    "hint": "caterpillar on a leaf"
+   },
+   {
+    "cat": "animals",
+    "slug": "snail",
+    "hint": "snail"
+   }
+  ]
+ },
+ {
+  "batch": "b25",
+  "cat": "animals",
+  "items": [
+   {
+    "cat": "animals",
+    "slug": "firefly",
+    "hint": "firefly glowing"
+   },
+   {
+    "cat": "animals",
+    "slug": "cicada",
+    "hint": "cicada on a tree"
+   },
+   {
+    "cat": "animals",
+    "slug": "grasshopper",
+    "hint": "grasshopper"
+   },
+   {
+    "cat": "animals",
+    "slug": "spider",
+    "hint": "cute spider on a web"
+   },
+   {
+    "cat": "animals",
+    "slug": "snake",
+    "hint": "friendly snake"
+   },
+   {
+    "cat": "animals",
+    "slug": "crocodile",
+    "hint": "crocodile"
+   },
+   {
+    "cat": "animals",
+    "slug": "chameleon",
+    "hint": "chameleon on a branch"
+   },
+   {
+    "cat": "animals",
+    "slug": "dinosaur",
+    "hint": "friendly dinosaur"
+   },
+   {
+    "cat": "animals",
+    "slug": "penguin-chick",
+    "hint": "fluffy baby penguin"
+   },
+   {
+    "cat": "animals",
+    "slug": "swallow-bird",
+    "hint": "swallow bird flying"
+   },
+   {
+    "cat": "animals",
+    "slug": "mole",
+    "hint": "mole popping out of the ground"
+   },
+   {
+    "cat": "animals",
+    "slug": "lobster",
+    "hint": "lobster"
+   },
+   {
+    "cat": "animals",
+    "slug": "puppy-kitten-friends",
+    "hint": "puppy and kitten together"
+   },
+   {
+    "cat": "animals",
+    "slug": "dog-bone",
+    "hint": "dog holding a bone"
+   },
+   {
+    "cat": "animals",
+    "slug": "cat-box",
+    "hint": "cat sitting in a cardboard box"
+   },
+   {
+    "cat": "animals",
+    "slug": "bird-nest",
+    "hint": "bird nest with eggs and a mother bird"
+   },
+   {
+    "cat": "animals",
+    "slug": "fish-school",
+    "hint": "school of small fish"
+   },
+   {
+    "cat": "animals",
+    "slug": "duckling-line",
+    "hint": "mother duck with ducklings in a line"
+   },
+   {
+    "cat": "animals",
+    "slug": "paw-print",
+    "hint": "paw prints"
+   },
+   {
+    "cat": "animals",
+    "slug": "puffin",
+    "hint": "puffin"
+   }
+  ]
+ },
+ {
+  "batch": "b26",
+  "cat": "food",
+  "items": [
+   {
+    "cat": "food",
+    "slug": "strawberry",
+    "hint": "strawberry"
+   },
+   {
+    "cat": "food",
+    "slug": "grapes",
+    "hint": "bunch of grapes"
+   },
+   {
+    "cat": "food",
+    "slug": "orange",
+    "hint": "orange"
+   },
+   {
+    "cat": "food",
+    "slug": "lemon",
+    "hint": "lemon"
+   },
+   {
+    "cat": "food",
+    "slug": "watermelon",
+    "hint": "watermelon slice"
+   },
+   {
+    "cat": "food",
+    "slug": "peach",
+    "hint": "peach"
+   },
+   {
+    "cat": "food",
+    "slug": "cherries",
+    "hint": "pair of cherries"
+   },
+   {
+    "cat": "food",
+    "slug": "pineapple",
+    "hint": "pineapple"
+   },
+   {
+    "cat": "food",
+    "slug": "melon",
+    "hint": "melon"
+   },
+   {
+    "cat": "food",
+    "slug": "kiwi",
+    "hint": "kiwi fruit cut"
+   },
+   {
+    "cat": "food",
+    "slug": "pear",
+    "hint": "pear"
+   },
+   {
+    "cat": "food",
+    "slug": "mango",
+    "hint": "mango"
+   },
+   {
+    "cat": "food",
+    "slug": "blueberries",
+    "hint": "blueberries"
+   },
+   {
+    "cat": "food",
+    "slug": "avocado",
+    "hint": "avocado half"
+   },
+   {
+    "cat": "food",
+    "slug": "persimmon",
+    "hint": "persimmon"
+   },
+   {
+    "cat": "food",
+    "slug": "carrot",
+    "hint": "carrot"
+   },
+   {
+    "cat": "food",
+    "slug": "tomato",
+    "hint": "tomato"
+   },
+   {
+    "cat": "food",
+    "slug": "broccoli",
+    "hint": "broccoli"
+   },
+   {
+    "cat": "food",
+    "slug": "cabbage",
+    "hint": "cabbage"
+   },
+   {
+    "cat": "food",
+    "slug": "onion",
+    "hint": "onion"
+   }
+  ]
+ },
+ {
+  "batch": "b27",
+  "cat": "food",
+  "items": [
+   {
+    "cat": "food",
+    "slug": "potato",
+    "hint": "potato"
+   },
+   {
+    "cat": "food",
+    "slug": "eggplant",
+    "hint": "eggplant"
+   },
+   {
+    "cat": "food",
+    "slug": "cucumber",
+    "hint": "cucumber"
+   },
+   {
+    "cat": "food",
+    "slug": "corn",
+    "hint": "corn on the cob"
+   },
+   {
+    "cat": "food",
+    "slug": "green-pepper",
+    "hint": "green bell pepper"
+   },
+   {
+    "cat": "food",
+    "slug": "mushroom",
+    "hint": "mushroom"
+   },
+   {
+    "cat": "food",
+    "slug": "garlic",
+    "hint": "garlic"
+   },
+   {
+    "cat": "food",
+    "slug": "daikon-radish",
+    "hint": "daikon radish"
+   },
+   {
+    "cat": "food",
+    "slug": "lettuce",
+    "hint": "lettuce"
+   },
+   {
+    "cat": "food",
+    "slug": "sweet-potato",
+    "hint": "sweet potato"
+   },
+   {
+    "cat": "food",
+    "slug": "pea-pod",
+    "hint": "pea pod"
+   },
+   {
+    "cat": "food",
+    "slug": "curry-rice",
+    "hint": "curry and rice"
+   },
+   {
+    "cat": "food",
+    "slug": "fried-egg",
+    "hint": "fried egg"
+   },
+   {
+    "cat": "food",
+    "slug": "omurice",
+    "hint": "omelette rice with ketchup heart"
+   },
+   {
+    "cat": "food",
+    "slug": "spaghetti",
+    "hint": "spaghetti with tomato sauce"
+   },
+   {
+    "cat": "food",
+    "slug": "salad-bowl",
+    "hint": "salad bowl"
+   },
+   {
+    "cat": "food",
+    "slug": "soup-bowl",
+    "hint": "bowl of soup"
+   },
+   {
+    "cat": "food",
+    "slug": "sandwich",
+    "hint": "sandwich"
+   },
+   {
+    "cat": "food",
+    "slug": "hot-dog",
+    "hint": "hot dog"
+   },
+   {
+    "cat": "food",
+    "slug": "french-fries",
+    "hint": "french fries"
+   }
+  ]
+ },
+ {
+  "batch": "b28",
+  "cat": "food",
+  "items": [
+   {
+    "cat": "food",
+    "slug": "fried-chicken",
+    "hint": "fried chicken"
+   },
+   {
+    "cat": "food",
+    "slug": "steak",
+    "hint": "steak on a plate"
+   },
+   {
+    "cat": "food",
+    "slug": "tacos",
+    "hint": "tacos"
+   },
+   {
+    "cat": "food",
+    "slug": "gyoza",
+    "hint": "gyoza dumplings"
+   },
+   {
+    "cat": "food",
+    "slug": "bento-box",
+    "hint": "bento lunch box"
+   },
+   {
+    "cat": "food",
+    "slug": "takoyaki",
+    "hint": "takoyaki"
+   },
+   {
+    "cat": "food",
+    "slug": "rice-bowl",
+    "hint": "bowl of rice"
+   },
+   {
+    "cat": "food",
+    "slug": "miso-soup",
+    "hint": "miso soup"
+   },
+   {
+    "cat": "food",
+    "slug": "tempura",
+    "hint": "shrimp tempura"
+   },
+   {
+    "cat": "food",
+    "slug": "grilled-fish",
+    "hint": "grilled fish on a plate"
+   },
+   {
+    "cat": "food",
+    "slug": "pancakes",
+    "hint": "stack of pancakes with syrup"
+   },
+   {
+    "cat": "food",
+    "slug": "croissant",
+    "hint": "croissant"
+   },
+   {
+    "cat": "food",
+    "slug": "toast-butter",
+    "hint": "toast with butter"
+   },
+   {
+    "cat": "food",
+    "slug": "cereal-bowl",
+    "hint": "cereal with milk"
+   },
+   {
+    "cat": "food",
+    "slug": "donut",
+    "hint": "donut with sprinkles"
+   },
+   {
+    "cat": "food",
+    "slug": "cupcake",
+    "hint": "cupcake"
+   },
+   {
+    "cat": "food",
+    "slug": "cake-slice",
+    "hint": "strawberry shortcake slice"
+   },
+   {
+    "cat": "food",
+    "slug": "pudding",
+    "hint": "custard pudding"
+   },
+   {
+    "cat": "food",
+    "slug": "macarons",
+    "hint": "macarons"
+   },
+   {
+    "cat": "food",
+    "slug": "cookies",
+    "hint": "cookies"
+   }
+  ]
+ },
+ {
+  "batch": "b29",
+  "cat": "food",
+  "items": [
+   {
+    "cat": "food",
+    "slug": "chocolate-bar",
+    "hint": "chocolate bar"
+   },
+   {
+    "cat": "food",
+    "slug": "candy",
+    "hint": "wrapped candies"
+   },
+   {
+    "cat": "food",
+    "slug": "lollipop",
+    "hint": "swirl lollipop"
+   },
+   {
+    "cat": "food",
+    "slug": "popcorn",
+    "hint": "popcorn"
+   },
+   {
+    "cat": "food",
+    "slug": "dango",
+    "hint": "three-color dango"
+   },
+   {
+    "cat": "food",
+    "slug": "taiyaki",
+    "hint": "fish-shaped taiyaki"
+   },
+   {
+    "cat": "food",
+    "slug": "mochi",
+    "hint": "mochi rice cakes"
+   },
+   {
+    "cat": "food",
+    "slug": "shaved-ice",
+    "hint": "shaved ice"
+   },
+   {
+    "cat": "food",
+    "slug": "parfait",
+    "hint": "parfait glass"
+   },
+   {
+    "cat": "food",
+    "slug": "crepe",
+    "hint": "crepe"
+   },
+   {
+    "cat": "food",
+    "slug": "green-tea",
+    "hint": "green tea cup"
+   },
+   {
+    "cat": "food",
+    "slug": "milk",
+    "hint": "milk carton (no text)"
+   },
+   {
+    "cat": "food",
+    "slug": "orange-juice",
+    "hint": "glass of orange juice"
+   },
+   {
+    "cat": "food",
+    "slug": "soda",
+    "hint": "bottle of soda (no label text)"
+   },
+   {
+    "cat": "food",
+    "slug": "bubble-tea",
+    "hint": "bubble tea"
+   },
+   {
+    "cat": "food",
+    "slug": "beer",
+    "hint": "mug of beer"
+   },
+   {
+    "cat": "food",
+    "slug": "wine",
+    "hint": "glass of wine"
+   },
+   {
+    "cat": "food",
+    "slug": "water-bottle",
+    "hint": "water bottle"
+   },
+   {
+    "cat": "food",
+    "slug": "smoothie",
+    "hint": "smoothie"
+   },
+   {
+    "cat": "food",
+    "slug": "hot-chocolate",
+    "hint": "hot chocolate with marshmallows"
+   }
+  ]
+ },
+ {
+  "batch": "b30",
+  "cat": "food",
+  "items": [
+   {
+    "cat": "food",
+    "slug": "egg",
+    "hint": "eggs"
+   },
+   {
+    "cat": "food",
+    "slug": "cheese",
+    "hint": "cheese wedge"
+   },
+   {
+    "cat": "food",
+    "slug": "honey-jar",
+    "hint": "honey jar with dipper"
+   },
+   {
+    "cat": "food",
+    "slug": "jam-jar",
+    "hint": "jam jar"
+   },
+   {
+    "cat": "food",
+    "slug": "salt-pepper",
+    "hint": "salt and pepper shakers"
+   },
+   {
+    "cat": "food",
+    "slug": "nori-roll",
+    "hint": "sushi rolls"
+   },
+   {
+    "cat": "food",
+    "slug": "onigiri-set",
+    "hint": "two rice balls on a plate"
+   },
+   {
+    "cat": "food",
+    "slug": "udon",
+    "hint": "udon noodles bowl"
+   },
+   {
+    "cat": "food",
+    "slug": "fried-rice",
+    "hint": "fried rice"
+   },
+   {
+    "cat": "food",
+    "slug": "dumpling-soup",
+    "hint": "dumpling soup"
+   },
+   {
+    "cat": "food",
+    "slug": "pizza-whole",
+    "hint": "whole pizza"
+   },
+   {
+    "cat": "food",
+    "slug": "burrito",
+    "hint": "burrito"
+   },
+   {
+    "cat": "food",
+    "slug": "kebab",
+    "hint": "meat skewers"
+   },
+   {
+    "cat": "food",
+    "slug": "pretzel",
+    "hint": "pretzel"
+   },
+   {
+    "cat": "food",
+    "slug": "bagel",
+    "hint": "bagel"
+   },
+   {
+    "cat": "food",
+    "slug": "waffle",
+    "hint": "waffle"
+   },
+   {
+    "cat": "food",
+    "slug": "pie",
+    "hint": "fruit pie"
+   },
+   {
+    "cat": "food",
+    "slug": "yogurt",
+    "hint": "yogurt with fruit"
+   },
+   {
+    "cat": "food",
+    "slug": "nuts",
+    "hint": "mixed nuts"
+   },
+   {
+    "cat": "food",
+    "slug": "cotton-candy",
+    "hint": "cotton candy"
+   }
+  ]
+ },
+ {
+  "batch": "b31",
+  "cat": "nature",
+  "items": [
+   {
+    "cat": "nature",
+    "slug": "cloudy",
+    "hint": "fluffy clouds"
+   },
+   {
+    "cat": "nature",
+    "slug": "thunder-cloud",
+    "hint": "cloud with lightning"
+   },
+   {
+    "cat": "nature",
+    "slug": "snow-falling",
+    "hint": "snowflakes falling"
+   },
+   {
+    "cat": "nature",
+    "slug": "wind",
+    "hint": "wind swirls blowing leaves"
+   },
+   {
+    "cat": "nature",
+    "slug": "storm",
+    "hint": "storm with heavy rain and wind"
+   },
+   {
+    "cat": "nature",
+    "slug": "heat-sun",
+    "hint": "blazing hot sun with heat waves"
+   },
+   {
+    "cat": "nature",
+    "slug": "sunrise",
+    "hint": "sunrise over the horizon"
+   },
+   {
+    "cat": "nature",
+    "slug": "sunset",
+    "hint": "sunset over the sea"
+   },
+   {
+    "cat": "nature",
+    "slug": "tornado",
+    "hint": "tornado"
+   },
+   {
+    "cat": "nature",
+    "slug": "snowflake",
+    "hint": "single snowflake"
+   },
+   {
+    "cat": "nature",
+    "slug": "saturn",
+    "hint": "ringed planet"
+   },
+   {
+    "cat": "nature",
+    "slug": "shooting-star",
+    "hint": "shooting star"
+   },
+   {
+    "cat": "nature",
+    "slug": "ufo",
+    "hint": "flying saucer"
+   },
+   {
+    "cat": "nature",
+    "slug": "comet",
+    "hint": "comet"
+   },
+   {
+    "cat": "nature",
+    "slug": "full-moon",
+    "hint": "full moon with a cute face"
+   },
+   {
+    "cat": "nature",
+    "slug": "stars",
+    "hint": "twinkling stars"
+   },
+   {
+    "cat": "nature",
+    "slug": "rocket",
+    "hint": "rocket flying in space"
+   },
+   {
+    "cat": "nature",
+    "slug": "sunflower",
+    "hint": "sunflower"
+   },
+   {
+    "cat": "nature",
+    "slug": "rose",
+    "hint": "red rose"
+   },
+   {
+    "cat": "nature",
+    "slug": "cherry-blossom",
+    "hint": "cherry blossom branch"
+   }
+  ]
+ },
+ {
+  "batch": "b32",
+  "cat": "nature",
+  "items": [
+   {
+    "cat": "nature",
+    "slug": "cactus",
+    "hint": "cactus in a pot"
+   },
+   {
+    "cat": "nature",
+    "slug": "forest",
+    "hint": "forest of trees"
+   },
+   {
+    "cat": "nature",
+    "slug": "palm-tree",
+    "hint": "palm tree"
+   },
+   {
+    "cat": "nature",
+    "slug": "pine-tree",
+    "hint": "pine tree"
+   },
+   {
+    "cat": "nature",
+    "slug": "bamboo",
+    "hint": "bamboo stalks"
+   },
+   {
+    "cat": "nature",
+    "slug": "four-leaf-clover",
+    "hint": "four-leaf clover"
+   },
+   {
+    "cat": "nature",
+    "slug": "dandelion",
+    "hint": "dandelion and fluff"
+   },
+   {
+    "cat": "nature",
+    "slug": "hydrangea",
+    "hint": "hydrangea"
+   },
+   {
+    "cat": "nature",
+    "slug": "lotus",
+    "hint": "lotus flower"
+   },
+   {
+    "cat": "nature",
+    "slug": "morning-glory",
+    "hint": "morning glory"
+   },
+   {
+    "cat": "nature",
+    "slug": "ginkgo-leaf",
+    "hint": "ginkgo leaves"
+   },
+   {
+    "cat": "nature",
+    "slug": "acorns",
+    "hint": "acorns"
+   },
+   {
+    "cat": "nature",
+    "slug": "pinecone",
+    "hint": "pinecone"
+   },
+   {
+    "cat": "nature",
+    "slug": "winter-tree",
+    "hint": "bare tree with snow"
+   },
+   {
+    "cat": "nature",
+    "slug": "ocean-waves",
+    "hint": "ocean waves"
+   },
+   {
+    "cat": "nature",
+    "slug": "island",
+    "hint": "small island with a palm tree"
+   },
+   {
+    "cat": "nature",
+    "slug": "river",
+    "hint": "river flowing through grass"
+   },
+   {
+    "cat": "nature",
+    "slug": "waterfall",
+    "hint": "waterfall"
+   },
+   {
+    "cat": "nature",
+    "slug": "volcano",
+    "hint": "volcano"
+   },
+   {
+    "cat": "nature",
+    "slug": "desert",
+    "hint": "desert with cactus and sun"
+   }
+  ]
+ },
+ {
+  "batch": "b33",
+  "cat": "nature",
+  "items": [
+   {
+    "cat": "nature",
+    "slug": "lake",
+    "hint": "lake with reflections"
+   },
+   {
+    "cat": "nature",
+    "slug": "flower-field",
+    "hint": "field of flowers"
+   },
+   {
+    "cat": "nature",
+    "slug": "rice-paddy",
+    "hint": "rice paddy field"
+   },
+   {
+    "cat": "nature",
+    "slug": "fire",
+    "hint": "flame"
+   },
+   {
+    "cat": "nature",
+    "slug": "water-drop",
+    "hint": "water drop with a face"
+   },
+   {
+    "cat": "nature",
+    "slug": "recycle",
+    "hint": "recycling arrows"
+   },
+   {
+    "cat": "nature",
+    "slug": "earth-eco",
+    "hint": "earth with leaves (eco)"
+   },
+   {
+    "cat": "nature",
+    "slug": "rock",
+    "hint": "rock stone"
+   },
+   {
+    "cat": "nature",
+    "slug": "gem",
+    "hint": "sparkling gem"
+   },
+   {
+    "cat": "nature",
+    "slug": "seashell",
+    "hint": "seashell"
+   },
+   {
+    "cat": "nature",
+    "slug": "spring",
+    "hint": "spring scene with blossoms"
+   },
+   {
+    "cat": "nature",
+    "slug": "summer",
+    "hint": "summer scene with sun and sea"
+   },
+   {
+    "cat": "nature",
+    "slug": "autumn",
+    "hint": "autumn scene with red leaves"
+   },
+   {
+    "cat": "nature",
+    "slug": "winter",
+    "hint": "winter scene with snow"
+   },
+   {
+    "cat": "nature",
+    "slug": "leaf",
+    "hint": "green leaf"
+   },
+   {
+    "cat": "nature",
+    "slug": "clover-field",
+    "hint": "grass with clovers"
+   },
+   {
+    "cat": "nature",
+    "slug": "moss-stump",
+    "hint": "tree stump with moss"
+   },
+   {
+    "cat": "nature",
+    "slug": "cave",
+    "hint": "cave entrance"
+   },
+   {
+    "cat": "nature",
+    "slug": "cliff-sea",
+    "hint": "cliff by the sea"
+   },
+   {
+    "cat": "nature",
+    "slug": "hill",
+    "hint": "green rolling hills"
+   }
+  ]
+ },
+ {
+  "batch": "b34",
+  "cat": "nature",
+  "items": [
+   {
+    "cat": "nature",
+    "slug": "puddle",
+    "hint": "puddle with ripples"
+   },
+   {
+    "cat": "nature",
+    "slug": "icicle",
+    "hint": "icicles"
+   },
+   {
+    "cat": "nature",
+    "slug": "sunbeam-clouds",
+    "hint": "sun peeking from clouds"
+   },
+   {
+    "cat": "nature",
+    "slug": "crescent-moon",
+    "hint": "crescent moon"
+   },
+   {
+    "cat": "nature",
+    "slug": "milky-way",
+    "hint": "milky way stars"
+   },
+   {
+    "cat": "nature",
+    "slug": "planet-earth-moon",
+    "hint": "earth and moon"
+   },
+   {
+    "cat": "nature",
+    "slug": "lavender",
+    "hint": "lavender"
+   },
+   {
+    "cat": "nature",
+    "slug": "poppy",
+    "hint": "poppy flowers"
+   },
+   {
+    "cat": "nature",
+    "slug": "daisy",
+    "hint": "daisy flower"
+   },
+   {
+    "cat": "nature",
+    "slug": "bonsai",
+    "hint": "bonsai tree"
+   },
+   {
+    "cat": "nature",
+    "slug": "seed",
+    "hint": "seeds in a hand"
+   },
+   {
+    "cat": "nature",
+    "slug": "mushroom-forest",
+    "hint": "mushrooms in the forest"
+   },
+   {
+    "cat": "nature",
+    "slug": "snow-mountain",
+    "hint": "snowy mountain range"
+   },
+   {
+    "cat": "nature",
+    "slug": "aurora",
+    "hint": "aurora in the sky"
+   },
+   {
+    "cat": "nature",
+    "slug": "coral-reef",
+    "hint": "coral reef"
+   },
+   {
+    "cat": "nature",
+    "slug": "sea-grass",
+    "hint": "seaweed and bubbles"
+   },
+   {
+    "cat": "nature",
+    "slug": "weather-umbrella-sun",
+    "hint": "sun and umbrella (weather forecast)"
+   },
+   {
+    "cat": "nature",
+    "slug": "thermometer-hot",
+    "hint": "thermometer with sun (no numbers)"
+   },
+   {
+    "cat": "nature",
+    "slug": "thermometer-cold",
+    "hint": "thermometer with snowflake (no numbers)"
+   },
+   {
+    "cat": "nature",
+    "slug": "wildflowers",
+    "hint": "wildflowers bouquet"
+   }
+  ]
+ },
+ {
+  "batch": "b35",
+  "cat": "home",
+  "items": [
+   {
+    "cat": "home",
+    "slug": "dining-table",
+    "hint": "dining table with chairs"
+   },
+   {
+    "cat": "home",
+    "slug": "chair",
+    "hint": "wooden chair"
+   },
+   {
+    "cat": "home",
+    "slug": "bookshelf",
+    "hint": "bookshelf with books"
+   },
+   {
+    "cat": "home",
+    "slug": "wardrobe",
+    "hint": "wardrobe"
+   },
+   {
+    "cat": "home",
+    "slug": "drawers",
+    "hint": "chest of drawers"
+   },
+   {
+    "cat": "home",
+    "slug": "mirror",
+    "hint": "standing mirror"
+   },
+   {
+    "cat": "home",
+    "slug": "window-curtains",
+    "hint": "window with curtains"
+   },
+   {
+    "cat": "home",
+    "slug": "kotatsu",
+    "hint": "kotatsu heated table"
+   },
+   {
+    "cat": "home",
+    "slug": "futon",
+    "hint": "futon bedding"
+   },
+   {
+    "cat": "home",
+    "slug": "cushion",
+    "hint": "cushion"
+   },
+   {
+    "cat": "home",
+    "slug": "refrigerator",
+    "hint": "refrigerator"
+   },
+   {
+    "cat": "home",
+    "slug": "microwave",
+    "hint": "microwave oven"
+   },
+   {
+    "cat": "home",
+    "slug": "rice-cooker",
+    "hint": "rice cooker"
+   },
+   {
+    "cat": "home",
+    "slug": "toaster",
+    "hint": "toaster with toast popping"
+   },
+   {
+    "cat": "home",
+    "slug": "kettle",
+    "hint": "kettle with steam"
+   },
+   {
+    "cat": "home",
+    "slug": "vacuum-cleaner",
+    "hint": "vacuum cleaner"
+   },
+   {
+    "cat": "home",
+    "slug": "robot-vacuum",
+    "hint": "robot vacuum"
+   },
+   {
+    "cat": "home",
+    "slug": "air-conditioner",
+    "hint": "air conditioner"
+   },
+   {
+    "cat": "home",
+    "slug": "electric-fan",
+    "hint": "electric fan"
+   },
+   {
+    "cat": "home",
+    "slug": "heater",
+    "hint": "space heater"
+   }
+  ]
+ },
+ {
+  "batch": "b36",
+  "cat": "home",
+  "items": [
+   {
+    "cat": "home",
+    "slug": "iron",
+    "hint": "clothes iron"
+   },
+   {
+    "cat": "home",
+    "slug": "hair-dryer",
+    "hint": "hair dryer"
+   },
+   {
+    "cat": "home",
+    "slug": "television",
+    "hint": "television"
+   },
+   {
+    "cat": "home",
+    "slug": "ceiling-light",
+    "hint": "ceiling light"
+   },
+   {
+    "cat": "home",
+    "slug": "frying-pan",
+    "hint": "frying pan with egg"
+   },
+   {
+    "cat": "home",
+    "slug": "cutting-board",
+    "hint": "knife and cutting board with vegetables"
+   },
+   {
+    "cat": "home",
+    "slug": "kitchen-utensils",
+    "hint": "ladle, spatula and whisk"
+   },
+   {
+    "cat": "home",
+    "slug": "plates",
+    "hint": "stack of plates"
+   },
+   {
+    "cat": "home",
+    "slug": "teapot",
+    "hint": "teapot"
+   },
+   {
+    "cat": "home",
+    "slug": "oven-mitt",
+    "hint": "oven mitt"
+   },
+   {
+    "cat": "home",
+    "slug": "apron",
+    "hint": "apron"
+   },
+   {
+    "cat": "home",
+    "slug": "toilet",
+    "hint": "toilet"
+   },
+   {
+    "cat": "home",
+    "slug": "toothbrush-cup",
+    "hint": "toothbrushes in a cup"
+   },
+   {
+    "cat": "home",
+    "slug": "towel",
+    "hint": "folded towels"
+   },
+   {
+    "cat": "home",
+    "slug": "soap",
+    "hint": "soap with bubbles"
+   },
+   {
+    "cat": "home",
+    "slug": "shampoo",
+    "hint": "shampoo bottles (no text)"
+   },
+   {
+    "cat": "home",
+    "slug": "shower",
+    "hint": "shower head with water"
+   },
+   {
+    "cat": "home",
+    "slug": "laundry-hanging",
+    "hint": "laundry hanging to dry"
+   },
+   {
+    "cat": "home",
+    "slug": "folding-clothes",
+    "hint": "folded clothes stack"
+   },
+   {
+    "cat": "home",
+    "slug": "washing-dishes",
+    "hint": "washing dishes in a sink"
+   }
+  ]
+ },
+ {
+  "batch": "b37",
+  "cat": "home",
+  "items": [
+   {
+    "cat": "home",
+    "slug": "mopping",
+    "hint": "mop and bucket"
+   },
+   {
+    "cat": "home",
+    "slug": "window-cleaning",
+    "hint": "cleaning a window with a spray"
+   },
+   {
+    "cat": "home",
+    "slug": "taking-out-trash",
+    "hint": "trash bag at the door"
+   },
+   {
+    "cat": "home",
+    "slug": "grocery-bag",
+    "hint": "grocery bag with vegetables"
+   },
+   {
+    "cat": "home",
+    "slug": "door",
+    "hint": "front door"
+   },
+   {
+    "cat": "home",
+    "slug": "intercom",
+    "hint": "doorbell intercom"
+   },
+   {
+    "cat": "home",
+    "slug": "mailbox",
+    "hint": "mailbox with a letter"
+   },
+   {
+    "cat": "home",
+    "slug": "umbrella-stand",
+    "hint": "umbrella stand"
+   },
+   {
+    "cat": "home",
+    "slug": "slippers",
+    "hint": "pair of slippers"
+   },
+   {
+    "cat": "home",
+    "slug": "shoes-entrance",
+    "hint": "shoes at the entrance"
+   },
+   {
+    "cat": "home",
+    "slug": "picture-frame",
+    "hint": "picture frame"
+   },
+   {
+    "cat": "home",
+    "slug": "wall-clock",
+    "hint": "wall clock (no numbers)"
+   },
+   {
+    "cat": "home",
+    "slug": "candle",
+    "hint": "candle"
+   },
+   {
+    "cat": "home",
+    "slug": "toolbox",
+    "hint": "toolbox"
+   },
+   {
+    "cat": "home",
+    "slug": "hammer",
+    "hint": "hammer and nails"
+   },
+   {
+    "cat": "home",
+    "slug": "ladder",
+    "hint": "ladder"
+   },
+   {
+    "cat": "home",
+    "slug": "flashlight",
+    "hint": "flashlight"
+   },
+   {
+    "cat": "home",
+    "slug": "emergency-bag",
+    "hint": "emergency kit backpack"
+   },
+   {
+    "cat": "home",
+    "slug": "moving-boxes",
+    "hint": "moving boxes"
+   },
+   {
+    "cat": "home",
+    "slug": "apartment",
+    "hint": "apartment building"
+   }
+  ]
+ },
+ {
+  "batch": "b38",
+  "cat": "home",
+  "items": [
+   {
+    "cat": "home",
+    "slug": "desk-chair",
+    "hint": "study desk and chair"
+   },
+   {
+    "cat": "home",
+    "slug": "houseplant",
+    "hint": "large houseplant"
+   },
+   {
+    "cat": "home",
+    "slug": "air-purifier",
+    "hint": "air purifier"
+   },
+   {
+    "cat": "home",
+    "slug": "humidifier",
+    "hint": "humidifier with mist"
+   },
+   {
+    "cat": "home",
+    "slug": "dishwasher",
+    "hint": "dishwasher"
+   },
+   {
+    "cat": "home",
+    "slug": "sewing-kit",
+    "hint": "sewing kit"
+   },
+   {
+    "cat": "home",
+    "slug": "ironing-board",
+    "hint": "ironing board"
+   },
+   {
+    "cat": "home",
+    "slug": "coat-rack",
+    "hint": "coat rack with coat and hat"
+   },
+   {
+    "cat": "home",
+    "slug": "storage-boxes",
+    "hint": "storage boxes"
+   },
+   {
+    "cat": "home",
+    "slug": "garden-hose",
+    "hint": "garden hose"
+   },
+   {
+    "cat": "home",
+    "slug": "key-holder",
+    "hint": "key hooks with keys"
+   },
+   {
+    "cat": "home",
+    "slug": "light-switch",
+    "hint": "light switch"
+   },
+   {
+    "cat": "home",
+    "slug": "power-strip",
+    "hint": "power strip"
+   },
+   {
+    "cat": "home",
+    "slug": "smoke-alarm",
+    "hint": "smoke alarm"
+   },
+   {
+    "cat": "home",
+    "slug": "fire-extinguisher",
+    "hint": "fire extinguisher"
+   },
+   {
+    "cat": "home",
+    "slug": "bath-towel-robe",
+    "hint": "bathrobe"
+   },
+   {
+    "cat": "home",
+    "slug": "bunk-bed",
+    "hint": "bunk bed"
+   },
+   {
+    "cat": "home",
+    "slug": "baby-crib",
+    "hint": "baby crib"
+   },
+   {
+    "cat": "home",
+    "slug": "pet-bed",
+    "hint": "pet bed with a toy"
+   },
+   {
+    "cat": "home",
+    "slug": "doormat",
+    "hint": "doormat (no text)"
+   }
+  ]
+ },
+ {
+  "batch": "b39",
+  "cat": "tech",
+  "items": [
+   {
+    "cat": "tech",
+    "slug": "desktop-computer",
+    "hint": "desktop computer"
+   },
+   {
+    "cat": "tech",
+    "slug": "tablet",
+    "hint": "tablet"
+   },
+   {
+    "cat": "tech",
+    "slug": "smartwatch",
+    "hint": "smartwatch"
+   },
+   {
+    "cat": "tech",
+    "slug": "headphones",
+    "hint": "headphones"
+   },
+   {
+    "cat": "tech",
+    "slug": "earbuds",
+    "hint": "wireless earbuds"
+   },
+   {
+    "cat": "tech",
+    "slug": "keyboard",
+    "hint": "keyboard"
+   },
+   {
+    "cat": "tech",
+    "slug": "computer-mouse",
+    "hint": "computer mouse"
+   },
+   {
+    "cat": "tech",
+    "slug": "printer",
+    "hint": "printer with paper"
+   },
+   {
+    "cat": "tech",
+    "slug": "usb-drive",
+    "hint": "USB flash drive"
+   },
+   {
+    "cat": "tech",
+    "slug": "server",
+    "hint": "server rack"
+   },
+   {
+    "cat": "tech",
+    "slug": "vr-headset",
+    "hint": "VR headset"
+   },
+   {
+    "cat": "tech",
+    "slug": "drone",
+    "hint": "drone"
+   },
+   {
+    "cat": "tech",
+    "slug": "3d-printer",
+    "hint": "3D printer"
+   },
+   {
+    "cat": "tech",
+    "slug": "smart-speaker",
+    "hint": "smart speaker"
+   },
+   {
+    "cat": "tech",
+    "slug": "ai-chat",
+    "hint": "chat bubble with a sparkle (AI chat)"
+   },
+   {
+    "cat": "tech",
+    "slug": "ai-chip",
+    "hint": "chip with a brain pattern"
+   },
+   {
+    "cat": "tech",
+    "slug": "coding-screen",
+    "hint": "screen with code lines (no readable text)"
+   },
+   {
+    "cat": "tech",
+    "slug": "bug-code",
+    "hint": "cute bug on a screen"
+   },
+   {
+    "cat": "tech",
+    "slug": "settings-gear",
+    "hint": "settings gear"
+   },
+   {
+    "cat": "tech",
+    "slug": "download",
+    "hint": "download arrow into a tray"
+   }
+  ]
+ },
+ {
+  "batch": "b40",
+  "cat": "tech",
+  "items": [
+   {
+    "cat": "tech",
+    "slug": "link-chain",
+    "hint": "chain link"
+   },
+   {
+    "cat": "tech",
+    "slug": "qr-code",
+    "hint": "QR code pattern"
+   },
+   {
+    "cat": "tech",
+    "slug": "barcode",
+    "hint": "barcode"
+   },
+   {
+    "cat": "tech",
+    "slug": "password-key",
+    "hint": "key with dots (password)"
+   },
+   {
+    "cat": "tech",
+    "slug": "fingerprint",
+    "hint": "fingerprint"
+   },
+   {
+    "cat": "tech",
+    "slug": "face-scan",
+    "hint": "face recognition frame"
+   },
+   {
+    "cat": "tech",
+    "slug": "shield",
+    "hint": "security shield with check"
+   },
+   {
+    "cat": "tech",
+    "slug": "virus-alert",
+    "hint": "warning sign with a virus"
+   },
+   {
+    "cat": "tech",
+    "slug": "spam-mail",
+    "hint": "envelope with a warning"
+   },
+   {
+    "cat": "tech",
+    "slug": "notification-bell",
+    "hint": "notification bell with a dot"
+   },
+   {
+    "cat": "tech",
+    "slug": "chat-bubbles",
+    "hint": "chat bubbles"
+   },
+   {
+    "cat": "tech",
+    "slug": "play-button",
+    "hint": "video play button"
+   },
+   {
+    "cat": "tech",
+    "slug": "live-stream",
+    "hint": "camera with a red recording dot"
+   },
+   {
+    "cat": "tech",
+    "slug": "thumbs-up-like",
+    "hint": "thumbs up icon"
+   },
+   {
+    "cat": "tech",
+    "slug": "comment",
+    "hint": "comment bubble with dots"
+   },
+   {
+    "cat": "tech",
+    "slug": "database",
+    "hint": "database cylinders"
+   },
+   {
+    "cat": "tech",
+    "slug": "satellite",
+    "hint": "satellite"
+   },
+   {
+    "cat": "tech",
+    "slug": "antenna-tower",
+    "hint": "antenna tower with signal"
+   },
+   {
+    "cat": "tech",
+    "slug": "charging-cable",
+    "hint": "charging cable"
+   },
+   {
+    "cat": "tech",
+    "slug": "power-plug",
+    "hint": "power plug and socket"
+   }
+  ]
+ },
+ {
+  "batch": "b41",
+  "cat": "tech",
+  "items": [
+   {
+    "cat": "tech",
+    "slug": "solar-panel",
+    "hint": "solar panels with sun"
+   },
+   {
+    "cat": "tech",
+    "slug": "ev-charging",
+    "hint": "electric car charging"
+   },
+   {
+    "cat": "tech",
+    "slug": "online-shopping",
+    "hint": "shopping cart on a phone"
+   },
+   {
+    "cat": "tech",
+    "slug": "mobile-payment",
+    "hint": "phone paying at a terminal"
+   },
+   {
+    "cat": "tech",
+    "slug": "gps-phone",
+    "hint": "phone with a map pin"
+   },
+   {
+    "cat": "tech",
+    "slug": "smart-home",
+    "hint": "house with wifi and devices"
+   },
+   {
+    "cat": "tech",
+    "slug": "sd-card",
+    "hint": "SD card"
+   },
+   {
+    "cat": "tech",
+    "slug": "save-disk",
+    "hint": "floppy disk save icon"
+   },
+   {
+    "cat": "tech",
+    "slug": "cursor-click",
+    "hint": "mouse cursor clicking"
+   },
+   {
+    "cat": "tech",
+    "slug": "loading",
+    "hint": "loading spinner"
+   },
+   {
+    "cat": "tech",
+    "slug": "error-warning",
+    "hint": "warning triangle with exclamation shape"
+   },
+   {
+    "cat": "tech",
+    "slug": "folder",
+    "hint": "folder with documents"
+   },
+   {
+    "cat": "tech",
+    "slug": "trash-delete",
+    "hint": "trash can delete icon"
+   },
+   {
+    "cat": "tech",
+    "slug": "photo-gallery",
+    "hint": "photo icon with mountains"
+   },
+   {
+    "cat": "tech",
+    "slug": "microphone",
+    "hint": "podcast microphone"
+   },
+   {
+    "cat": "tech",
+    "slug": "game-console",
+    "hint": "handheld game console"
+   },
+   {
+    "cat": "tech",
+    "slug": "webcam",
+    "hint": "webcam"
+   },
+   {
+    "cat": "tech",
+    "slug": "cloud-computing",
+    "hint": "cloud with network nodes"
+   },
+   {
+    "cat": "tech",
+    "slug": "robot-arm",
+    "hint": "industrial robot arm"
+   },
+   {
+    "cat": "tech",
+    "slug": "smartphone",
+    "hint": "plain smartphone"
+   }
+  ]
+ },
+ {
+  "batch": "b42",
+  "cat": "school",
+  "items": [
+   {
+    "cat": "school",
+    "slug": "eraser",
+    "hint": "eraser"
+   },
+   {
+    "cat": "school",
+    "slug": "crayons",
+    "hint": "crayons"
+   },
+   {
+    "cat": "school",
+    "slug": "colored-pencils",
+    "hint": "colored pencils"
+   },
+   {
+    "cat": "school",
+    "slug": "scissors",
+    "hint": "scissors"
+   },
+   {
+    "cat": "school",
+    "slug": "glue",
+    "hint": "glue stick"
+   },
+   {
+    "cat": "school",
+    "slug": "watercolors",
+    "hint": "watercolor paints and brush"
+   },
+   {
+    "cat": "school",
+    "slug": "pencil-sharpener",
+    "hint": "pencil sharpener"
+   },
+   {
+    "cat": "school",
+    "slug": "pencil-case",
+    "hint": "pencil case"
+   },
+   {
+    "cat": "school",
+    "slug": "drawing-compass",
+    "hint": "drawing compass"
+   },
+   {
+    "cat": "school",
+    "slug": "globe-desk",
+    "hint": "desk globe"
+   },
+   {
+    "cat": "school",
+    "slug": "abacus",
+    "hint": "abacus"
+   },
+   {
+    "cat": "school",
+    "slug": "test-tubes",
+    "hint": "test tubes in a rack"
+   },
+   {
+    "cat": "school",
+    "slug": "magnet",
+    "hint": "horseshoe magnet with clips"
+   },
+   {
+    "cat": "school",
+    "slug": "dictionary",
+    "hint": "thick open dictionary (no text)"
+   },
+   {
+    "cat": "school",
+    "slug": "school-desk",
+    "hint": "school desk and chair"
+   },
+   {
+    "cat": "school",
+    "slug": "blackboard",
+    "hint": "blackboard with chalk"
+   },
+   {
+    "cat": "school",
+    "slug": "school-bell",
+    "hint": "school bell"
+   },
+   {
+    "cat": "school",
+    "slug": "school-bus",
+    "hint": "school bus"
+   },
+   {
+    "cat": "school",
+    "slug": "school-lunch",
+    "hint": "school lunch tray"
+   },
+   {
+    "cat": "school",
+    "slug": "recorder-flute",
+    "hint": "recorder flute"
+   }
+  ]
+ },
+ {
+  "batch": "b43",
+  "cat": "school",
+  "items": [
+   {
+    "cat": "school",
+    "slug": "classroom-hands",
+    "hint": "students raising hands"
+   },
+   {
+    "cat": "school",
+    "slug": "test-paper",
+    "hint": "test paper with red circles (no numbers)"
+   },
+   {
+    "cat": "school",
+    "slug": "homework",
+    "hint": "homework at a desk"
+   },
+   {
+    "cat": "school",
+    "slug": "studying-late",
+    "hint": "studying late at night"
+   },
+   {
+    "cat": "school",
+    "slug": "entrance-ceremony",
+    "hint": "entrance ceremony with cherry blossoms"
+   },
+   {
+    "cat": "school",
+    "slug": "graduation-ceremony",
+    "hint": "students in graduation gowns"
+   },
+   {
+    "cat": "school",
+    "slug": "school-uniform",
+    "hint": "student in a school uniform"
+   },
+   {
+    "cat": "school",
+    "slug": "field-trip",
+    "hint": "students on a field trip"
+   },
+   {
+    "cat": "school",
+    "slug": "library",
+    "hint": "library shelves and reading table"
+   },
+   {
+    "cat": "school",
+    "slug": "toy-blocks",
+    "hint": "toy blocks (no letters)"
+   },
+   {
+    "cat": "school",
+    "slug": "math-shapes",
+    "hint": "math shapes triangle circle square"
+   },
+   {
+    "cat": "school",
+    "slug": "science-experiment",
+    "hint": "science experiment with flask bubbles"
+   },
+   {
+    "cat": "school",
+    "slug": "plant-observation",
+    "hint": "watching a plant with a notebook"
+   },
+   {
+    "cat": "school",
+    "slug": "bug-catching",
+    "hint": "insect net and cage"
+   },
+   {
+    "cat": "school",
+    "slug": "world-map",
+    "hint": "world map"
+   },
+   {
+    "cat": "school",
+    "slug": "kindergarten-kids",
+    "hint": "kindergarten kids playing"
+   },
+   {
+    "cat": "school",
+    "slug": "kindergarten-hat",
+    "hint": "kindergarten yellow hat and bag"
+   },
+   {
+    "cat": "school",
+    "slug": "university-campus",
+    "hint": "university building"
+   },
+   {
+    "cat": "school",
+    "slug": "lecture-hall",
+    "hint": "lecture hall seats"
+   },
+   {
+    "cat": "school",
+    "slug": "online-class",
+    "hint": "online class on a laptop"
+   }
+  ]
+ },
+ {
+  "batch": "b44",
+  "cat": "school",
+  "items": [
+   {
+    "cat": "school",
+    "slug": "tutor",
+    "hint": "tutor helping a student"
+   },
+   {
+    "cat": "school",
+    "slug": "study-group",
+    "hint": "students studying together"
+   },
+   {
+    "cat": "school",
+    "slug": "highlighters",
+    "hint": "highlighter pens"
+   },
+   {
+    "cat": "school",
+    "slug": "bookmark",
+    "hint": "book with a bookmark"
+   },
+   {
+    "cat": "school",
+    "slug": "teacher-grading",
+    "hint": "teacher grading papers"
+   },
+   {
+    "cat": "school",
+    "slug": "principal",
+    "hint": "school principal"
+   },
+   {
+    "cat": "school",
+    "slug": "school-gate",
+    "hint": "school gate"
+   },
+   {
+    "cat": "school",
+    "slug": "clay",
+    "hint": "modeling clay"
+   },
+   {
+    "cat": "school",
+    "slug": "origami-class",
+    "hint": "origami paper and crane"
+   },
+   {
+    "cat": "school",
+    "slug": "piano-class",
+    "hint": "small piano in a classroom"
+   },
+   {
+    "cat": "school",
+    "slug": "pe-class",
+    "hint": "PE class with a ball"
+   },
+   {
+    "cat": "school",
+    "slug": "swimming-class",
+    "hint": "swimming class kids in pool"
+   },
+   {
+    "cat": "school",
+    "slug": "lunch-time-kids",
+    "hint": "kids eating lunch"
+   },
+   {
+    "cat": "school",
+    "slug": "ruler",
+    "hint": "ruler"
+   },
+   {
+    "cat": "school",
+    "slug": "notebook-stack",
+    "hint": "stack of notebooks"
+   },
+   {
+    "cat": "school",
+    "slug": "backpack-yellow-cover",
+    "hint": "backpack with rain cover"
+   },
+   {
+    "cat": "school",
+    "slug": "stopwatch-class",
+    "hint": "timer on a desk"
+   },
+   {
+    "cat": "school",
+    "slug": "art-class",
+    "hint": "easel with a painting"
+   },
+   {
+    "cat": "school",
+    "slug": "calligraphy-set",
+    "hint": "calligraphy brush and ink stone"
+   },
+   {
+    "cat": "school",
+    "slug": "chalk-eraser",
+    "hint": "blackboard eraser and chalk"
+   }
+  ]
+ },
+ {
+  "batch": "b45",
+  "cat": "travel",
+  "items": [
+   {
+    "cat": "travel",
+    "slug": "taxi",
+    "hint": "taxi"
+   },
+   {
+    "cat": "travel",
+    "slug": "police-car",
+    "hint": "police car"
+   },
+   {
+    "cat": "travel",
+    "slug": "fire-truck",
+    "hint": "fire truck"
+   },
+   {
+    "cat": "travel",
+    "slug": "truck",
+    "hint": "truck"
+   },
+   {
+    "cat": "travel",
+    "slug": "motorcycle",
+    "hint": "motorcycle"
+   },
+   {
+    "cat": "travel",
+    "slug": "scooter",
+    "hint": "scooter"
+   },
+   {
+    "cat": "travel",
+    "slug": "electric-scooter",
+    "hint": "electric kick scooter"
+   },
+   {
+    "cat": "travel",
+    "slug": "helicopter",
+    "hint": "helicopter"
+   },
+   {
+    "cat": "travel",
+    "slug": "subway",
+    "hint": "subway train"
+   },
+   {
+    "cat": "travel",
+    "slug": "tram",
+    "hint": "tram"
+   },
+   {
+    "cat": "travel",
+    "slug": "ropeway",
+    "hint": "ropeway cable car"
+   },
+   {
+    "cat": "travel",
+    "slug": "sailboat",
+    "hint": "sailboat"
+   },
+   {
+    "cat": "travel",
+    "slug": "canoe",
+    "hint": "canoe"
+   },
+   {
+    "cat": "travel",
+    "slug": "submarine",
+    "hint": "submarine"
+   },
+   {
+    "cat": "travel",
+    "slug": "steam-locomotive",
+    "hint": "steam locomotive"
+   },
+   {
+    "cat": "travel",
+    "slug": "camper-van",
+    "hint": "camper van"
+   },
+   {
+    "cat": "travel",
+    "slug": "tractor",
+    "hint": "tractor"
+   },
+   {
+    "cat": "travel",
+    "slug": "traffic-light",
+    "hint": "traffic light"
+   },
+   {
+    "cat": "travel",
+    "slug": "crosswalk",
+    "hint": "crosswalk with a person"
+   },
+   {
+    "cat": "travel",
+    "slug": "gas-station",
+    "hint": "gas station pump"
+   }
+  ]
+ },
+ {
+  "batch": "b46",
+  "cat": "travel",
+  "items": [
+   {
+    "cat": "travel",
+    "slug": "bus-stop",
+    "hint": "bus stop"
+   },
+   {
+    "cat": "travel",
+    "slug": "train-platform",
+    "hint": "train station platform"
+   },
+   {
+    "cat": "travel",
+    "slug": "airport",
+    "hint": "airport terminal with plane"
+   },
+   {
+    "cat": "travel",
+    "slug": "passport",
+    "hint": "passport booklet (no text)"
+   },
+   {
+    "cat": "travel",
+    "slug": "ticket",
+    "hint": "travel ticket"
+   },
+   {
+    "cat": "travel",
+    "slug": "luggage-cart",
+    "hint": "luggage cart"
+   },
+   {
+    "cat": "travel",
+    "slug": "backpacker",
+    "hint": "backpacker"
+   },
+   {
+    "cat": "travel",
+    "slug": "hotel",
+    "hint": "hotel building"
+   },
+   {
+    "cat": "travel",
+    "slug": "ryokan",
+    "hint": "Japanese inn"
+   },
+   {
+    "cat": "travel",
+    "slug": "hot-spring",
+    "hint": "hot spring with steam"
+   },
+   {
+    "cat": "travel",
+    "slug": "beach-umbrella",
+    "hint": "beach umbrella and chair"
+   },
+   {
+    "cat": "travel",
+    "slug": "swim-ring",
+    "hint": "swim ring float"
+   },
+   {
+    "cat": "travel",
+    "slug": "sunglasses",
+    "hint": "sunglasses"
+   },
+   {
+    "cat": "travel",
+    "slug": "sun-hat",
+    "hint": "straw sun hat"
+   },
+   {
+    "cat": "travel",
+    "slug": "souvenir",
+    "hint": "souvenir bag"
+   },
+   {
+    "cat": "travel",
+    "slug": "postcard",
+    "hint": "postcard with stamp"
+   },
+   {
+    "cat": "travel",
+    "slug": "compass",
+    "hint": "compass"
+   },
+   {
+    "cat": "travel",
+    "slug": "binoculars",
+    "hint": "binoculars"
+   },
+   {
+    "cat": "travel",
+    "slug": "hiking-boots",
+    "hint": "hiking boots"
+   },
+   {
+    "cat": "travel",
+    "slug": "hiker",
+    "hint": "hiker on a mountain trail"
+   }
+  ]
+ },
+ {
+  "batch": "b47",
+  "cat": "travel",
+  "items": [
+   {
+    "cat": "travel",
+    "slug": "picnic",
+    "hint": "picnic basket and blanket"
+   },
+   {
+    "cat": "travel",
+    "slug": "barbecue",
+    "hint": "barbecue grill"
+   },
+   {
+    "cat": "travel",
+    "slug": "japanese-castle",
+    "hint": "Japanese castle"
+   },
+   {
+    "cat": "travel",
+    "slug": "european-castle",
+    "hint": "European castle"
+   },
+   {
+    "cat": "travel",
+    "slug": "pagoda",
+    "hint": "pagoda"
+   },
+   {
+    "cat": "travel",
+    "slug": "torii",
+    "hint": "torii gate"
+   },
+   {
+    "cat": "travel",
+    "slug": "lighthouse",
+    "hint": "lighthouse"
+   },
+   {
+    "cat": "travel",
+    "slug": "windmill",
+    "hint": "windmill"
+   },
+   {
+    "cat": "travel",
+    "slug": "bridge",
+    "hint": "bridge over water"
+   },
+   {
+    "cat": "travel",
+    "slug": "pyramid",
+    "hint": "pyramids"
+   },
+   {
+    "cat": "travel",
+    "slug": "cruise-ship",
+    "hint": "cruise ship"
+   },
+   {
+    "cat": "travel",
+    "slug": "world-trip",
+    "hint": "globe with a plane circling"
+   },
+   {
+    "cat": "travel",
+    "slug": "duffel-bag",
+    "hint": "travel duffel bag"
+   },
+   {
+    "cat": "travel",
+    "slug": "tourist-photo",
+    "hint": "tourist taking a photo"
+   },
+   {
+    "cat": "travel",
+    "slug": "road-trip",
+    "hint": "car on a winding road"
+   },
+   {
+    "cat": "travel",
+    "slug": "tunnel",
+    "hint": "tunnel"
+   },
+   {
+    "cat": "travel",
+    "slug": "highway",
+    "hint": "highway road"
+   },
+   {
+    "cat": "travel",
+    "slug": "train-window",
+    "hint": "view from a train window"
+   },
+   {
+    "cat": "travel",
+    "slug": "ferry",
+    "hint": "ferry boat"
+   },
+   {
+    "cat": "travel",
+    "slug": "rental-car-key",
+    "hint": "car key"
+   }
+  ]
+ },
+ {
+  "batch": "b48",
+  "cat": "travel",
+  "items": [
+   {
+    "cat": "travel",
+    "slug": "map-route",
+    "hint": "map with a dotted route"
+   },
+   {
+    "cat": "travel",
+    "slug": "tent-stars",
+    "hint": "tent under the stars"
+   },
+   {
+    "cat": "travel",
+    "slug": "mountain-cabin",
+    "hint": "mountain cabin"
+   },
+   {
+    "cat": "travel",
+    "slug": "airplane-window",
+    "hint": "view from an airplane window"
+   },
+   {
+    "cat": "travel",
+    "slug": "check-in-counter",
+    "hint": "airport check-in counter"
+   },
+   {
+    "cat": "travel",
+    "slug": "travel-pillow",
+    "hint": "neck pillow"
+   },
+   {
+    "cat": "travel",
+    "slug": "camping-chair",
+    "hint": "camping chair and lantern"
+   },
+   {
+    "cat": "travel",
+    "slug": "lantern",
+    "hint": "camping lantern"
+   },
+   {
+    "cat": "travel",
+    "slug": "canoe-lake",
+    "hint": "canoe on a lake"
+   },
+   {
+    "cat": "travel",
+    "slug": "ski-resort",
+    "hint": "ski lift"
+   },
+   {
+    "cat": "travel",
+    "slug": "train-ticket-gate",
+    "hint": "ticket gates"
+   },
+   {
+    "cat": "travel",
+    "slug": "sightseeing-bus",
+    "hint": "double decker sightseeing bus"
+   },
+   {
+    "cat": "travel",
+    "slug": "hot-air-balloons",
+    "hint": "several hot air balloons"
+   },
+   {
+    "cat": "travel",
+    "slug": "amusement-park",
+    "hint": "ferris wheel"
+   },
+   {
+    "cat": "travel",
+    "slug": "roller-coaster",
+    "hint": "roller coaster"
+   },
+   {
+    "cat": "travel",
+    "slug": "aquarium",
+    "hint": "aquarium tunnel with fish"
+   },
+   {
+    "cat": "travel",
+    "slug": "zoo-gate",
+    "hint": "zoo entrance"
+   },
+   {
+    "cat": "travel",
+    "slug": "museum",
+    "hint": "museum building"
+   },
+   {
+    "cat": "travel",
+    "slug": "tower",
+    "hint": "city tower"
+   },
+   {
+    "cat": "travel",
+    "slug": "skyline",
+    "hint": "city skyline"
+   }
+  ]
+ },
+ {
+  "batch": "b49",
+  "cat": "events",
+  "items": [
+   {
+    "cat": "events",
+    "slug": "new-year-sunrise",
+    "hint": "first sunrise of the year"
+   },
+   {
+    "cat": "events",
+    "slug": "kadomatsu",
+    "hint": "kadomatsu new year decoration"
+   },
+   {
+    "cat": "events",
+    "slug": "kagami-mochi",
+    "hint": "kagami mochi"
+   },
+   {
+    "cat": "events",
+    "slug": "lucky-bag",
+    "hint": "lucky bag"
+   },
+   {
+    "cat": "events",
+    "slug": "setsubun",
+    "hint": "oni mask and beans"
+   },
+   {
+    "cat": "events",
+    "slug": "valentine-chocolate",
+    "hint": "heart chocolate box"
+   },
+   {
+    "cat": "events",
+    "slug": "hinamatsuri",
+    "hint": "hina dolls"
+   },
+   {
+    "cat": "events",
+    "slug": "hanami",
+    "hint": "picnic under cherry blossoms"
+   },
+   {
+    "cat": "events",
+    "slug": "easter-eggs",
+    "hint": "easter eggs in a basket"
+   },
+   {
+    "cat": "events",
+    "slug": "easter-bunny",
+    "hint": "bunny with an egg"
+   },
+   {
+    "cat": "events",
+    "slug": "carnation",
+    "hint": "carnation for mother's day"
+   },
+   {
+    "cat": "events",
+    "slug": "fathers-day",
+    "hint": "necktie gift for father's day"
+   },
+   {
+    "cat": "events",
+    "slug": "koinobori",
+    "hint": "carp streamers"
+   },
+   {
+    "cat": "events",
+    "slug": "tanabata",
+    "hint": "tanabata bamboo with paper strips (no text)"
+   },
+   {
+    "cat": "events",
+    "slug": "yukata",
+    "hint": "person in a yukata"
+   },
+   {
+    "cat": "events",
+    "slug": "summer-festival",
+    "hint": "summer festival lanterns"
+   },
+   {
+    "cat": "events",
+    "slug": "bon-dance",
+    "hint": "bon dance with drum tower"
+   },
+   {
+    "cat": "events",
+    "slug": "moon-viewing",
+    "hint": "moon viewing with dango and susuki grass"
+   },
+   {
+    "cat": "events",
+    "slug": "harvest",
+    "hint": "autumn harvest basket"
+   },
+   {
+    "cat": "events",
+    "slug": "thanksgiving",
+    "hint": "roast turkey"
+   }
+  ]
+ },
+ {
+  "batch": "b50",
+  "cat": "events",
+  "items": [
+   {
+    "cat": "events",
+    "slug": "halloween-ghost",
+    "hint": "cute ghost"
+   },
+   {
+    "cat": "events",
+    "slug": "witch-hat",
+    "hint": "witch hat"
+   },
+   {
+    "cat": "events",
+    "slug": "trick-or-treat",
+    "hint": "candy bag for trick or treat"
+   },
+   {
+    "cat": "events",
+    "slug": "halloween-bat",
+    "hint": "halloween bat and moon"
+   },
+   {
+    "cat": "events",
+    "slug": "santa",
+    "hint": "Santa Claus"
+   },
+   {
+    "cat": "events",
+    "slug": "reindeer",
+    "hint": "reindeer"
+   },
+   {
+    "cat": "events",
+    "slug": "wreath",
+    "hint": "Christmas wreath"
+   },
+   {
+    "cat": "events",
+    "slug": "stocking",
+    "hint": "Christmas stocking"
+   },
+   {
+    "cat": "events",
+    "slug": "gingerbread",
+    "hint": "gingerbread man"
+   },
+   {
+    "cat": "events",
+    "slug": "christmas-candle",
+    "hint": "Christmas candle with holly"
+   },
+   {
+    "cat": "events",
+    "slug": "snow-globe",
+    "hint": "snow globe"
+   },
+   {
+    "cat": "events",
+    "slug": "lunar-new-year-lantern",
+    "hint": "red lantern"
+   },
+   {
+    "cat": "events",
+    "slug": "red-envelope",
+    "hint": "red envelope"
+   },
+   {
+    "cat": "events",
+    "slug": "wedding-couple",
+    "hint": "bride and groom"
+   },
+   {
+    "cat": "events",
+    "slug": "wedding-cake",
+    "hint": "wedding cake"
+   },
+   {
+    "cat": "events",
+    "slug": "wedding-rings",
+    "hint": "wedding rings"
+   },
+   {
+    "cat": "events",
+    "slug": "bouquet",
+    "hint": "bridal bouquet"
+   },
+   {
+    "cat": "events",
+    "slug": "champagne-toast",
+    "hint": "champagne glasses toasting"
+   },
+   {
+    "cat": "events",
+    "slug": "party-hats",
+    "hint": "party hats"
+   },
+   {
+    "cat": "events",
+    "slug": "bunting",
+    "hint": "bunting flags"
+   }
+  ]
+ },
+ {
+  "batch": "b51",
+  "cat": "events",
+  "items": [
+   {
+    "cat": "events",
+    "slug": "balloon-bunch",
+    "hint": "bunch of balloons"
+   },
+   {
+    "cat": "events",
+    "slug": "confetti",
+    "hint": "confetti"
+   },
+   {
+    "cat": "events",
+    "slug": "pinata",
+    "hint": "piñata"
+   },
+   {
+    "cat": "events",
+    "slug": "festival-stall",
+    "hint": "festival food stall"
+   },
+   {
+    "cat": "events",
+    "slug": "goldfish-scooping",
+    "hint": "goldfish scooping"
+   },
+   {
+    "cat": "events",
+    "slug": "candy-apple",
+    "hint": "candy apple"
+   },
+   {
+    "cat": "events",
+    "slug": "taiko-drum",
+    "hint": "taiko drum"
+   },
+   {
+    "cat": "events",
+    "slug": "carnival-mask",
+    "hint": "carnival mask"
+   },
+   {
+    "cat": "events",
+    "slug": "music-festival",
+    "hint": "music festival stage"
+   },
+   {
+    "cat": "events",
+    "slug": "sparklers",
+    "hint": "hand sparklers"
+   },
+   {
+    "cat": "events",
+    "slug": "kids-birthday",
+    "hint": "child in a birthday hat with cake"
+   },
+   {
+    "cat": "events",
+    "slug": "surprise-party",
+    "hint": "surprise party with a banner (no text)"
+   },
+   {
+    "cat": "events",
+    "slug": "gift-wrapping",
+    "hint": "wrapping a gift"
+   },
+   {
+    "cat": "events",
+    "slug": "invitation",
+    "hint": "invitation card with a seal"
+   },
+   {
+    "cat": "events",
+    "slug": "cheers-glasses",
+    "hint": "glasses clinking"
+   },
+   {
+    "cat": "events",
+    "slug": "anniversary",
+    "hint": "anniversary hearts and cake"
+   },
+   {
+    "cat": "events",
+    "slug": "baby-shower",
+    "hint": "baby shower balloons and onesie"
+   },
+   {
+    "cat": "events",
+    "slug": "graduation-party",
+    "hint": "graduation cap and confetti"
+   },
+   {
+    "cat": "events",
+    "slug": "sports-day-flags",
+    "hint": "sports day flags"
+   },
+   {
+    "cat": "events",
+    "slug": "cultural-festival",
+    "hint": "school festival stage"
+   }
+  ]
+ },
+ {
+  "batch": "b52",
+  "cat": "events",
+  "items": [
+   {
+    "cat": "events",
+    "slug": "fireworks-festival",
+    "hint": "fireworks over the river"
+   },
+   {
+    "cat": "events",
+    "slug": "snow-festival",
+    "hint": "snow sculpture"
+   },
+   {
+    "cat": "events",
+    "slug": "lantern-floating",
+    "hint": "floating lanterns on water"
+   },
+   {
+    "cat": "events",
+    "slug": "christmas-presents",
+    "hint": "presents under the tree"
+   },
+   {
+    "cat": "events",
+    "slug": "mochi-pounding",
+    "hint": "pounding mochi with a wooden mallet"
+   },
+   {
+    "cat": "events",
+    "slug": "autumn-festival",
+    "hint": "autumn festival with leaves and lantern"
+   },
+   {
+    "cat": "events",
+    "slug": "cherry-blossom-party",
+    "hint": "cherry blossoms and bento"
+   },
+   {
+    "cat": "events",
+    "slug": "ramune-bottle",
+    "hint": "ramune soda bottle"
+   },
+   {
+    "cat": "events",
+    "slug": "cake-candles",
+    "hint": "cake with candles"
+   },
+   {
+    "cat": "events",
+    "slug": "present-mountain",
+    "hint": "pile of presents"
+   },
+   {
+    "cat": "events",
+    "slug": "party-cracker-kids",
+    "hint": "kids with party crackers"
+   },
+   {
+    "cat": "events",
+    "slug": "dance-party",
+    "hint": "disco ball"
+   },
+   {
+    "cat": "events",
+    "slug": "award-ceremony",
+    "hint": "award ceremony with trophy"
+   },
+   {
+    "cat": "events",
+    "slug": "celebration-banner",
+    "hint": "garland and stars"
+   },
+   {
+    "cat": "events",
+    "slug": "thank-you-flowers",
+    "hint": "flowers with a heart card"
+   },
+   {
+    "cat": "events",
+    "slug": "countdown-party",
+    "hint": "party clock with confetti (no numbers)"
+   },
+   {
+    "cat": "events",
+    "slug": "heart-gift",
+    "hint": "heart-shaped gift box"
+   },
+   {
+    "cat": "events",
+    "slug": "leaf-viewing",
+    "hint": "autumn leaf viewing"
+   },
+   {
+    "cat": "events",
+    "slug": "summer-vacation",
+    "hint": "summer vacation with straw hat and watermelon"
+   },
+   {
+    "cat": "events",
+    "slug": "christmas-cookies",
+    "hint": "Christmas cookies"
+   }
+  ]
+ },
+ {
+  "batch": "b53",
+  "cat": "sports",
+  "items": [
+   {
+    "cat": "sports",
+    "slug": "baseball",
+    "hint": "baseball bat and ball"
+   },
+   {
+    "cat": "sports",
+    "slug": "volleyball",
+    "hint": "volleyball"
+   },
+   {
+    "cat": "sports",
+    "slug": "american-football",
+    "hint": "american football"
+   },
+   {
+    "cat": "sports",
+    "slug": "rugby",
+    "hint": "rugby ball"
+   },
+   {
+    "cat": "sports",
+    "slug": "golf",
+    "hint": "golf club and ball"
+   },
+   {
+    "cat": "sports",
+    "slug": "table-tennis",
+    "hint": "table tennis paddle and ball"
+   },
+   {
+    "cat": "sports",
+    "slug": "badminton",
+    "hint": "badminton racket and shuttlecock"
+   },
+   {
+    "cat": "sports",
+    "slug": "swimming",
+    "hint": "person swimming"
+   },
+   {
+    "cat": "sports",
+    "slug": "cycling-race",
+    "hint": "racing cyclist"
+   },
+   {
+    "cat": "sports",
+    "slug": "skiing",
+    "hint": "skier"
+   },
+   {
+    "cat": "sports",
+    "slug": "snowboarding",
+    "hint": "snowboarder"
+   },
+   {
+    "cat": "sports",
+    "slug": "ice-skating",
+    "hint": "ice skater"
+   },
+   {
+    "cat": "sports",
+    "slug": "surfing",
+    "hint": "surfer on a wave"
+   },
+   {
+    "cat": "sports",
+    "slug": "skateboarding",
+    "hint": "skateboarder"
+   },
+   {
+    "cat": "sports",
+    "slug": "boxing",
+    "hint": "boxing gloves"
+   },
+   {
+    "cat": "sports",
+    "slug": "karate",
+    "hint": "karate kid"
+   },
+   {
+    "cat": "sports",
+    "slug": "judo",
+    "hint": "judo throw"
+   },
+   {
+    "cat": "sports",
+    "slug": "sumo",
+    "hint": "sumo wrestlers"
+   },
+   {
+    "cat": "sports",
+    "slug": "kendo",
+    "hint": "kendo"
+   },
+   {
+    "cat": "sports",
+    "slug": "yoga",
+    "hint": "person doing yoga"
+   }
+  ]
+ },
+ {
+  "batch": "b54",
+  "cat": "sports",
+  "items": [
+   {
+    "cat": "sports",
+    "slug": "dumbbell",
+    "hint": "dumbbell workout"
+   },
+   {
+    "cat": "sports",
+    "slug": "push-ups",
+    "hint": "person doing push-ups"
+   },
+   {
+    "cat": "sports",
+    "slug": "jump-rope",
+    "hint": "person jumping rope"
+   },
+   {
+    "cat": "sports",
+    "slug": "marathon-finish",
+    "hint": "runner breaking the finish tape"
+   },
+   {
+    "cat": "sports",
+    "slug": "relay-baton",
+    "hint": "relay baton handoff"
+   },
+   {
+    "cat": "sports",
+    "slug": "high-jump",
+    "hint": "high jump"
+   },
+   {
+    "cat": "sports",
+    "slug": "hurdles",
+    "hint": "hurdles"
+   },
+   {
+    "cat": "sports",
+    "slug": "gymnastics",
+    "hint": "gymnast"
+   },
+   {
+    "cat": "sports",
+    "slug": "archery",
+    "hint": "archery target and arrow"
+   },
+   {
+    "cat": "sports",
+    "slug": "bowling",
+    "hint": "bowling pins and ball"
+   },
+   {
+    "cat": "sports",
+    "slug": "climbing",
+    "hint": "climbing wall"
+   },
+   {
+    "cat": "sports",
+    "slug": "horse-riding",
+    "hint": "horse riding"
+   },
+   {
+    "cat": "sports",
+    "slug": "rowing",
+    "hint": "rowing boat"
+   },
+   {
+    "cat": "sports",
+    "slug": "diving",
+    "hint": "scuba diver"
+   },
+   {
+    "cat": "sports",
+    "slug": "ice-hockey",
+    "hint": "ice hockey stick and puck"
+   },
+   {
+    "cat": "sports",
+    "slug": "cricket",
+    "hint": "cricket bat and ball"
+   },
+   {
+    "cat": "sports",
+    "slug": "cheerleader",
+    "hint": "cheerleader"
+   },
+   {
+    "cat": "sports",
+    "slug": "referee",
+    "hint": "referee with a whistle"
+   },
+   {
+    "cat": "sports",
+    "slug": "stopwatch",
+    "hint": "stopwatch"
+   },
+   {
+    "cat": "sports",
+    "slug": "medals",
+    "hint": "gold, silver and bronze medals"
+   }
+  ]
+ },
+ {
+  "batch": "b55",
+  "cat": "sports",
+  "items": [
+   {
+    "cat": "sports",
+    "slug": "podium",
+    "hint": "winners podium"
+   },
+   {
+    "cat": "sports",
+    "slug": "stadium",
+    "hint": "stadium"
+   },
+   {
+    "cat": "sports",
+    "slug": "sneakers",
+    "hint": "running shoes"
+   },
+   {
+    "cat": "sports",
+    "slug": "sports-drink",
+    "hint": "sports drink bottle"
+   },
+   {
+    "cat": "sports",
+    "slug": "stretching",
+    "hint": "person stretching"
+   },
+   {
+    "cat": "sports",
+    "slug": "warm-up",
+    "hint": "warm-up exercise"
+   },
+   {
+    "cat": "sports",
+    "slug": "tug-of-war",
+    "hint": "tug of war"
+   },
+   {
+    "cat": "sports",
+    "slug": "ball-toss",
+    "hint": "ball toss game"
+   },
+   {
+    "cat": "sports",
+    "slug": "sack-race",
+    "hint": "sack race"
+   },
+   {
+    "cat": "sports",
+    "slug": "frisbee",
+    "hint": "frisbee"
+   },
+   {
+    "cat": "sports",
+    "slug": "dodgeball",
+    "hint": "dodgeball"
+   },
+   {
+    "cat": "sports",
+    "slug": "soccer-goal",
+    "hint": "soccer goal and ball"
+   },
+   {
+    "cat": "sports",
+    "slug": "basketball-hoop",
+    "hint": "basketball hoop"
+   },
+   {
+    "cat": "sports",
+    "slug": "tennis-player",
+    "hint": "tennis player"
+   },
+   {
+    "cat": "sports",
+    "slug": "baseball-player",
+    "hint": "baseball batter"
+   },
+   {
+    "cat": "sports",
+    "slug": "soccer-player",
+    "hint": "soccer player kicking"
+   },
+   {
+    "cat": "sports",
+    "slug": "volleyball-player",
+    "hint": "volleyball player spiking"
+   },
+   {
+    "cat": "sports",
+    "slug": "fencing",
+    "hint": "fencing"
+   },
+   {
+    "cat": "sports",
+    "slug": "weightlifting",
+    "hint": "weightlifter"
+   },
+   {
+    "cat": "sports",
+    "slug": "trampoline",
+    "hint": "trampoline jumping"
+   }
+  ]
+ },
+ {
+  "batch": "b56",
+  "cat": "health",
+  "items": [
+   {
+    "cat": "health",
+    "slug": "hospital",
+    "hint": "hospital building"
+   },
+   {
+    "cat": "health",
+    "slug": "ambulance",
+    "hint": "ambulance"
+   },
+   {
+    "cat": "health",
+    "slug": "stethoscope",
+    "hint": "stethoscope"
+   },
+   {
+    "cat": "health",
+    "slug": "thermometer",
+    "hint": "thermometer"
+   },
+   {
+    "cat": "health",
+    "slug": "pills",
+    "hint": "pills and capsules"
+   },
+   {
+    "cat": "health",
+    "slug": "medicine-bottle",
+    "hint": "medicine bottle"
+   },
+   {
+    "cat": "health",
+    "slug": "vaccine",
+    "hint": "syringe vaccine"
+   },
+   {
+    "cat": "health",
+    "slug": "bandage",
+    "hint": "adhesive bandage"
+   },
+   {
+    "cat": "health",
+    "slug": "first-aid-kit",
+    "hint": "first aid kit"
+   },
+   {
+    "cat": "health",
+    "slug": "face-mask",
+    "hint": "face mask"
+   },
+   {
+    "cat": "health",
+    "slug": "hand-washing",
+    "hint": "washing hands with soap"
+   },
+   {
+    "cat": "health",
+    "slug": "hand-sanitizer",
+    "hint": "hand sanitizer"
+   },
+   {
+    "cat": "health",
+    "slug": "gargling",
+    "hint": "gargling"
+   },
+   {
+    "cat": "health",
+    "slug": "coughing",
+    "hint": "person coughing"
+   },
+   {
+    "cat": "health",
+    "slug": "fever",
+    "hint": "person with fever and ice pack"
+   },
+   {
+    "cat": "health",
+    "slug": "headache",
+    "hint": "person with a headache"
+   },
+   {
+    "cat": "health",
+    "slug": "stomachache",
+    "hint": "person with a stomachache"
+   },
+   {
+    "cat": "health",
+    "slug": "toothache",
+    "hint": "person with a toothache"
+   },
+   {
+    "cat": "health",
+    "slug": "flu-in-bed",
+    "hint": "sick person in bed"
+   },
+   {
+    "cat": "health",
+    "slug": "hay-fever",
+    "hint": "person sneezing with pollen"
+   }
+  ]
+ },
+ {
+  "batch": "b57",
+  "cat": "health",
+  "items": [
+   {
+    "cat": "health",
+    "slug": "eye-drops",
+    "hint": "eye drops"
+   },
+   {
+    "cat": "health",
+    "slug": "eyeglasses",
+    "hint": "eyeglasses"
+   },
+   {
+    "cat": "health",
+    "slug": "broken-leg",
+    "hint": "person with crutches and cast"
+   },
+   {
+    "cat": "health",
+    "slug": "x-ray",
+    "hint": "x-ray of a bone"
+   },
+   {
+    "cat": "health",
+    "slug": "blood-pressure",
+    "hint": "blood pressure monitor"
+   },
+   {
+    "cat": "health",
+    "slug": "heart-health",
+    "hint": "heart with a pulse line"
+   },
+   {
+    "cat": "health",
+    "slug": "lungs",
+    "hint": "cute lungs"
+   },
+   {
+    "cat": "health",
+    "slug": "brain",
+    "hint": "cute brain"
+   },
+   {
+    "cat": "health",
+    "slug": "tooth",
+    "hint": "cute tooth"
+   },
+   {
+    "cat": "health",
+    "slug": "weight-scale",
+    "hint": "bathroom scale (no numbers)"
+   },
+   {
+    "cat": "health",
+    "slug": "height-measure",
+    "hint": "measuring height"
+   },
+   {
+    "cat": "health",
+    "slug": "healthy-plate",
+    "hint": "balanced meal plate"
+   },
+   {
+    "cat": "health",
+    "slug": "good-sleep",
+    "hint": "sleeping well with moon"
+   },
+   {
+    "cat": "health",
+    "slug": "mental-health",
+    "hint": "person with a calm heart"
+   },
+   {
+    "cat": "health",
+    "slug": "back-pain",
+    "hint": "person with back pain"
+   },
+   {
+    "cat": "health",
+    "slug": "eye-strain",
+    "hint": "tired eyes at a computer"
+   },
+   {
+    "cat": "health",
+    "slug": "heatstroke",
+    "hint": "person with heatstroke under the sun"
+   },
+   {
+    "cat": "health",
+    "slug": "sunscreen",
+    "hint": "sunscreen bottle"
+   },
+   {
+    "cat": "health",
+    "slug": "vitamins",
+    "hint": "vitamin bottle and fruit"
+   },
+   {
+    "cat": "health",
+    "slug": "hydration",
+    "hint": "drinking water to stay hydrated"
+   }
+  ]
+ },
+ {
+  "batch": "b58",
+  "cat": "health",
+  "items": [
+   {
+    "cat": "health",
+    "slug": "no-smoking",
+    "hint": "no smoking sign (symbol only)"
+   },
+   {
+    "cat": "health",
+    "slug": "germs",
+    "hint": "cute germs"
+   },
+   {
+    "cat": "health",
+    "slug": "immune-shield",
+    "hint": "shield protecting from germs"
+   },
+   {
+    "cat": "health",
+    "slug": "doctor-patient",
+    "hint": "doctor talking to a patient"
+   },
+   {
+    "cat": "health",
+    "slug": "hospital-bed",
+    "hint": "hospital bed"
+   },
+   {
+    "cat": "health",
+    "slug": "pharmacy",
+    "hint": "pharmacy counter"
+   },
+   {
+    "cat": "health",
+    "slug": "medical-chart",
+    "hint": "clipboard medical chart (no text)"
+   },
+   {
+    "cat": "health",
+    "slug": "blood-donation",
+    "hint": "blood donation bag"
+   },
+   {
+    "cat": "health",
+    "slug": "checkup",
+    "hint": "health checkup"
+   },
+   {
+    "cat": "health",
+    "slug": "walking-support",
+    "hint": "caregiver helping elderly walk"
+   },
+   {
+    "cat": "health",
+    "slug": "rehabilitation",
+    "hint": "rehabilitation exercise"
+   },
+   {
+    "cat": "health",
+    "slug": "massage",
+    "hint": "massage"
+   },
+   {
+    "cat": "health",
+    "slug": "dna",
+    "hint": "DNA helix"
+   },
+   {
+    "cat": "health",
+    "slug": "lab-sample",
+    "hint": "test tube sample"
+   },
+   {
+    "cat": "health",
+    "slug": "pulse-oximeter",
+    "hint": "finger pulse oximeter"
+   },
+   {
+    "cat": "health",
+    "slug": "crutches",
+    "hint": "crutches"
+   },
+   {
+    "cat": "health",
+    "slug": "wheelchair",
+    "hint": "wheelchair"
+   },
+   {
+    "cat": "health",
+    "slug": "hearing-aid",
+    "hint": "hearing aid"
+   },
+   {
+    "cat": "health",
+    "slug": "contact-lens",
+    "hint": "contact lens case"
+   },
+   {
+    "cat": "health",
+    "slug": "toothbrush",
+    "hint": "toothbrush and toothpaste"
+   }
+  ]
+ },
+ {
+  "batch": "b59",
+  "cat": "hobby",
+  "items": [
+   {
+    "cat": "hobby",
+    "slug": "guitar",
+    "hint": "acoustic guitar"
+   },
+   {
+    "cat": "hobby",
+    "slug": "piano",
+    "hint": "piano"
+   },
+   {
+    "cat": "hobby",
+    "slug": "violin",
+    "hint": "violin"
+   },
+   {
+    "cat": "hobby",
+    "slug": "drums",
+    "hint": "drum set"
+   },
+   {
+    "cat": "hobby",
+    "slug": "trumpet",
+    "hint": "trumpet"
+   },
+   {
+    "cat": "hobby",
+    "slug": "singing-mic",
+    "hint": "person singing with a microphone"
+   },
+   {
+    "cat": "hobby",
+    "slug": "karaoke",
+    "hint": "karaoke room"
+   },
+   {
+    "cat": "hobby",
+    "slug": "music-notes",
+    "hint": "music notes"
+   },
+   {
+    "cat": "hobby",
+    "slug": "painting-easel",
+    "hint": "painting on an easel"
+   },
+   {
+    "cat": "hobby",
+    "slug": "sewing-machine",
+    "hint": "sewing machine"
+   },
+   {
+    "cat": "hobby",
+    "slug": "pottery",
+    "hint": "pottery wheel"
+   },
+   {
+    "cat": "hobby",
+    "slug": "fishing",
+    "hint": "fishing rod and fish"
+   },
+   {
+    "cat": "hobby",
+    "slug": "video-game",
+    "hint": "game controller"
+   },
+   {
+    "cat": "hobby",
+    "slug": "board-game",
+    "hint": "board game with dice"
+   },
+   {
+    "cat": "hobby",
+    "slug": "playing-cards",
+    "hint": "playing cards (no letters)"
+   },
+   {
+    "cat": "hobby",
+    "slug": "shogi",
+    "hint": "shogi board"
+   },
+   {
+    "cat": "hobby",
+    "slug": "jigsaw-puzzle",
+    "hint": "jigsaw puzzle"
+   },
+   {
+    "cat": "hobby",
+    "slug": "comic-book",
+    "hint": "comic book (no text)"
+   },
+   {
+    "cat": "hobby",
+    "slug": "movie-theater",
+    "hint": "movie popcorn and ticket"
+   },
+   {
+    "cat": "hobby",
+    "slug": "film-reel",
+    "hint": "film reel"
+   }
+  ]
+ },
+ {
+  "batch": "b60",
+  "cat": "hobby",
+  "items": [
+   {
+    "cat": "hobby",
+    "slug": "origami-crane",
+    "hint": "origami crane"
+   },
+   {
+    "cat": "hobby",
+    "slug": "calligraphy",
+    "hint": "calligraphy brush"
+   },
+   {
+    "cat": "hobby",
+    "slug": "flower-arranging",
+    "hint": "flower arranging"
+   },
+   {
+    "cat": "hobby",
+    "slug": "baking",
+    "hint": "baking cookies"
+   },
+   {
+    "cat": "hobby",
+    "slug": "coffee-dripper",
+    "hint": "pour-over coffee"
+   },
+   {
+    "cat": "hobby",
+    "slug": "tea-ceremony",
+    "hint": "tea ceremony bowl and whisk"
+   },
+   {
+    "cat": "hobby",
+    "slug": "model-train",
+    "hint": "model train"
+   },
+   {
+    "cat": "hobby",
+    "slug": "kite",
+    "hint": "kite flying"
+   },
+   {
+    "cat": "hobby",
+    "slug": "telescope",
+    "hint": "stargazing telescope"
+   },
+   {
+    "cat": "hobby",
+    "slug": "woodworking",
+    "hint": "woodworking tools"
+   },
+   {
+    "cat": "hobby",
+    "slug": "ballet",
+    "hint": "ballerina"
+   },
+   {
+    "cat": "hobby",
+    "slug": "magic-hat",
+    "hint": "magic hat and wand"
+   },
+   {
+    "cat": "hobby",
+    "slug": "aquarium-tank",
+    "hint": "home fish tank"
+   },
+   {
+    "cat": "hobby",
+    "slug": "dj",
+    "hint": "DJ turntable"
+   },
+   {
+    "cat": "hobby",
+    "slug": "ukulele",
+    "hint": "ukulele"
+   },
+   {
+    "cat": "hobby",
+    "slug": "saxophone",
+    "hint": "saxophone"
+   },
+   {
+    "cat": "hobby",
+    "slug": "knitting",
+    "hint": "knitting needles and yarn"
+   },
+   {
+    "cat": "hobby",
+    "slug": "camera-hobby",
+    "hint": "person with a camera"
+   },
+   {
+    "cat": "hobby",
+    "slug": "bird-watching",
+    "hint": "person bird watching"
+   },
+   {
+    "cat": "hobby",
+    "slug": "gardening-hobby",
+    "hint": "vegetable garden planter"
+   }
+  ]
+ }
+]

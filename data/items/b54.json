@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "dumbbell",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Dumbbell Workout",
+    "A person doing a bicep curl with a dumbbell.",
+    [
+     "dumbbell",
+     "workout",
+     "fitness",
+     "strength training"
+    ]
+   ],
+   "ja": [
+    "ダンベルで筋トレ",
+    "ダンベルを持ち上げて筋トレをする人。",
+    [
+     "ダンベル",
+     "筋トレ",
+     "トレーニング",
+     "フィットネス"
+    ]
+   ],
+   "es": [
+    "Ejercicio con mancuerna",
+    "Una persona haciendo un curl de bíceps con una mancuerna.",
+    [
+     "mancuerna",
+     "ejercicio",
+     "gimnasio",
+     "pesas"
+    ]
+   ],
+   "pt": [
+    "Treino com halter",
+    "Uma pessoa fazendo rosca de bíceps com um halter.",
+    [
+     "halter",
+     "musculação",
+     "academia",
+     "treino"
+    ]
+   ],
+   "fr": [
+    "Exercice avec haltère",
+    "Une personne qui fait un curl biceps avec un haltère.",
+    [
+     "haltère",
+     "musculation",
+     "fitness",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Hanteltraining",
+    "Eine Person macht Bizepscurls mit einer Kurzhantel.",
+    [
+     "Hantel",
+     "Krafttraining",
+     "Fitness",
+     "Workout"
+    ]
+   ],
+   "zh": [
+    "哑铃训练",
+    "一个人用哑铃做弯举锻炼。",
+    [
+     "哑铃",
+     "健身",
+     "力量训练",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "덤벨 운동",
+    "덤벨로 이두 컬을 하는 사람.",
+    [
+     "덤벨",
+     "근력 운동",
+     "헬스",
+     "피트니스"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "push-ups",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Push-Ups",
+    "A person doing push-ups on the floor.",
+    [
+     "push-ups",
+     "exercise",
+     "workout",
+     "fitness"
+    ]
+   ],
+   "ja": [
+    "腕立て伏せ",
+    "床で腕立て伏せをする人。",
+    [
+     "腕立て伏せ",
+     "筋トレ",
+     "運動",
+     "トレーニング"
+    ]
+   ],
+   "es": [
+    "Flexiones",
+    "Una persona haciendo flexiones en el suelo.",
+    [
+     "flexiones",
+     "ejercicio",
+     "entrenamiento",
+     "fitness"
+    ]
+   ],
+   "pt": [
+    "Flexões",
+    "Uma pessoa fazendo flexões no chão.",
+    [
+     "flexão",
+     "exercício",
+     "treino",
+     "academia"
+    ]
+   ],
+   "fr": [
+    "Pompes",
+    "Une personne qui fait des pompes au sol.",
+    [
+     "pompes",
+     "exercice",
+     "musculation",
+     "fitness"
+    ]
+   ],
+   "de": [
+    "Liegestütze",
+    "Eine Person macht Liegestütze auf dem Boden.",
+    [
+     "Liegestütze",
+     "Training",
+     "Sport",
+     "Fitness"
+    ]
+   ],
+   "zh": [
+    "俯卧撑",
+    "一个人在地上做俯卧撑。",
+    [
+     "俯卧撑",
+     "健身",
+     "锻炼",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "팔굽혀펴기",
+    "바닥에서 팔굽혀펴기를 하는 사람.",
+    [
+     "팔굽혀펴기",
+     "푸시업",
+     "운동",
+     "근력 운동"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "jump-rope",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Jumping Rope",
+    "A person happily skipping with a jump rope.",
+    [
+     "jump rope",
+     "skipping",
+     "exercise",
+     "cardio"
+    ]
+   ],
+   "ja": [
+    "縄跳び",
+    "楽しそうに縄跳びをする人。",
+    [
+     "縄跳び",
+     "なわとび",
+     "運動",
+     "有酸素運動"
+    ]
+   ],
+   "es": [
+    "Saltar la cuerda",
+    "Una persona saltando la cuerda con alegría.",
+    [
+     "saltar la cuerda",
+     "comba",
+     "ejercicio",
+     "cardio"
+    ]
+   ],
+   "pt": [
+    "Pular corda",
+    "Uma pessoa pulando corda toda animada.",
+    [
+     "pular corda",
+     "corda",
+     "exercício",
+     "aeróbico"
+    ]
+   ],
+   "fr": [
+    "Corde à sauter",
+    "Une personne qui saute à la corde joyeusement.",
+    [
+     "corde à sauter",
+     "saut",
+     "exercice",
+     "cardio"
+    ]
+   ],
+   "de": [
+    "Seilspringen",
+    "Eine Person springt fröhlich Seil.",
+    [
+     "Seilspringen",
+     "Springseil",
+     "Sport",
+     "Ausdauer"
+    ]
+   ],
+   "zh": [
+    "跳绳",
+    "开心地跳绳的人。",
+    [
+     "跳绳",
+     "运动",
+     "有氧运动",
+     "健身"
+    ]
+   ],
+   "ko": [
+    "줄넘기",
+    "즐겁게 줄넘기를 하는 사람.",
+    [
+     "줄넘기",
+     "운동",
+     "유산소",
+     "체육"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "marathon-finish",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Marathon Finish Line",
+    "A runner raising both arms while breaking the finish tape.",
+    [
+     "marathon",
+     "finish line",
+     "running",
+     "goal"
+    ]
+   ],
+   "ja": [
+    "マラソンのゴール",
+    "両手を上げてゴールテープを切るランナー。",
+    [
+     "マラソン",
+     "ゴール",
+     "ランニング",
+     "達成"
+    ]
+   ],
+   "es": [
+    "Meta de maratón",
+    "Un corredor levantando los brazos al romper la cinta de meta.",
+    [
+     "maratón",
+     "meta",
+     "correr",
+     "logro"
+    ]
+   ],
+   "pt": [
+    "Chegada da maratona",
+    "Um corredor erguendo os braços ao romper a fita de chegada.",
+    [
+     "maratona",
+     "linha de chegada",
+     "corrida",
+     "conquista"
+    ]
+   ],
+   "fr": [
+    "Arrivée de marathon",
+    "Un coureur lève les bras en franchissant le ruban d'arrivée.",
+    [
+     "marathon",
+     "ligne d'arrivée",
+     "course",
+     "victoire"
+    ]
+   ],
+   "de": [
+    "Marathon-Zieleinlauf",
+    "Ein Läufer reißt jubelnd das Zielband.",
+    [
+     "Marathon",
+     "Ziellinie",
+     "Laufen",
+     "Erfolg"
+    ]
+   ],
+   "zh": [
+    "马拉松冲线",
+    "举起双手冲过终点线的跑者。",
+    [
+     "马拉松",
+     "终点",
+     "跑步",
+     "胜利"
+    ]
+   ],
+   "ko": [
+    "마라톤 결승선",
+    "두 팔을 들고 결승 테이프를 끊는 러너.",
+    [
+     "마라톤",
+     "결승선",
+     "달리기",
+     "골인"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "relay-baton",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Relay Baton Handoff",
+    "Two hands passing a baton during a relay race.",
+    [
+     "relay",
+     "baton",
+     "teamwork",
+     "track and field"
+    ]
+   ],
+   "ja": [
+    "リレーのバトンパス",
+    "リレーでバトンを渡す2つの手。",
+    [
+     "リレー",
+     "バトン",
+     "チームワーク",
+     "運動会"
+    ]
+   ],
+   "es": [
+    "Pase del testigo",
+    "Dos manos pasándose el testigo en una carrera de relevos.",
+    [
+     "relevos",
+     "testigo",
+     "trabajo en equipo",
+     "atletismo"
+    ]
+   ],
+   "pt": [
+    "Passagem do bastão",
+    "Duas mãos passando o bastão numa corrida de revezamento.",
+    [
+     "revezamento",
+     "bastão",
+     "trabalho em equipe",
+     "atletismo"
+    ]
+   ],
+   "fr": [
+    "Passage de témoin",
+    "Deux mains se passent le témoin pendant un relais.",
+    [
+     "relais",
+     "témoin",
+     "travail d'équipe",
+     "athlétisme"
+    ]
+   ],
+   "de": [
+    "Staffelstab-Übergabe",
+    "Zwei Hände übergeben beim Staffellauf den Stab.",
+    [
+     "Staffellauf",
+     "Staffelstab",
+     "Teamwork",
+     "Leichtathletik"
+    ]
+   ],
+   "zh": [
+    "接力棒交接",
+    "接力赛中两只手传递接力棒。",
+    [
+     "接力",
+     "接力棒",
+     "团队合作",
+     "田径"
+    ]
+   ],
+   "ko": [
+    "릴레이 바통 터치",
+    "이어달리기에서 바통을 건네는 두 손.",
+    [
+     "릴레이",
+     "바통",
+     "팀워크",
+     "육상"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "high-jump",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "High Jump",
+    "An athlete arching back over the high jump bar.",
+    [
+     "high jump",
+     "track and field",
+     "athlete",
+     "jump"
+    ]
+   ],
+   "ja": [
+    "走り高跳び",
+    "背面跳びでバーを越える選手。",
+    [
+     "走り高跳び",
+     "陸上競技",
+     "ジャンプ",
+     "選手"
+    ]
+   ],
+   "es": [
+    "Salto de altura",
+    "Un atleta arqueando la espalda sobre el listón.",
+    [
+     "salto de altura",
+     "atletismo",
+     "atleta",
+     "salto"
+    ]
+   ],
+   "pt": [
+    "Salto em altura",
+    "Um atleta passando de costas por cima do sarrafo.",
+    [
+     "salto em altura",
+     "atletismo",
+     "atleta",
+     "salto"
+    ]
+   ],
+   "fr": [
+    "Saut en hauteur",
+    "Un athlète passe la barre du saut en hauteur en arc.",
+    [
+     "saut en hauteur",
+     "athlétisme",
+     "athlète",
+     "saut"
+    ]
+   ],
+   "de": [
+    "Hochsprung",
+    "Ein Athlet überquert die Latte rückwärts im Bogen.",
+    [
+     "Hochsprung",
+     "Leichtathletik",
+     "Athlet",
+     "Sprung"
+    ]
+   ],
+   "zh": [
+    "跳高",
+    "背越式跃过横杆的运动员。",
+    [
+     "跳高",
+     "田径",
+     "运动员",
+     "跳跃"
+    ]
+   ],
+   "ko": [
+    "높이뛰기",
+    "배면뛰기로 바를 넘는 선수.",
+    [
+     "높이뛰기",
+     "육상",
+     "선수",
+     "점프"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hurdles",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hurdles",
+    "A runner leaping over a hurdle.",
+    [
+     "hurdles",
+     "hurdle race",
+     "track and field",
+     "running"
+    ]
+   ],
+   "ja": [
+    "ハードル走",
+    "ハードルを跳び越えるランナー。",
+    [
+     "ハードル",
+     "ハードル走",
+     "陸上競技",
+     "かけっこ"
+    ]
+   ],
+   "es": [
+    "Carrera de vallas",
+    "Un corredor saltando una valla.",
+    [
+     "vallas",
+     "carrera de vallas",
+     "atletismo",
+     "correr"
+    ]
+   ],
+   "pt": [
+    "Corrida com barreiras",
+    "Um corredor saltando uma barreira.",
+    [
+     "barreiras",
+     "corrida com barreiras",
+     "atletismo",
+     "corrida"
+    ]
+   ],
+   "fr": [
+    "Course de haies",
+    "Un coureur franchit une haie.",
+    [
+     "haies",
+     "course de haies",
+     "athlétisme",
+     "course"
+    ]
+   ],
+   "de": [
+    "Hürdenlauf",
+    "Ein Läufer springt über eine Hürde.",
+    [
+     "Hürdenlauf",
+     "Hürde",
+     "Leichtathletik",
+     "Laufen"
+    ]
+   ],
+   "zh": [
+    "跨栏",
+    "跨过栏架的跑者。",
+    [
+     "跨栏",
+     "跨栏跑",
+     "田径",
+     "跑步"
+    ]
+   ],
+   "ko": [
+    "허들",
+    "허들을 뛰어넘는 러너.",
+    [
+     "허들",
+     "허들 경주",
+     "육상",
+     "달리기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "gymnastics",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Rhythmic Gymnast",
+    "A gymnast twirling a ribbon in a leotard.",
+    [
+     "gymnastics",
+     "rhythmic gymnastics",
+     "ribbon",
+     "athlete"
+    ]
+   ],
+   "ja": [
+    "新体操の選手",
+    "レオタード姿でリボンを回す新体操の選手。",
+    [
+     "新体操",
+     "体操",
+     "リボン",
+     "選手"
+    ]
+   ],
+   "es": [
+    "Gimnasta rítmica",
+    "Una gimnasta con maillot haciendo girar una cinta.",
+    [
+     "gimnasia",
+     "gimnasia rítmica",
+     "cinta",
+     "atleta"
+    ]
+   ],
+   "pt": [
+    "Ginasta rítmica",
+    "Uma ginasta de collant girando uma fita.",
+    [
+     "ginástica",
+     "ginástica rítmica",
+     "fita",
+     "atleta"
+    ]
+   ],
+   "fr": [
+    "Gymnaste rythmique",
+    "Une gymnaste en justaucorps fait tourner un ruban.",
+    [
+     "gymnastique",
+     "gymnastique rythmique",
+     "ruban",
+     "athlète"
+    ]
+   ],
+   "de": [
+    "Rhythmische Sportgymnastin",
+    "Eine Turnerin im Trikot schwingt ein Band.",
+    [
+     "Gymnastik",
+     "Rhythmische Sportgymnastik",
+     "Band",
+     "Turnen"
+    ]
+   ],
+   "zh": [
+    "艺术体操运动员",
+    "穿着体操服挥舞彩带的运动员。",
+    [
+     "体操",
+     "艺术体操",
+     "彩带",
+     "运动员"
+    ]
+   ],
+   "ko": [
+    "리듬체조 선수",
+    "레오타드를 입고 리본을 돌리는 선수.",
+    [
+     "체조",
+     "리듬체조",
+     "리본",
+     "선수"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "archery",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Archery Target",
+    "An arrow stuck in the center of an archery target.",
+    [
+     "archery",
+     "target",
+     "bullseye",
+     "arrow"
+    ]
+   ],
+   "ja": [
+    "アーチェリーの的",
+    "的の真ん中に刺さった矢。",
+    [
+     "アーチェリー",
+     "的",
+     "矢",
+     "命中"
+    ]
+   ],
+   "es": [
+    "Diana de tiro con arco",
+    "Una flecha clavada en el centro de una diana.",
+    [
+     "tiro con arco",
+     "diana",
+     "flecha",
+     "acierto"
+    ]
+   ],
+   "pt": [
+    "Alvo de tiro com arco",
+    "Uma flecha cravada no centro do alvo.",
+    [
+     "tiro com arco",
+     "alvo",
+     "flecha",
+     "na mosca"
+    ]
+   ],
+   "fr": [
+    "Cible de tir à l'arc",
+    "Une flèche plantée au centre de la cible.",
+    [
+     "tir à l'arc",
+     "cible",
+     "flèche",
+     "dans le mille"
+    ]
+   ],
+   "de": [
+    "Bogenschießen-Zielscheibe",
+    "Ein Pfeil steckt in der Mitte der Zielscheibe.",
+    [
+     "Bogenschießen",
+     "Zielscheibe",
+     "Pfeil",
+     "Volltreffer"
+    ]
+   ],
+   "zh": [
+    "射箭靶",
+    "正中靶心的一支箭。",
+    [
+     "射箭",
+     "箭靶",
+     "靶心",
+     "箭"
+    ]
+   ],
+   "ko": [
+    "양궁 과녁",
+    "과녁 한가운데에 꽂힌 화살.",
+    [
+     "양궁",
+     "과녁",
+     "화살",
+     "명중"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bowling",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bowling Ball and Pins",
+    "A bowling ball rolling toward three bowling pins.",
+    [
+     "bowling",
+     "bowling pins",
+     "bowling ball",
+     "strike"
+    ]
+   ],
+   "ja": [
+    "ボウリングの球とピン",
+    "ピンに向かって転がるボウリングの球。",
+    [
+     "ボウリング",
+     "ピン",
+     "ボール",
+     "ストライク"
+    ]
+   ],
+   "es": [
+    "Bola y bolos",
+    "Una bola de bolos rodando hacia tres bolos.",
+    [
+     "bolos",
+     "boliche",
+     "bola",
+     "pleno"
+    ]
+   ],
+   "pt": [
+    "Bola e pinos de boliche",
+    "Uma bola de boliche rolando em direção a três pinos.",
+    [
+     "boliche",
+     "pinos",
+     "bola",
+     "strike"
+    ]
+   ],
+   "fr": [
+    "Boule et quilles de bowling",
+    "Une boule de bowling roule vers trois quilles.",
+    [
+     "bowling",
+     "quilles",
+     "boule",
+     "strike"
+    ]
+   ],
+   "de": [
+    "Bowlingkugel und Pins",
+    "Eine Bowlingkugel rollt auf drei Pins zu.",
+    [
+     "Bowling",
+     "Kegel",
+     "Bowlingkugel",
+     "Strike"
+    ]
+   ],
+   "zh": [
+    "保龄球和球瓶",
+    "滚向球瓶的保龄球。",
+    [
+     "保龄球",
+     "球瓶",
+     "全中",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "볼링공과 핀",
+    "핀을 향해 굴러가는 볼링공.",
+    [
+     "볼링",
+     "볼링핀",
+     "볼링공",
+     "스트라이크"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "climbing",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Climbing Wall",
+    "A climber reaching for holds on a climbing wall.",
+    [
+     "climbing",
+     "bouldering",
+     "climbing wall",
+     "sport climbing"
+    ]
+   ],
+   "ja": [
+    "クライミングウォール",
+    "カラフルなホールドを登るクライマー。",
+    [
+     "クライミング",
+     "ボルダリング",
+     "壁",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Muro de escalada",
+    "Una persona escalando un muro con presas de colores.",
+    [
+     "escalada",
+     "búlder",
+     "rocódromo",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Parede de escalada",
+    "Uma pessoa escalando uma parede com agarras coloridas.",
+    [
+     "escalada",
+     "boulder",
+     "parede de escalada",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Mur d'escalade",
+    "Une grimpeuse attrape des prises sur un mur d'escalade.",
+    [
+     "escalade",
+     "bloc",
+     "mur d'escalade",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Kletterwand",
+    "Eine Person klettert an einer Wand mit bunten Griffen.",
+    [
+     "Klettern",
+     "Bouldern",
+     "Kletterwand",
+     "Sport"
+    ]
+   ],
+   "zh": [
+    "攀岩墙",
+    "抓着彩色岩点攀爬的人。",
+    [
+     "攀岩",
+     "抱石",
+     "攀岩墙",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "클라이밍 벽",
+    "알록달록한 홀드를 잡고 오르는 사람.",
+    [
+     "클라이밍",
+     "볼더링",
+     "암벽",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "horse-riding",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Horse Riding",
+    "A rider in a helmet sitting on a horse.",
+    [
+     "horse riding",
+     "equestrian",
+     "horse",
+     "rider"
+    ]
+   ],
+   "ja": [
+    "乗馬",
+    "ヘルメットをかぶって馬に乗る人。",
+    [
+     "乗馬",
+     "馬",
+     "馬術",
+     "ライダー"
+    ]
+   ],
+   "es": [
+    "Equitación",
+    "Un jinete con casco montado a caballo.",
+    [
+     "equitación",
+     "caballo",
+     "jinete",
+     "hípica"
+    ]
+   ],
+   "pt": [
+    "Hipismo",
+    "Um cavaleiro de capacete montado em um cavalo.",
+    [
+     "hipismo",
+     "cavalo",
+     "cavaleiro",
+     "equitação"
+    ]
+   ],
+   "fr": [
+    "Équitation",
+    "Un cavalier casqué assis sur un cheval.",
+    [
+     "équitation",
+     "cheval",
+     "cavalier",
+     "sport équestre"
+    ]
+   ],
+   "de": [
+    "Reiten",
+    "Eine Person mit Reithelm sitzt auf einem Pferd.",
+    [
+     "Reiten",
+     "Pferd",
+     "Reitsport",
+     "Reiter"
+    ]
+   ],
+   "zh": [
+    "骑马",
+    "戴着头盔骑马的人。",
+    [
+     "骑马",
+     "马术",
+     "马",
+     "骑手"
+    ]
+   ],
+   "ko": [
+    "승마",
+    "헬멧을 쓰고 말을 탄 사람.",
+    [
+     "승마",
+     "말",
+     "마술",
+     "기수"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rowing",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Rowing Boat",
+    "A person rowing a boat with two oars on the water.",
+    [
+     "rowing",
+     "boat",
+     "oars",
+     "water sports"
+    ]
+   ],
+   "ja": [
+    "ボート漕ぎ",
+    "2本のオールでボートを漕ぐ人。",
+    [
+     "ボート",
+     "オール",
+     "漕ぐ",
+     "水上スポーツ"
+    ]
+   ],
+   "es": [
+    "Remo",
+    "Una persona remando en un bote con dos remos.",
+    [
+     "remo",
+     "bote",
+     "remar",
+     "deportes acuáticos"
+    ]
+   ],
+   "pt": [
+    "Remo",
+    "Uma pessoa remando um barco com dois remos.",
+    [
+     "remo",
+     "barco",
+     "remar",
+     "esportes aquáticos"
+    ]
+   ],
+   "fr": [
+    "Aviron",
+    "Une personne qui rame dans une barque avec deux rames.",
+    [
+     "aviron",
+     "barque",
+     "ramer",
+     "sports nautiques"
+    ]
+   ],
+   "de": [
+    "Rudern",
+    "Eine Person rudert ein Boot mit zwei Rudern.",
+    [
+     "Rudern",
+     "Ruderboot",
+     "Ruder",
+     "Wassersport"
+    ]
+   ],
+   "zh": [
+    "划船",
+    "用两支桨划船的人。",
+    [
+     "划船",
+     "赛艇",
+     "船桨",
+     "水上运动"
+    ]
+   ],
+   "ko": [
+    "조정",
+    "두 개의 노로 보트를 젓는 사람.",
+    [
+     "조정",
+     "보트",
+     "노 젓기",
+     "수상 스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "diving",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Scuba Diver",
+    "A scuba diver with a mask, tank and fins swimming with a fish.",
+    [
+     "scuba diving",
+     "diver",
+     "underwater",
+     "sea"
+    ]
+   ],
+   "ja": [
+    "スキューバダイバー",
+    "マスクとタンクとフィンを付けて魚と泳ぐダイバー。",
+    [
+     "ダイビング",
+     "スキューバ",
+     "海",
+     "水中"
+    ]
+   ],
+   "es": [
+    "Buceador",
+    "Un buceador con máscara, tanque y aletas nadando junto a un pez.",
+    [
+     "buceo",
+     "submarinismo",
+     "buceador",
+     "mar"
+    ]
+   ],
+   "pt": [
+    "Mergulhador",
+    "Um mergulhador com máscara, cilindro e nadadeiras nadando com um peixe.",
+    [
+     "mergulho",
+     "mergulhador",
+     "fundo do mar",
+     "mar"
+    ]
+   ],
+   "fr": [
+    "Plongeur sous-marin",
+    "Un plongeur avec masque, bouteille et palmes nage avec un poisson.",
+    [
+     "plongée",
+     "plongeur",
+     "sous-marin",
+     "mer"
+    ]
+   ],
+   "de": [
+    "Sporttaucher",
+    "Ein Taucher mit Maske, Flasche und Flossen schwimmt neben einem Fisch.",
+    [
+     "Tauchen",
+     "Taucher",
+     "Unterwasser",
+     "Meer"
+    ]
+   ],
+   "zh": [
+    "水肺潜水员",
+    "戴着面镜、气瓶和脚蹼与小鱼一起游泳的潜水员。",
+    [
+     "潜水",
+     "水肺潜水",
+     "潜水员",
+     "海洋"
+    ]
+   ],
+   "ko": [
+    "스쿠버 다이버",
+    "마스크와 탱크, 오리발을 착용하고 물고기와 헤엄치는 다이버.",
+    [
+     "스쿠버 다이빙",
+     "다이버",
+     "바닷속",
+     "바다"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ice-hockey",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ice Hockey Stick and Puck",
+    "A hockey stick and a puck on the ice.",
+    [
+     "ice hockey",
+     "hockey stick",
+     "puck",
+     "winter sports"
+    ]
+   ],
+   "ja": [
+    "アイスホッケーのスティックとパック",
+    "氷の上のスティックとパック。",
+    [
+     "アイスホッケー",
+     "スティック",
+     "パック",
+     "冬のスポーツ"
+    ]
+   ],
+   "es": [
+    "Palo y disco de hockey",
+    "Un palo de hockey y un disco sobre el hielo.",
+    [
+     "hockey sobre hielo",
+     "palo de hockey",
+     "disco",
+     "deportes de invierno"
+    ]
+   ],
+   "pt": [
+    "Taco e disco de hóquei",
+    "Um taco de hóquei e um disco no gelo.",
+    [
+     "hóquei no gelo",
+     "taco de hóquei",
+     "disco",
+     "esportes de inverno"
+    ]
+   ],
+   "fr": [
+    "Crosse et palet de hockey",
+    "Une crosse de hockey et un palet sur la glace.",
+    [
+     "hockey sur glace",
+     "crosse",
+     "palet",
+     "sports d'hiver"
+    ]
+   ],
+   "de": [
+    "Eishockeyschläger und Puck",
+    "Ein Eishockeyschläger und ein Puck auf dem Eis.",
+    [
+     "Eishockey",
+     "Schläger",
+     "Puck",
+     "Wintersport"
+    ]
+   ],
+   "zh": [
+    "冰球杆和冰球",
+    "冰面上的冰球杆和冰球。",
+    [
+     "冰球",
+     "冰球杆",
+     "冰上运动",
+     "冬季运动"
+    ]
+   ],
+   "ko": [
+    "아이스하키 스틱과 퍽",
+    "얼음 위의 하키 스틱과 퍽.",
+    [
+     "아이스하키",
+     "하키 스틱",
+     "퍽",
+     "겨울 스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cricket",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cricket Bat and Ball",
+    "A cricket bat, a red ball and wickets.",
+    [
+     "cricket",
+     "cricket bat",
+     "wicket",
+     "ball"
+    ]
+   ],
+   "ja": [
+    "クリケットのバットとボール",
+    "クリケットのバットと赤いボールとウィケット。",
+    [
+     "クリケット",
+     "バット",
+     "ウィケット",
+     "ボール"
+    ]
+   ],
+   "es": [
+    "Bate y pelota de críquet",
+    "Un bate de críquet, una pelota roja y los palos.",
+    [
+     "críquet",
+     "bate",
+     "wicket",
+     "pelota"
+    ]
+   ],
+   "pt": [
+    "Taco e bola de críquete",
+    "Um taco de críquete, uma bola vermelha e o wicket.",
+    [
+     "críquete",
+     "taco",
+     "wicket",
+     "bola"
+    ]
+   ],
+   "fr": [
+    "Batte et balle de cricket",
+    "Une batte de cricket, une balle rouge et un guichet.",
+    [
+     "cricket",
+     "batte",
+     "guichet",
+     "balle"
+    ]
+   ],
+   "de": [
+    "Cricketschläger und Ball",
+    "Ein Cricketschläger, ein roter Ball und ein Wicket.",
+    [
+     "Cricket",
+     "Schläger",
+     "Wicket",
+     "Ball"
+    ]
+   ],
+   "zh": [
+    "板球拍和板球",
+    "板球拍、红色板球和三柱门。",
+    [
+     "板球",
+     "球拍",
+     "三柱门",
+     "球类运动"
+    ]
+   ],
+   "ko": [
+    "크리켓 배트와 공",
+    "크리켓 배트와 빨간 공, 위켓.",
+    [
+     "크리켓",
+     "배트",
+     "위켓",
+     "공"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cheerleader",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cheerleader",
+    "A cheerleader cheering with pom-poms raised high.",
+    [
+     "cheerleader",
+     "cheerleading",
+     "pom-poms",
+     "cheering"
+    ]
+   ],
+   "ja": [
+    "チアリーダー",
+    "ポンポンを高く掲げて応援するチアリーダー。",
+    [
+     "チアリーダー",
+     "チア",
+     "ポンポン",
+     "応援"
+    ]
+   ],
+   "es": [
+    "Animadora",
+    "Una animadora con los pompones en alto.",
+    [
+     "animadora",
+     "porrista",
+     "pompones",
+     "animar"
+    ]
+   ],
+   "pt": [
+    "Líder de torcida",
+    "Uma líder de torcida animando com os pompons para cima.",
+    [
+     "líder de torcida",
+     "cheerleader",
+     "pompom",
+     "torcida"
+    ]
+   ],
+   "fr": [
+    "Pom-pom girl",
+    "Une pom-pom girl encourage avec ses pompons levés.",
+    [
+     "pom-pom girl",
+     "cheerleading",
+     "pompons",
+     "encouragement"
+    ]
+   ],
+   "de": [
+    "Cheerleaderin",
+    "Eine Cheerleaderin feuert mit erhobenen Pompons an.",
+    [
+     "Cheerleader",
+     "Cheerleading",
+     "Pompons",
+     "Anfeuern"
+    ]
+   ],
+   "zh": [
+    "啦啦队员",
+    "高举彩球加油的啦啦队员。",
+    [
+     "啦啦队",
+     "啦啦队员",
+     "彩球",
+     "加油"
+    ]
+   ],
+   "ko": [
+    "치어리더",
+    "폼폼을 높이 들고 응원하는 치어리더.",
+    [
+     "치어리더",
+     "치어리딩",
+     "폼폼",
+     "응원"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "referee",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Referee with a Whistle",
+    "A referee blowing a whistle and holding up a yellow card.",
+    [
+     "referee",
+     "whistle",
+     "yellow card",
+     "umpire"
+    ]
+   ],
+   "ja": [
+    "笛を吹く審判",
+    "笛を吹いてイエローカードを掲げる審判。",
+    [
+     "審判",
+     "レフェリー",
+     "ホイッスル",
+     "イエローカード"
+    ]
+   ],
+   "es": [
+    "Árbitro con silbato",
+    "Un árbitro tocando el silbato y mostrando tarjeta amarilla.",
+    [
+     "árbitro",
+     "silbato",
+     "tarjeta amarilla",
+     "fútbol"
+    ]
+   ],
+   "pt": [
+    "Juiz com apito",
+    "Um juiz apitando e mostrando o cartão amarelo.",
+    [
+     "juiz",
+     "árbitro",
+     "apito",
+     "cartão amarelo"
+    ]
+   ],
+   "fr": [
+    "Arbitre avec sifflet",
+    "Un arbitre siffle et brandit un carton jaune.",
+    [
+     "arbitre",
+     "sifflet",
+     "carton jaune",
+     "football"
+    ]
+   ],
+   "de": [
+    "Schiedsrichter mit Pfeife",
+    "Ein Schiedsrichter pfeift und zeigt die Gelbe Karte.",
+    [
+     "Schiedsrichter",
+     "Pfeife",
+     "Gelbe Karte",
+     "Fußball"
+    ]
+   ],
+   "zh": [
+    "吹哨的裁判",
+    "吹着哨子举起黄牌的裁判。",
+    [
+     "裁判",
+     "哨子",
+     "黄牌",
+     "足球"
+    ]
+   ],
+   "ko": [
+    "호루라기 부는 심판",
+    "호루라기를 불며 옐로카드를 든 심판.",
+    [
+     "심판",
+     "호루라기",
+     "옐로카드",
+     "축구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "stopwatch",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Stopwatch",
+    "A blue stopwatch for timing races and workouts.",
+    [
+     "stopwatch",
+     "timer",
+     "time",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "ストップウォッチ",
+    "タイムを計る青いストップウォッチ。",
+    [
+     "ストップウォッチ",
+     "タイマー",
+     "時間",
+     "計測"
+    ]
+   ],
+   "es": [
+    "Cronómetro",
+    "Un cronómetro azul para medir tiempos.",
+    [
+     "cronómetro",
+     "temporizador",
+     "tiempo",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Cronômetro",
+    "Um cronômetro azul para marcar o tempo.",
+    [
+     "cronômetro",
+     "timer",
+     "tempo",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Chronomètre",
+    "Un chronomètre bleu pour mesurer le temps.",
+    [
+     "chronomètre",
+     "minuteur",
+     "temps",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Stoppuhr",
+    "Eine blaue Stoppuhr zum Zeitnehmen.",
+    [
+     "Stoppuhr",
+     "Timer",
+     "Zeit",
+     "Sport"
+    ]
+   ],
+   "zh": [
+    "秒表",
+    "用来计时的蓝色秒表。",
+    [
+     "秒表",
+     "计时器",
+     "时间",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "스톱워치",
+    "기록을 재는 파란 스톱워치.",
+    [
+     "스톱워치",
+     "타이머",
+     "시간",
+     "기록"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "medals",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Gold, Silver and Bronze Medals",
+    "Three medals in gold, silver and bronze with ribbons.",
+    [
+     "medals",
+     "gold medal",
+     "award",
+     "winner"
+    ]
+   ],
+   "ja": [
+    "金・銀・銅メダル",
+    "リボンの付いた金・銀・銅の3つのメダル。",
+    [
+     "メダル",
+     "金メダル",
+     "表彰",
+     "優勝"
+    ]
+   ],
+   "es": [
+    "Medallas de oro, plata y bronce",
+    "Tres medallas de oro, plata y bronce con cintas.",
+    [
+     "medallas",
+     "medalla de oro",
+     "premio",
+     "ganador"
+    ]
+   ],
+   "pt": [
+    "Medalhas de ouro, prata e bronze",
+    "Três medalhas de ouro, prata e bronze com fitas.",
+    [
+     "medalhas",
+     "medalha de ouro",
+     "premiação",
+     "campeão"
+    ]
+   ],
+   "fr": [
+    "Médailles d'or, d'argent et de bronze",
+    "Trois médailles d'or, d'argent et de bronze avec rubans.",
+    [
+     "médailles",
+     "médaille d'or",
+     "récompense",
+     "vainqueur"
+    ]
+   ],
+   "de": [
+    "Gold-, Silber- und Bronzemedaille",
+    "Drei Medaillen in Gold, Silber und Bronze mit Bändern.",
+    [
+     "Medaillen",
+     "Goldmedaille",
+     "Siegerehrung",
+     "Gewinner"
+    ]
+   ],
+   "zh": [
+    "金银铜牌",
+    "带绶带的金牌、银牌和铜牌。",
+    [
+     "奖牌",
+     "金牌",
+     "颁奖",
+     "冠军"
+    ]
+   ],
+   "ko": [
+    "금은동 메달",
+    "리본이 달린 금, 은, 동메달 세 개.",
+    [
+     "메달",
+     "금메달",
+     "시상",
+     "우승"
+    ]
+   ]
+  }
+ }
+]

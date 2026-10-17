@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "origami-crane",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Origami paper crane",
+    "A pink paper crane folded in the traditional origami style.",
+    [
+     "origami",
+     "paper crane",
+     "paper craft",
+     "Japanese culture"
+    ]
+   ],
+   "ja": [
+    "折り鶴",
+    "ピンクの折り紙で折った、かわいい折り鶴。",
+    [
+     "折り鶴",
+     "折り紙",
+     "鶴",
+     "和風"
+    ]
+   ],
+   "es": [
+    "Grulla de origami",
+    "Una grulla de papel rosa doblada al estilo tradicional del origami.",
+    [
+     "origami",
+     "grulla de papel",
+     "papiroflexia",
+     "manualidades"
+    ]
+   ],
+   "pt": [
+    "Tsuru de origami",
+    "Um tsuru de papel rosa dobrado no estilo tradicional do origami.",
+    [
+     "origami",
+     "tsuru",
+     "dobradura",
+     "artesanato"
+    ]
+   ],
+   "fr": [
+    "Grue en origami",
+    "Une grue en papier rose pliée selon l'art traditionnel de l'origami.",
+    [
+     "origami",
+     "grue en papier",
+     "pliage",
+     "loisirs créatifs"
+    ]
+   ],
+   "de": [
+    "Origami-Kranich",
+    "Ein rosa Papierkranich, nach traditioneller Origami-Art gefaltet.",
+    [
+     "Origami",
+     "Papierkranich",
+     "Falten",
+     "Basteln"
+    ]
+   ],
+   "zh": [
+    "千纸鹤",
+    "用粉色折纸折成的可爱千纸鹤。",
+    [
+     "千纸鹤",
+     "折纸",
+     "手工",
+     "日本文化"
+    ]
+   ],
+   "ko": [
+    "종이학",
+    "분홍색 색종이로 접은 귀여운 종이학.",
+    [
+     "종이학",
+     "종이접기",
+     "오리가미",
+     "공예"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "calligraphy",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Calligraphy brush and paper",
+    "A calligraphy brush, ink stone and paper with a bold ink stroke.",
+    [
+     "calligraphy",
+     "brush",
+     "ink",
+     "writing"
+    ]
+   ],
+   "ja": [
+    "書道の筆と半紙",
+    "筆と硯、墨で大きく書いた半紙の書道セット。",
+    [
+     "書道",
+     "習字",
+     "筆",
+     "墨"
+    ]
+   ],
+   "es": [
+    "Pincel de caligrafía y papel",
+    "Un pincel de caligrafía, una piedra de tinta y papel con un trazo de tinta.",
+    [
+     "caligrafía",
+     "pincel",
+     "tinta",
+     "escritura"
+    ]
+   ],
+   "pt": [
+    "Pincel de caligrafia e papel",
+    "Um pincel de caligrafia, pedra de tinta e papel com um traço de tinta.",
+    [
+     "caligrafia",
+     "pincel",
+     "tinta",
+     "escrita"
+    ]
+   ],
+   "fr": [
+    "Pinceau de calligraphie et papier",
+    "Un pinceau de calligraphie, une pierre à encre et un papier avec un trait d'encre.",
+    [
+     "calligraphie",
+     "pinceau",
+     "encre",
+     "écriture"
+    ]
+   ],
+   "de": [
+    "Kalligrafie-Pinsel und Papier",
+    "Ein Kalligrafie-Pinsel, ein Tuschestein und Papier mit einem kräftigen Tuschestrich.",
+    [
+     "Kalligrafie",
+     "Pinsel",
+     "Tusche",
+     "Schreiben"
+    ]
+   ],
+   "zh": [
+    "书法毛笔和宣纸",
+    "毛笔、砚台和写着墨迹的宣纸。",
+    [
+     "书法",
+     "毛笔",
+     "墨",
+     "写字"
+    ]
+   ],
+   "ko": [
+    "서예 붓과 화선지",
+    "붓과 벼루, 먹으로 크게 쓴 화선지.",
+    [
+     "서예",
+     "붓",
+     "먹",
+     "글씨"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "flower-arranging",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Flower arrangement in a vase",
+    "Colorful flowers and leaves arranged in a smiling blue vase.",
+    [
+     "flower arranging",
+     "flowers",
+     "vase",
+     "ikebana"
+    ]
+   ],
+   "ja": [
+    "花瓶の生け花",
+    "にっこり笑う青い花瓶に、色とりどりの花を生けたフラワーアレンジメント。",
+    [
+     "生け花",
+     "華道",
+     "フラワーアレンジメント",
+     "花瓶"
+    ]
+   ],
+   "es": [
+    "Arreglo floral en un jarrón",
+    "Flores y hojas de colores arregladas en un jarrón azul sonriente.",
+    [
+     "arreglo floral",
+     "flores",
+     "jarrón",
+     "ikebana"
+    ]
+   ],
+   "pt": [
+    "Arranjo de flores no vaso",
+    "Flores e folhas coloridas arrumadas em um vaso azul sorridente.",
+    [
+     "arranjo floral",
+     "flores",
+     "vaso",
+     "ikebana"
+    ]
+   ],
+   "fr": [
+    "Bouquet dans un vase",
+    "Des fleurs colorées et des feuilles arrangées dans un vase bleu souriant.",
+    [
+     "art floral",
+     "fleurs",
+     "vase",
+     "ikebana"
+    ]
+   ],
+   "de": [
+    "Blumengesteck in der Vase",
+    "Bunte Blumen und Blätter, arrangiert in einer lächelnden blauen Vase.",
+    [
+     "Blumengesteck",
+     "Blumen",
+     "Vase",
+     "Ikebana"
+    ]
+   ],
+   "zh": [
+    "花瓶插花",
+    "在微笑的蓝色花瓶里插上五颜六色的花朵。",
+    [
+     "插花",
+     "花艺",
+     "花瓶",
+     "鲜花"
+    ]
+   ],
+   "ko": [
+    "꽃꽂이 꽃병",
+    "웃는 파란 꽃병에 알록달록한 꽃을 꽂은 꽃꽂이.",
+    [
+     "꽃꽂이",
+     "플라워 어레인지먼트",
+     "꽃병",
+     "꽃"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "baking",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Baking cookies",
+    "Freshly baked cookies on a tray with a rolling pin.",
+    [
+     "baking",
+     "cookies",
+     "homemade",
+     "sweets"
+    ]
+   ],
+   "ja": [
+    "クッキー作り",
+    "天板に並んだ焼きたてクッキーと麺棒。",
+    [
+     "お菓子作り",
+     "クッキー",
+     "手作り",
+     "ベーキング"
+    ]
+   ],
+   "es": [
+    "Hornear galletas",
+    "Galletas recién horneadas en una bandeja con un rodillo.",
+    [
+     "repostería",
+     "galletas",
+     "casero",
+     "hornear"
+    ]
+   ],
+   "pt": [
+    "Fazendo biscoitos",
+    "Biscoitos recém-assados na assadeira com um rolo de massa.",
+    [
+     "confeitaria",
+     "biscoitos",
+     "caseiro",
+     "assar"
+    ]
+   ],
+   "fr": [
+    "Pâtisserie de biscuits",
+    "Des biscuits tout juste sortis du four sur une plaque, avec un rouleau à pâtisserie.",
+    [
+     "pâtisserie",
+     "biscuits",
+     "fait maison",
+     "cuisine"
+    ]
+   ],
+   "de": [
+    "Kekse backen",
+    "Frisch gebackene Kekse auf einem Blech mit einem Nudelholz.",
+    [
+     "Backen",
+     "Kekse",
+     "selbstgemacht",
+     "Plätzchen"
+    ]
+   ],
+   "zh": [
+    "烤饼干",
+    "烤盘上刚出炉的饼干和擀面杖。",
+    [
+     "烘焙",
+     "饼干",
+     "自制",
+     "甜点"
+    ]
+   ],
+   "ko": [
+    "쿠키 굽기",
+    "오븐 팬 위에 갓 구운 쿠키와 밀대.",
+    [
+     "베이킹",
+     "쿠키",
+     "홈베이킹",
+     "디저트"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "coffee-dripper",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pour-over coffee",
+    "Hot water poured from a kettle into a coffee dripper over a glass server.",
+    [
+     "pour-over",
+     "coffee",
+     "drip coffee",
+     "cafe"
+    ]
+   ],
+   "ja": [
+    "ハンドドリップコーヒー",
+    "ケトルからお湯を注ぎ、ドリッパーでコーヒーを淹れているところ。",
+    [
+     "ハンドドリップ",
+     "コーヒー",
+     "ドリッパー",
+     "カフェ"
+    ]
+   ],
+   "es": [
+    "Café de filtro",
+    "Agua caliente vertida desde una tetera a un filtro de café sobre una jarra de vidrio.",
+    [
+     "café de filtro",
+     "café",
+     "pour over",
+     "cafetería"
+    ]
+   ],
+   "pt": [
+    "Café coado",
+    "Água quente sendo despejada da chaleira no coador sobre a jarra de vidro.",
+    [
+     "café coado",
+     "café",
+     "coador",
+     "cafeteria"
+    ]
+   ],
+   "fr": [
+    "Café filtre à la main",
+    "De l'eau chaude versée d'une bouilloire dans un filtre à café posé sur une carafe.",
+    [
+     "café filtre",
+     "café",
+     "pour over",
+     "barista"
+    ]
+   ],
+   "de": [
+    "Handfilter-Kaffee",
+    "Heißes Wasser fließt aus einem Kessel in einen Kaffeefilter über einer Glaskanne.",
+    [
+     "Handfilter",
+     "Kaffee",
+     "Filterkaffee",
+     "Café"
+    ]
+   ],
+   "zh": [
+    "手冲咖啡",
+    "用手冲壶把热水注入滤杯，冲泡咖啡。",
+    [
+     "手冲咖啡",
+     "咖啡",
+     "滤杯",
+     "咖啡馆"
+    ]
+   ],
+   "ko": [
+    "핸드드립 커피",
+    "주전자로 드리퍼에 물을 부어 커피를 내리는 모습.",
+    [
+     "핸드드립",
+     "커피",
+     "드리퍼",
+     "카페"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tea-ceremony",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Matcha bowl and whisk",
+    "A bowl of frothy matcha with a bamboo whisk and tea scoop for the tea ceremony.",
+    [
+     "tea ceremony",
+     "matcha",
+     "green tea",
+     "Japanese culture"
+    ]
+   ],
+   "ja": [
+    "茶道の抹茶と茶筅",
+    "点てた抹茶の茶碗と茶筅、茶杓の茶道セット。",
+    [
+     "茶道",
+     "抹茶",
+     "茶筅",
+     "和風"
+    ]
+   ],
+   "es": [
+    "Cuenco de matcha y batidor",
+    "Un cuenco de matcha espumoso con un batidor de bambú para la ceremonia del té.",
+    [
+     "ceremonia del té",
+     "matcha",
+     "té verde",
+     "cultura japonesa"
+    ]
+   ],
+   "pt": [
+    "Tigela de matcha e batedor",
+    "Uma tigela de matcha espumante com batedor de bambu para a cerimônia do chá.",
+    [
+     "cerimônia do chá",
+     "matcha",
+     "chá verde",
+     "cultura japonesa"
+    ]
+   ],
+   "fr": [
+    "Bol de matcha et fouet",
+    "Un bol de matcha mousseux avec un fouet en bambou pour la cérémonie du thé.",
+    [
+     "cérémonie du thé",
+     "matcha",
+     "thé vert",
+     "culture japonaise"
+    ]
+   ],
+   "de": [
+    "Matcha-Schale und Besen",
+    "Eine Schale schaumiger Matcha mit Bambusbesen und Teelöffel für die Teezeremonie.",
+    [
+     "Teezeremonie",
+     "Matcha",
+     "grüner Tee",
+     "japanische Kultur"
+    ]
+   ],
+   "zh": [
+    "茶道抹茶碗和茶筅",
+    "点好的抹茶碗、茶筅和茶勺。",
+    [
+     "茶道",
+     "抹茶",
+     "绿茶",
+     "日本文化"
+    ]
+   ],
+   "ko": [
+    "다도 말차와 차선",
+    "거품 낸 말차 다완과 대나무 차선, 차시.",
+    [
+     "다도",
+     "말차",
+     "녹차",
+     "일본 문화"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "model-train",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Model train",
+    "A little toy steam locomotive and carriage running on a track.",
+    [
+     "model train",
+     "railway",
+     "toy train",
+     "hobby"
+    ]
+   ],
+   "ja": [
+    "鉄道模型",
+    "線路の上を走る、小さな蒸気機関車と客車の鉄道模型。",
+    [
+     "鉄道模型",
+     "機関車",
+     "電車",
+     "趣味"
+    ]
+   ],
+   "es": [
+    "Tren a escala",
+    "Una pequeña locomotora de vapor de juguete con un vagón sobre la vía.",
+    [
+     "tren a escala",
+     "ferromodelismo",
+     "tren de juguete",
+     "afición"
+    ]
+   ],
+   "pt": [
+    "Ferromodelismo",
+    "Uma pequena locomotiva a vapor de brinquedo com vagão andando nos trilhos.",
+    [
+     "trem em miniatura",
+     "ferromodelismo",
+     "trenzinho",
+     "hobby"
+    ]
+   ],
+   "fr": [
+    "Train miniature",
+    "Une petite locomotive à vapeur et son wagon sur des rails.",
+    [
+     "train miniature",
+     "modélisme ferroviaire",
+     "train jouet",
+     "loisir"
+    ]
+   ],
+   "de": [
+    "Modelleisenbahn",
+    "Eine kleine Dampflok mit Waggon auf den Schienen.",
+    [
+     "Modelleisenbahn",
+     "Lokomotive",
+     "Spielzeugeisenbahn",
+     "Hobby"
+    ]
+   ],
+   "zh": [
+    "火车模型",
+    "在轨道上行驶的小蒸汽机车和车厢模型。",
+    [
+     "火车模型",
+     "铁道模型",
+     "小火车",
+     "爱好"
+    ]
+   ],
+   "ko": [
+    "철도 모형",
+    "선로 위를 달리는 작은 증기기관차와 객차 모형.",
+    [
+     "철도 모형",
+     "기차",
+     "장난감 기차",
+     "취미"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "kite",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Kite in the sky",
+    "A smiling diamond kite with a bow tail flying among clouds.",
+    [
+     "kite",
+     "kite flying",
+     "sky",
+     "outdoor play"
+    ]
+   ],
+   "ja": [
+    "空に揚がる凧",
+    "雲のあいだを泳ぐ、にっこり顔のひし形の凧。",
+    [
+     "凧揚げ",
+     "凧",
+     "空",
+     "外遊び"
+    ]
+   ],
+   "es": [
+    "Cometa en el cielo",
+    "Una cometa sonriente en forma de rombo con cola de lazos entre las nubes.",
+    [
+     "cometa",
+     "volar cometa",
+     "cielo",
+     "juegos al aire libre"
+    ]
+   ],
+   "pt": [
+    "Pipa no céu",
+    "Uma pipa sorridente em forma de losango com rabiola voando entre as nuvens.",
+    [
+     "pipa",
+     "soltar pipa",
+     "céu",
+     "brincadeira"
+    ]
+   ],
+   "fr": [
+    "Cerf-volant dans le ciel",
+    "Un cerf-volant souriant en losange avec une queue à nœuds parmi les nuages.",
+    [
+     "cerf-volant",
+     "ciel",
+     "vent",
+     "jeux de plein air"
+    ]
+   ],
+   "de": [
+    "Drachen am Himmel",
+    "Ein lächelnder rautenförmiger Drachen mit Schleifenschwanz zwischen Wolken.",
+    [
+     "Drachen",
+     "Drachen steigen lassen",
+     "Himmel",
+     "Herbst"
+    ]
+   ],
+   "zh": [
+    "天空中的风筝",
+    "在云间飞翔的笑脸菱形风筝。",
+    [
+     "风筝",
+     "放风筝",
+     "天空",
+     "户外游戏"
+    ]
+   ],
+   "ko": [
+    "하늘을 나는 연",
+    "구름 사이로 날아오르는 웃는 얼굴의 마름모 연.",
+    [
+     "연",
+     "연날리기",
+     "하늘",
+     "야외 놀이"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "telescope",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Stargazing telescope",
+    "A telescope on a tripod pointing at the crescent moon and stars.",
+    [
+     "telescope",
+     "stargazing",
+     "astronomy",
+     "night sky"
+    ]
+   ],
+   "ja": [
+    "天体望遠鏡",
+    "三日月と星空に向けた、三脚つきの天体望遠鏡。",
+    [
+     "天体観測",
+     "望遠鏡",
+     "星空",
+     "天文"
+    ]
+   ],
+   "es": [
+    "Telescopio para ver estrellas",
+    "Un telescopio sobre trípode apuntando a la luna creciente y las estrellas.",
+    [
+     "telescopio",
+     "observar estrellas",
+     "astronomía",
+     "cielo nocturno"
+    ]
+   ],
+   "pt": [
+    "Telescópio para observar estrelas",
+    "Um telescópio no tripé apontado para a lua crescente e as estrelas.",
+    [
+     "telescópio",
+     "observação do céu",
+     "astronomia",
+     "céu noturno"
+    ]
+   ],
+   "fr": [
+    "Télescope pour observer les étoiles",
+    "Un télescope sur trépied pointé vers le croissant de lune et les étoiles.",
+    [
+     "télescope",
+     "astronomie",
+     "étoiles",
+     "ciel nocturne"
+    ]
+   ],
+   "de": [
+    "Teleskop zum Sternegucken",
+    "Ein Teleskop auf einem Stativ, gerichtet auf Mondsichel und Sterne.",
+    [
+     "Teleskop",
+     "Sterne beobachten",
+     "Astronomie",
+     "Nachthimmel"
+    ]
+   ],
+   "zh": [
+    "天文望远镜",
+    "对准弯月和星空的三脚架天文望远镜。",
+    [
+     "天文望远镜",
+     "观星",
+     "天文",
+     "星空"
+    ]
+   ],
+   "ko": [
+    "천체 망원경",
+    "초승달과 별을 향한 삼각대 위의 천체 망원경.",
+    [
+     "천체 망원경",
+     "별 관측",
+     "천문",
+     "밤하늘"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "woodworking",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Woodworking tools",
+    "A hand saw and hammer resting on a wooden plank.",
+    [
+     "woodworking",
+     "DIY",
+     "carpentry",
+     "tools"
+    ]
+   ],
+   "ja": [
+    "木工道具",
+    "木の板の上に置いたのこぎりと金づち。",
+    [
+     "木工",
+     "DIY",
+     "日曜大工",
+     "工具"
+    ]
+   ],
+   "es": [
+    "Herramientas de carpintería",
+    "Un serrucho y un martillo sobre una tabla de madera.",
+    [
+     "carpintería",
+     "bricolaje",
+     "herramientas",
+     "madera"
+    ]
+   ],
+   "pt": [
+    "Ferramentas de marcenaria",
+    "Um serrote e um martelo sobre uma tábua de madeira.",
+    [
+     "marcenaria",
+     "faça você mesmo",
+     "ferramentas",
+     "madeira"
+    ]
+   ],
+   "fr": [
+    "Outils de menuiserie",
+    "Une scie et un marteau posés sur une planche de bois.",
+    [
+     "menuiserie",
+     "bricolage",
+     "outils",
+     "bois"
+    ]
+   ],
+   "de": [
+    "Werkzeug für Holzarbeiten",
+    "Eine Handsäge und ein Hammer auf einem Holzbrett.",
+    [
+     "Holzarbeit",
+     "Heimwerken",
+     "Werkzeug",
+     "Schreinern"
+    ]
+   ],
+   "zh": [
+    "木工工具",
+    "放在木板上的手锯和锤子。",
+    [
+     "木工",
+     "DIY",
+     "工具",
+     "木匠"
+    ]
+   ],
+   "ko": [
+    "목공 도구",
+    "나무판 위에 놓인 톱과 망치.",
+    [
+     "목공",
+     "DIY",
+     "공구",
+     "목재"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ballet",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ballerina dancing",
+    "A smiling ballerina in a pink tutu dancing on tiptoe with arms raised.",
+    [
+     "ballet",
+     "ballerina",
+     "dance",
+     "tutu"
+    ]
+   ],
+   "ja": [
+    "踊るバレリーナ",
+    "ピンクのチュチュを着て、つま先立ちで踊るバレリーナ。",
+    [
+     "バレエ",
+     "バレリーナ",
+     "ダンス",
+     "習い事"
+    ]
+   ],
+   "es": [
+    "Bailarina de ballet",
+    "Una bailarina sonriente con tutú rosa bailando de puntillas con los brazos en alto.",
+    [
+     "ballet",
+     "bailarina",
+     "danza",
+     "tutú"
+    ]
+   ],
+   "pt": [
+    "Bailarina de balé",
+    "Uma bailarina sorridente de tutu rosa dançando na ponta dos pés.",
+    [
+     "balé",
+     "bailarina",
+     "dança",
+     "tutu"
+    ]
+   ],
+   "fr": [
+    "Ballerine qui danse",
+    "Une ballerine souriante en tutu rose qui danse sur les pointes, bras levés.",
+    [
+     "danse classique",
+     "ballerine",
+     "ballet",
+     "tutu"
+    ]
+   ],
+   "de": [
+    "Tanzende Ballerina",
+    "Eine lächelnde Ballerina im rosa Tutu tanzt auf Zehenspitzen.",
+    [
+     "Ballett",
+     "Ballerina",
+     "Tanz",
+     "Tutu"
+    ]
+   ],
+   "zh": [
+    "跳舞的芭蕾舞者",
+    "穿着粉色芭蕾舞裙、踮起脚尖跳舞的女孩。",
+    [
+     "芭蕾",
+     "芭蕾舞",
+     "舞蹈",
+     "兴趣班"
+    ]
+   ],
+   "ko": [
+    "춤추는 발레리나",
+    "분홍 튀튀를 입고 발끝으로 춤추는 발레리나.",
+    [
+     "발레",
+     "발레리나",
+     "춤",
+     "취미"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "magic-hat",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Magic hat and wand",
+    "A rabbit popping out of a magician's top hat next to a magic wand and sparkles.",
+    [
+     "magic",
+     "magician",
+     "magic trick",
+     "rabbit"
+    ]
+   ],
+   "ja": [
+    "手品のシルクハットとステッキ",
+    "シルクハットからうさぎが飛び出す、マジックのステッキとキラキラ。",
+    [
+     "手品",
+     "マジック",
+     "マジシャン",
+     "うさぎ"
+    ]
+   ],
+   "es": [
+    "Sombrero y varita de magia",
+    "Un conejo saliendo de un sombrero de copa junto a una varita mágica con destellos.",
+    [
+     "magia",
+     "mago",
+     "truco de magia",
+     "conejo"
+    ]
+   ],
+   "pt": [
+    "Cartola e varinha de mágica",
+    "Um coelho saindo da cartola ao lado de uma varinha mágica com brilhos.",
+    [
+     "mágica",
+     "mágico",
+     "truque",
+     "coelho"
+    ]
+   ],
+   "fr": [
+    "Chapeau et baguette de magicien",
+    "Un lapin qui sort d'un chapeau haut-de-forme, avec une baguette magique et des étincelles.",
+    [
+     "magie",
+     "magicien",
+     "tour de magie",
+     "lapin"
+    ]
+   ],
+   "de": [
+    "Zauberhut und Zauberstab",
+    "Ein Hase schaut aus einem Zylinder, daneben ein Zauberstab mit Funkeln.",
+    [
+     "Zaubertrick",
+     "Zauberer",
+     "Magie",
+     "Hase"
+    ]
+   ],
+   "zh": [
+    "魔术帽和魔术棒",
+    "兔子从魔术师的礼帽里钻出来，旁边是闪闪发光的魔术棒。",
+    [
+     "魔术",
+     "魔术师",
+     "变魔术",
+     "兔子"
+    ]
+   ],
+   "ko": [
+    "마술 모자와 지팡이",
+    "실크햇에서 토끼가 튀어나오고 반짝이는 마술 지팡이가 있는 모습.",
+    [
+     "마술",
+     "마술사",
+     "마술 쇼",
+     "토끼"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "aquarium-tank",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Home aquarium",
+    "A fish tank with goldfish, water plants and bubbles.",
+    [
+     "aquarium",
+     "fish tank",
+     "fish",
+     "pet"
+    ]
+   ],
+   "ja": [
+    "おうちの水槽",
+    "金魚と水草、泡が浮かぶ家庭用の水槽。",
+    [
+     "水槽",
+     "アクアリウム",
+     "金魚",
+     "ペット"
+    ]
+   ],
+   "es": [
+    "Acuario casero",
+    "Una pecera con peces, plantas acuáticas y burbujas.",
+    [
+     "acuario",
+     "pecera",
+     "peces",
+     "mascotas"
+    ]
+   ],
+   "pt": [
+    "Aquário em casa",
+    "Um aquário com peixinhos, plantas aquáticas e bolhas.",
+    [
+     "aquário",
+     "peixes",
+     "aquarismo",
+     "pet"
+    ]
+   ],
+   "fr": [
+    "Aquarium à la maison",
+    "Un aquarium avec des poissons rouges, des plantes aquatiques et des bulles.",
+    [
+     "aquarium",
+     "poissons",
+     "aquariophilie",
+     "animaux"
+    ]
+   ],
+   "de": [
+    "Aquarium zu Hause",
+    "Ein Aquarium mit Fischen, Wasserpflanzen und Luftblasen.",
+    [
+     "Aquarium",
+     "Fische",
+     "Goldfisch",
+     "Haustier"
+    ]
+   ],
+   "zh": [
+    "家庭鱼缸",
+    "有金鱼、水草和气泡的家用鱼缸。",
+    [
+     "鱼缸",
+     "水族箱",
+     "金鱼",
+     "宠物"
+    ]
+   ],
+   "ko": [
+    "집 안의 어항",
+    "금붕어와 수초, 물방울이 있는 가정용 어항.",
+    [
+     "어항",
+     "아쿠아리움",
+     "물고기",
+     "반려동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "dj",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "DJ at the turntables",
+    "A cheerful DJ with headphones spinning records on two turntables.",
+    [
+     "DJ",
+     "turntable",
+     "music",
+     "party"
+    ]
+   ],
+   "ja": [
+    "ターンテーブルのDJ",
+    "ヘッドホンをつけてレコードを回す楽しそうなDJ。",
+    [
+     "DJ",
+     "ターンテーブル",
+     "音楽",
+     "クラブ"
+    ]
+   ],
+   "es": [
+    "DJ con tocadiscos",
+    "Un DJ alegre con auriculares pinchando discos en dos platos.",
+    [
+     "DJ",
+     "tocadiscos",
+     "música",
+     "fiesta"
+    ]
+   ],
+   "pt": [
+    "DJ nas pick-ups",
+    "Um DJ animado de fone de ouvido tocando discos em duas pick-ups.",
+    [
+     "DJ",
+     "toca-discos",
+     "música",
+     "festa"
+    ]
+   ],
+   "fr": [
+    "DJ aux platines",
+    "Un DJ joyeux avec un casque qui mixe des vinyles sur deux platines.",
+    [
+     "DJ",
+     "platines",
+     "musique",
+     "soirée"
+    ]
+   ],
+   "de": [
+    "DJ am Plattenspieler",
+    "Ein fröhlicher DJ mit Kopfhörern legt auf zwei Plattentellern auf.",
+    [
+     "DJ",
+     "Plattenspieler",
+     "Musik",
+     "Party"
+    ]
+   ],
+   "zh": [
+    "打碟的DJ",
+    "戴着耳机在两台唱机上打碟的快乐DJ。",
+    [
+     "DJ",
+     "打碟",
+     "音乐",
+     "派对"
+    ]
+   ],
+   "ko": [
+    "턴테이블 DJ",
+    "헤드폰을 끼고 두 대의 턴테이블로 음반을 트는 신나는 DJ.",
+    [
+     "DJ",
+     "턴테이블",
+     "음악",
+     "파티"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ukulele",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ukulele",
+    "A cute wooden ukulele with a smiling face and music notes.",
+    [
+     "ukulele",
+     "instrument",
+     "music",
+     "string instrument"
+    ]
+   ],
+   "ja": [
+    "ウクレレ",
+    "にっこり顔の木のウクレレと音符。",
+    [
+     "ウクレレ",
+     "楽器",
+     "音楽",
+     "弦楽器"
+    ]
+   ],
+   "es": [
+    "Ukelele",
+    "Un ukelele de madera adorable con cara sonriente y notas musicales.",
+    [
+     "ukelele",
+     "instrumento",
+     "música",
+     "cuerdas"
+    ]
+   ],
+   "pt": [
+    "Ukulele",
+    "Um ukulele de madeira fofo com carinha sorridente e notas musicais.",
+    [
+     "ukulele",
+     "instrumento",
+     "música",
+     "cordas"
+    ]
+   ],
+   "fr": [
+    "Ukulélé",
+    "Un joli ukulélé en bois au visage souriant, avec des notes de musique.",
+    [
+     "ukulélé",
+     "instrument",
+     "musique",
+     "instrument à cordes"
+    ]
+   ],
+   "de": [
+    "Ukulele",
+    "Eine niedliche Holz-Ukulele mit lächelndem Gesicht und Musiknoten.",
+    [
+     "Ukulele",
+     "Instrument",
+     "Musik",
+     "Saiteninstrument"
+    ]
+   ],
+   "zh": [
+    "尤克里里",
+    "带着笑脸的木制尤克里里和音符。",
+    [
+     "尤克里里",
+     "乐器",
+     "音乐",
+     "弦乐器"
+    ]
+   ],
+   "ko": [
+    "우쿨렐레",
+    "웃는 얼굴의 나무 우쿨렐레와 음표.",
+    [
+     "우쿨렐레",
+     "악기",
+     "음악",
+     "현악기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "saxophone",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Saxophone",
+    "A shiny golden saxophone with a smiling face and music notes.",
+    [
+     "saxophone",
+     "jazz",
+     "instrument",
+     "music"
+    ]
+   ],
+   "ja": [
+    "サックス",
+    "にっこり顔の金色のサックスと音符。",
+    [
+     "サックス",
+     "サクソフォン",
+     "ジャズ",
+     "楽器"
+    ]
+   ],
+   "es": [
+    "Saxofón",
+    "Un saxofón dorado y brillante con cara sonriente y notas musicales.",
+    [
+     "saxofón",
+     "jazz",
+     "instrumento",
+     "música"
+    ]
+   ],
+   "pt": [
+    "Saxofone",
+    "Um saxofone dourado e brilhante com carinha sorridente e notas musicais.",
+    [
+     "saxofone",
+     "jazz",
+     "instrumento",
+     "música"
+    ]
+   ],
+   "fr": [
+    "Saxophone",
+    "Un saxophone doré et brillant au visage souriant, avec des notes de musique.",
+    [
+     "saxophone",
+     "jazz",
+     "instrument",
+     "musique"
+    ]
+   ],
+   "de": [
+    "Saxofon",
+    "Ein glänzendes goldenes Saxofon mit lächelndem Gesicht und Musiknoten.",
+    [
+     "Saxofon",
+     "Jazz",
+     "Instrument",
+     "Musik"
+    ]
+   ],
+   "zh": [
+    "萨克斯",
+    "带着笑脸的金色萨克斯和音符。",
+    [
+     "萨克斯",
+     "爵士乐",
+     "乐器",
+     "音乐"
+    ]
+   ],
+   "ko": [
+    "색소폰",
+    "웃는 얼굴의 반짝이는 금색 색소폰과 음표.",
+    [
+     "색소폰",
+     "재즈",
+     "악기",
+     "음악"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "knitting",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Knitting yarn and needles",
+    "A smiling ball of yarn with knitting needles and a small knitted piece.",
+    [
+     "knitting",
+     "yarn",
+     "handmade",
+     "wool"
+    ]
+   ],
+   "ja": [
+    "毛糸と編み棒",
+    "にっこり顔の毛糸玉と編み棒、編みかけの小さな編み物。",
+    [
+     "編み物",
+     "毛糸",
+     "手芸",
+     "ハンドメイド"
+    ]
+   ],
+   "es": [
+    "Ovillo y agujas de tejer",
+    "Un ovillo de lana sonriente con agujas de tejer y una pequeña labor.",
+    [
+     "tejer",
+     "lana",
+     "punto",
+     "hecho a mano"
+    ]
+   ],
+   "pt": [
+    "Novelo e agulhas de tricô",
+    "Um novelo de lã sorridente com agulhas de tricô e um pedacinho tricotado.",
+    [
+     "tricô",
+     "lã",
+     "novelo",
+     "artesanato"
+    ]
+   ],
+   "fr": [
+    "Pelote de laine et aiguilles",
+    "Une pelote de laine souriante avec des aiguilles à tricoter et un petit ouvrage.",
+    [
+     "tricot",
+     "laine",
+     "pelote",
+     "fait main"
+    ]
+   ],
+   "de": [
+    "Wollknäuel und Stricknadeln",
+    "Ein lächelndes Wollknäuel mit Stricknadeln und einem kleinen Strickstück.",
+    [
+     "Stricken",
+     "Wolle",
+     "Handarbeit",
+     "Stricknadeln"
+    ]
+   ],
+   "zh": [
+    "毛线团和织针",
+    "带笑脸的毛线团、织针和织了一半的小织物。",
+    [
+     "编织",
+     "毛线",
+     "手工",
+     "织毛衣"
+    ]
+   ],
+   "ko": [
+    "털실과 뜨개바늘",
+    "웃는 얼굴의 털실 뭉치와 뜨개바늘, 뜨다 만 작은 편물.",
+    [
+     "뜨개질",
+     "털실",
+     "손뜨개",
+     "수공예"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "camera-hobby",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person with a camera",
+    "A smiling person holding a camera with a neck strap, ready to take photos.",
+    [
+     "photography",
+     "camera",
+     "photographer",
+     "hobby"
+    ]
+   ],
+   "ja": [
+    "カメラを持つ人",
+    "ストラップを首にかけ、カメラを構えたにこにこ顔の人。",
+    [
+     "カメラ",
+     "写真",
+     "撮影",
+     "趣味"
+    ]
+   ],
+   "es": [
+    "Persona con cámara",
+    "Una persona sonriente con una cámara colgada al cuello, lista para hacer fotos.",
+    [
+     "fotografía",
+     "cámara",
+     "fotógrafo",
+     "afición"
+    ]
+   ],
+   "pt": [
+    "Pessoa com câmera",
+    "Uma pessoa sorridente segurando uma câmera com alça no pescoço, pronta para fotografar.",
+    [
+     "fotografia",
+     "câmera",
+     "fotógrafo",
+     "hobby"
+    ]
+   ],
+   "fr": [
+    "Personne avec un appareil photo",
+    "Une personne souriante tenant un appareil photo en bandoulière, prête à photographier.",
+    [
+     "photographie",
+     "appareil photo",
+     "photographe",
+     "loisir"
+    ]
+   ],
+   "de": [
+    "Person mit Kamera",
+    "Eine lächelnde Person hält eine Kamera mit Umhängeband, bereit zum Fotografieren.",
+    [
+     "Fotografie",
+     "Kamera",
+     "Fotograf",
+     "Hobby"
+    ]
+   ],
+   "zh": [
+    "拿着相机的人",
+    "脖子上挂着相机带、准备拍照的笑脸人物。",
+    [
+     "摄影",
+     "相机",
+     "拍照",
+     "爱好"
+    ]
+   ],
+   "ko": [
+    "카메라를 든 사람",
+    "목에 스트랩을 걸고 카메라를 든 웃는 사람.",
+    [
+     "사진",
+     "카메라",
+     "촬영",
+     "취미"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bird-watching",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bird watching",
+    "A person in a sun hat looking through binoculars at a little bird on a branch.",
+    [
+     "bird watching",
+     "binoculars",
+     "birds",
+     "nature"
+    ]
+   ],
+   "ja": [
+    "バードウォッチング",
+    "帽子をかぶり、双眼鏡で枝の小鳥を観察する人。",
+    [
+     "バードウォッチング",
+     "双眼鏡",
+     "野鳥",
+     "自然観察"
+    ]
+   ],
+   "es": [
+    "Observación de aves",
+    "Una persona con sombrero mira con prismáticos un pajarito en una rama.",
+    [
+     "observación de aves",
+     "prismáticos",
+     "pájaros",
+     "naturaleza"
+    ]
+   ],
+   "pt": [
+    "Observação de pássaros",
+    "Uma pessoa de chapéu olhando com binóculos um passarinho no galho.",
+    [
+     "observação de aves",
+     "binóculos",
+     "pássaros",
+     "natureza"
+    ]
+   ],
+   "fr": [
+    "Observation des oiseaux",
+    "Une personne en chapeau observe aux jumelles un petit oiseau sur une branche.",
+    [
+     "ornithologie",
+     "jumelles",
+     "oiseaux",
+     "nature"
+    ]
+   ],
+   "de": [
+    "Vogelbeobachtung",
+    "Eine Person mit Hut beobachtet durch ein Fernglas einen kleinen Vogel auf einem Ast.",
+    [
+     "Vogelbeobachtung",
+     "Fernglas",
+     "Vögel",
+     "Natur"
+    ]
+   ],
+   "zh": [
+    "观鸟",
+    "戴着帽子、用双筒望远镜观察树枝上小鸟的人。",
+    [
+     "观鸟",
+     "望远镜",
+     "野鸟",
+     "自然观察"
+    ]
+   ],
+   "ko": [
+    "탐조",
+    "모자를 쓰고 쌍안경으로 나뭇가지의 작은 새를 관찰하는 사람.",
+    [
+     "탐조",
+     "쌍안경",
+     "새",
+     "자연 관찰"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "gardening-hobby",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Vegetable garden planter",
+    "A wooden planter box growing tomatoes and leafy vegetables.",
+    [
+     "vegetable garden",
+     "gardening",
+     "planter",
+     "home garden"
+    ]
+   ],
+   "ja": [
+    "家庭菜園のプランター",
+    "トマトや葉物野菜を育てている木のプランター。",
+    [
+     "家庭菜園",
+     "ガーデニング",
+     "プランター",
+     "野菜"
+    ]
+   ],
+   "es": [
+    "Jardinera de huerto",
+    "Una jardinera de madera con tomates y verduras de hoja.",
+    [
+     "huerto",
+     "jardinería",
+     "jardinera",
+     "verduras"
+    ]
+   ],
+   "pt": [
+    "Horta em floreira",
+    "Uma floreira de madeira com tomates e verduras crescendo.",
+    [
+     "horta",
+     "jardinagem",
+     "floreira",
+     "hortaliças"
+    ]
+   ],
+   "fr": [
+    "Bac de potager",
+    "Un bac en bois où poussent des tomates et des légumes feuilles.",
+    [
+     "potager",
+     "jardinage",
+     "jardinière",
+     "légumes"
+    ]
+   ],
+   "de": [
+    "Gemüse-Hochbeet",
+    "Ein Pflanzkasten aus Holz mit Tomaten und Blattgemüse.",
+    [
+     "Gemüsegarten",
+     "Gärtnern",
+     "Hochbeet",
+     "Gemüse"
+    ]
+   ],
+   "zh": [
+    "家庭菜园种植箱",
+    "种着番茄和叶菜的木制种植箱。",
+    [
+     "家庭菜园",
+     "园艺",
+     "种植箱",
+     "蔬菜"
+    ]
+   ],
+   "ko": [
+    "텃밭 상자",
+    "토마토와 잎채소를 키우는 나무 화분 상자.",
+    [
+     "텃밭",
+     "가드닝",
+     "화분",
+     "채소"
+    ]
+   ]
+  }
+ }
+]

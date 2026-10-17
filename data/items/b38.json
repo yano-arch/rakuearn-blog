@@ -1,0 +1,1737 @@
+[
+ {
+  "slug": "desk-chair",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Study desk and chair",
+    "A wooden study desk with a lamp and books, and a swivel chair.",
+    [
+     "desk",
+     "chair",
+     "study",
+     "furniture"
+    ]
+   ],
+   "ja": [
+    "勉強机とイス",
+    "ライトと本がのった木の勉強机とキャスター付きのイス。",
+    [
+     "勉強机",
+     "イス",
+     "家具",
+     "勉強"
+    ]
+   ],
+   "es": [
+    "Escritorio y silla",
+    "Un escritorio de madera con lámpara y libros, y una silla giratoria.",
+    [
+     "escritorio",
+     "silla",
+     "estudio",
+     "muebles"
+    ]
+   ],
+   "pt": [
+    "Escrivaninha e cadeira",
+    "Uma escrivaninha de madeira com luminária e livros, e uma cadeira giratória.",
+    [
+     "escrivaninha",
+     "cadeira",
+     "estudo",
+     "móveis"
+    ]
+   ],
+   "fr": [
+    "Bureau et chaise",
+    "Un bureau en bois avec une lampe et des livres, et une chaise pivotante.",
+    [
+     "bureau",
+     "chaise",
+     "études",
+     "meuble"
+    ]
+   ],
+   "de": [
+    "Schreibtisch und Stuhl",
+    "Ein Holzschreibtisch mit Lampe und Büchern und ein Drehstuhl.",
+    [
+     "Schreibtisch",
+     "Stuhl",
+     "Lernen",
+     "Möbel"
+    ]
+   ],
+   "zh": [
+    "书桌和椅子",
+    "放着台灯和书的木书桌，配一把转椅。",
+    [
+     "书桌",
+     "椅子",
+     "学习",
+     "家具"
+    ]
+   ],
+   "ko": [
+    "책상과 의자",
+    "스탠드와 책이 놓인 나무 책상과 바퀴 달린 의자.",
+    [
+     "책상",
+     "의자",
+     "공부",
+     "가구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "houseplant",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Large houseplant",
+    "A big leafy houseplant in a white pot.",
+    [
+     "houseplant",
+     "plant",
+     "interior",
+     "green"
+    ]
+   ],
+   "ja": [
+    "大きな観葉植物",
+    "白い鉢に植えた葉の大きな観葉植物。",
+    [
+     "観葉植物",
+     "植物",
+     "インテリア",
+     "グリーン"
+    ]
+   ],
+   "es": [
+    "Planta de interior grande",
+    "Una planta de interior frondosa en una maceta blanca.",
+    [
+     "planta de interior",
+     "planta",
+     "decoración",
+     "verde"
+    ]
+   ],
+   "pt": [
+    "Planta grande de interior",
+    "Uma planta de folhas grandes em um vaso branco.",
+    [
+     "planta",
+     "vaso",
+     "decoração",
+     "verde"
+    ]
+   ],
+   "fr": [
+    "Grande plante d'intérieur",
+    "Une grande plante verte feuillue dans un pot blanc.",
+    [
+     "plante d'intérieur",
+     "plante verte",
+     "déco",
+     "pot"
+    ]
+   ],
+   "de": [
+    "Große Zimmerpflanze",
+    "Eine große, blättrige Zimmerpflanze in einem weißen Topf.",
+    [
+     "Zimmerpflanze",
+     "Pflanze",
+     "Einrichtung",
+     "grün"
+    ]
+   ],
+   "zh": [
+    "大型绿植",
+    "种在白色花盆里的大叶绿植。",
+    [
+     "绿植",
+     "盆栽",
+     "室内装饰",
+     "植物"
+    ]
+   ],
+   "ko": [
+    "큰 관엽식물",
+    "하얀 화분에 심은 잎이 큰 관엽식물.",
+    [
+     "관엽식물",
+     "식물",
+     "인테리어",
+     "화분"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "air-purifier",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Air purifier",
+    "An air purifier sending out fresh, clean air.",
+    [
+     "air purifier",
+     "clean air",
+     "appliance"
+    ]
+   ],
+   "ja": [
+    "空気清浄機",
+    "きれいな空気を送り出す空気清浄機。",
+    [
+     "空気清浄機",
+     "家電",
+     "空気",
+     "花粉"
+    ]
+   ],
+   "es": [
+    "Purificador de aire",
+    "Un purificador que expulsa aire limpio y fresco.",
+    [
+     "purificador de aire",
+     "aire limpio",
+     "electrodoméstico"
+    ]
+   ],
+   "pt": [
+    "Purificador de ar",
+    "Um purificador soltando ar limpo e fresco.",
+    [
+     "purificador de ar",
+     "ar limpo",
+     "eletrodoméstico"
+    ]
+   ],
+   "fr": [
+    "Purificateur d'air",
+    "Un purificateur qui diffuse un air frais et propre.",
+    [
+     "purificateur d'air",
+     "air pur",
+     "électroménager"
+    ]
+   ],
+   "de": [
+    "Luftreiniger",
+    "Ein Luftreiniger, der frische, saubere Luft ausstößt.",
+    [
+     "Luftreiniger",
+     "saubere Luft",
+     "Haushaltsgerät"
+    ]
+   ],
+   "zh": [
+    "空气净化器",
+    "送出清新空气的空气净化器。",
+    [
+     "空气净化器",
+     "家电",
+     "空气",
+     "除霾"
+    ]
+   ],
+   "ko": [
+    "공기청정기",
+    "깨끗한 공기를 내보내는 공기청정기.",
+    [
+     "공기청정기",
+     "가전",
+     "공기",
+     "미세먼지"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "humidifier",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Humidifier with mist",
+    "A cute smiling humidifier puffing out soft mist.",
+    [
+     "humidifier",
+     "mist",
+     "dry air",
+     "appliance"
+    ]
+   ],
+   "ja": [
+    "ミストが出る加湿器",
+    "ふんわりミストを出すにっこり顔の加湿器。",
+    [
+     "加湿器",
+     "乾燥対策",
+     "ミスト",
+     "家電"
+    ]
+   ],
+   "es": [
+    "Humidificador con vapor",
+    "Un humidificador sonriente que suelta un vapor suave.",
+    [
+     "humidificador",
+     "vapor",
+     "aire seco",
+     "electrodoméstico"
+    ]
+   ],
+   "pt": [
+    "Umidificador com vapor",
+    "Um umidificador sorridente soltando uma névoa suave.",
+    [
+     "umidificador",
+     "névoa",
+     "ar seco",
+     "eletrodoméstico"
+    ]
+   ],
+   "fr": [
+    "Humidificateur avec brume",
+    "Un humidificateur souriant qui diffuse une douce brume.",
+    [
+     "humidificateur",
+     "brume",
+     "air sec",
+     "électroménager"
+    ]
+   ],
+   "de": [
+    "Luftbefeuchter mit Nebel",
+    "Ein lächelnder Luftbefeuchter, der sanften Nebel ausstößt.",
+    [
+     "Luftbefeuchter",
+     "Nebel",
+     "trockene Luft",
+     "Haushaltsgerät"
+    ]
+   ],
+   "zh": [
+    "喷雾加湿器",
+    "喷出柔和水雾、面带微笑的加湿器。",
+    [
+     "加湿器",
+     "水雾",
+     "干燥",
+     "家电"
+    ]
+   ],
+   "ko": [
+    "가습기",
+    "촉촉한 미스트를 내뿜는 웃는 얼굴의 가습기.",
+    [
+     "가습기",
+     "미스트",
+     "건조",
+     "가전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "dishwasher",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Dishwasher",
+    "An open dishwasher with plates and cups in the racks.",
+    [
+     "dishwasher",
+     "dishes",
+     "kitchen",
+     "appliance"
+    ]
+   ],
+   "ja": [
+    "食洗機",
+    "お皿とコップが並んだ扉の開いた食器洗い機。",
+    [
+     "食洗機",
+     "食器洗い乾燥機",
+     "キッチン",
+     "家電"
+    ]
+   ],
+   "es": [
+    "Lavavajillas",
+    "Un lavavajillas abierto con platos y vasos en las rejillas.",
+    [
+     "lavavajillas",
+     "platos",
+     "cocina",
+     "electrodoméstico"
+    ]
+   ],
+   "pt": [
+    "Lava-louças",
+    "Uma lava-louças aberta com pratos e copos nos cestos.",
+    [
+     "lava-louças",
+     "pratos",
+     "cozinha",
+     "eletrodoméstico"
+    ]
+   ],
+   "fr": [
+    "Lave-vaisselle",
+    "Un lave-vaisselle ouvert avec des assiettes et des tasses.",
+    [
+     "lave-vaisselle",
+     "vaisselle",
+     "cuisine",
+     "électroménager"
+    ]
+   ],
+   "de": [
+    "Geschirrspüler",
+    "Ein offener Geschirrspüler mit Tellern und Tassen in den Körben.",
+    [
+     "Geschirrspüler",
+     "Spülmaschine",
+     "Küche",
+     "Haushaltsgerät"
+    ]
+   ],
+   "zh": [
+    "洗碗机",
+    "打开的洗碗机，架子上放着盘子和杯子。",
+    [
+     "洗碗机",
+     "餐具",
+     "厨房",
+     "家电"
+    ]
+   ],
+   "ko": [
+    "식기세척기",
+    "접시와 컵이 담긴 문이 열린 식기세척기.",
+    [
+     "식기세척기",
+     "식세기",
+     "주방",
+     "가전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sewing-kit",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sewing kit",
+    "A sewing box with thread spools, a pincushion and a needle.",
+    [
+     "sewing kit",
+     "sewing",
+     "thread",
+     "needle"
+    ]
+   ],
+   "ja": [
+    "裁縫セット",
+    "糸巻き・針山・針が入った裁縫箱。",
+    [
+     "裁縫セット",
+     "裁縫",
+     "糸",
+     "針"
+    ]
+   ],
+   "es": [
+    "Costurero",
+    "Una caja de costura con carretes de hilo, alfiletero y aguja.",
+    [
+     "costurero",
+     "costura",
+     "hilo",
+     "aguja"
+    ]
+   ],
+   "pt": [
+    "Kit de costura",
+    "Uma caixa de costura com carretéis de linha, alfineteiro e agulha.",
+    [
+     "kit de costura",
+     "costura",
+     "linha",
+     "agulha"
+    ]
+   ],
+   "fr": [
+    "Boîte à couture",
+    "Une boîte à couture avec bobines de fil, pelote à épingles et aiguille.",
+    [
+     "boîte à couture",
+     "couture",
+     "fil",
+     "aiguille"
+    ]
+   ],
+   "de": [
+    "Nähkästchen",
+    "Ein Nähkästchen mit Garnrollen, Nadelkissen und Nadel.",
+    [
+     "Nähset",
+     "Nähen",
+     "Garn",
+     "Nadel"
+    ]
+   ],
+   "zh": [
+    "针线盒",
+    "装着线轴、针插和针的针线盒。",
+    [
+     "针线盒",
+     "缝纫",
+     "线",
+     "针"
+    ]
+   ],
+   "ko": [
+    "반짇고리",
+    "실패, 바늘꽂이, 바늘이 든 바느질 상자.",
+    [
+     "반짇고리",
+     "바느질",
+     "실",
+     "바늘"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ironing-board",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ironing board and iron",
+    "An iron resting on an ironing board.",
+    [
+     "ironing board",
+     "iron",
+     "laundry",
+     "housework"
+    ]
+   ],
+   "ja": [
+    "アイロン台とアイロン",
+    "アイロン台の上にのったアイロン。",
+    [
+     "アイロン台",
+     "アイロン",
+     "洗濯",
+     "家事"
+    ]
+   ],
+   "es": [
+    "Tabla de planchar",
+    "Una plancha sobre una tabla de planchar.",
+    [
+     "tabla de planchar",
+     "plancha",
+     "ropa",
+     "tareas del hogar"
+    ]
+   ],
+   "pt": [
+    "Tábua de passar",
+    "Um ferro de passar sobre a tábua de passar roupa.",
+    [
+     "tábua de passar",
+     "ferro de passar",
+     "roupa",
+     "tarefas domésticas"
+    ]
+   ],
+   "fr": [
+    "Planche à repasser",
+    "Un fer posé sur une planche à repasser.",
+    [
+     "planche à repasser",
+     "fer à repasser",
+     "linge",
+     "ménage"
+    ]
+   ],
+   "de": [
+    "Bügelbrett",
+    "Ein Bügeleisen auf einem Bügelbrett.",
+    [
+     "Bügelbrett",
+     "Bügeleisen",
+     "Wäsche",
+     "Hausarbeit"
+    ]
+   ],
+   "zh": [
+    "熨衣板",
+    "放在熨衣板上的熨斗。",
+    [
+     "熨衣板",
+     "熨斗",
+     "衣物",
+     "家务"
+    ]
+   ],
+   "ko": [
+    "다리미판",
+    "다리미판 위에 놓인 다리미.",
+    [
+     "다리미판",
+     "다리미",
+     "빨래",
+     "집안일"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "coat-rack",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Coat rack",
+    "A wooden coat stand with a coat, a hat and a scarf.",
+    [
+     "coat rack",
+     "coat",
+     "hat",
+     "entryway"
+    ]
+   ],
+   "ja": [
+    "コートハンガー",
+    "コートと帽子とマフラーを掛けた木のポールハンガー。",
+    [
+     "コートハンガー",
+     "ポールハンガー",
+     "コート",
+     "玄関"
+    ]
+   ],
+   "es": [
+    "Perchero",
+    "Un perchero de madera con un abrigo, un sombrero y una bufanda.",
+    [
+     "perchero",
+     "abrigo",
+     "sombrero",
+     "recibidor"
+    ]
+   ],
+   "pt": [
+    "Cabideiro",
+    "Um cabideiro de madeira com casaco, chapéu e cachecol.",
+    [
+     "cabideiro",
+     "casaco",
+     "chapéu",
+     "entrada"
+    ]
+   ],
+   "fr": [
+    "Portemanteau",
+    "Un portemanteau en bois avec un manteau, un chapeau et une écharpe.",
+    [
+     "portemanteau",
+     "manteau",
+     "chapeau",
+     "entrée"
+    ]
+   ],
+   "de": [
+    "Garderobenständer",
+    "Ein Garderobenständer aus Holz mit Mantel, Hut und Schal.",
+    [
+     "Garderobenständer",
+     "Mantel",
+     "Hut",
+     "Flur"
+    ]
+   ],
+   "zh": [
+    "衣帽架",
+    "挂着大衣、帽子和围巾的木制落地衣架。",
+    [
+     "衣帽架",
+     "衣架",
+     "大衣",
+     "玄关"
+    ]
+   ],
+   "ko": [
+    "스탠드 옷걸이",
+    "코트와 모자, 목도리를 건 나무 스탠드 옷걸이.",
+    [
+     "옷걸이",
+     "행거",
+     "코트",
+     "현관"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "storage-boxes",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Storage boxes",
+    "Stacked cardboard boxes and a plastic storage bin.",
+    [
+     "storage",
+     "boxes",
+     "organizing",
+     "tidy up"
+    ]
+   ],
+   "ja": [
+    "収納ボックス",
+    "積み重ねた段ボール箱とプラスチックの収納ケース。",
+    [
+     "収納ボックス",
+     "収納",
+     "整理整頓",
+     "片付け"
+    ]
+   ],
+   "es": [
+    "Cajas de almacenaje",
+    "Cajas de cartón apiladas y un contenedor de plástico.",
+    [
+     "cajas",
+     "almacenaje",
+     "organización",
+     "orden"
+    ]
+   ],
+   "pt": [
+    "Caixas organizadoras",
+    "Caixas de papelão empilhadas e uma caixa plástica organizadora.",
+    [
+     "caixas organizadoras",
+     "organização",
+     "arrumação",
+     "caixas"
+    ]
+   ],
+   "fr": [
+    "Boîtes de rangement",
+    "Des cartons empilés et un bac de rangement en plastique.",
+    [
+     "rangement",
+     "boîtes",
+     "organisation",
+     "carton"
+    ]
+   ],
+   "de": [
+    "Aufbewahrungsboxen",
+    "Gestapelte Kartons und eine Kunststoffbox zur Aufbewahrung.",
+    [
+     "Aufbewahrung",
+     "Boxen",
+     "Ordnung",
+     "Aufräumen"
+    ]
+   ],
+   "zh": [
+    "收纳箱",
+    "叠放的纸箱和塑料收纳箱。",
+    [
+     "收纳箱",
+     "收纳",
+     "整理",
+     "纸箱"
+    ]
+   ],
+   "ko": [
+    "수납 박스",
+    "쌓아 올린 상자와 플라스틱 수납함.",
+    [
+     "수납 박스",
+     "수납",
+     "정리",
+     "정리정돈"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "garden-hose",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Garden hose",
+    "A coiled green garden hose spraying water.",
+    [
+     "garden hose",
+     "watering",
+     "garden",
+     "yard"
+    ]
+   ],
+   "ja": [
+    "ホース",
+    "水をシャワーする巻いた緑の散水ホース。",
+    [
+     "ホース",
+     "水やり",
+     "庭",
+     "ガーデニング"
+    ]
+   ],
+   "es": [
+    "Manguera de jardín",
+    "Una manguera verde enrollada que rocía agua.",
+    [
+     "manguera",
+     "regar",
+     "jardín",
+     "jardinería"
+    ]
+   ],
+   "pt": [
+    "Mangueira de jardim",
+    "Uma mangueira verde enrolada esguichando água.",
+    [
+     "mangueira",
+     "regar",
+     "jardim",
+     "quintal"
+    ]
+   ],
+   "fr": [
+    "Tuyau d'arrosage",
+    "Un tuyau d'arrosage vert enroulé qui projette de l'eau.",
+    [
+     "tuyau d'arrosage",
+     "arrosage",
+     "jardin",
+     "jardinage"
+    ]
+   ],
+   "de": [
+    "Gartenschlauch",
+    "Ein aufgerollter grüner Gartenschlauch, der Wasser sprüht.",
+    [
+     "Gartenschlauch",
+     "Gießen",
+     "Garten",
+     "Gartenarbeit"
+    ]
+   ],
+   "zh": [
+    "浇水软管",
+    "卷起来正在喷水的绿色浇水软管。",
+    [
+     "水管",
+     "浇水",
+     "花园",
+     "园艺"
+    ]
+   ],
+   "ko": [
+    "정원 호스",
+    "물을 뿌리는 둘둘 감긴 초록색 호스.",
+    [
+     "호스",
+     "물주기",
+     "정원",
+     "마당"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "key-holder",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Key holder",
+    "A house-shaped wall key holder with keys on hooks.",
+    [
+     "key holder",
+     "keys",
+     "hooks",
+     "entryway"
+    ]
+   ],
+   "ja": [
+    "キーフック",
+    "家の形をした壁掛けキーフックに掛かった鍵。",
+    [
+     "キーフック",
+     "鍵",
+     "玄関",
+     "キーハンガー"
+    ]
+   ],
+   "es": [
+    "Colgador de llaves",
+    "Un colgador de llaves con forma de casa con llaves colgadas.",
+    [
+     "colgador de llaves",
+     "llaves",
+     "ganchos",
+     "entrada"
+    ]
+   ],
+   "pt": [
+    "Porta-chaves",
+    "Um porta-chaves de parede em forma de casa com chaves penduradas.",
+    [
+     "porta-chaves",
+     "chaves",
+     "ganchos",
+     "entrada"
+    ]
+   ],
+   "fr": [
+    "Porte-clés mural",
+    "Un porte-clés mural en forme de maison avec des clés suspendues.",
+    [
+     "porte-clés mural",
+     "clés",
+     "crochets",
+     "entrée"
+    ]
+   ],
+   "de": [
+    "Schlüsselbrett",
+    "Ein hausförmiges Schlüsselbrett mit Schlüsseln an Haken.",
+    [
+     "Schlüsselbrett",
+     "Schlüssel",
+     "Haken",
+     "Flur"
+    ]
+   ],
+   "zh": [
+    "钥匙挂钩",
+    "房子形状的壁挂钥匙架，挂着钥匙。",
+    [
+     "钥匙挂钩",
+     "钥匙",
+     "挂钩",
+     "玄关"
+    ]
+   ],
+   "ko": [
+    "열쇠 걸이",
+    "집 모양 벽걸이에 걸린 열쇠들.",
+    [
+     "열쇠 걸이",
+     "열쇠",
+     "후크",
+     "현관"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "light-switch",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Light switch",
+    "A finger pressing a wall light switch to turn on the light.",
+    [
+     "light switch",
+     "switch",
+     "electricity",
+     "save energy"
+    ]
+   ],
+   "ja": [
+    "電気のスイッチ",
+    "壁の照明スイッチを指で押して明かりをつけるところ。",
+    [
+     "スイッチ",
+     "電気",
+     "照明",
+     "節電"
+    ]
+   ],
+   "es": [
+    "Interruptor de luz",
+    "Un dedo pulsando un interruptor de pared para encender la luz.",
+    [
+     "interruptor",
+     "luz",
+     "electricidad",
+     "ahorro de energía"
+    ]
+   ],
+   "pt": [
+    "Interruptor de luz",
+    "Um dedo apertando o interruptor na parede para acender a luz.",
+    [
+     "interruptor",
+     "luz",
+     "eletricidade",
+     "economia de energia"
+    ]
+   ],
+   "fr": [
+    "Interrupteur",
+    "Un doigt appuie sur un interrupteur mural pour allumer la lumière.",
+    [
+     "interrupteur",
+     "lumière",
+     "électricité",
+     "économie d'énergie"
+    ]
+   ],
+   "de": [
+    "Lichtschalter",
+    "Ein Finger drückt einen Lichtschalter an der Wand.",
+    [
+     "Lichtschalter",
+     "Schalter",
+     "Licht",
+     "Strom sparen"
+    ]
+   ],
+   "zh": [
+    "电灯开关",
+    "用手指按下墙上的电灯开关。",
+    [
+     "开关",
+     "电灯",
+     "用电",
+     "节电"
+    ]
+   ],
+   "ko": [
+    "전등 스위치",
+    "손가락으로 벽의 전등 스위치를 누르는 모습.",
+    [
+     "스위치",
+     "전기",
+     "조명",
+     "절전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "power-strip",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Power strip",
+    "A power strip with a plug inserted and an on/off switch.",
+    [
+     "power strip",
+     "outlet",
+     "plug",
+     "electricity"
+    ]
+   ],
+   "ja": [
+    "電源タップ",
+    "プラグが差さったスイッチ付きの電源タップ。",
+    [
+     "電源タップ",
+     "コンセント",
+     "延長コード",
+     "プラグ"
+    ]
+   ],
+   "es": [
+    "Regleta",
+    "Una regleta con un enchufe conectado y un interruptor.",
+    [
+     "regleta",
+     "enchufe",
+     "alargador",
+     "electricidad"
+    ]
+   ],
+   "pt": [
+    "Filtro de linha",
+    "Um filtro de linha com um plugue conectado e botão liga/desliga.",
+    [
+     "filtro de linha",
+     "tomada",
+     "extensão",
+     "benjamim"
+    ]
+   ],
+   "fr": [
+    "Multiprise",
+    "Une multiprise avec une fiche branchée et un interrupteur.",
+    [
+     "multiprise",
+     "prise",
+     "rallonge",
+     "électricité"
+    ]
+   ],
+   "de": [
+    "Steckdosenleiste",
+    "Eine Steckdosenleiste mit eingestecktem Stecker und Schalter.",
+    [
+     "Steckdosenleiste",
+     "Mehrfachsteckdose",
+     "Stecker",
+     "Strom"
+    ]
+   ],
+   "zh": [
+    "插线板",
+    "插着插头、带开关的插线板。",
+    [
+     "插线板",
+     "插座",
+     "插头",
+     "用电"
+    ]
+   ],
+   "ko": [
+    "멀티탭",
+    "플러그가 꽂힌 스위치 달린 멀티탭.",
+    [
+     "멀티탭",
+     "콘센트",
+     "플러그",
+     "전기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "smoke-alarm",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smoke alarm",
+    "A ceiling smoke alarm sounding when it detects smoke.",
+    [
+     "smoke alarm",
+     "smoke detector",
+     "fire safety",
+     "alarm"
+    ]
+   ],
+   "ja": [
+    "火災報知器",
+    "煙を感知して鳴る天井の火災警報器。",
+    [
+     "火災報知器",
+     "火災警報器",
+     "防災",
+     "煙"
+    ]
+   ],
+   "es": [
+    "Detector de humo",
+    "Un detector de humo en el techo que suena al detectar humo.",
+    [
+     "detector de humo",
+     "alarma",
+     "incendio",
+     "seguridad"
+    ]
+   ],
+   "pt": [
+    "Detector de fumaça",
+    "Um detector de fumaça no teto apitando ao sentir fumaça.",
+    [
+     "detector de fumaça",
+     "alarme",
+     "incêndio",
+     "segurança"
+    ]
+   ],
+   "fr": [
+    "Détecteur de fumée",
+    "Un détecteur de fumée au plafond qui sonne en détectant de la fumée.",
+    [
+     "détecteur de fumée",
+     "alarme",
+     "incendie",
+     "sécurité"
+    ]
+   ],
+   "de": [
+    "Rauchmelder",
+    "Ein Rauchmelder an der Decke, der bei Rauch Alarm schlägt.",
+    [
+     "Rauchmelder",
+     "Brandschutz",
+     "Alarm",
+     "Rauch"
+    ]
+   ],
+   "zh": [
+    "烟雾报警器",
+    "检测到烟雾时鸣响的天花板烟雾报警器。",
+    [
+     "烟雾报警器",
+     "火灾报警",
+     "防火",
+     "安全"
+    ]
+   ],
+   "ko": [
+    "화재경보기",
+    "연기를 감지해 울리는 천장의 화재경보기.",
+    [
+     "화재경보기",
+     "연기 감지기",
+     "소방",
+     "안전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "fire-extinguisher",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Fire extinguisher",
+    "A red fire extinguisher with a hose and pressure gauge.",
+    [
+     "fire extinguisher",
+     "fire safety",
+     "emergency",
+     "disaster prevention"
+    ]
+   ],
+   "ja": [
+    "消火器",
+    "ホースと圧力計のついた赤い消火器。",
+    [
+     "消火器",
+     "防災",
+     "火事",
+     "消防"
+    ]
+   ],
+   "es": [
+    "Extintor",
+    "Un extintor rojo con manguera y manómetro.",
+    [
+     "extintor",
+     "incendio",
+     "emergencia",
+     "seguridad"
+    ]
+   ],
+   "pt": [
+    "Extintor de incêndio",
+    "Um extintor vermelho com mangueira e manômetro.",
+    [
+     "extintor",
+     "incêndio",
+     "emergência",
+     "segurança"
+    ]
+   ],
+   "fr": [
+    "Extincteur",
+    "Un extincteur rouge avec un tuyau et un manomètre.",
+    [
+     "extincteur",
+     "incendie",
+     "urgence",
+     "sécurité"
+    ]
+   ],
+   "de": [
+    "Feuerlöscher",
+    "Ein roter Feuerlöscher mit Schlauch und Manometer.",
+    [
+     "Feuerlöscher",
+     "Brandschutz",
+     "Notfall",
+     "Feuer"
+    ]
+   ],
+   "zh": [
+    "灭火器",
+    "带软管和压力表的红色灭火器。",
+    [
+     "灭火器",
+     "消防",
+     "防火",
+     "应急"
+    ]
+   ],
+   "ko": [
+    "소화기",
+    "호스와 압력계가 달린 빨간 소화기.",
+    [
+     "소화기",
+     "소방",
+     "화재",
+     "안전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bath-towel-robe",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bathrobe",
+    "A fluffy blue bathrobe with a belt, on a hanger.",
+    [
+     "bathrobe",
+     "robe",
+     "bath",
+     "towel"
+    ]
+   ],
+   "ja": [
+    "バスローブ",
+    "ハンガーに掛かったベルト付きのふわふわバスローブ。",
+    [
+     "バスローブ",
+     "お風呂",
+     "ガウン",
+     "タオル"
+    ]
+   ],
+   "es": [
+    "Albornoz",
+    "Un albornoz azul y esponjoso con cinturón, en una percha.",
+    [
+     "albornoz",
+     "bata",
+     "baño",
+     "toalla"
+    ]
+   ],
+   "pt": [
+    "Roupão de banho",
+    "Um roupão azul e fofinho com faixa, pendurado no cabide.",
+    [
+     "roupão",
+     "banho",
+     "toalha",
+     "spa"
+    ]
+   ],
+   "fr": [
+    "Peignoir",
+    "Un peignoir bleu moelleux avec ceinture, sur un cintre.",
+    [
+     "peignoir",
+     "bain",
+     "sortie de bain",
+     "serviette"
+    ]
+   ],
+   "de": [
+    "Bademantel",
+    "Ein flauschiger blauer Bademantel mit Gürtel am Bügel.",
+    [
+     "Bademantel",
+     "Bad",
+     "Morgenmantel",
+     "Handtuch"
+    ]
+   ],
+   "zh": [
+    "浴袍",
+    "挂在衣架上、带腰带的蓬松蓝色浴袍。",
+    [
+     "浴袍",
+     "洗澡",
+     "睡袍",
+     "毛巾"
+    ]
+   ],
+   "ko": [
+    "목욕 가운",
+    "옷걸이에 걸린 벨트 달린 폭신한 목욕 가운.",
+    [
+     "목욕 가운",
+     "샤워 가운",
+     "목욕",
+     "타월"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bunk-bed",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bunk bed",
+    "A wooden bunk bed with a ladder and two cozy beds.",
+    [
+     "bunk bed",
+     "bed",
+     "kids room",
+     "siblings"
+    ]
+   ],
+   "ja": [
+    "二段ベッド",
+    "はしご付きの木の二段ベッド。",
+    [
+     "二段ベッド",
+     "ベッド",
+     "子ども部屋",
+     "兄弟"
+    ]
+   ],
+   "es": [
+    "Litera",
+    "Una litera de madera con escalera y dos camas.",
+    [
+     "litera",
+     "cama",
+     "habitación infantil",
+     "hermanos"
+    ]
+   ],
+   "pt": [
+    "Beliche",
+    "Um beliche de madeira com escada e duas camas.",
+    [
+     "beliche",
+     "cama",
+     "quarto infantil",
+     "irmãos"
+    ]
+   ],
+   "fr": [
+    "Lits superposés",
+    "Des lits superposés en bois avec une échelle.",
+    [
+     "lits superposés",
+     "lit",
+     "chambre d'enfant",
+     "fratrie"
+    ]
+   ],
+   "de": [
+    "Etagenbett",
+    "Ein Etagenbett aus Holz mit Leiter und zwei Betten.",
+    [
+     "Etagenbett",
+     "Hochbett",
+     "Kinderzimmer",
+     "Geschwister"
+    ]
+   ],
+   "zh": [
+    "双层床",
+    "带梯子的木制双层床。",
+    [
+     "双层床",
+     "上下铺",
+     "儿童房",
+     "兄弟姐妹"
+    ]
+   ],
+   "ko": [
+    "이층 침대",
+    "사다리가 달린 나무 이층 침대.",
+    [
+     "이층 침대",
+     "침대",
+     "아이 방",
+     "형제"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "baby-crib",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Baby crib",
+    "A baby crib with a soft blanket and a hanging mobile.",
+    [
+     "baby crib",
+     "crib",
+     "baby",
+     "nursery"
+    ]
+   ],
+   "ja": [
+    "ベビーベッド",
+    "ふとんとモビールのついたベビーベッド。",
+    [
+     "ベビーベッド",
+     "赤ちゃん",
+     "育児",
+     "モビール"
+    ]
+   ],
+   "es": [
+    "Cuna de bebé",
+    "Una cuna con mantita y un móvil colgante.",
+    [
+     "cuna",
+     "bebé",
+     "habitación del bebé",
+     "móvil"
+    ]
+   ],
+   "pt": [
+    "Berço",
+    "Um berço com cobertor macio e móbile pendurado.",
+    [
+     "berço",
+     "bebê",
+     "quarto do bebê",
+     "móbile"
+    ]
+   ],
+   "fr": [
+    "Lit de bébé",
+    "Un lit à barreaux avec une couverture douce et un mobile.",
+    [
+     "lit de bébé",
+     "bébé",
+     "chambre de bébé",
+     "mobile"
+    ]
+   ],
+   "de": [
+    "Babybett",
+    "Ein Gitterbett mit weicher Decke und Mobile.",
+    [
+     "Babybett",
+     "Gitterbett",
+     "Baby",
+     "Mobile"
+    ]
+   ],
+   "zh": [
+    "婴儿床",
+    "铺着软被子、挂着床铃的婴儿床。",
+    [
+     "婴儿床",
+     "宝宝",
+     "育儿",
+     "床铃"
+    ]
+   ],
+   "ko": [
+    "아기 침대",
+    "포근한 이불과 모빌이 달린 아기 침대.",
+    [
+     "아기 침대",
+     "아기",
+     "육아",
+     "모빌"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pet-bed",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pet bed with toy",
+    "A round cushion pet bed with a bone toy and a ball.",
+    [
+     "pet bed",
+     "dog bed",
+     "cat bed",
+     "pet toy"
+    ]
+   ],
+   "ja": [
+    "ペットベッドとおもちゃ",
+    "骨のおもちゃとボールがある丸いペット用ベッド。",
+    [
+     "ペットベッド",
+     "犬",
+     "猫",
+     "ペット用品"
+    ]
+   ],
+   "es": [
+    "Cama para mascota",
+    "Una cama redonda para mascotas con un hueso de juguete y una pelota.",
+    [
+     "cama para mascotas",
+     "perro",
+     "gato",
+     "juguete"
+    ]
+   ],
+   "pt": [
+    "Caminha de pet",
+    "Uma caminha redonda para pet com ossinho e bolinha.",
+    [
+     "caminha de pet",
+     "cachorro",
+     "gato",
+     "brinquedo"
+    ]
+   ],
+   "fr": [
+    "Panier pour animal",
+    "Un panier rond pour animal avec un os en jouet et une balle.",
+    [
+     "panier pour chien",
+     "coussin pour chat",
+     "animal",
+     "jouet"
+    ]
+   ],
+   "de": [
+    "Haustierbett",
+    "Ein rundes Haustierbett mit Spielknochen und Ball.",
+    [
+     "Hundebett",
+     "Katzenbett",
+     "Haustier",
+     "Spielzeug"
+    ]
+   ],
+   "zh": [
+    "宠物窝和玩具",
+    "放着骨头玩具和小球的圆形宠物窝。",
+    [
+     "宠物窝",
+     "狗窝",
+     "猫窝",
+     "宠物玩具"
+    ]
+   ],
+   "ko": [
+    "반려동물 방석",
+    "뼈다귀 장난감과 공이 있는 둥근 반려동물 침대.",
+    [
+     "반려동물 침대",
+     "강아지",
+     "고양이",
+     "장난감"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "doormat",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Doormat",
+    "A doormat with a heart pattern in front of the front door.",
+    [
+     "doormat",
+     "mat",
+     "front door",
+     "entryway"
+    ]
+   ],
+   "ja": [
+    "玄関マット",
+    "玄関ドアの前に敷いたハート柄の玄関マット。",
+    [
+     "玄関マット",
+     "マット",
+     "玄関",
+     "ドア"
+    ]
+   ],
+   "es": [
+    "Felpudo",
+    "Un felpudo con un corazón delante de la puerta de entrada.",
+    [
+     "felpudo",
+     "alfombra",
+     "puerta",
+     "entrada"
+    ]
+   ],
+   "pt": [
+    "Capacho",
+    "Um capacho com coração na frente da porta de entrada.",
+    [
+     "capacho",
+     "tapete",
+     "porta",
+     "entrada"
+    ]
+   ],
+   "fr": [
+    "Paillasson",
+    "Un paillasson avec un cœur devant la porte d'entrée.",
+    [
+     "paillasson",
+     "tapis",
+     "porte d'entrée",
+     "entrée"
+    ]
+   ],
+   "de": [
+    "Fußmatte",
+    "Eine Fußmatte mit Herzmuster vor der Haustür.",
+    [
+     "Fußmatte",
+     "Matte",
+     "Haustür",
+     "Eingang"
+    ]
+   ],
+   "zh": [
+    "门垫",
+    "铺在大门前、印着爱心的门垫。",
+    [
+     "门垫",
+     "地垫",
+     "玄关",
+     "大门"
+    ]
+   ],
+   "ko": [
+    "현관 매트",
+    "현관문 앞에 깔린 하트 무늬 매트.",
+    [
+     "현관 매트",
+     "매트",
+     "현관",
+     "문"
+    ]
+   ]
+  }
+ }
+]

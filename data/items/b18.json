@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "factory-worker",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Factory worker",
+    "A factory worker with safety goggles and work gloves carrying a box.",
+    [
+     "factory",
+     "worker",
+     "manufacturing",
+     "safety"
+    ]
+   ],
+   "ja": [
+    "工場で働く人",
+    "ゴーグルと軍手をつけて箱を運ぶ工場の作業員。",
+    [
+     "工場",
+     "作業員",
+     "製造業",
+     "安全"
+    ]
+   ],
+   "es": [
+    "Operario de fábrica",
+    "Un operario de fábrica con gafas de seguridad y guantes cargando una caja.",
+    [
+     "fábrica",
+     "operario",
+     "industria",
+     "seguridad"
+    ]
+   ],
+   "pt": [
+    "Operário de fábrica",
+    "Um operário de fábrica com óculos de proteção e luvas carregando uma caixa.",
+    [
+     "fábrica",
+     "operário",
+     "indústria",
+     "segurança"
+    ]
+   ],
+   "fr": [
+    "Ouvrier d'usine",
+    "Un ouvrier d'usine avec des lunettes de protection et des gants portant un carton.",
+    [
+     "usine",
+     "ouvrier",
+     "industrie",
+     "sécurité"
+    ]
+   ],
+   "de": [
+    "Fabrikarbeiter",
+    "Ein Fabrikarbeiter mit Schutzbrille und Arbeitshandschuhen, der eine Kiste trägt.",
+    [
+     "Fabrik",
+     "Arbeiter",
+     "Produktion",
+     "Arbeitsschutz"
+    ]
+   ],
+   "zh": [
+    "工厂工人",
+    "戴着护目镜和手套、搬着箱子的工厂工人。",
+    [
+     "工厂",
+     "工人",
+     "制造业",
+     "安全"
+    ]
+   ],
+   "ko": [
+    "공장 작업자",
+    "보안경과 장갑을 끼고 상자를 나르는 공장 작업자.",
+    [
+     "공장",
+     "작업자",
+     "제조업",
+     "안전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mechanic",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Car mechanic",
+    "A smiling mechanic holding up a wrench next to a tire.",
+    [
+     "mechanic",
+     "car repair",
+     "wrench",
+     "garage"
+    ]
+   ],
+   "ja": [
+    "整備士",
+    "タイヤの横でスパナを持つ笑顔の自動車整備士。",
+    [
+     "整備士",
+     "車の修理",
+     "スパナ",
+     "メカニック"
+    ]
+   ],
+   "es": [
+    "Mecánico",
+    "Un mecánico sonriente con una llave inglesa junto a un neumático.",
+    [
+     "mecánico",
+     "taller",
+     "llave inglesa",
+     "reparación"
+    ]
+   ],
+   "pt": [
+    "Mecânico",
+    "Um mecânico sorridente segurando uma chave inglesa ao lado de um pneu.",
+    [
+     "mecânico",
+     "oficina",
+     "chave inglesa",
+     "conserto"
+    ]
+   ],
+   "fr": [
+    "Mécanicien",
+    "Un mécanicien souriant qui lève une clé à côté d'un pneu.",
+    [
+     "mécanicien",
+     "garage",
+     "clé",
+     "réparation"
+    ]
+   ],
+   "de": [
+    "Kfz-Mechaniker",
+    "Ein lächelnder Mechaniker mit Schraubenschlüssel neben einem Reifen.",
+    [
+     "Mechaniker",
+     "Werkstatt",
+     "Schraubenschlüssel",
+     "Reparatur"
+    ]
+   ],
+   "zh": [
+    "汽车修理工",
+    "在轮胎旁举着扳手微笑的修理工。",
+    [
+     "修理工",
+     "汽车维修",
+     "扳手",
+     "修车"
+    ]
+   ],
+   "ko": [
+    "자동차 정비사",
+    "타이어 옆에서 스패너를 든 웃는 정비사.",
+    [
+     "정비사",
+     "자동차 수리",
+     "스패너",
+     "정비소"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "astronaut",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Astronaut",
+    "A cheerful astronaut in a white spacesuit and helmet among the stars.",
+    [
+     "astronaut",
+     "space",
+     "spacesuit",
+     "universe"
+    ]
+   ],
+   "ja": [
+    "宇宙飛行士",
+    "星空の中、白い宇宙服とヘルメットを着た元気な宇宙飛行士。",
+    [
+     "宇宙飛行士",
+     "宇宙",
+     "宇宙服",
+     "星"
+    ]
+   ],
+   "es": [
+    "Astronauta",
+    "Un astronauta alegre con traje espacial blanco y casco entre las estrellas.",
+    [
+     "astronauta",
+     "espacio",
+     "traje espacial",
+     "universo"
+    ]
+   ],
+   "pt": [
+    "Astronauta",
+    "Um astronauta alegre com traje espacial branco e capacete entre as estrelas.",
+    [
+     "astronauta",
+     "espaço",
+     "traje espacial",
+     "universo"
+    ]
+   ],
+   "fr": [
+    "Astronaute",
+    "Un astronaute joyeux en combinaison spatiale blanche et casque parmi les étoiles.",
+    [
+     "astronaute",
+     "espace",
+     "combinaison spatiale",
+     "univers"
+    ]
+   ],
+   "de": [
+    "Astronaut",
+    "Ein fröhlicher Astronaut im weißen Raumanzug mit Helm zwischen Sternen.",
+    [
+     "Astronaut",
+     "Weltraum",
+     "Raumanzug",
+     "Sterne"
+    ]
+   ],
+   "zh": [
+    "宇航员",
+    "在星空中穿着白色宇航服和头盔的快乐宇航员。",
+    [
+     "宇航员",
+     "太空",
+     "宇航服",
+     "宇宙"
+    ]
+   ],
+   "ko": [
+    "우주비행사",
+    "별 사이에서 하얀 우주복과 헬멧을 쓴 밝은 우주비행사.",
+    [
+     "우주비행사",
+     "우주",
+     "우주복",
+     "별"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "archaeologist",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Archaeologist",
+    "An archaeologist in a safari hat with a brush and a dug-up bone.",
+    [
+     "archaeologist",
+     "excavation",
+     "fossil",
+     "history"
+    ]
+   ],
+   "ja": [
+    "考古学者",
+    "探検帽をかぶり、ハケと発掘した骨を持つ考古学者。",
+    [
+     "考古学者",
+     "発掘",
+     "化石",
+     "歴史"
+    ]
+   ],
+   "es": [
+    "Arqueólogo",
+    "Un arqueólogo con sombrero de explorador, un pincel y un hueso desenterrado.",
+    [
+     "arqueólogo",
+     "excavación",
+     "fósil",
+     "historia"
+    ]
+   ],
+   "pt": [
+    "Arqueólogo",
+    "Um arqueólogo de chapéu de explorador com um pincel e um osso escavado.",
+    [
+     "arqueólogo",
+     "escavação",
+     "fóssil",
+     "história"
+    ]
+   ],
+   "fr": [
+    "Archéologue",
+    "Un archéologue en chapeau d'explorateur avec un pinceau et un os déterré.",
+    [
+     "archéologue",
+     "fouilles",
+     "fossile",
+     "histoire"
+    ]
+   ],
+   "de": [
+    "Archäologe",
+    "Ein Archäologe mit Tropenhut, Pinsel und einem ausgegrabenen Knochen.",
+    [
+     "Archäologe",
+     "Ausgrabung",
+     "Fossil",
+     "Geschichte"
+    ]
+   ],
+   "zh": [
+    "考古学家",
+    "戴着探险帽、拿着刷子和出土骨头的考古学家。",
+    [
+     "考古学家",
+     "考古发掘",
+     "化石",
+     "历史"
+    ]
+   ],
+   "ko": [
+    "고고학자",
+    "탐험 모자를 쓰고 붓과 발굴한 뼈를 든 고고학자.",
+    [
+     "고고학자",
+     "발굴",
+     "화석",
+     "역사"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "architect",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Architect with blueprints",
+    "An architect with glasses carrying a rolled-up blueprint.",
+    [
+     "architect",
+     "blueprint",
+     "design",
+     "construction"
+    ]
+   ],
+   "ja": [
+    "建築家",
+    "丸めた設計図を抱えたメガネの建築家。",
+    [
+     "建築家",
+     "設計図",
+     "設計",
+     "建築"
+    ]
+   ],
+   "es": [
+    "Arquitecto con planos",
+    "Un arquitecto con gafas que lleva un plano enrollado.",
+    [
+     "arquitecto",
+     "planos",
+     "diseño",
+     "construcción"
+    ]
+   ],
+   "pt": [
+    "Arquiteto com planta",
+    "Um arquiteto de óculos carregando uma planta enrolada.",
+    [
+     "arquiteto",
+     "planta",
+     "projeto",
+     "construção"
+    ]
+   ],
+   "fr": [
+    "Architecte avec plans",
+    "Un architecte à lunettes qui porte un plan roulé.",
+    [
+     "architecte",
+     "plan",
+     "conception",
+     "construction"
+    ]
+   ],
+   "de": [
+    "Architekt mit Bauplan",
+    "Ein Architekt mit Brille, der einen aufgerollten Bauplan trägt.",
+    [
+     "Architekt",
+     "Bauplan",
+     "Entwurf",
+     "Bauwesen"
+    ]
+   ],
+   "zh": [
+    "建筑师",
+    "戴眼镜、抱着卷起的设计图的建筑师。",
+    [
+     "建筑师",
+     "设计图",
+     "设计",
+     "建筑"
+    ]
+   ],
+   "ko": [
+    "건축가",
+    "둥글게 만 설계도를 든 안경 쓴 건축가.",
+    [
+     "건축가",
+     "설계도",
+     "설계",
+     "건축"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "engineer",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Engineer with gear",
+    "An engineer in a white hard hat holding a big gear.",
+    [
+     "engineer",
+     "gear",
+     "hard hat",
+     "technology"
+    ]
+   ],
+   "ja": [
+    "エンジニア",
+    "白いヘルメットをかぶり、大きな歯車を持つ技術者。",
+    [
+     "エンジニア",
+     "技術者",
+     "歯車",
+     "ヘルメット"
+    ]
+   ],
+   "es": [
+    "Ingeniero con engranaje",
+    "Un ingeniero con casco blanco sosteniendo un gran engranaje.",
+    [
+     "ingeniero",
+     "engranaje",
+     "casco",
+     "tecnología"
+    ]
+   ],
+   "pt": [
+    "Engenheiro com engrenagem",
+    "Um engenheiro de capacete branco segurando uma grande engrenagem.",
+    [
+     "engenheiro",
+     "engrenagem",
+     "capacete",
+     "tecnologia"
+    ]
+   ],
+   "fr": [
+    "Ingénieur et engrenage",
+    "Un ingénieur avec un casque blanc qui tient un grand engrenage.",
+    [
+     "ingénieur",
+     "engrenage",
+     "casque",
+     "technique"
+    ]
+   ],
+   "de": [
+    "Ingenieur mit Zahnrad",
+    "Ein Ingenieur mit weißem Schutzhelm, der ein großes Zahnrad hält.",
+    [
+     "Ingenieur",
+     "Zahnrad",
+     "Schutzhelm",
+     "Technik"
+    ]
+   ],
+   "zh": [
+    "工程师",
+    "戴白色安全帽、拿着大齿轮的工程师。",
+    [
+     "工程师",
+     "齿轮",
+     "安全帽",
+     "技术"
+    ]
+   ],
+   "ko": [
+    "엔지니어",
+    "흰 안전모를 쓰고 큰 톱니바퀴를 든 엔지니어.",
+    [
+     "엔지니어",
+     "기술자",
+     "톱니바퀴",
+     "안전모"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "translator",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Translator",
+    "A translator wearing a headset between two speech bubbles in different languages.",
+    [
+     "translator",
+     "interpreter",
+     "language",
+     "communication"
+    ]
+   ],
+   "ja": [
+    "通訳・翻訳者",
+    "ヘッドセットをつけ、違う言葉の吹き出しの間に立つ通訳者。",
+    [
+     "通訳",
+     "翻訳",
+     "外国語",
+     "コミュニケーション"
+    ]
+   ],
+   "es": [
+    "Traductor",
+    "Un intérprete con auriculares entre dos bocadillos en idiomas distintos.",
+    [
+     "traductor",
+     "intérprete",
+     "idiomas",
+     "comunicación"
+    ]
+   ],
+   "pt": [
+    "Tradutor",
+    "Um intérprete de headset entre dois balões de fala em idiomas diferentes.",
+    [
+     "tradutor",
+     "intérprete",
+     "idiomas",
+     "comunicação"
+    ]
+   ],
+   "fr": [
+    "Traducteur",
+    "Un interprète avec un casque entre deux bulles dans des langues différentes.",
+    [
+     "traducteur",
+     "interprète",
+     "langues",
+     "communication"
+    ]
+   ],
+   "de": [
+    "Übersetzer",
+    "Ein Dolmetscher mit Headset zwischen zwei Sprechblasen in verschiedenen Sprachen.",
+    [
+     "Übersetzer",
+     "Dolmetscher",
+     "Sprachen",
+     "Kommunikation"
+    ]
+   ],
+   "zh": [
+    "翻译",
+    "戴着耳机、站在两种语言对话框之间的口译员。",
+    [
+     "翻译",
+     "口译",
+     "外语",
+     "沟通"
+    ]
+   ],
+   "ko": [
+    "통역사",
+    "헤드셋을 쓰고 서로 다른 언어의 말풍선 사이에 있는 통역사.",
+    [
+     "통역",
+     "번역",
+     "외국어",
+     "소통"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tour-guide",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tour guide with flag",
+    "A cheerful tour guide holding up a small flag.",
+    [
+     "tour guide",
+     "travel",
+     "sightseeing",
+     "tour"
+    ]
+   ],
+   "ja": [
+    "ツアーガイド",
+    "小さな旗を掲げて案内する元気なツアーガイド。",
+    [
+     "ツアーガイド",
+     "旅行",
+     "観光",
+     "添乗員"
+    ]
+   ],
+   "es": [
+    "Guía turístico",
+    "Un guía turístico alegre levantando una pequeña bandera.",
+    [
+     "guía turístico",
+     "viaje",
+     "turismo",
+     "excursión"
+    ]
+   ],
+   "pt": [
+    "Guia de turismo",
+    "Um guia de turismo animado erguendo uma bandeirinha.",
+    [
+     "guia de turismo",
+     "viagem",
+     "turismo",
+     "passeio"
+    ]
+   ],
+   "fr": [
+    "Guide touristique",
+    "Un guide touristique joyeux qui lève un petit drapeau.",
+    [
+     "guide",
+     "voyage",
+     "tourisme",
+     "visite guidée"
+    ]
+   ],
+   "de": [
+    "Reiseleiter mit Fähnchen",
+    "Ein fröhlicher Reiseleiter, der ein kleines Fähnchen hochhält.",
+    [
+     "Reiseleiter",
+     "Reise",
+     "Tourismus",
+     "Führung"
+    ]
+   ],
+   "zh": [
+    "导游",
+    "举着小旗子的开朗导游。",
+    [
+     "导游",
+     "旅游",
+     "观光",
+     "旅行团"
+    ]
+   ],
+   "ko": [
+    "여행 가이드",
+    "작은 깃발을 들고 안내하는 밝은 여행 가이드.",
+    [
+     "여행 가이드",
+     "여행",
+     "관광",
+     "투어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hotel-concierge",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hotel bellhop",
+    "A hotel staff member in a red uniform and cap next to a service bell.",
+    [
+     "hotel",
+     "concierge",
+     "bellhop",
+     "hospitality"
+    ]
+   ],
+   "ja": [
+    "ホテルのベルボーイ",
+    "赤い制服と帽子のホテルスタッフと呼び鈴。",
+    [
+     "ホテル",
+     "コンシェルジュ",
+     "ベルボーイ",
+     "接客"
+    ]
+   ],
+   "es": [
+    "Botones de hotel",
+    "Un empleado de hotel con uniforme rojo y gorra junto a un timbre.",
+    [
+     "hotel",
+     "conserje",
+     "botones",
+     "hostelería"
+    ]
+   ],
+   "pt": [
+    "Mensageiro de hotel",
+    "Um funcionário de hotel de uniforme vermelho e quepe ao lado de uma campainha.",
+    [
+     "hotel",
+     "concierge",
+     "mensageiro",
+     "hotelaria"
+    ]
+   ],
+   "fr": [
+    "Groom d'hôtel",
+    "Un employé d'hôtel en uniforme rouge et calot à côté d'une sonnette.",
+    [
+     "hôtel",
+     "concierge",
+     "groom",
+     "accueil"
+    ]
+   ],
+   "de": [
+    "Hotelpage",
+    "Ein Hotelangestellter in roter Uniform mit Mütze neben einer Tischklingel.",
+    [
+     "Hotel",
+     "Concierge",
+     "Page",
+     "Gastgewerbe"
+    ]
+   ],
+   "zh": [
+    "酒店门童",
+    "穿红色制服、戴帽子的酒店员工和服务铃。",
+    [
+     "酒店",
+     "礼宾",
+     "门童",
+     "服务"
+    ]
+   ],
+   "ko": [
+    "호텔 벨보이",
+    "빨간 제복과 모자를 쓴 호텔 직원과 호출 벨.",
+    [
+     "호텔",
+     "컨시어지",
+     "벨보이",
+     "접객"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sushi-chef",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sushi chef",
+    "A sushi chef in a twisted headband presenting sushi on a wooden board.",
+    [
+     "sushi chef",
+     "sushi",
+     "Japanese food",
+     "restaurant"
+    ]
+   ],
+   "ja": [
+    "寿司職人",
+    "ねじりはちまきをして、ゲタに乗せた寿司を出す板前さん。",
+    [
+     "寿司職人",
+     "寿司",
+     "板前",
+     "和食"
+    ]
+   ],
+   "es": [
+    "Chef de sushi",
+    "Un chef de sushi con bandana que presenta sushi en una tabla de madera.",
+    [
+     "chef de sushi",
+     "sushi",
+     "comida japonesa",
+     "restaurante"
+    ]
+   ],
+   "pt": [
+    "Sushiman",
+    "Um sushiman de faixa na cabeça servindo sushi numa tábua de madeira.",
+    [
+     "sushiman",
+     "sushi",
+     "comida japonesa",
+     "restaurante"
+    ]
+   ],
+   "fr": [
+    "Chef sushi",
+    "Un chef sushi avec un bandeau qui présente des sushis sur une planche.",
+    [
+     "chef sushi",
+     "sushi",
+     "cuisine japonaise",
+     "restaurant"
+    ]
+   ],
+   "de": [
+    "Sushikoch",
+    "Ein Sushikoch mit Stirnband, der Sushi auf einem Holzbrett serviert.",
+    [
+     "Sushikoch",
+     "Sushi",
+     "japanisches Essen",
+     "Restaurant"
+    ]
+   ],
+   "zh": [
+    "寿司师傅",
+    "系着头巾、端出木板寿司的寿司师傅。",
+    [
+     "寿司师傅",
+     "寿司",
+     "日本料理",
+     "餐厅"
+    ]
+   ],
+   "ko": [
+    "초밥 요리사",
+    "머리띠를 두르고 나무판에 초밥을 내놓는 초밥 요리사.",
+    [
+     "초밥 요리사",
+     "초밥",
+     "일식",
+     "스시"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "video-creator",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Video creator",
+    "A video creator waving at a phone set in a ring light on a tripod.",
+    [
+     "video creator",
+     "streaming",
+     "ring light",
+     "influencer"
+    ]
+   ],
+   "ja": [
+    "動画配信者",
+    "リングライトにセットしたスマホに向かって手を振る動画クリエイター。",
+    [
+     "動画配信",
+     "ライブ配信",
+     "リングライト",
+     "インフルエンサー"
+    ]
+   ],
+   "es": [
+    "Creador de videos",
+    "Un creador de contenido saludando a un celular en un aro de luz con trípode.",
+    [
+     "creador de contenido",
+     "streaming",
+     "aro de luz",
+     "influencer"
+    ]
+   ],
+   "pt": [
+    "Criador de vídeos",
+    "Um criador de conteúdo acenando para o celular num ring light com tripé.",
+    [
+     "criador de conteúdo",
+     "live",
+     "ring light",
+     "influenciador"
+    ]
+   ],
+   "fr": [
+    "Créateur de vidéos",
+    "Un vidéaste qui salue un téléphone placé dans un anneau lumineux sur trépied.",
+    [
+     "vidéaste",
+     "streaming",
+     "anneau lumineux",
+     "influenceur"
+    ]
+   ],
+   "de": [
+    "Videocreator",
+    "Ein Content Creator winkt in ein Handy im Ringlicht auf einem Stativ.",
+    [
+     "Content Creator",
+     "Livestream",
+     "Ringlicht",
+     "Influencer"
+    ]
+   ],
+   "zh": [
+    "视频博主",
+    "对着环形补光灯上的手机挥手的视频博主。",
+    [
+     "视频博主",
+     "直播",
+     "补光灯",
+     "网红"
+    ]
+   ],
+   "ko": [
+    "영상 크리에이터",
+    "링라이트에 끼운 휴대폰을 향해 손을 흔드는 영상 크리에이터.",
+    [
+     "크리에이터",
+     "라이브 방송",
+     "링라이트",
+     "유튜버"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tailor",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tailor",
+    "A kind tailor with a measuring tape around the neck, scissors and a pincushion.",
+    [
+     "tailor",
+     "sewing",
+     "measuring tape",
+     "dressmaker"
+    ]
+   ],
+   "ja": [
+    "仕立て屋",
+    "首にメジャーをかけ、ハサミと針山を持つ仕立て屋さん。",
+    [
+     "仕立て屋",
+     "裁縫",
+     "メジャー",
+     "洋裁"
+    ]
+   ],
+   "es": [
+    "Sastre",
+    "Un sastre amable con cinta métrica al cuello, tijeras y un alfiletero.",
+    [
+     "sastre",
+     "costura",
+     "cinta métrica",
+     "modista"
+    ]
+   ],
+   "pt": [
+    "Alfaiate",
+    "Um alfaiate gentil com fita métrica no pescoço, tesoura e alfineteiro.",
+    [
+     "alfaiate",
+     "costura",
+     "fita métrica",
+     "costureira"
+    ]
+   ],
+   "fr": [
+    "Tailleur",
+    "Un tailleur aimable avec un mètre ruban au cou, des ciseaux et une pelote d'épingles.",
+    [
+     "tailleur",
+     "couture",
+     "mètre ruban",
+     "couturier"
+    ]
+   ],
+   "de": [
+    "Schneider",
+    "Ein freundlicher Schneider mit Maßband um den Hals, Schere und Nadelkissen.",
+    [
+     "Schneider",
+     "Nähen",
+     "Maßband",
+     "Schneiderei"
+    ]
+   ],
+   "zh": [
+    "裁缝",
+    "脖子上挂着软尺、拿着剪刀和针插的裁缝。",
+    [
+     "裁缝",
+     "缝纫",
+     "软尺",
+     "服装定制"
+    ]
+   ],
+   "ko": [
+    "재단사",
+    "목에 줄자를 걸고 가위와 바늘꽂이를 든 재단사.",
+    [
+     "재단사",
+     "재봉",
+     "줄자",
+     "양복점"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "beekeeper",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Beekeeper",
+    "A beekeeper in a veiled hat holding a honeycomb frame with bees around.",
+    [
+     "beekeeper",
+     "bees",
+     "honey",
+     "honeycomb"
+    ]
+   ],
+   "ja": [
+    "養蜂家",
+    "ネット付きの帽子をかぶり、ハチの巣枠を持つ養蜂家。",
+    [
+     "養蜂家",
+     "ミツバチ",
+     "はちみつ",
+     "ハチの巣"
+    ]
+   ],
+   "es": [
+    "Apicultor",
+    "Un apicultor con velo sosteniendo un panal rodeado de abejas.",
+    [
+     "apicultor",
+     "abejas",
+     "miel",
+     "panal"
+    ]
+   ],
+   "pt": [
+    "Apicultor",
+    "Um apicultor com véu segurando um quadro de favo com abelhas em volta.",
+    [
+     "apicultor",
+     "abelhas",
+     "mel",
+     "favo"
+    ]
+   ],
+   "fr": [
+    "Apiculteur",
+    "Un apiculteur avec voile qui tient un cadre de rayons entouré d'abeilles.",
+    [
+     "apiculteur",
+     "abeilles",
+     "miel",
+     "rayon de miel"
+    ]
+   ],
+   "de": [
+    "Imker",
+    "Ein Imker mit Schleierhut hält eine Wabe, umgeben von Bienen.",
+    [
+     "Imker",
+     "Bienen",
+     "Honig",
+     "Wabe"
+    ]
+   ],
+   "zh": [
+    "养蜂人",
+    "戴着防蜂面网、拿着蜂巢框的养蜂人。",
+    [
+     "养蜂人",
+     "蜜蜂",
+     "蜂蜜",
+     "蜂巢"
+    ]
+   ],
+   "ko": [
+    "양봉가",
+    "망사 모자를 쓰고 벌집 틀을 든 양봉가와 꿀벌.",
+    [
+     "양봉가",
+     "꿀벌",
+     "꿀",
+     "벌집"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "zookeeper",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Zookeeper",
+    "A zookeeper in a green cap carrying a bucket of animal food.",
+    [
+     "zookeeper",
+     "zoo",
+     "animal care",
+     "feeding"
+    ]
+   ],
+   "ja": [
+    "動物園の飼育員",
+    "エサの入ったバケツを持つ緑の帽子の飼育員さん。",
+    [
+     "飼育員",
+     "動物園",
+     "エサやり",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Cuidador de zoológico",
+    "Un cuidador de zoológico con gorra verde llevando un cubo de comida.",
+    [
+     "cuidador",
+     "zoológico",
+     "animales",
+     "alimentación"
+    ]
+   ],
+   "pt": [
+    "Tratador de zoológico",
+    "Um tratador de boné verde carregando um balde de comida para os animais.",
+    [
+     "tratador",
+     "zoológico",
+     "animais",
+     "alimentação"
+    ]
+   ],
+   "fr": [
+    "Soigneur animalier",
+    "Un soigneur de zoo en casquette verte avec un seau de nourriture.",
+    [
+     "soigneur",
+     "zoo",
+     "animaux",
+     "nourrissage"
+    ]
+   ],
+   "de": [
+    "Tierpfleger",
+    "Ein Tierpfleger mit grüner Mütze und einem Eimer voller Futter.",
+    [
+     "Tierpfleger",
+     "Zoo",
+     "Tiere",
+     "Fütterung"
+    ]
+   ],
+   "zh": [
+    "动物园饲养员",
+    "戴绿帽子、提着一桶饲料的饲养员。",
+    [
+     "饲养员",
+     "动物园",
+     "喂食",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "동물원 사육사",
+    "먹이 양동이를 든 초록 모자의 사육사.",
+    [
+     "사육사",
+     "동물원",
+     "먹이",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "lifeguard",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Lifeguard",
+    "A lifeguard with a visor and whistle holding a ring buoy.",
+    [
+     "lifeguard",
+     "beach",
+     "pool",
+     "safety"
+    ]
+   ],
+   "ja": [
+    "ライフガード",
+    "サンバイザーと笛をつけ、浮き輪を持つライフセーバー。",
+    [
+     "ライフガード",
+     "ライフセーバー",
+     "海",
+     "プール"
+    ]
+   ],
+   "es": [
+    "Socorrista",
+    "Un socorrista con visera y silbato sosteniendo un salvavidas.",
+    [
+     "socorrista",
+     "salvavidas",
+     "playa",
+     "piscina"
+    ]
+   ],
+   "pt": [
+    "Salva-vidas",
+    "Um salva-vidas de viseira e apito segurando uma boia.",
+    [
+     "salva-vidas",
+     "boia",
+     "praia",
+     "piscina"
+    ]
+   ],
+   "fr": [
+    "Maître-nageur",
+    "Un maître-nageur avec visière et sifflet tenant une bouée de sauvetage.",
+    [
+     "maître-nageur",
+     "bouée",
+     "plage",
+     "piscine"
+    ]
+   ],
+   "de": [
+    "Rettungsschwimmer",
+    "Ein Rettungsschwimmer mit Schirmmütze und Pfeife hält einen Rettungsring.",
+    [
+     "Rettungsschwimmer",
+     "Rettungsring",
+     "Strand",
+     "Schwimmbad"
+    ]
+   ],
+   "zh": [
+    "救生员",
+    "戴遮阳帽和口哨、拿着救生圈的救生员。",
+    [
+     "救生员",
+     "救生圈",
+     "海滩",
+     "游泳池"
+    ]
+   ],
+   "ko": [
+    "인명구조원",
+    "선캡과 호루라기를 하고 구명튜브를 든 인명구조원.",
+    [
+     "인명구조원",
+     "라이프가드",
+     "해변",
+     "수영장"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "park-ranger",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Park ranger",
+    "A park ranger in a wide-brimmed hat and badge among pine trees.",
+    [
+     "park ranger",
+     "forest",
+     "national park",
+     "nature"
+    ]
+   ],
+   "ja": [
+    "森林レンジャー",
+    "つば広帽子とバッジを身につけ、木々の間に立つパークレンジャー。",
+    [
+     "レンジャー",
+     "森",
+     "国立公園",
+     "自然"
+    ]
+   ],
+   "es": [
+    "Guardabosques",
+    "Un guardaparques con sombrero de ala ancha e insignia entre pinos.",
+    [
+     "guardabosques",
+     "guardaparques",
+     "bosque",
+     "parque nacional"
+    ]
+   ],
+   "pt": [
+    "Guarda-parque",
+    "Um guarda-parque de chapéu de aba larga e distintivo entre pinheiros.",
+    [
+     "guarda-parque",
+     "guarda florestal",
+     "floresta",
+     "parque nacional"
+    ]
+   ],
+   "fr": [
+    "Garde forestier",
+    "Un garde forestier en chapeau à larges bords et insigne parmi les sapins.",
+    [
+     "garde forestier",
+     "ranger",
+     "forêt",
+     "parc national"
+    ]
+   ],
+   "de": [
+    "Parkranger",
+    "Ein Parkranger mit breitkrempigem Hut und Abzeichen zwischen Nadelbäumen.",
+    [
+     "Ranger",
+     "Förster",
+     "Wald",
+     "Nationalpark"
+    ]
+   ],
+   "zh": [
+    "护林员",
+    "戴宽檐帽和徽章、站在松树之间的公园护林员。",
+    [
+     "护林员",
+     "森林",
+     "国家公园",
+     "自然"
+    ]
+   ],
+   "ko": [
+    "공원 레인저",
+    "넓은 챙 모자와 배지를 단 채 소나무 사이에 선 레인저.",
+    [
+     "레인저",
+     "숲",
+     "국립공원",
+     "자연"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "business-meeting",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Business meeting",
+    "Three business people having a meeting around a table with a laptop.",
+    [
+     "meeting",
+     "business",
+     "office",
+     "discussion"
+    ]
+   ],
+   "ja": [
+    "会議",
+    "ノートパソコンを囲んでテーブルで話し合う3人の会社員。",
+    [
+     "会議",
+     "ミーティング",
+     "ビジネス",
+     "打ち合わせ"
+    ]
+   ],
+   "es": [
+    "Reunión de trabajo",
+    "Tres personas de negocios reunidas alrededor de una mesa con un portátil.",
+    [
+     "reunión",
+     "negocios",
+     "oficina",
+     "equipo"
+    ]
+   ],
+   "pt": [
+    "Reunião de negócios",
+    "Três pessoas em uma reunião ao redor de uma mesa com um notebook.",
+    [
+     "reunião",
+     "negócios",
+     "escritório",
+     "equipe"
+    ]
+   ],
+   "fr": [
+    "Réunion d'affaires",
+    "Trois personnes en réunion autour d'une table avec un ordinateur portable.",
+    [
+     "réunion",
+     "affaires",
+     "bureau",
+     "équipe"
+    ]
+   ],
+   "de": [
+    "Geschäftsbesprechung",
+    "Drei Geschäftsleute besprechen sich an einem Tisch mit Laptop.",
+    [
+     "Meeting",
+     "Besprechung",
+     "Büro",
+     "Business"
+    ]
+   ],
+   "zh": [
+    "商务会议",
+    "围坐在放着笔记本电脑的桌旁开会的三位职员。",
+    [
+     "会议",
+     "商务",
+     "办公室",
+     "讨论"
+    ]
+   ],
+   "ko": [
+    "비즈니스 회의",
+    "노트북을 놓고 테이블에 둘러앉아 회의하는 직장인 세 명.",
+    [
+     "회의",
+     "미팅",
+     "비즈니스",
+     "사무실"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "presentation",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Business presentation",
+    "A person in a suit pointing at a growth chart on a whiteboard.",
+    [
+     "presentation",
+     "chart",
+     "business",
+     "growth"
+    ]
+   ],
+   "ja": [
+    "プレゼンテーション",
+    "ホワイトボードのグラフを指し棒で説明するスーツの人。",
+    [
+     "プレゼン",
+     "発表",
+     "グラフ",
+     "ビジネス"
+    ]
+   ],
+   "es": [
+    "Presentación",
+    "Una persona de traje señalando un gráfico de crecimiento en una pizarra.",
+    [
+     "presentación",
+     "gráfico",
+     "negocios",
+     "crecimiento"
+    ]
+   ],
+   "pt": [
+    "Apresentação",
+    "Uma pessoa de terno apontando para um gráfico de crescimento no quadro.",
+    [
+     "apresentação",
+     "gráfico",
+     "negócios",
+     "crescimento"
+    ]
+   ],
+   "fr": [
+    "Présentation",
+    "Une personne en costume qui montre un graphique de croissance sur un tableau.",
+    [
+     "présentation",
+     "graphique",
+     "entreprise",
+     "croissance"
+    ]
+   ],
+   "de": [
+    "Präsentation",
+    "Eine Person im Anzug zeigt auf ein Wachstumsdiagramm an der Tafel.",
+    [
+     "Präsentation",
+     "Diagramm",
+     "Business",
+     "Wachstum"
+    ]
+   ],
+   "zh": [
+    "商务演示",
+    "穿西装、指着白板上增长图表讲解的人。",
+    [
+     "演示",
+     "汇报",
+     "图表",
+     "商务"
+    ]
+   ],
+   "ko": [
+    "프레젠테이션",
+    "화이트보드의 성장 그래프를 가리키며 발표하는 정장 차림의 사람.",
+    [
+     "프레젠테이션",
+     "발표",
+     "그래프",
+     "비즈니스"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "handshake-deal",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Business handshake",
+    "Two business people in suits shaking hands to close a deal.",
+    [
+     "handshake",
+     "deal",
+     "agreement",
+     "partnership"
+    ]
+   ],
+   "ja": [
+    "握手・商談成立",
+    "商談がまとまり握手するスーツ姿の2人。",
+    [
+     "握手",
+     "商談成立",
+     "契約",
+     "ビジネス"
+    ]
+   ],
+   "es": [
+    "Apretón de manos",
+    "Dos personas de negocios con traje dándose la mano para cerrar un trato.",
+    [
+     "apretón de manos",
+     "acuerdo",
+     "trato",
+     "negocios"
+    ]
+   ],
+   "pt": [
+    "Aperto de mãos",
+    "Duas pessoas de terno apertando as mãos para fechar negócio.",
+    [
+     "aperto de mãos",
+     "acordo",
+     "negócio fechado",
+     "parceria"
+    ]
+   ],
+   "fr": [
+    "Poignée de main",
+    "Deux personnes en costume se serrent la main pour conclure un accord.",
+    [
+     "poignée de main",
+     "accord",
+     "contrat",
+     "partenariat"
+    ]
+   ],
+   "de": [
+    "Handschlag",
+    "Zwei Geschäftsleute im Anzug besiegeln einen Deal per Handschlag.",
+    [
+     "Handschlag",
+     "Vereinbarung",
+     "Vertrag",
+     "Partnerschaft"
+    ]
+   ],
+   "zh": [
+    "握手成交",
+    "穿西装握手、达成合作的两位商务人士。",
+    [
+     "握手",
+     "成交",
+     "合作",
+     "签约"
+    ]
+   ],
+   "ko": [
+    "악수",
+    "거래를 성사하고 악수하는 정장 차림의 두 사람.",
+    [
+     "악수",
+     "계약",
+     "거래 성사",
+     "파트너십"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "business-team",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Business team",
+    "A team of three smiling business people in suits standing together.",
+    [
+     "team",
+     "business",
+     "colleagues",
+     "company"
+    ]
+   ],
+   "ja": [
+    "ビジネスチーム",
+    "並んで立つスーツ姿の笑顔の3人チーム。",
+    [
+     "チーム",
+     "会社員",
+     "同僚",
+     "ビジネス"
+    ]
+   ],
+   "es": [
+    "Equipo de trabajo",
+    "Un equipo de tres personas de negocios sonrientes con traje.",
+    [
+     "equipo",
+     "negocios",
+     "compañeros",
+     "empresa"
+    ]
+   ],
+   "pt": [
+    "Equipe de trabalho",
+    "Uma equipe de três pessoas sorridentes de terno lado a lado.",
+    [
+     "equipe",
+     "negócios",
+     "colegas",
+     "empresa"
+    ]
+   ],
+   "fr": [
+    "Équipe professionnelle",
+    "Une équipe de trois collègues souriants en costume.",
+    [
+     "équipe",
+     "entreprise",
+     "collègues",
+     "business"
+    ]
+   ],
+   "de": [
+    "Business-Team",
+    "Ein Team aus drei lächelnden Geschäftsleuten im Anzug.",
+    [
+     "Team",
+     "Kollegen",
+     "Firma",
+     "Business"
+    ]
+   ],
+   "zh": [
+    "商务团队",
+    "并排站着、穿西装面带微笑的三人团队。",
+    [
+     "团队",
+     "商务",
+     "同事",
+     "公司"
+    ]
+   ],
+   "ko": [
+    "비즈니스 팀",
+    "나란히 선 정장 차림의 웃는 세 사람의 팀.",
+    [
+     "팀",
+     "직장인",
+     "동료",
+     "비즈니스"
+    ]
+   ]
+  }
+ }
+]

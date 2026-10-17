@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "taxi",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Taxi",
+    "A cheerful yellow taxi with a roof sign, seen from the side.",
+    [
+     "taxi",
+     "cab",
+     "car",
+     "transportation"
+    ]
+   ],
+   "ja": [
+    "タクシー",
+    "屋根に行灯をのせた、黄色いタクシー。",
+    [
+     "タクシー",
+     "車",
+     "乗り物",
+     "交通"
+    ]
+   ],
+   "es": [
+    "Taxi",
+    "Un taxi amarillo con letrero en el techo, visto de lado.",
+    [
+     "taxi",
+     "coche",
+     "transporte",
+     "vehículo"
+    ]
+   ],
+   "pt": [
+    "Táxi",
+    "Um táxi amarelo com luminoso no teto, visto de lado.",
+    [
+     "táxi",
+     "carro",
+     "transporte",
+     "veículo"
+    ]
+   ],
+   "fr": [
+    "Taxi",
+    "Un taxi jaune avec son lumineux sur le toit, vu de profil.",
+    [
+     "taxi",
+     "voiture",
+     "transport",
+     "véhicule"
+    ]
+   ],
+   "de": [
+    "Taxi",
+    "Ein gelbes Taxi mit Dachschild, von der Seite gesehen.",
+    [
+     "Taxi",
+     "Auto",
+     "Verkehr",
+     "Fahrzeug"
+    ]
+   ],
+   "zh": [
+    "出租车",
+    "车顶带灯牌的黄色出租车侧面图。",
+    [
+     "出租车",
+     "汽车",
+     "交通工具",
+     "打车"
+    ]
+   ],
+   "ko": [
+    "택시",
+    "지붕에 표시등을 단 노란 택시.",
+    [
+     "택시",
+     "자동차",
+     "교통수단",
+     "차량"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "police-car",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Police car",
+    "A police patrol car with red and blue lights on the roof.",
+    [
+     "police car",
+     "patrol car",
+     "police",
+     "emergency vehicle"
+    ]
+   ],
+   "ja": [
+    "パトカー",
+    "屋根に赤と青のランプがついたパトカー。",
+    [
+     "パトカー",
+     "警察",
+     "緊急車両",
+     "乗り物"
+    ]
+   ],
+   "es": [
+    "Coche de policía",
+    "Una patrulla de policía con luces rojas y azules en el techo.",
+    [
+     "policía",
+     "patrulla",
+     "coche",
+     "emergencia"
+    ]
+   ],
+   "pt": [
+    "Viatura de polícia",
+    "Uma viatura policial com luzes vermelha e azul no teto.",
+    [
+     "polícia",
+     "viatura",
+     "carro",
+     "emergência"
+    ]
+   ],
+   "fr": [
+    "Voiture de police",
+    "Une voiture de patrouille avec gyrophares rouge et bleu.",
+    [
+     "police",
+     "voiture de police",
+     "gyrophare",
+     "urgence"
+    ]
+   ],
+   "de": [
+    "Polizeiauto",
+    "Ein Streifenwagen mit roten und blauen Lichtern auf dem Dach.",
+    [
+     "Polizei",
+     "Streifenwagen",
+     "Polizeiauto",
+     "Blaulicht"
+    ]
+   ],
+   "zh": [
+    "警车",
+    "车顶装有红蓝警灯的巡逻警车。",
+    [
+     "警车",
+     "警察",
+     "巡逻车",
+     "交通工具"
+    ]
+   ],
+   "ko": [
+    "경찰차",
+    "지붕에 빨간색과 파란색 경광등이 달린 경찰차.",
+    [
+     "경찰차",
+     "경찰",
+     "순찰차",
+     "긴급차량"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "fire-truck",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Fire truck",
+    "A red fire engine with a ladder on top.",
+    [
+     "fire truck",
+     "fire engine",
+     "firefighter",
+     "emergency vehicle"
+    ]
+   ],
+   "ja": [
+    "消防車",
+    "はしごを積んだ赤い消防車。",
+    [
+     "消防車",
+     "消防",
+     "緊急車両",
+     "はたらく車"
+    ]
+   ],
+   "es": [
+    "Camión de bomberos",
+    "Un camión de bomberos rojo con una escalera encima.",
+    [
+     "bomberos",
+     "camión de bomberos",
+     "emergencia",
+     "vehículo"
+    ]
+   ],
+   "pt": [
+    "Caminhão de bombeiros",
+    "Um caminhão de bombeiros vermelho com escada em cima.",
+    [
+     "bombeiros",
+     "caminhão de bombeiros",
+     "emergência",
+     "veículo"
+    ]
+   ],
+   "fr": [
+    "Camion de pompiers",
+    "Un camion de pompiers rouge avec une échelle sur le toit.",
+    [
+     "pompiers",
+     "camion de pompiers",
+     "urgence",
+     "véhicule"
+    ]
+   ],
+   "de": [
+    "Feuerwehrauto",
+    "Ein rotes Feuerwehrauto mit Leiter auf dem Dach.",
+    [
+     "Feuerwehr",
+     "Feuerwehrauto",
+     "Notfall",
+     "Fahrzeug"
+    ]
+   ],
+   "zh": [
+    "消防车",
+    "车顶载着云梯的红色消防车。",
+    [
+     "消防车",
+     "消防",
+     "救援",
+     "交通工具"
+    ]
+   ],
+   "ko": [
+    "소방차",
+    "사다리를 실은 빨간 소방차.",
+    [
+     "소방차",
+     "소방",
+     "긴급차량",
+     "자동차"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "truck",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Delivery truck",
+    "A box truck for deliveries and moving.",
+    [
+     "truck",
+     "delivery",
+     "logistics",
+     "moving"
+    ]
+   ],
+   "ja": [
+    "トラック",
+    "荷物を運ぶ箱型のトラック。",
+    [
+     "トラック",
+     "配送",
+     "物流",
+     "引っ越し"
+    ]
+   ],
+   "es": [
+    "Camión",
+    "Un camión de caja para repartos y mudanzas.",
+    [
+     "camión",
+     "reparto",
+     "logística",
+     "mudanza"
+    ]
+   ],
+   "pt": [
+    "Caminhão",
+    "Um caminhão baú para entregas e mudanças.",
+    [
+     "caminhão",
+     "entrega",
+     "logística",
+     "mudança"
+    ]
+   ],
+   "fr": [
+    "Camion",
+    "Un camion fourgon pour les livraisons et les déménagements.",
+    [
+     "camion",
+     "livraison",
+     "logistique",
+     "déménagement"
+    ]
+   ],
+   "de": [
+    "Lastwagen",
+    "Ein Kofferlastwagen für Lieferungen und Umzüge.",
+    [
+     "LKW",
+     "Lastwagen",
+     "Lieferung",
+     "Logistik"
+    ]
+   ],
+   "zh": [
+    "卡车",
+    "用来送货和搬家的厢式卡车。",
+    [
+     "卡车",
+     "货车",
+     "物流",
+     "搬家"
+    ]
+   ],
+   "ko": [
+    "트럭",
+    "짐을 나르는 탑차 트럭.",
+    [
+     "트럭",
+     "배송",
+     "물류",
+     "이사"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "motorcycle",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Motorcycle",
+    "A sporty motorbike seen from the side.",
+    [
+     "motorcycle",
+     "motorbike",
+     "bike",
+     "ride"
+    ]
+   ],
+   "ja": [
+    "バイク",
+    "横から見たオートバイ。",
+    [
+     "バイク",
+     "オートバイ",
+     "ツーリング",
+     "乗り物"
+    ]
+   ],
+   "es": [
+    "Moto",
+    "Una motocicleta vista de lado.",
+    [
+     "moto",
+     "motocicleta",
+     "viaje",
+     "vehículo"
+    ]
+   ],
+   "pt": [
+    "Moto",
+    "Uma motocicleta vista de lado.",
+    [
+     "moto",
+     "motocicleta",
+     "motoqueiro",
+     "veículo"
+    ]
+   ],
+   "fr": [
+    "Moto",
+    "Une moto vue de profil.",
+    [
+     "moto",
+     "motocyclette",
+     "balade",
+     "véhicule"
+    ]
+   ],
+   "de": [
+    "Motorrad",
+    "Ein Motorrad von der Seite gesehen.",
+    [
+     "Motorrad",
+     "Bike",
+     "Tour",
+     "Fahrzeug"
+    ]
+   ],
+   "zh": [
+    "摩托车",
+    "从侧面看的摩托车。",
+    [
+     "摩托车",
+     "机车",
+     "骑行",
+     "交通工具"
+    ]
+   ],
+   "ko": [
+    "오토바이",
+    "옆에서 본 오토바이.",
+    [
+     "오토바이",
+     "바이크",
+     "투어링",
+     "교통수단"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "scooter",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Scooter",
+    "A retro motor scooter in mint green.",
+    [
+     "scooter",
+     "moped",
+     "retro scooter",
+     "ride"
+    ]
+   ],
+   "ja": [
+    "スクーター",
+    "ミントグリーンのレトロなスクーター。",
+    [
+     "スクーター",
+     "原付",
+     "バイク",
+     "乗り物"
+    ]
+   ],
+   "es": [
+    "Scooter",
+    "Una scooter retro de color verde menta.",
+    [
+     "scooter",
+     "motoneta",
+     "moto",
+     "vehículo"
+    ]
+   ],
+   "pt": [
+    "Scooter",
+    "Uma scooter retrô verde-menta.",
+    [
+     "scooter",
+     "lambreta",
+     "moto",
+     "veículo"
+    ]
+   ],
+   "fr": [
+    "Scooter",
+    "Un scooter rétro vert menthe.",
+    [
+     "scooter",
+     "deux-roues",
+     "moto",
+     "véhicule"
+    ]
+   ],
+   "de": [
+    "Motorroller",
+    "Ein mintgrüner Retro-Motorroller.",
+    [
+     "Roller",
+     "Motorroller",
+     "Moped",
+     "Fahrzeug"
+    ]
+   ],
+   "zh": [
+    "踏板摩托车",
+    "薄荷绿的复古踏板摩托车。",
+    [
+     "踏板车",
+     "小摩托",
+     "摩托车",
+     "交通工具"
+    ]
+   ],
+   "ko": [
+    "스쿠터",
+    "민트색 레트로 스쿠터.",
+    [
+     "스쿠터",
+     "오토바이",
+     "원동기",
+     "교통수단"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "electric-scooter",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Electric kick scooter",
+    "An electric kick scooter for short city rides.",
+    [
+     "electric scooter",
+     "e-scooter",
+     "micromobility",
+     "commute"
+    ]
+   ],
+   "ja": [
+    "電動キックボード",
+    "街をすいすい走る電動キックボード。",
+    [
+     "電動キックボード",
+     "キックボード",
+     "モビリティ",
+     "通勤"
+    ]
+   ],
+   "es": [
+    "Patinete eléctrico",
+    "Un patinete eléctrico para moverse por la ciudad.",
+    [
+     "patinete eléctrico",
+     "patinete",
+     "movilidad",
+     "ciudad"
+    ]
+   ],
+   "pt": [
+    "Patinete elétrico",
+    "Um patinete elétrico para trajetos curtos na cidade.",
+    [
+     "patinete elétrico",
+     "patinete",
+     "mobilidade",
+     "cidade"
+    ]
+   ],
+   "fr": [
+    "Trottinette électrique",
+    "Une trottinette électrique pour circuler en ville.",
+    [
+     "trottinette électrique",
+     "trottinette",
+     "mobilité",
+     "ville"
+    ]
+   ],
+   "de": [
+    "E-Scooter",
+    "Ein elektrischer Tretroller für kurze Wege in der Stadt.",
+    [
+     "E-Scooter",
+     "Tretroller",
+     "Mobilität",
+     "Stadt"
+    ]
+   ],
+   "zh": [
+    "电动滑板车",
+    "适合城市短途出行的电动滑板车。",
+    [
+     "电动滑板车",
+     "滑板车",
+     "出行",
+     "通勤"
+    ]
+   ],
+   "ko": [
+    "전동 킥보드",
+    "도심을 달리는 전동 킥보드.",
+    [
+     "전동킥보드",
+     "킥보드",
+     "퍼스널모빌리티",
+     "출퇴근"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "helicopter",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Helicopter",
+    "A little orange helicopter with a big rotor.",
+    [
+     "helicopter",
+     "aircraft",
+     "flight",
+     "sky"
+    ]
+   ],
+   "ja": [
+    "ヘリコプター",
+    "大きなプロペラのオレンジ色のヘリコプター。",
+    [
+     "ヘリコプター",
+     "ヘリ",
+     "空",
+     "乗り物"
+    ]
+   ],
+   "es": [
+    "Helicóptero",
+    "Un pequeño helicóptero naranja con su gran hélice.",
+    [
+     "helicóptero",
+     "aeronave",
+     "vuelo",
+     "cielo"
+    ]
+   ],
+   "pt": [
+    "Helicóptero",
+    "Um pequeno helicóptero laranja com hélice grande.",
+    [
+     "helicóptero",
+     "aeronave",
+     "voo",
+     "céu"
+    ]
+   ],
+   "fr": [
+    "Hélicoptère",
+    "Un petit hélicoptère orange avec un grand rotor.",
+    [
+     "hélicoptère",
+     "aéronef",
+     "vol",
+     "ciel"
+    ]
+   ],
+   "de": [
+    "Hubschrauber",
+    "Ein kleiner orangefarbener Hubschrauber mit großem Rotor.",
+    [
+     "Hubschrauber",
+     "Helikopter",
+     "Flug",
+     "Himmel"
+    ]
+   ],
+   "zh": [
+    "直升机",
+    "有大螺旋桨的橙色小直升机。",
+    [
+     "直升机",
+     "飞行",
+     "天空",
+     "交通工具"
+    ]
+   ],
+   "ko": [
+    "헬리콥터",
+    "큰 프로펠러가 달린 주황색 헬리콥터.",
+    [
+     "헬리콥터",
+     "헬기",
+     "하늘",
+     "교통수단"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "subway",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Subway train",
+    "A subway train coming out of the tunnel, seen from the front.",
+    [
+     "subway",
+     "metro",
+     "underground",
+     "train"
+    ]
+   ],
+   "ja": [
+    "地下鉄",
+    "トンネルから出てくる地下鉄の正面。",
+    [
+     "地下鉄",
+     "電車",
+     "メトロ",
+     "通勤"
+    ]
+   ],
+   "es": [
+    "Metro",
+    "Un tren de metro saliendo del túnel, visto de frente.",
+    [
+     "metro",
+     "subterráneo",
+     "tren",
+     "transporte público"
+    ]
+   ],
+   "pt": [
+    "Metrô",
+    "Um trem de metrô saindo do túnel, visto de frente.",
+    [
+     "metrô",
+     "trem",
+     "transporte público",
+     "túnel"
+    ]
+   ],
+   "fr": [
+    "Métro",
+    "Une rame de métro sortant du tunnel, vue de face.",
+    [
+     "métro",
+     "rame",
+     "transport en commun",
+     "tunnel"
+    ]
+   ],
+   "de": [
+    "U-Bahn",
+    "Eine U-Bahn kommt aus dem Tunnel, von vorne gesehen.",
+    [
+     "U-Bahn",
+     "Metro",
+     "Zug",
+     "Nahverkehr"
+    ]
+   ],
+   "zh": [
+    "地铁",
+    "从隧道驶出的地铁列车正面图。",
+    [
+     "地铁",
+     "列车",
+     "轨道交通",
+     "通勤"
+    ]
+   ],
+   "ko": [
+    "지하철",
+    "터널에서 나오는 지하철 정면 모습.",
+    [
+     "지하철",
+     "전철",
+     "대중교통",
+     "출퇴근"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tram",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tram",
+    "A streetcar running under an overhead wire.",
+    [
+     "tram",
+     "streetcar",
+     "trolley",
+     "city"
+    ]
+   ],
+   "ja": [
+    "路面電車",
+    "架線の下を走る路面電車。",
+    [
+     "路面電車",
+     "市電",
+     "トラム",
+     "電車"
+    ]
+   ],
+   "es": [
+    "Tranvía",
+    "Un tranvía circulando bajo el cable eléctrico.",
+    [
+     "tranvía",
+     "transporte público",
+     "ciudad",
+     "tren"
+    ]
+   ],
+   "pt": [
+    "Bonde",
+    "Um bonde elétrico andando sob a rede aérea.",
+    [
+     "bonde",
+     "VLT",
+     "transporte público",
+     "cidade"
+    ]
+   ],
+   "fr": [
+    "Tramway",
+    "Un tramway roulant sous sa ligne aérienne.",
+    [
+     "tramway",
+     "tram",
+     "transport en commun",
+     "ville"
+    ]
+   ],
+   "de": [
+    "Straßenbahn",
+    "Eine Straßenbahn unter der Oberleitung.",
+    [
+     "Straßenbahn",
+     "Tram",
+     "Nahverkehr",
+     "Stadt"
+    ]
+   ],
+   "zh": [
+    "有轨电车",
+    "在架空线下行驶的有轨电车。",
+    [
+     "有轨电车",
+     "电车",
+     "城市交通",
+     "轨道"
+    ]
+   ],
+   "ko": [
+    "노면전차",
+    "가선 아래를 달리는 노면전차.",
+    [
+     "노면전차",
+     "트램",
+     "전차",
+     "대중교통"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ropeway",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cable car",
+    "A ropeway gondola gliding up to the mountains.",
+    [
+     "cable car",
+     "ropeway",
+     "gondola",
+     "mountain"
+    ]
+   ],
+   "ja": [
+    "ロープウェイ",
+    "山へ向かうロープウェイのゴンドラ。",
+    [
+     "ロープウェイ",
+     "ゴンドラ",
+     "山",
+     "観光"
+    ]
+   ],
+   "es": [
+    "Teleférico",
+    "Una cabina de teleférico subiendo a la montaña.",
+    [
+     "teleférico",
+     "góndola",
+     "montaña",
+     "turismo"
+    ]
+   ],
+   "pt": [
+    "Teleférico",
+    "Uma cabine de teleférico subindo a montanha.",
+    [
+     "teleférico",
+     "bondinho",
+     "montanha",
+     "turismo"
+    ]
+   ],
+   "fr": [
+    "Téléphérique",
+    "Une cabine de téléphérique qui monte vers la montagne.",
+    [
+     "téléphérique",
+     "télécabine",
+     "montagne",
+     "tourisme"
+    ]
+   ],
+   "de": [
+    "Seilbahn",
+    "Eine Seilbahngondel auf dem Weg in die Berge.",
+    [
+     "Seilbahn",
+     "Gondel",
+     "Berge",
+     "Ausflug"
+    ]
+   ],
+   "zh": [
+    "缆车",
+    "驶向山上的空中缆车。",
+    [
+     "缆车",
+     "索道",
+     "登山",
+     "旅游"
+    ]
+   ],
+   "ko": [
+    "케이블카",
+    "산으로 올라가는 케이블카 곤돌라.",
+    [
+     "케이블카",
+     "로프웨이",
+     "산",
+     "관광"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sailboat",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sailboat",
+    "A small sailboat with white sails on the waves.",
+    [
+     "sailboat",
+     "yacht",
+     "sailing",
+     "sea"
+    ]
+   ],
+   "ja": [
+    "ヨット",
+    "白い帆をはった小さなヨット。",
+    [
+     "ヨット",
+     "帆船",
+     "海",
+     "セーリング"
+    ]
+   ],
+   "es": [
+    "Velero",
+    "Un pequeño velero de velas blancas sobre las olas.",
+    [
+     "velero",
+     "barco",
+     "mar",
+     "vela"
+    ]
+   ],
+   "pt": [
+    "Veleiro",
+    "Um pequeno veleiro de velas brancas nas ondas.",
+    [
+     "veleiro",
+     "barco",
+     "mar",
+     "vela"
+    ]
+   ],
+   "fr": [
+    "Voilier",
+    "Un petit voilier aux voiles blanches sur les vagues.",
+    [
+     "voilier",
+     "bateau",
+     "mer",
+     "voile"
+    ]
+   ],
+   "de": [
+    "Segelboot",
+    "Ein kleines Segelboot mit weißen Segeln auf den Wellen.",
+    [
+     "Segelboot",
+     "Segeln",
+     "Meer",
+     "Boot"
+    ]
+   ],
+   "zh": [
+    "帆船",
+    "在海浪上航行的白帆小帆船。",
+    [
+     "帆船",
+     "航海",
+     "大海",
+     "船"
+    ]
+   ],
+   "ko": [
+    "요트",
+    "하얀 돛을 단 작은 요트.",
+    [
+     "요트",
+     "범선",
+     "바다",
+     "세일링"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "canoe",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Paddling a canoe",
+    "A smiling person paddling a wooden canoe.",
+    [
+     "canoe",
+     "paddling",
+     "outdoor",
+     "river"
+    ]
+   ],
+   "ja": [
+    "カヌーをこぐ人",
+    "笑顔でカヌーをこぐ人。",
+    [
+     "カヌー",
+     "パドル",
+     "アウトドア",
+     "川"
+    ]
+   ],
+   "es": [
+    "Persona en canoa",
+    "Una persona sonriente remando en una canoa de madera.",
+    [
+     "canoa",
+     "remar",
+     "aire libre",
+     "río"
+    ]
+   ],
+   "pt": [
+    "Pessoa remando de canoa",
+    "Uma pessoa sorridente remando uma canoa de madeira.",
+    [
+     "canoa",
+     "remar",
+     "aventura",
+     "rio"
+    ]
+   ],
+   "fr": [
+    "Balade en canoë",
+    "Une personne souriante qui pagaie dans un canoë en bois.",
+    [
+     "canoë",
+     "pagayer",
+     "plein air",
+     "rivière"
+    ]
+   ],
+   "de": [
+    "Kanufahren",
+    "Eine lächelnde Person paddelt in einem Holzkanu.",
+    [
+     "Kanu",
+     "Paddeln",
+     "Outdoor",
+     "Fluss"
+    ]
+   ],
+   "zh": [
+    "划独木舟的人",
+    "面带笑容划着木独木舟的人。",
+    [
+     "独木舟",
+     "划船",
+     "户外",
+     "河流"
+    ]
+   ],
+   "ko": [
+    "카누 타는 사람",
+    "웃으며 카누를 젓는 사람.",
+    [
+     "카누",
+     "패들",
+     "아웃도어",
+     "강"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "submarine",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Submarine",
+    "A round yellow submarine with portholes and a periscope.",
+    [
+     "submarine",
+     "underwater",
+     "ocean",
+     "periscope"
+    ]
+   ],
+   "ja": [
+    "潜水艦",
+    "丸窓と潜望鏡のついた黄色い潜水艦。",
+    [
+     "潜水艦",
+     "海の中",
+     "深海",
+     "乗り物"
+    ]
+   ],
+   "es": [
+    "Submarino",
+    "Un submarino amarillo con ojos de buey y periscopio.",
+    [
+     "submarino",
+     "bajo el agua",
+     "océano",
+     "periscopio"
+    ]
+   ],
+   "pt": [
+    "Submarino",
+    "Um submarino amarelo com escotilhas e periscópio.",
+    [
+     "submarino",
+     "fundo do mar",
+     "oceano",
+     "periscópio"
+    ]
+   ],
+   "fr": [
+    "Sous-marin",
+    "Un sous-marin jaune avec hublots et périscope.",
+    [
+     "sous-marin",
+     "sous l'eau",
+     "océan",
+     "périscope"
+    ]
+   ],
+   "de": [
+    "U-Boot",
+    "Ein gelbes U-Boot mit Bullaugen und Periskop.",
+    [
+     "U-Boot",
+     "Unterwasser",
+     "Ozean",
+     "Periskop"
+    ]
+   ],
+   "zh": [
+    "潜水艇",
+    "带圆窗和潜望镜的黄色潜水艇。",
+    [
+     "潜水艇",
+     "潜艇",
+     "海底",
+     "海洋"
+    ]
+   ],
+   "ko": [
+    "잠수함",
+    "동그란 창과 잠망경이 달린 노란 잠수함.",
+    [
+     "잠수함",
+     "바닷속",
+     "해저",
+     "잠망경"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "steam-locomotive",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Steam locomotive",
+    "A classic steam train puffing white smoke.",
+    [
+     "steam locomotive",
+     "steam train",
+     "railway",
+     "retro"
+    ]
+   ],
+   "ja": [
+    "SL（蒸気機関車）",
+    "白い煙をはく昔ながらの蒸気機関車。",
+    [
+     "SL",
+     "蒸気機関車",
+     "汽車",
+     "鉄道"
+    ]
+   ],
+   "es": [
+    "Locomotora de vapor",
+    "Un tren de vapor clásico echando humo blanco.",
+    [
+     "locomotora de vapor",
+     "tren",
+     "ferrocarril",
+     "retro"
+    ]
+   ],
+   "pt": [
+    "Locomotiva a vapor",
+    "Uma clássica maria-fumaça soltando fumaça branca.",
+    [
+     "maria-fumaça",
+     "locomotiva a vapor",
+     "trem",
+     "ferrovia"
+    ]
+   ],
+   "fr": [
+    "Locomotive à vapeur",
+    "Une locomotive à vapeur classique qui crache de la fumée blanche.",
+    [
+     "locomotive à vapeur",
+     "train",
+     "chemin de fer",
+     "rétro"
+    ]
+   ],
+   "de": [
+    "Dampflokomotive",
+    "Eine klassische Dampflok mit weißen Dampfwolken.",
+    [
+     "Dampflok",
+     "Dampflokomotive",
+     "Eisenbahn",
+     "Nostalgie"
+    ]
+   ],
+   "zh": [
+    "蒸汽火车",
+    "冒着白烟的经典蒸汽机车。",
+    [
+     "蒸汽火车",
+     "蒸汽机车",
+     "铁路",
+     "复古"
+    ]
+   ],
+   "ko": [
+    "증기기관차",
+    "하얀 연기를 내뿜는 옛날 증기기관차.",
+    [
+     "증기기관차",
+     "기차",
+     "철도",
+     "레트로"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "camper-van",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Camper van",
+    "A camper van with a surfboard on the roof.",
+    [
+     "camper van",
+     "road trip",
+     "camping",
+     "van life"
+    ]
+   ],
+   "ja": [
+    "キャンピングカー",
+    "屋根にサーフボードをのせたキャンピングカー。",
+    [
+     "キャンピングカー",
+     "車中泊",
+     "キャンプ",
+     "ドライブ"
+    ]
+   ],
+   "es": [
+    "Autocaravana",
+    "Una furgoneta camper con una tabla de surf en el techo.",
+    [
+     "autocaravana",
+     "furgoneta camper",
+     "camping",
+     "viaje por carretera"
+    ]
+   ],
+   "pt": [
+    "Motorhome",
+    "Uma van de camping com prancha de surfe no teto.",
+    [
+     "motorhome",
+     "van",
+     "camping",
+     "viagem de carro"
+    ]
+   ],
+   "fr": [
+    "Van aménagé",
+    "Un van aménagé avec une planche de surf sur le toit.",
+    [
+     "van aménagé",
+     "camping-car",
+     "road trip",
+     "camping"
+    ]
+   ],
+   "de": [
+    "Campingbus",
+    "Ein Campingbus mit Surfbrett auf dem Dach.",
+    [
+     "Campingbus",
+     "Wohnmobil",
+     "Roadtrip",
+     "Camping"
+    ]
+   ],
+   "zh": [
+    "露营车",
+    "车顶载着冲浪板的露营车。",
+    [
+     "露营车",
+     "房车",
+     "自驾游",
+     "露营"
+    ]
+   ],
+   "ko": [
+    "캠핑카",
+    "지붕에 서핑보드를 실은 캠핑카.",
+    [
+     "캠핑카",
+     "차박",
+     "캠핑",
+     "드라이브"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tractor",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tractor",
+    "A green farm tractor with big back wheels.",
+    [
+     "tractor",
+     "farm",
+     "agriculture",
+     "farming"
+    ]
+   ],
+   "ja": [
+    "トラクター",
+    "大きな後輪の緑のトラクター。",
+    [
+     "トラクター",
+     "農業",
+     "畑",
+     "はたらく車"
+    ]
+   ],
+   "es": [
+    "Tractor",
+    "Un tractor verde de granja con grandes ruedas traseras.",
+    [
+     "tractor",
+     "granja",
+     "agricultura",
+     "campo"
+    ]
+   ],
+   "pt": [
+    "Trator",
+    "Um trator verde de fazenda com rodas traseiras grandes.",
+    [
+     "trator",
+     "fazenda",
+     "agricultura",
+     "campo"
+    ]
+   ],
+   "fr": [
+    "Tracteur",
+    "Un tracteur agricole vert avec de grandes roues arrière.",
+    [
+     "tracteur",
+     "ferme",
+     "agriculture",
+     "campagne"
+    ]
+   ],
+   "de": [
+    "Traktor",
+    "Ein grüner Traktor mit großen Hinterrädern.",
+    [
+     "Traktor",
+     "Bauernhof",
+     "Landwirtschaft",
+     "Feld"
+    ]
+   ],
+   "zh": [
+    "拖拉机",
+    "后轮很大的绿色拖拉机。",
+    [
+     "拖拉机",
+     "农业",
+     "农场",
+     "农田"
+    ]
+   ],
+   "ko": [
+    "트랙터",
+    "큰 뒷바퀴가 달린 초록색 트랙터.",
+    [
+     "트랙터",
+     "농업",
+     "농장",
+     "밭"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "traffic-light",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Traffic light",
+    "A traffic signal with red, yellow and green lights.",
+    [
+     "traffic light",
+     "signal",
+     "road safety",
+     "stop"
+    ]
+   ],
+   "ja": [
+    "信号機",
+    "赤・黄・青のランプがついた信号機。",
+    [
+     "信号機",
+     "信号",
+     "交通安全",
+     "道路"
+    ]
+   ],
+   "es": [
+    "Semáforo",
+    "Un semáforo con luces roja, amarilla y verde.",
+    [
+     "semáforo",
+     "tráfico",
+     "seguridad vial",
+     "calle"
+    ]
+   ],
+   "pt": [
+    "Semáforo",
+    "Um semáforo com luzes vermelha, amarela e verde.",
+    [
+     "semáforo",
+     "sinal de trânsito",
+     "trânsito",
+     "segurança"
+    ]
+   ],
+   "fr": [
+    "Feu tricolore",
+    "Un feu de circulation rouge, orange et vert.",
+    [
+     "feu rouge",
+     "feu tricolore",
+     "sécurité routière",
+     "circulation"
+    ]
+   ],
+   "de": [
+    "Ampel",
+    "Eine Verkehrsampel mit Rot, Gelb und Grün.",
+    [
+     "Ampel",
+     "Verkehr",
+     "Verkehrssicherheit",
+     "Straße"
+    ]
+   ],
+   "zh": [
+    "红绿灯",
+    "有红黄绿三色灯的交通信号灯。",
+    [
+     "红绿灯",
+     "交通信号灯",
+     "交通安全",
+     "马路"
+    ]
+   ],
+   "ko": [
+    "신호등",
+    "빨강, 노랑, 초록 불이 있는 신호등.",
+    [
+     "신호등",
+     "교통",
+     "교통안전",
+     "도로"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "crosswalk",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Crossing at the crosswalk",
+    "A person raising a hand while crossing the crosswalk.",
+    [
+     "crosswalk",
+     "pedestrian",
+     "road safety",
+     "zebra crossing"
+    ]
+   ],
+   "ja": [
+    "横断歩道をわたる人",
+    "手をあげて横断歩道をわたる人。",
+    [
+     "横断歩道",
+     "歩行者",
+     "交通安全",
+     "手をあげる"
+    ]
+   ],
+   "es": [
+    "Cruzando el paso de peatones",
+    "Una persona levantando la mano al cruzar el paso de cebra.",
+    [
+     "paso de peatones",
+     "peatón",
+     "seguridad vial",
+     "cruzar"
+    ]
+   ],
+   "pt": [
+    "Atravessando na faixa",
+    "Uma pessoa levantando a mão ao atravessar a faixa de pedestres.",
+    [
+     "faixa de pedestres",
+     "pedestre",
+     "segurança no trânsito",
+     "atravessar"
+    ]
+   ],
+   "fr": [
+    "Traverser au passage piéton",
+    "Une personne qui lève la main en traversant le passage piéton.",
+    [
+     "passage piéton",
+     "piéton",
+     "sécurité routière",
+     "traverser"
+    ]
+   ],
+   "de": [
+    "Über den Zebrastreifen",
+    "Eine Person hebt beim Überqueren des Zebrastreifens die Hand.",
+    [
+     "Zebrastreifen",
+     "Fußgänger",
+     "Verkehrssicherheit",
+     "Straße überqueren"
+    ]
+   ],
+   "zh": [
+    "过人行横道的人",
+    "举着手过人行横道的人。",
+    [
+     "人行横道",
+     "斑马线",
+     "行人",
+     "交通安全"
+    ]
+   ],
+   "ko": [
+    "횡단보도를 건너는 사람",
+    "손을 들고 횡단보도를 건너는 사람.",
+    [
+     "횡단보도",
+     "보행자",
+     "교통안전",
+     "길 건너기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "gas-station",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Gas pump",
+    "A gas station fuel pump with a nozzle and hose.",
+    [
+     "gas station",
+     "fuel pump",
+     "gasoline",
+     "refuel"
+    ]
+   ],
+   "ja": [
+    "ガソリンスタンドの給油機",
+    "ノズルとホースのついたガソリンスタンドの給油機。",
+    [
+     "ガソリンスタンド",
+     "給油",
+     "ガソリン",
+     "車"
+    ]
+   ],
+   "es": [
+    "Surtidor de gasolina",
+    "Un surtidor de gasolinera con manguera y boquilla.",
+    [
+     "gasolinera",
+     "surtidor",
+     "gasolina",
+     "repostar"
+    ]
+   ],
+   "pt": [
+    "Bomba de combustível",
+    "Uma bomba de posto de gasolina com mangueira e bico.",
+    [
+     "posto de gasolina",
+     "bomba de combustível",
+     "gasolina",
+     "abastecer"
+    ]
+   ],
+   "fr": [
+    "Pompe à essence",
+    "Une pompe de station-service avec son pistolet et son tuyau.",
+    [
+     "station-service",
+     "pompe à essence",
+     "carburant",
+     "faire le plein"
+    ]
+   ],
+   "de": [
+    "Zapfsäule",
+    "Eine Tankstellen-Zapfsäule mit Zapfpistole und Schlauch.",
+    [
+     "Tankstelle",
+     "Zapfsäule",
+     "Benzin",
+     "tanken"
+    ]
+   ],
+   "zh": [
+    "加油机",
+    "带油枪和油管的加油站加油机。",
+    [
+     "加油站",
+     "加油机",
+     "汽油",
+     "加油"
+    ]
+   ],
+   "ko": [
+    "주유기",
+    "노즐과 호스가 달린 주유소 주유기.",
+    [
+     "주유소",
+     "주유기",
+     "휘발유",
+     "주유"
+    ]
+   ]
+  }
+ }
+]

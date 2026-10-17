@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "bus-stop",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bus stop",
+    "A bus stop shelter with a bench and a round sign.",
+    [
+     "bus stop",
+     "bus",
+     "commute",
+     "public transport"
+    ]
+   ],
+   "ja": [
+    "バス停",
+    "ベンチと丸い標識のあるバス停の待合所。",
+    [
+     "バス停",
+     "バス",
+     "通勤",
+     "公共交通機関"
+    ]
+   ],
+   "es": [
+    "Parada de autobús",
+    "Una marquesina de parada de autobús con banco y señal redonda.",
+    [
+     "parada de autobús",
+     "autobús",
+     "transporte público",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Ponto de ônibus",
+    "Um ponto de ônibus coberto com banco e placa redonda.",
+    [
+     "ponto de ônibus",
+     "ônibus",
+     "transporte público",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Arrêt de bus",
+    "Un abribus avec un banc et un panneau rond.",
+    [
+     "arrêt de bus",
+     "bus",
+     "transports en commun",
+     "trajet"
+    ]
+   ],
+   "de": [
+    "Bushaltestelle",
+    "Ein Bushäuschen mit Bank und rundem Haltestellenschild.",
+    [
+     "Bushaltestelle",
+     "Bus",
+     "ÖPNV",
+     "Pendeln"
+    ]
+   ],
+   "zh": [
+    "公交车站",
+    "带长椅和圆形站牌的公交候车亭。",
+    [
+     "公交车站",
+     "公交车",
+     "公共交通",
+     "出行"
+    ]
+   ],
+   "ko": [
+    "버스 정류장",
+    "벤치와 둥근 표지판이 있는 버스 정류장.",
+    [
+     "버스 정류장",
+     "버스",
+     "대중교통",
+     "출퇴근"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "train-platform",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Train platform",
+    "A train waiting at a station platform with a clock.",
+    [
+     "train station",
+     "platform",
+     "train",
+     "railway"
+    ]
+   ],
+   "ja": [
+    "駅のホーム",
+    "時計のある駅のホームに停まる電車。",
+    [
+     "駅",
+     "ホーム",
+     "電車",
+     "鉄道"
+    ]
+   ],
+   "es": [
+    "Andén de tren",
+    "Un tren esperando en el andén de una estación con reloj.",
+    [
+     "estación de tren",
+     "andén",
+     "tren",
+     "ferrocarril"
+    ]
+   ],
+   "pt": [
+    "Plataforma de trem",
+    "Um trem parado na plataforma da estação com relógio.",
+    [
+     "estação de trem",
+     "plataforma",
+     "trem",
+     "ferrovia"
+    ]
+   ],
+   "fr": [
+    "Quai de gare",
+    "Un train à quai dans une gare avec une horloge.",
+    [
+     "gare",
+     "quai",
+     "train",
+     "chemin de fer"
+    ]
+   ],
+   "de": [
+    "Bahnsteig",
+    "Ein Zug am Bahnsteig eines Bahnhofs mit Uhr.",
+    [
+     "Bahnhof",
+     "Bahnsteig",
+     "Zug",
+     "Bahn"
+    ]
+   ],
+   "zh": [
+    "火车站站台",
+    "停在挂着时钟的车站站台旁的列车。",
+    [
+     "火车站",
+     "站台",
+     "列车",
+     "铁路"
+    ]
+   ],
+   "ko": [
+    "기차역 승강장",
+    "시계가 있는 역 승강장에 멈춘 기차.",
+    [
+     "기차역",
+     "승강장",
+     "기차",
+     "철도"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "airport",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Airport",
+    "An airport terminal and control tower with a plane taking off.",
+    [
+     "airport",
+     "airplane",
+     "flight",
+     "terminal"
+    ]
+   ],
+   "ja": [
+    "空港",
+    "飛び立つ飛行機と空港ターミナル・管制塔。",
+    [
+     "空港",
+     "飛行機",
+     "フライト",
+     "旅行"
+    ]
+   ],
+   "es": [
+    "Aeropuerto",
+    "Una terminal de aeropuerto y torre de control con un avión despegando.",
+    [
+     "aeropuerto",
+     "avión",
+     "vuelo",
+     "terminal"
+    ]
+   ],
+   "pt": [
+    "Aeroporto",
+    "Terminal de aeroporto e torre de controle com um avião decolando.",
+    [
+     "aeroporto",
+     "avião",
+     "voo",
+     "terminal"
+    ]
+   ],
+   "fr": [
+    "Aéroport",
+    "Un terminal d'aéroport et une tour de contrôle avec un avion qui décolle.",
+    [
+     "aéroport",
+     "avion",
+     "vol",
+     "terminal"
+    ]
+   ],
+   "de": [
+    "Flughafen",
+    "Ein Flughafenterminal mit Tower und startendem Flugzeug.",
+    [
+     "Flughafen",
+     "Flugzeug",
+     "Flug",
+     "Terminal"
+    ]
+   ],
+   "zh": [
+    "机场",
+    "机场航站楼和塔台，飞机正在起飞。",
+    [
+     "机场",
+     "飞机",
+     "航班",
+     "航站楼"
+    ]
+   ],
+   "ko": [
+    "공항",
+    "이륙하는 비행기와 공항 터미널, 관제탑.",
+    [
+     "공항",
+     "비행기",
+     "항공편",
+     "터미널"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "passport",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Passport",
+    "A red passport booklet with a globe emblem.",
+    [
+     "passport",
+     "travel document",
+     "overseas trip",
+     "immigration"
+    ]
+   ],
+   "ja": [
+    "パスポート",
+    "地球のマークが付いた赤いパスポート。",
+    [
+     "パスポート",
+     "旅券",
+     "海外旅行",
+     "出入国"
+    ]
+   ],
+   "es": [
+    "Pasaporte",
+    "Un pasaporte rojo con un emblema de globo terráqueo.",
+    [
+     "pasaporte",
+     "documento de viaje",
+     "viaje al extranjero",
+     "aduana"
+    ]
+   ],
+   "pt": [
+    "Passaporte",
+    "Um passaporte vermelho com emblema de globo.",
+    [
+     "passaporte",
+     "documento de viagem",
+     "viagem internacional",
+     "imigração"
+    ]
+   ],
+   "fr": [
+    "Passeport",
+    "Un passeport rouge orné d'un globe terrestre.",
+    [
+     "passeport",
+     "document de voyage",
+     "voyage à l'étranger",
+     "douane"
+    ]
+   ],
+   "de": [
+    "Reisepass",
+    "Ein roter Reisepass mit Globus-Emblem.",
+    [
+     "Reisepass",
+     "Pass",
+     "Auslandsreise",
+     "Grenzkontrolle"
+    ]
+   ],
+   "zh": [
+    "护照",
+    "带地球图案的红色护照。",
+    [
+     "护照",
+     "旅行证件",
+     "出国旅行",
+     "出入境"
+    ]
+   ],
+   "ko": [
+    "여권",
+    "지구 무늬가 있는 빨간 여권.",
+    [
+     "여권",
+     "해외여행",
+     "출입국",
+     "여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ticket",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Travel ticket",
+    "A boarding ticket with a tear-off stub and barcode.",
+    [
+     "ticket",
+     "boarding pass",
+     "travel",
+     "train ticket"
+    ]
+   ],
+   "ja": [
+    "旅行のチケット",
+    "切り取り線とバーコードのある搭乗券。",
+    [
+     "チケット",
+     "切符",
+     "搭乗券",
+     "旅行"
+    ]
+   ],
+   "es": [
+    "Billete de viaje",
+    "Un billete con talón desprendible y código de barras.",
+    [
+     "billete",
+     "tarjeta de embarque",
+     "boleto",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Passagem",
+    "Uma passagem com canhoto destacável e código de barras.",
+    [
+     "passagem",
+     "bilhete",
+     "cartão de embarque",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Billet de voyage",
+    "Un billet avec talon détachable et code-barres.",
+    [
+     "billet",
+     "carte d'embarquement",
+     "ticket",
+     "voyage"
+    ]
+   ],
+   "de": [
+    "Fahrkarte",
+    "Ein Reiseticket mit Abrisskante und Strichcode.",
+    [
+     "Ticket",
+     "Fahrkarte",
+     "Bordkarte",
+     "Reise"
+    ]
+   ],
+   "zh": [
+    "车票机票",
+    "带撕边和条形码的旅行票。",
+    [
+     "车票",
+     "机票",
+     "登机牌",
+     "旅行"
+    ]
+   ],
+   "ko": [
+    "여행 티켓",
+    "절취선과 바코드가 있는 탑승권.",
+    [
+     "티켓",
+     "탑승권",
+     "표",
+     "여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "luggage-cart",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Luggage cart",
+    "A luggage trolley piled with suitcases and a bag.",
+    [
+     "luggage cart",
+     "suitcase",
+     "baggage",
+     "airport"
+    ]
+   ],
+   "ja": [
+    "荷物カート",
+    "スーツケースとバッグを積んだ荷物カート。",
+    [
+     "荷物カート",
+     "スーツケース",
+     "手荷物",
+     "空港"
+    ]
+   ],
+   "es": [
+    "Carrito de equipaje",
+    "Un carrito cargado de maletas y un bolso.",
+    [
+     "carrito de equipaje",
+     "maleta",
+     "equipaje",
+     "aeropuerto"
+    ]
+   ],
+   "pt": [
+    "Carrinho de bagagem",
+    "Um carrinho cheio de malas e uma bolsa.",
+    [
+     "carrinho de bagagem",
+     "mala",
+     "bagagem",
+     "aeroporto"
+    ]
+   ],
+   "fr": [
+    "Chariot à bagages",
+    "Un chariot chargé de valises et d'un sac.",
+    [
+     "chariot à bagages",
+     "valise",
+     "bagages",
+     "aéroport"
+    ]
+   ],
+   "de": [
+    "Gepäckwagen",
+    "Ein Gepäckwagen mit gestapelten Koffern und Tasche.",
+    [
+     "Gepäckwagen",
+     "Koffer",
+     "Gepäck",
+     "Flughafen"
+    ]
+   ],
+   "zh": [
+    "行李推车",
+    "堆满行李箱和包的行李推车。",
+    [
+     "行李推车",
+     "行李箱",
+     "行李",
+     "机场"
+    ]
+   ],
+   "ko": [
+    "수하물 카트",
+    "여행 가방이 쌓인 수하물 카트.",
+    [
+     "수하물 카트",
+     "캐리어",
+     "짐",
+     "공항"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "backpacker",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Backpacker",
+    "A smiling traveler carrying a big backpack.",
+    [
+     "backpacker",
+     "backpack",
+     "traveler",
+     "solo travel"
+    ]
+   ],
+   "ja": [
+    "バックパッカー",
+    "大きなリュックを背負ったにこにこの旅人。",
+    [
+     "バックパッカー",
+     "リュック",
+     "旅人",
+     "一人旅"
+    ]
+   ],
+   "es": [
+    "Mochilero",
+    "Un viajero sonriente con una gran mochila.",
+    [
+     "mochilero",
+     "mochila",
+     "viajero",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Mochileiro",
+    "Um viajante sorridente com uma mochila grande.",
+    [
+     "mochileiro",
+     "mochila",
+     "viajante",
+     "mochilão"
+    ]
+   ],
+   "fr": [
+    "Routard",
+    "Un voyageur souriant avec un grand sac à dos.",
+    [
+     "routard",
+     "sac à dos",
+     "voyageur",
+     "voyage"
+    ]
+   ],
+   "de": [
+    "Rucksackreisender",
+    "Ein lächelnder Reisender mit großem Rucksack.",
+    [
+     "Backpacker",
+     "Rucksack",
+     "Reisender",
+     "Rucksackreise"
+    ]
+   ],
+   "zh": [
+    "背包客",
+    "背着大背包微笑的旅行者。",
+    [
+     "背包客",
+     "背包",
+     "旅行者",
+     "穷游"
+    ]
+   ],
+   "ko": [
+    "배낭여행객",
+    "큰 배낭을 멘 웃는 여행자.",
+    [
+     "배낭여행",
+     "배낭",
+     "여행자",
+     "혼자 여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hotel",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hotel",
+    "A hotel building with many windows and an entrance canopy.",
+    [
+     "hotel",
+     "accommodation",
+     "building",
+     "stay"
+    ]
+   ],
+   "ja": [
+    "ホテル",
+    "たくさんの窓と入口のひさしがあるホテル。",
+    [
+     "ホテル",
+     "宿泊",
+     "建物",
+     "旅行"
+    ]
+   ],
+   "es": [
+    "Hotel",
+    "Un edificio de hotel con muchas ventanas y marquesina en la entrada.",
+    [
+     "hotel",
+     "alojamiento",
+     "edificio",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Hotel",
+    "Um prédio de hotel com muitas janelas e toldo na entrada.",
+    [
+     "hotel",
+     "hospedagem",
+     "prédio",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Hôtel",
+    "Un hôtel avec de nombreuses fenêtres et un auvent à l'entrée.",
+    [
+     "hôtel",
+     "hébergement",
+     "bâtiment",
+     "séjour"
+    ]
+   ],
+   "de": [
+    "Hotel",
+    "Ein Hotelgebäude mit vielen Fenstern und Vordach am Eingang.",
+    [
+     "Hotel",
+     "Unterkunft",
+     "Gebäude",
+     "Übernachtung"
+    ]
+   ],
+   "zh": [
+    "酒店",
+    "有许多窗户和入口雨棚的酒店大楼。",
+    [
+     "酒店",
+     "住宿",
+     "建筑",
+     "旅行"
+    ]
+   ],
+   "ko": [
+    "호텔",
+    "창문이 많고 입구에 차양이 있는 호텔 건물.",
+    [
+     "호텔",
+     "숙박",
+     "건물",
+     "여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ryokan",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Japanese inn",
+    "A traditional Japanese ryokan with a tiled roof and lanterns.",
+    [
+     "ryokan",
+     "Japanese inn",
+     "Japan travel",
+     "traditional"
+    ]
+   ],
+   "ja": [
+    "旅館",
+    "瓦屋根とちょうちんのある日本の旅館。",
+    [
+     "旅館",
+     "和風",
+     "温泉宿",
+     "日本旅行"
+    ]
+   ],
+   "es": [
+    "Posada japonesa",
+    "Un ryokan tradicional japonés con tejado y farolillos.",
+    [
+     "ryokan",
+     "posada japonesa",
+     "Japón",
+     "tradicional"
+    ]
+   ],
+   "pt": [
+    "Pousada japonesa",
+    "Um ryokan tradicional japonês com telhado e lanternas.",
+    [
+     "ryokan",
+     "pousada japonesa",
+     "Japão",
+     "tradicional"
+    ]
+   ],
+   "fr": [
+    "Auberge japonaise",
+    "Un ryokan traditionnel japonais avec toit de tuiles et lanternes.",
+    [
+     "ryokan",
+     "auberge japonaise",
+     "Japon",
+     "traditionnel"
+    ]
+   ],
+   "de": [
+    "Japanisches Gasthaus",
+    "Ein traditionelles Ryokan mit Ziegeldach und Laternen.",
+    [
+     "Ryokan",
+     "japanisches Gasthaus",
+     "Japan",
+     "traditionell"
+    ]
+   ],
+   "zh": [
+    "日式旅馆",
+    "有瓦屋顶和灯笼的传统日式旅馆。",
+    [
+     "日式旅馆",
+     "旅馆",
+     "日本旅游",
+     "传统"
+    ]
+   ],
+   "ko": [
+    "료칸",
+    "기와지붕과 등불이 있는 일본 전통 여관.",
+    [
+     "료칸",
+     "일본 여관",
+     "일본 여행",
+     "전통"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hot-spring",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hot spring",
+    "A person relaxing in a steaming hot spring with a towel on their head.",
+    [
+     "hot spring",
+     "onsen",
+     "bath",
+     "relax"
+    ]
+   ],
+   "ja": [
+    "温泉",
+    "頭にタオルをのせて湯けむりの温泉でくつろぐ人。",
+    [
+     "温泉",
+     "露天風呂",
+     "お風呂",
+     "リラックス"
+    ]
+   ],
+   "es": [
+    "Aguas termales",
+    "Una persona relajándose en aguas termales con una toalla en la cabeza.",
+    [
+     "aguas termales",
+     "onsen",
+     "baño",
+     "relajación"
+    ]
+   ],
+   "pt": [
+    "Fonte termal",
+    "Uma pessoa relaxando numa fonte termal com toalha na cabeça.",
+    [
+     "fonte termal",
+     "onsen",
+     "banho",
+     "relaxar"
+    ]
+   ],
+   "fr": [
+    "Source chaude",
+    "Une personne se détendant dans une source chaude, serviette sur la tête.",
+    [
+     "source chaude",
+     "onsen",
+     "bain",
+     "détente"
+    ]
+   ],
+   "de": [
+    "Heiße Quelle",
+    "Eine Person entspannt in einer dampfenden heißen Quelle mit Handtuch auf dem Kopf.",
+    [
+     "heiße Quelle",
+     "Onsen",
+     "Bad",
+     "Entspannung"
+    ]
+   ],
+   "zh": [
+    "温泉",
+    "头顶毛巾在热气腾腾的温泉里放松的人。",
+    [
+     "温泉",
+     "泡温泉",
+     "露天温泉",
+     "放松"
+    ]
+   ],
+   "ko": [
+    "온천",
+    "머리에 수건을 얹고 김이 나는 온천에서 쉬는 사람.",
+    [
+     "온천",
+     "노천탕",
+     "목욕",
+     "휴식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "beach-umbrella",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Beach umbrella and chair",
+    "A striped beach umbrella, a deck chair and a beach ball on the sand.",
+    [
+     "beach",
+     "parasol",
+     "summer vacation",
+     "deck chair"
+    ]
+   ],
+   "ja": [
+    "ビーチパラソルとチェア",
+    "砂浜のしま模様パラソルとビーチチェア、ビーチボール。",
+    [
+     "ビーチ",
+     "パラソル",
+     "夏休み",
+     "海"
+    ]
+   ],
+   "es": [
+    "Sombrilla y tumbona",
+    "Una sombrilla de rayas, una tumbona y una pelota en la arena.",
+    [
+     "playa",
+     "sombrilla",
+     "vacaciones de verano",
+     "tumbona"
+    ]
+   ],
+   "pt": [
+    "Guarda-sol e cadeira de praia",
+    "Um guarda-sol listrado, cadeira de praia e bola na areia.",
+    [
+     "praia",
+     "guarda-sol",
+     "férias de verão",
+     "cadeira de praia"
+    ]
+   ],
+   "fr": [
+    "Parasol et transat",
+    "Un parasol rayé, un transat et un ballon sur le sable.",
+    [
+     "plage",
+     "parasol",
+     "vacances d'été",
+     "transat"
+    ]
+   ],
+   "de": [
+    "Sonnenschirm und Liegestuhl",
+    "Ein gestreifter Sonnenschirm, Liegestuhl und Wasserball am Strand.",
+    [
+     "Strand",
+     "Sonnenschirm",
+     "Sommerurlaub",
+     "Liegestuhl"
+    ]
+   ],
+   "zh": [
+    "沙滩伞和躺椅",
+    "沙滩上的条纹遮阳伞、躺椅和沙滩球。",
+    [
+     "沙滩",
+     "遮阳伞",
+     "暑假",
+     "海边"
+    ]
+   ],
+   "ko": [
+    "비치 파라솔과 의자",
+    "모래사장의 줄무늬 파라솔과 비치 의자, 비치볼.",
+    [
+     "해변",
+     "파라솔",
+     "여름 휴가",
+     "바다"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "swim-ring",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Swim ring",
+    "A striped swim ring floating on the water.",
+    [
+     "swim ring",
+     "float",
+     "pool",
+     "summer"
+    ]
+   ],
+   "ja": [
+    "浮き輪",
+    "水に浮かぶしま模様の浮き輪。",
+    [
+     "浮き輪",
+     "プール",
+     "海水浴",
+     "夏"
+    ]
+   ],
+   "es": [
+    "Flotador",
+    "Un flotador de rayas flotando en el agua.",
+    [
+     "flotador",
+     "piscina",
+     "playa",
+     "verano"
+    ]
+   ],
+   "pt": [
+    "Boia",
+    "Uma boia listrada flutuando na água.",
+    [
+     "boia",
+     "piscina",
+     "praia",
+     "verão"
+    ]
+   ],
+   "fr": [
+    "Bouée",
+    "Une bouée rayée qui flotte sur l'eau.",
+    [
+     "bouée",
+     "piscine",
+     "plage",
+     "été"
+    ]
+   ],
+   "de": [
+    "Schwimmring",
+    "Ein gestreifter Schwimmring, der auf dem Wasser treibt.",
+    [
+     "Schwimmring",
+     "Schwimmreifen",
+     "Schwimmbad",
+     "Sommer"
+    ]
+   ],
+   "zh": [
+    "游泳圈",
+    "漂在水面上的条纹游泳圈。",
+    [
+     "游泳圈",
+     "泳池",
+     "海边",
+     "夏天"
+    ]
+   ],
+   "ko": [
+    "튜브",
+    "물 위에 떠 있는 줄무늬 튜브.",
+    [
+     "튜브",
+     "수영장",
+     "물놀이",
+     "여름"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sunglasses",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sunglasses",
+    "A pair of dark sunglasses under the shining sun.",
+    [
+     "sunglasses",
+     "summer",
+     "sunshine",
+     "fashion"
+    ]
+   ],
+   "ja": [
+    "サングラス",
+    "輝く太陽とサングラス。",
+    [
+     "サングラス",
+     "夏",
+     "日差し",
+     "ファッション"
+    ]
+   ],
+   "es": [
+    "Gafas de sol",
+    "Unas gafas de sol oscuras bajo el sol brillante.",
+    [
+     "gafas de sol",
+     "verano",
+     "sol",
+     "moda"
+    ]
+   ],
+   "pt": [
+    "Óculos de sol",
+    "Um par de óculos escuros sob o sol brilhante.",
+    [
+     "óculos de sol",
+     "verão",
+     "sol",
+     "moda"
+    ]
+   ],
+   "fr": [
+    "Lunettes de soleil",
+    "Une paire de lunettes de soleil sous un soleil radieux.",
+    [
+     "lunettes de soleil",
+     "été",
+     "soleil",
+     "mode"
+    ]
+   ],
+   "de": [
+    "Sonnenbrille",
+    "Eine dunkle Sonnenbrille unter strahlender Sonne.",
+    [
+     "Sonnenbrille",
+     "Sommer",
+     "Sonne",
+     "Mode"
+    ]
+   ],
+   "zh": [
+    "太阳镜",
+    "阳光下的一副墨镜。",
+    [
+     "太阳镜",
+     "墨镜",
+     "夏天",
+     "阳光"
+    ]
+   ],
+   "ko": [
+    "선글라스",
+    "햇살 아래의 선글라스.",
+    [
+     "선글라스",
+     "여름",
+     "햇볕",
+     "패션"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sun-hat",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Straw sun hat",
+    "A wide-brimmed straw hat with a ribbon and flower.",
+    [
+     "straw hat",
+     "sun hat",
+     "summer",
+     "beach"
+    ]
+   ],
+   "ja": [
+    "麦わら帽子",
+    "リボンと花の付いたつば広の麦わら帽子。",
+    [
+     "麦わら帽子",
+     "帽子",
+     "夏",
+     "日よけ"
+    ]
+   ],
+   "es": [
+    "Sombrero de paja",
+    "Un sombrero de paja de ala ancha con cinta y flor.",
+    [
+     "sombrero de paja",
+     "sombrero",
+     "verano",
+     "playa"
+    ]
+   ],
+   "pt": [
+    "Chapéu de palha",
+    "Um chapéu de palha de aba larga com fita e flor.",
+    [
+     "chapéu de palha",
+     "chapéu",
+     "verão",
+     "praia"
+    ]
+   ],
+   "fr": [
+    "Chapeau de paille",
+    "Un chapeau de paille à larges bords avec ruban et fleur.",
+    [
+     "chapeau de paille",
+     "chapeau",
+     "été",
+     "plage"
+    ]
+   ],
+   "de": [
+    "Strohhut",
+    "Ein breitkrempiger Strohhut mit Band und Blume.",
+    [
+     "Strohhut",
+     "Sonnenhut",
+     "Sommer",
+     "Strand"
+    ]
+   ],
+   "zh": [
+    "草帽",
+    "系着丝带和小花的宽檐草帽。",
+    [
+     "草帽",
+     "遮阳帽",
+     "夏天",
+     "海边"
+    ]
+   ],
+   "ko": [
+    "밀짚모자",
+    "리본과 꽃이 달린 챙 넓은 밀짚모자.",
+    [
+     "밀짚모자",
+     "모자",
+     "여름",
+     "해변"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "souvenir",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Souvenir bag",
+    "A shopping bag full of souvenirs and a little pennant.",
+    [
+     "souvenir",
+     "gift",
+     "shopping",
+     "travel"
+    ]
+   ],
+   "ja": [
+    "おみやげ",
+    "おみやげと小さな旗が入った紙袋。",
+    [
+     "おみやげ",
+     "お土産",
+     "買い物",
+     "旅行"
+    ]
+   ],
+   "es": [
+    "Bolsa de recuerdos",
+    "Una bolsa llena de recuerdos y un banderín.",
+    [
+     "recuerdo",
+     "souvenir",
+     "compras",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Sacola de lembrancinhas",
+    "Uma sacola cheia de lembrancinhas e uma flâmula.",
+    [
+     "lembrancinha",
+     "souvenir",
+     "compras",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Sac de souvenirs",
+    "Un sac rempli de souvenirs et d'un petit fanion.",
+    [
+     "souvenir",
+     "cadeau",
+     "shopping",
+     "voyage"
+    ]
+   ],
+   "de": [
+    "Souvenirtüte",
+    "Eine Einkaufstüte voller Mitbringsel mit kleinem Wimpel.",
+    [
+     "Souvenir",
+     "Mitbringsel",
+     "Einkauf",
+     "Reise"
+    ]
+   ],
+   "zh": [
+    "旅游纪念品",
+    "装满纪念品和小三角旗的购物袋。",
+    [
+     "纪念品",
+     "伴手礼",
+     "购物",
+     "旅行"
+    ]
+   ],
+   "ko": [
+    "기념품",
+    "기념품과 작은 깃발이 담긴 쇼핑백.",
+    [
+     "기념품",
+     "선물",
+     "쇼핑",
+     "여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "postcard",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Postcard",
+    "A picture postcard with a mountain view and a stamp.",
+    [
+     "postcard",
+     "stamp",
+     "mail",
+     "travel"
+    ]
+   ],
+   "ja": [
+    "ポストカード",
+    "山の景色と切手の付いた絵はがき。",
+    [
+     "ポストカード",
+     "絵はがき",
+     "切手",
+     "旅行"
+    ]
+   ],
+   "es": [
+    "Postal",
+    "Una postal con paisaje de montaña y un sello.",
+    [
+     "postal",
+     "sello",
+     "correo",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Cartão-postal",
+    "Um cartão-postal com paisagem de montanha e selo.",
+    [
+     "cartão-postal",
+     "selo",
+     "correio",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Carte postale",
+    "Une carte postale avec un paysage de montagne et un timbre.",
+    [
+     "carte postale",
+     "timbre",
+     "courrier",
+     "voyage"
+    ]
+   ],
+   "de": [
+    "Postkarte",
+    "Eine Ansichtskarte mit Bergmotiv und Briefmarke.",
+    [
+     "Postkarte",
+     "Ansichtskarte",
+     "Briefmarke",
+     "Urlaubsgruß"
+    ]
+   ],
+   "zh": [
+    "明信片",
+    "印有山景并贴着邮票的明信片。",
+    [
+     "明信片",
+     "邮票",
+     "邮寄",
+     "旅行"
+    ]
+   ],
+   "ko": [
+    "엽서",
+    "산 풍경과 우표가 있는 그림엽서.",
+    [
+     "엽서",
+     "우표",
+     "우편",
+     "여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "compass",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Compass",
+    "A round brass compass with a red and gray needle.",
+    [
+     "compass",
+     "direction",
+     "navigation",
+     "adventure"
+    ]
+   ],
+   "ja": [
+    "コンパス",
+    "赤と灰色の針がついた丸い方位磁針。",
+    [
+     "コンパス",
+     "方位磁針",
+     "方角",
+     "冒険"
+    ]
+   ],
+   "es": [
+    "Brújula",
+    "Una brújula redonda dorada con aguja roja y gris.",
+    [
+     "brújula",
+     "dirección",
+     "orientación",
+     "aventura"
+    ]
+   ],
+   "pt": [
+    "Bússola",
+    "Uma bússola redonda dourada com agulha vermelha e cinza.",
+    [
+     "bússola",
+     "direção",
+     "navegação",
+     "aventura"
+    ]
+   ],
+   "fr": [
+    "Boussole",
+    "Une boussole ronde dorée à aiguille rouge et grise.",
+    [
+     "boussole",
+     "direction",
+     "orientation",
+     "aventure"
+    ]
+   ],
+   "de": [
+    "Kompass",
+    "Ein runder Messingkompass mit rot-grauer Nadel.",
+    [
+     "Kompass",
+     "Himmelsrichtung",
+     "Navigation",
+     "Abenteuer"
+    ]
+   ],
+   "zh": [
+    "指南针",
+    "带红灰指针的圆形黄铜指南针。",
+    [
+     "指南针",
+     "方向",
+     "导航",
+     "探险"
+    ]
+   ],
+   "ko": [
+    "나침반",
+    "빨간색과 회색 바늘이 있는 둥근 나침반.",
+    [
+     "나침반",
+     "방향",
+     "길찾기",
+     "모험"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "binoculars",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Binoculars",
+    "A pair of binoculars with a strap.",
+    [
+     "binoculars",
+     "sightseeing",
+     "bird watching",
+     "explore"
+    ]
+   ],
+   "ja": [
+    "双眼鏡",
+    "ストラップ付きの双眼鏡。",
+    [
+     "双眼鏡",
+     "観光",
+     "バードウォッチング",
+     "探検"
+    ]
+   ],
+   "es": [
+    "Prismáticos",
+    "Unos prismáticos con correa.",
+    [
+     "prismáticos",
+     "binoculares",
+     "observación de aves",
+     "explorar"
+    ]
+   ],
+   "pt": [
+    "Binóculo",
+    "Um binóculo com alça.",
+    [
+     "binóculo",
+     "turismo",
+     "observação de aves",
+     "explorar"
+    ]
+   ],
+   "fr": [
+    "Jumelles",
+    "Une paire de jumelles avec sangle.",
+    [
+     "jumelles",
+     "observation",
+     "ornithologie",
+     "exploration"
+    ]
+   ],
+   "de": [
+    "Fernglas",
+    "Ein Fernglas mit Trageriemen.",
+    [
+     "Fernglas",
+     "Aussicht",
+     "Vogelbeobachtung",
+     "Entdecken"
+    ]
+   ],
+   "zh": [
+    "双筒望远镜",
+    "带挂绳的双筒望远镜。",
+    [
+     "望远镜",
+     "双筒望远镜",
+     "观鸟",
+     "观光"
+    ]
+   ],
+   "ko": [
+    "쌍안경",
+    "끈이 달린 쌍안경.",
+    [
+     "쌍안경",
+     "관광",
+     "탐조",
+     "탐험"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hiking-boots",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hiking boots",
+    "A pair of sturdy laced hiking boots.",
+    [
+     "hiking boots",
+     "trekking",
+     "mountain",
+     "outdoor"
+    ]
+   ],
+   "ja": [
+    "登山靴",
+    "丈夫なひも付きの登山靴。",
+    [
+     "登山靴",
+     "トレッキング",
+     "登山",
+     "アウトドア"
+    ]
+   ],
+   "es": [
+    "Botas de montaña",
+    "Un par de botas de montaña resistentes con cordones.",
+    [
+     "botas de montaña",
+     "senderismo",
+     "trekking",
+     "aire libre"
+    ]
+   ],
+   "pt": [
+    "Botas de trilha",
+    "Um par de botas de trilha resistentes com cadarço.",
+    [
+     "bota de trilha",
+     "trilha",
+     "trekking",
+     "ao ar livre"
+    ]
+   ],
+   "fr": [
+    "Chaussures de randonnée",
+    "Une paire de chaussures de randonnée robustes à lacets.",
+    [
+     "chaussures de randonnée",
+     "randonnée",
+     "montagne",
+     "plein air"
+    ]
+   ],
+   "de": [
+    "Wanderschuhe",
+    "Ein Paar robuste Wanderschuhe mit Schnürsenkeln.",
+    [
+     "Wanderschuhe",
+     "Wandern",
+     "Berg",
+     "Outdoor"
+    ]
+   ],
+   "zh": [
+    "登山靴",
+    "一双结实的系带登山靴。",
+    [
+     "登山靴",
+     "徒步",
+     "登山",
+     "户外"
+    ]
+   ],
+   "ko": [
+    "등산화",
+    "튼튼한 끈 달린 등산화 한 켤레.",
+    [
+     "등산화",
+     "트레킹",
+     "등산",
+     "아웃도어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hiker",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hiker on a trail",
+    "A cheerful hiker with a hat and walking stick in the mountains.",
+    [
+     "hiking",
+     "hiker",
+     "mountain",
+     "trekking"
+    ]
+   ],
+   "ja": [
+    "山道を歩くハイカー",
+    "帽子と杖で山を歩く元気なハイカー。",
+    [
+     "ハイキング",
+     "登山",
+     "山",
+     "トレッキング"
+    ]
+   ],
+   "es": [
+    "Excursionista en el sendero",
+    "Un excursionista alegre con sombrero y bastón en la montaña.",
+    [
+     "senderismo",
+     "excursionista",
+     "montaña",
+     "trekking"
+    ]
+   ],
+   "pt": [
+    "Trilheiro na montanha",
+    "Um trilheiro animado com chapéu e cajado nas montanhas.",
+    [
+     "trilha",
+     "caminhada",
+     "montanha",
+     "trekking"
+    ]
+   ],
+   "fr": [
+    "Randonneur en montagne",
+    "Un randonneur joyeux avec chapeau et bâton en montagne.",
+    [
+     "randonnée",
+     "randonneur",
+     "montagne",
+     "trekking"
+    ]
+   ],
+   "de": [
+    "Wanderer am Berg",
+    "Ein fröhlicher Wanderer mit Hut und Wanderstock in den Bergen.",
+    [
+     "Wandern",
+     "Wanderer",
+     "Berge",
+     "Trekking"
+    ]
+   ],
+   "zh": [
+    "山间徒步者",
+    "戴帽拄杖、在山中徒步的开心旅人。",
+    [
+     "徒步",
+     "登山",
+     "山",
+     "户外"
+    ]
+   ],
+   "ko": [
+    "등산하는 사람",
+    "모자를 쓰고 지팡이를 짚은 채 산길을 걷는 사람.",
+    [
+     "등산",
+     "하이킹",
+     "산",
+     "트레킹"
+    ]
+   ]
+  }
+ }
+]

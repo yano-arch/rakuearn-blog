@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "video-call",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Video call on a laptop",
+    "A laptop screen showing four people in an online video meeting.",
+    [
+     "video call",
+     "online meeting",
+     "remote work",
+     "web conference"
+    ]
+   ],
+   "ja": [
+    "ビデオ通話",
+    "ノートパソコンの画面に4人が映ったオンライン会議。",
+    [
+     "オンライン会議",
+     "リモート会議",
+     "ビデオ会議",
+     "テレワーク"
+    ]
+   ],
+   "es": [
+    "Videollamada en el portátil",
+    "Una pantalla de portátil con cuatro personas en una reunión en línea.",
+    [
+     "videollamada",
+     "reunión virtual",
+     "teletrabajo",
+     "videoconferencia"
+    ]
+   ],
+   "pt": [
+    "Chamada de vídeo no notebook",
+    "A tela de um notebook mostrando quatro pessoas em uma reunião online.",
+    [
+     "chamada de vídeo",
+     "reunião online",
+     "home office",
+     "videoconferência"
+    ]
+   ],
+   "fr": [
+    "Appel vidéo sur ordinateur",
+    "Un écran d'ordinateur portable montrant quatre personnes en réunion en ligne.",
+    [
+     "visioconférence",
+     "appel vidéo",
+     "réunion en ligne",
+     "télétravail"
+    ]
+   ],
+   "de": [
+    "Videoanruf am Laptop",
+    "Ein Laptop-Bildschirm mit vier Personen in einem Online-Meeting.",
+    [
+     "Videokonferenz",
+     "Videoanruf",
+     "Online-Meeting",
+     "Homeoffice"
+    ]
+   ],
+   "zh": [
+    "视频会议",
+    "笔记本电脑屏幕上显示着四个人的线上会议。",
+    [
+     "视频会议",
+     "线上会议",
+     "远程办公",
+     "视频通话"
+    ]
+   ],
+   "ko": [
+    "화상 회의",
+    "노트북 화면에 네 사람이 보이는 온라인 회의.",
+    [
+     "화상회의",
+     "온라인 회의",
+     "재택근무",
+     "영상통화"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "working-from-home",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Working from home",
+    "A smiling person working on a laptop at home with a mug and a plant.",
+    [
+     "work from home",
+     "remote work",
+     "telework",
+     "laptop"
+    ]
+   ],
+   "ja": [
+    "在宅勤務",
+    "マグカップと観葉植物のそばでノートパソコンに向かう人。",
+    [
+     "在宅勤務",
+     "テレワーク",
+     "リモートワーク",
+     "パソコン"
+    ]
+   ],
+   "es": [
+    "Trabajo desde casa",
+    "Una persona sonriente trabajando con su portátil en casa, con una taza y una planta.",
+    [
+     "teletrabajo",
+     "trabajo remoto",
+     "trabajar desde casa",
+     "portátil"
+    ]
+   ],
+   "pt": [
+    "Home office",
+    "Uma pessoa sorridente trabalhando no notebook em casa, com uma caneca e uma planta.",
+    [
+     "home office",
+     "trabalho remoto",
+     "trabalhar em casa",
+     "notebook"
+    ]
+   ],
+   "fr": [
+    "Télétravail à la maison",
+    "Une personne souriante qui travaille sur son ordinateur chez elle, avec une tasse et une plante.",
+    [
+     "télétravail",
+     "travail à domicile",
+     "ordinateur portable",
+     "maison"
+    ]
+   ],
+   "de": [
+    "Arbeiten im Homeoffice",
+    "Eine lächelnde Person arbeitet zu Hause am Laptop, mit Tasse und Pflanze.",
+    [
+     "Homeoffice",
+     "Telearbeit",
+     "Remote-Arbeit",
+     "Laptop"
+    ]
+   ],
+   "zh": [
+    "居家办公",
+    "在家里对着笔记本电脑工作的人，旁边有杯子和绿植。",
+    [
+     "居家办公",
+     "远程办公",
+     "在家工作",
+     "笔记本电脑"
+    ]
+   ],
+   "ko": [
+    "재택근무",
+    "머그컵과 화분 옆에서 노트북으로 일하는 사람.",
+    [
+     "재택근무",
+     "원격근무",
+     "홈오피스",
+     "노트북"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "overtime-night",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Working overtime at night",
+    "A tired worker at a desk late at night with the moon in the window.",
+    [
+     "overtime",
+     "late night",
+     "tired",
+     "office worker"
+    ]
+   ],
+   "ja": [
+    "夜の残業",
+    "月が見える夜、デスクで疲れた顔をして働く会社員。",
+    [
+     "残業",
+     "深夜",
+     "疲れ",
+     "会社員"
+    ]
+   ],
+   "es": [
+    "Horas extra de noche",
+    "Un trabajador cansado en su escritorio a altas horas de la noche, con la luna en la ventana.",
+    [
+     "horas extra",
+     "noche",
+     "cansancio",
+     "oficinista"
+    ]
+   ],
+   "pt": [
+    "Hora extra à noite",
+    "Um trabalhador cansado na mesa tarde da noite, com a lua na janela.",
+    [
+     "hora extra",
+     "noite",
+     "cansaço",
+     "trabalho"
+    ]
+   ],
+   "fr": [
+    "Heures supplémentaires la nuit",
+    "Un employé fatigué à son bureau tard le soir, la lune à la fenêtre.",
+    [
+     "heures supplémentaires",
+     "nuit",
+     "fatigue",
+     "employé de bureau"
+    ]
+   ],
+   "de": [
+    "Überstunden in der Nacht",
+    "Ein müder Angestellter spätabends am Schreibtisch, der Mond im Fenster.",
+    [
+     "Überstunden",
+     "Nacht",
+     "müde",
+     "Büroangestellter"
+    ]
+   ],
+   "zh": [
+    "深夜加班",
+    "夜里窗外挂着月亮，在办公桌前疲惫工作的上班族。",
+    [
+     "加班",
+     "深夜",
+     "疲惫",
+     "上班族"
+    ]
+   ],
+   "ko": [
+    "야근",
+    "창밖에 달이 뜬 밤, 책상에서 지친 얼굴로 일하는 직장인.",
+    [
+     "야근",
+     "밤",
+     "피곤",
+     "직장인"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "business-trip",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Business trip",
+    "A smiling businessperson in a suit pulling a rolling suitcase.",
+    [
+     "business trip",
+     "suitcase",
+     "travel",
+     "businessperson"
+    ]
+   ],
+   "ja": [
+    "出張",
+    "スーツ姿でキャリーケースを引く会社員。",
+    [
+     "出張",
+     "キャリーケース",
+     "ビジネスマン",
+     "旅行"
+    ]
+   ],
+   "es": [
+    "Viaje de negocios",
+    "Una persona de negocios sonriente con traje tirando de una maleta con ruedas.",
+    [
+     "viaje de negocios",
+     "maleta",
+     "empresario",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Viagem a trabalho",
+    "Um executivo sorridente de terno puxando uma mala de rodinhas.",
+    [
+     "viagem a trabalho",
+     "mala",
+     "executivo",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Voyage d'affaires",
+    "Une personne en costume souriante qui tire une valise à roulettes.",
+    [
+     "voyage d'affaires",
+     "valise",
+     "homme d'affaires",
+     "déplacement"
+    ]
+   ],
+   "de": [
+    "Geschäftsreise",
+    "Eine lächelnde Person im Anzug zieht einen Rollkoffer.",
+    [
+     "Geschäftsreise",
+     "Rollkoffer",
+     "Dienstreise",
+     "Geschäftsmann"
+    ]
+   ],
+   "zh": [
+    "出差",
+    "穿着西装拉着行李箱的上班族。",
+    [
+     "出差",
+     "行李箱",
+     "商务人士",
+     "旅行"
+    ]
+   ],
+   "ko": [
+    "출장",
+    "정장 차림으로 캐리어를 끄는 직장인.",
+    [
+     "출장",
+     "캐리어",
+     "비즈니스",
+     "여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "job-interview",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Job interview",
+    "An interviewer and a candidate in suits facing each other across a desk.",
+    [
+     "job interview",
+     "interview",
+     "job hunting",
+     "recruitment"
+    ]
+   ],
+   "ja": [
+    "就職面接",
+    "机をはさんで向かい合う面接官とスーツ姿の応募者。",
+    [
+     "面接",
+     "就職活動",
+     "採用",
+     "転職"
+    ]
+   ],
+   "es": [
+    "Entrevista de trabajo",
+    "Un entrevistador y un candidato con traje frente a frente en un escritorio.",
+    [
+     "entrevista de trabajo",
+     "entrevista",
+     "búsqueda de empleo",
+     "reclutamiento"
+    ]
+   ],
+   "pt": [
+    "Entrevista de emprego",
+    "Um entrevistador e um candidato de terno frente a frente em uma mesa.",
+    [
+     "entrevista de emprego",
+     "entrevista",
+     "procura de emprego",
+     "recrutamento"
+    ]
+   ],
+   "fr": [
+    "Entretien d'embauche",
+    "Un recruteur et un candidat en costume face à face de part et d'autre d'un bureau.",
+    [
+     "entretien d'embauche",
+     "recrutement",
+     "recherche d'emploi",
+     "candidat"
+    ]
+   ],
+   "de": [
+    "Vorstellungsgespräch",
+    "Ein Interviewer und ein Bewerber im Anzug sitzen sich am Tisch gegenüber.",
+    [
+     "Vorstellungsgespräch",
+     "Bewerbung",
+     "Jobsuche",
+     "Personal"
+    ]
+   ],
+   "zh": [
+    "求职面试",
+    "隔着桌子面对面的面试官和穿西装的求职者。",
+    [
+     "面试",
+     "求职",
+     "招聘",
+     "找工作"
+    ]
+   ],
+   "ko": [
+    "취업 면접",
+    "책상을 사이에 두고 마주 앉은 면접관과 정장 차림의 지원자.",
+    [
+     "면접",
+     "취업",
+     "채용",
+     "구직"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "new-employee",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "New employee",
+    "A new employee in a fresh suit with a name badge and a nervous smile.",
+    [
+     "new employee",
+     "new hire",
+     "first day",
+     "freshman"
+    ]
+   ],
+   "ja": [
+    "新入社員",
+    "名札をつけた新しいスーツ姿で、少し緊張した笑顔の新入社員。",
+    [
+     "新入社員",
+     "新社会人",
+     "入社",
+     "フレッシュマン"
+    ]
+   ],
+   "es": [
+    "Nuevo empleado",
+    "Un nuevo empleado con traje nuevo, gafete y una sonrisa nerviosa.",
+    [
+     "nuevo empleado",
+     "primer día",
+     "nuevo ingreso",
+     "trabajo"
+    ]
+   ],
+   "pt": [
+    "Funcionário novo",
+    "Um funcionário novo de terno novinho, com crachá e um sorriso nervoso.",
+    [
+     "funcionário novo",
+     "primeiro dia",
+     "novato",
+     "trabalho"
+    ]
+   ],
+   "fr": [
+    "Nouvel employé",
+    "Un nouvel employé en costume neuf avec un badge et un sourire un peu nerveux.",
+    [
+     "nouvel employé",
+     "premier jour",
+     "nouvelle recrue",
+     "travail"
+    ]
+   ],
+   "de": [
+    "Neuer Mitarbeiter",
+    "Ein neuer Mitarbeiter im neuen Anzug mit Namensschild und nervösem Lächeln.",
+    [
+     "neuer Mitarbeiter",
+     "erster Arbeitstag",
+     "Berufseinsteiger",
+     "Arbeit"
+    ]
+   ],
+   "zh": [
+    "新员工",
+    "穿着崭新西装、戴着名牌、略带紧张微笑的新员工。",
+    [
+     "新员工",
+     "新人",
+     "入职",
+     "职场新人"
+    ]
+   ],
+   "ko": [
+    "신입사원",
+    "새 정장에 명찰을 달고 살짝 긴장한 미소를 짓는 신입사원.",
+    [
+     "신입사원",
+     "첫 출근",
+     "입사",
+     "사회초년생"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "promotion-stairs",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Climbing the career stairs",
+    "A person climbing stairs toward a flag with a green arrow pointing up.",
+    [
+     "promotion",
+     "career",
+     "success",
+     "growth"
+    ]
+   ],
+   "ja": [
+    "昇進の階段",
+    "上向きの矢印とともに、旗をめざして階段をのぼる人。",
+    [
+     "昇進",
+     "キャリアアップ",
+     "成功",
+     "成長"
+    ]
+   ],
+   "es": [
+    "Escalera del éxito",
+    "Una persona subiendo una escalera hacia una bandera, con una flecha verde hacia arriba.",
+    [
+     "ascenso",
+     "carrera profesional",
+     "éxito",
+     "crecimiento"
+    ]
+   ],
+   "pt": [
+    "Escada do sucesso",
+    "Uma pessoa subindo uma escada rumo a uma bandeira, com uma seta verde para cima.",
+    [
+     "promoção",
+     "carreira",
+     "sucesso",
+     "crescimento"
+    ]
+   ],
+   "fr": [
+    "Escalier de la réussite",
+    "Une personne qui monte un escalier vers un drapeau, avec une flèche verte vers le haut.",
+    [
+     "promotion",
+     "carrière",
+     "réussite",
+     "évolution"
+    ]
+   ],
+   "de": [
+    "Karrieretreppe",
+    "Eine Person steigt Treppen zu einer Fahne hinauf, daneben ein grüner Pfeil nach oben.",
+    [
+     "Beförderung",
+     "Karriere",
+     "Erfolg",
+     "Aufstieg"
+    ]
+   ],
+   "zh": [
+    "晋升阶梯",
+    "朝着旗子爬楼梯的人，旁边有向上的绿色箭头。",
+    [
+     "升职",
+     "职业发展",
+     "成功",
+     "成长"
+    ]
+   ],
+   "ko": [
+    "승진 계단",
+    "위쪽 화살표와 함께 깃발을 향해 계단을 오르는 사람.",
+    [
+     "승진",
+     "커리어",
+     "성공",
+     "성장"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "teamwork-puzzle",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Teamwork puzzle",
+    "Two hands fitting puzzle pieces together.",
+    [
+     "teamwork",
+     "cooperation",
+     "partnership",
+     "puzzle"
+    ]
+   ],
+   "ja": [
+    "チームワークのパズル",
+    "2つの手がパズルのピースをぴったり合わせるところ。",
+    [
+     "チームワーク",
+     "協力",
+     "連携",
+     "パズル"
+    ]
+   ],
+   "es": [
+    "Rompecabezas de trabajo en equipo",
+    "Dos manos encajando piezas de rompecabezas.",
+    [
+     "trabajo en equipo",
+     "cooperación",
+     "colaboración",
+     "rompecabezas"
+    ]
+   ],
+   "pt": [
+    "Quebra-cabeça do trabalho em equipe",
+    "Duas mãos encaixando peças de quebra-cabeça.",
+    [
+     "trabalho em equipe",
+     "cooperação",
+     "parceria",
+     "quebra-cabeça"
+    ]
+   ],
+   "fr": [
+    "Puzzle du travail d'équipe",
+    "Deux mains qui assemblent des pièces de puzzle.",
+    [
+     "travail d'équipe",
+     "coopération",
+     "partenariat",
+     "puzzle"
+    ]
+   ],
+   "de": [
+    "Teamwork-Puzzle",
+    "Zwei Hände fügen Puzzleteile zusammen.",
+    [
+     "Teamarbeit",
+     "Zusammenarbeit",
+     "Partnerschaft",
+     "Puzzle"
+    ]
+   ],
+   "zh": [
+    "团队合作拼图",
+    "两只手把拼图块拼在一起。",
+    [
+     "团队合作",
+     "合作",
+     "协作",
+     "拼图"
+    ]
+   ],
+   "ko": [
+    "팀워크 퍼즐",
+    "두 손이 퍼즐 조각을 맞추는 모습.",
+    [
+     "팀워크",
+     "협력",
+     "파트너십",
+     "퍼즐"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "brainstorming",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Brainstorming board",
+    "A whiteboard covered with colorful sticky notes and a glowing light bulb.",
+    [
+     "brainstorming",
+     "ideas",
+     "sticky notes",
+     "meeting"
+    ]
+   ],
+   "ja": [
+    "ブレインストーミング",
+    "カラフルな付箋が貼られたホワイトボードと光る電球。",
+    [
+     "ブレスト",
+     "アイデア",
+     "付箋",
+     "会議"
+    ]
+   ],
+   "es": [
+    "Lluvia de ideas",
+    "Una pizarra llena de notas adhesivas de colores y una bombilla encendida.",
+    [
+     "lluvia de ideas",
+     "ideas",
+     "notas adhesivas",
+     "reunión"
+    ]
+   ],
+   "pt": [
+    "Brainstorming",
+    "Um quadro branco com post-its coloridos e uma lâmpada acesa.",
+    [
+     "brainstorming",
+     "ideias",
+     "post-it",
+     "reunião"
+    ]
+   ],
+   "fr": [
+    "Remue-méninges",
+    "Un tableau blanc couvert de post-it colorés et une ampoule allumée.",
+    [
+     "brainstorming",
+     "idées",
+     "post-it",
+     "réunion"
+    ]
+   ],
+   "de": [
+    "Brainstorming",
+    "Ein Whiteboard voller bunter Haftnotizen und eine leuchtende Glühbirne.",
+    [
+     "Brainstorming",
+     "Ideen",
+     "Haftnotizen",
+     "Meeting"
+    ]
+   ],
+   "zh": [
+    "头脑风暴",
+    "贴满彩色便利贴的白板和一个亮起的灯泡。",
+    [
+     "头脑风暴",
+     "创意",
+     "便利贴",
+     "会议"
+    ]
+   ],
+   "ko": [
+    "브레인스토밍",
+    "알록달록한 포스트잇이 붙은 화이트보드와 빛나는 전구.",
+    [
+     "브레인스토밍",
+     "아이디어",
+     "포스트잇",
+     "회의"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "deadline-hourglass",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Worried hourglass",
+    "An hourglass with a worried face as the sand runs out.",
+    [
+     "deadline",
+     "hourglass",
+     "time",
+     "hurry"
+    ]
+   ],
+   "ja": [
+    "焦る砂時計",
+    "砂が落ちていく、困った顔の砂時計。",
+    [
+     "締め切り",
+     "砂時計",
+     "時間",
+     "焦り"
+    ]
+   ],
+   "es": [
+    "Reloj de arena preocupado",
+    "Un reloj de arena con cara de preocupación mientras se acaba la arena.",
+    [
+     "fecha límite",
+     "reloj de arena",
+     "tiempo",
+     "prisa"
+    ]
+   ],
+   "pt": [
+    "Ampulheta preocupada",
+    "Uma ampulheta com cara de preocupada enquanto a areia acaba.",
+    [
+     "prazo",
+     "ampulheta",
+     "tempo",
+     "pressa"
+    ]
+   ],
+   "fr": [
+    "Sablier inquiet",
+    "Un sablier à l'air inquiet pendant que le sable s'écoule.",
+    [
+     "date limite",
+     "sablier",
+     "temps",
+     "urgence"
+    ]
+   ],
+   "de": [
+    "Besorgte Sanduhr",
+    "Eine Sanduhr mit besorgtem Gesicht, während der Sand durchläuft.",
+    [
+     "Deadline",
+     "Sanduhr",
+     "Zeit",
+     "Zeitdruck"
+    ]
+   ],
+   "zh": [
+    "着急的沙漏",
+    "沙子快要漏完、一脸着急的沙漏。",
+    [
+     "截止日期",
+     "沙漏",
+     "时间",
+     "着急"
+    ]
+   ],
+   "ko": [
+    "초조한 모래시계",
+    "모래가 흘러내리는 걱정스러운 얼굴의 모래시계.",
+    [
+     "마감",
+     "모래시계",
+     "시간",
+     "초조"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "paperwork-stress",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Buried in paperwork",
+    "A stressed person surrounded by tall piles of paper.",
+    [
+     "paperwork",
+     "busy",
+     "stress",
+     "documents"
+    ]
+   ],
+   "ja": [
+    "書類の山",
+    "高く積まれた書類に囲まれて困っている人。",
+    [
+     "書類",
+     "忙しい",
+     "ストレス",
+     "事務作業"
+    ]
+   ],
+   "es": [
+    "Montañas de papeles",
+    "Una persona estresada rodeada de altas pilas de papeles.",
+    [
+     "papeleo",
+     "ocupado",
+     "estrés",
+     "documentos"
+    ]
+   ],
+   "pt": [
+    "Pilha de papelada",
+    "Uma pessoa estressada cercada por pilhas altas de papéis.",
+    [
+     "papelada",
+     "ocupado",
+     "estresse",
+     "documentos"
+    ]
+   ],
+   "fr": [
+    "Submergé de paperasse",
+    "Une personne stressée entourée de hautes piles de papiers.",
+    [
+     "paperasse",
+     "débordé",
+     "stress",
+     "documents"
+    ]
+   ],
+   "de": [
+    "Papierkram-Stress",
+    "Eine gestresste Person, umgeben von hohen Papierstapeln.",
+    [
+     "Papierkram",
+     "Stress",
+     "Bürokratie",
+     "Dokumente"
+    ]
+   ],
+   "zh": [
+    "文件堆成山",
+    "被高高的文件堆包围、压力山大的人。",
+    [
+     "文件",
+     "忙碌",
+     "压力",
+     "文书工作"
+    ]
+   ],
+   "ko": [
+    "서류 더미",
+    "높이 쌓인 서류 더미에 둘러싸여 곤란한 사람.",
+    [
+     "서류",
+     "바쁨",
+     "스트레스",
+     "사무"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "filing-cabinet",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Filing cabinet",
+    "A gray filing cabinet with an open drawer full of colorful folders.",
+    [
+     "filing cabinet",
+     "folders",
+     "documents",
+     "office"
+    ]
+   ],
+   "ja": [
+    "書類キャビネット",
+    "カラフルなファイルが入った引き出しを開けたキャビネット。",
+    [
+     "キャビネット",
+     "ファイル",
+     "書類整理",
+     "オフィス"
+    ]
+   ],
+   "es": [
+    "Archivador",
+    "Un archivador gris con un cajón abierto lleno de carpetas de colores.",
+    [
+     "archivador",
+     "carpetas",
+     "documentos",
+     "oficina"
+    ]
+   ],
+   "pt": [
+    "Arquivo de pastas",
+    "Um arquivo cinza com uma gaveta aberta cheia de pastas coloridas.",
+    [
+     "arquivo",
+     "pastas",
+     "documentos",
+     "escritório"
+    ]
+   ],
+   "fr": [
+    "Classeur à tiroirs",
+    "Un meuble classeur gris avec un tiroir ouvert plein de dossiers colorés.",
+    [
+     "classeur",
+     "dossiers",
+     "documents",
+     "bureau"
+    ]
+   ],
+   "de": [
+    "Aktenschrank",
+    "Ein grauer Aktenschrank mit offener Schublade voller bunter Ordner.",
+    [
+     "Aktenschrank",
+     "Ordner",
+     "Dokumente",
+     "Büro"
+    ]
+   ],
+   "zh": [
+    "文件柜",
+    "抽屉打开、装满彩色文件夹的灰色文件柜。",
+    [
+     "文件柜",
+     "文件夹",
+     "文件整理",
+     "办公室"
+    ]
+   ],
+   "ko": [
+    "서류 캐비닛",
+    "알록달록한 파일이 든 서랍이 열린 회색 캐비닛.",
+    [
+     "캐비닛",
+     "파일",
+     "서류 정리",
+     "사무실"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "briefcase",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Briefcase",
+    "A brown leather business briefcase with gold clasps.",
+    [
+     "briefcase",
+     "business",
+     "bag",
+     "office"
+    ]
+   ],
+   "ja": [
+    "ビジネスバッグ",
+    "金色の留め具がついた茶色い革のビジネスバッグ。",
+    [
+     "ビジネスバッグ",
+     "かばん",
+     "ブリーフケース",
+     "仕事"
+    ]
+   ],
+   "es": [
+    "Maletín",
+    "Un maletín de negocios de cuero marrón con cierres dorados.",
+    [
+     "maletín",
+     "negocios",
+     "bolso",
+     "oficina"
+    ]
+   ],
+   "pt": [
+    "Maleta executiva",
+    "Uma pasta executiva de couro marrom com fechos dourados.",
+    [
+     "pasta executiva",
+     "maleta",
+     "negócios",
+     "trabalho"
+    ]
+   ],
+   "fr": [
+    "Mallette",
+    "Une mallette d'affaires en cuir marron avec des fermoirs dorés.",
+    [
+     "mallette",
+     "attaché-case",
+     "affaires",
+     "travail"
+    ]
+   ],
+   "de": [
+    "Aktentasche",
+    "Eine braune Leder-Aktentasche mit goldenen Verschlüssen.",
+    [
+     "Aktentasche",
+     "Business",
+     "Tasche",
+     "Arbeit"
+    ]
+   ],
+   "zh": [
+    "公文包",
+    "带金色搭扣的棕色皮质公文包。",
+    [
+     "公文包",
+     "商务",
+     "包",
+     "工作"
+    ]
+   ],
+   "ko": [
+    "서류 가방",
+    "금색 잠금장치가 달린 갈색 가죽 서류 가방.",
+    [
+     "서류가방",
+     "비즈니스",
+     "가방",
+     "직장"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "business-cards",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Exchanging business cards",
+    "Two hands exchanging business cards.",
+    [
+     "business cards",
+     "networking",
+     "greeting",
+     "business"
+    ]
+   ],
+   "ja": [
+    "名刺交換",
+    "2つの手が名刺を交換しているところ。",
+    [
+     "名刺交換",
+     "名刺",
+     "あいさつ",
+     "ビジネス"
+    ]
+   ],
+   "es": [
+    "Intercambio de tarjetas",
+    "Dos manos intercambiando tarjetas de presentación.",
+    [
+     "tarjetas de presentación",
+     "networking",
+     "saludo",
+     "negocios"
+    ]
+   ],
+   "pt": [
+    "Troca de cartões de visita",
+    "Duas mãos trocando cartões de visita.",
+    [
+     "cartão de visita",
+     "networking",
+     "apresentação",
+     "negócios"
+    ]
+   ],
+   "fr": [
+    "Échange de cartes de visite",
+    "Deux mains qui échangent des cartes de visite.",
+    [
+     "cartes de visite",
+     "réseautage",
+     "présentation",
+     "affaires"
+    ]
+   ],
+   "de": [
+    "Visitenkarten austauschen",
+    "Zwei Hände tauschen Visitenkarten aus.",
+    [
+     "Visitenkarten",
+     "Networking",
+     "Begrüßung",
+     "Business"
+    ]
+   ],
+   "zh": [
+    "交换名片",
+    "两只手正在交换名片。",
+    [
+     "交换名片",
+     "名片",
+     "商务礼仪",
+     "商务"
+    ]
+   ],
+   "ko": [
+    "명함 교환",
+    "두 손이 명함을 주고받는 모습.",
+    [
+     "명함",
+     "명함 교환",
+     "인사",
+     "비즈니스"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "coffee-break",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Coffee break",
+    "A smiling coffee cup on a saucer next to a chocolate chip cookie.",
+    [
+     "coffee break",
+     "coffee",
+     "cookie",
+     "break time"
+    ]
+   ],
+   "ja": [
+    "コーヒーブレイク",
+    "笑顔のコーヒーカップとチョコチップクッキー。",
+    [
+     "休憩",
+     "コーヒー",
+     "クッキー",
+     "ひと息"
+    ]
+   ],
+   "es": [
+    "Pausa para el café",
+    "Una taza de café sonriente en su plato junto a una galleta con chispas de chocolate.",
+    [
+     "pausa para el café",
+     "café",
+     "galleta",
+     "descanso"
+    ]
+   ],
+   "pt": [
+    "Pausa para o café",
+    "Uma xícara de café sorridente no pires ao lado de um cookie de gotas de chocolate.",
+    [
+     "pausa para o café",
+     "café",
+     "cookie",
+     "intervalo"
+    ]
+   ],
+   "fr": [
+    "Pause café",
+    "Une tasse de café souriante sur sa soucoupe à côté d'un cookie aux pépites de chocolat.",
+    [
+     "pause café",
+     "café",
+     "cookie",
+     "pause"
+    ]
+   ],
+   "de": [
+    "Kaffeepause",
+    "Eine lächelnde Kaffeetasse auf der Untertasse neben einem Schokokeks.",
+    [
+     "Kaffeepause",
+     "Kaffee",
+     "Keks",
+     "Pause"
+    ]
+   ],
+   "zh": [
+    "咖啡时间",
+    "带着笑脸的咖啡杯和一块巧克力曲奇。",
+    [
+     "休息",
+     "咖啡",
+     "曲奇",
+     "下午茶"
+    ]
+   ],
+   "ko": [
+    "커피 브레이크",
+    "웃는 얼굴의 커피잔과 초코칩 쿠키.",
+    [
+     "휴식",
+     "커피",
+     "쿠키",
+     "티타임"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "signing-contract",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Signing a contract",
+    "A hand signing a document with a pen.",
+    [
+     "contract",
+     "signature",
+     "agreement",
+     "document"
+    ]
+   ],
+   "ja": [
+    "契約書にサイン",
+    "ペンで書類にサインをする手。",
+    [
+     "契約",
+     "サイン",
+     "署名",
+     "書類"
+    ]
+   ],
+   "es": [
+    "Firma de contrato",
+    "Una mano firmando un documento con un bolígrafo.",
+    [
+     "contrato",
+     "firma",
+     "acuerdo",
+     "documento"
+    ]
+   ],
+   "pt": [
+    "Assinatura de contrato",
+    "Uma mão assinando um documento com uma caneta.",
+    [
+     "contrato",
+     "assinatura",
+     "acordo",
+     "documento"
+    ]
+   ],
+   "fr": [
+    "Signature de contrat",
+    "Une main qui signe un document avec un stylo.",
+    [
+     "contrat",
+     "signature",
+     "accord",
+     "document"
+    ]
+   ],
+   "de": [
+    "Vertrag unterschreiben",
+    "Eine Hand unterschreibt ein Dokument mit einem Stift.",
+    [
+     "Vertrag",
+     "Unterschrift",
+     "Vereinbarung",
+     "Dokument"
+    ]
+   ],
+   "zh": [
+    "签合同",
+    "用笔在文件上签名的手。",
+    [
+     "合同",
+     "签名",
+     "签约",
+     "文件"
+    ]
+   ],
+   "ko": [
+    "계약서 서명",
+    "펜으로 서류에 서명하는 손.",
+    [
+     "계약",
+     "서명",
+     "사인",
+     "서류"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hanko-stamp",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hanko seal stamp",
+    "A Japanese name seal with a red ink pad and a round stamp mark on paper.",
+    [
+     "hanko",
+     "seal",
+     "stamp",
+     "Japan"
+    ]
+   ],
+   "ja": [
+    "はんこ",
+    "朱肉と、紙に押された丸い印影のあるはんこ。",
+    [
+     "はんこ",
+     "印鑑",
+     "朱肉",
+     "押印"
+    ]
+   ],
+   "es": [
+    "Sello hanko",
+    "Un sello japonés con tampón de tinta roja y una marca redonda en el papel.",
+    [
+     "hanko",
+     "sello",
+     "Japón",
+     "firma"
+    ]
+   ],
+   "pt": [
+    "Carimbo hanko",
+    "Um carimbo japonês de nome com almofada de tinta vermelha e uma marca redonda no papel.",
+    [
+     "hanko",
+     "carimbo",
+     "Japão",
+     "assinatura"
+    ]
+   ],
+   "fr": [
+    "Sceau hanko",
+    "Un sceau japonais avec un tampon encreur rouge et une empreinte ronde sur le papier.",
+    [
+     "hanko",
+     "sceau",
+     "tampon",
+     "Japon"
+    ]
+   ],
+   "de": [
+    "Hanko-Stempel",
+    "Ein japanischer Namensstempel mit rotem Stempelkissen und rundem Abdruck auf Papier.",
+    [
+     "Hanko",
+     "Stempel",
+     "Siegel",
+     "Japan"
+    ]
+   ],
+   "zh": [
+    "日本印章",
+    "日本的名字印章、红色印泥和纸上的圆形印迹。",
+    [
+     "印章",
+     "盖章",
+     "印泥",
+     "日本"
+    ]
+   ],
+   "ko": [
+    "도장",
+    "빨간 인주와 종이에 찍힌 동그란 도장 자국.",
+    [
+     "도장",
+     "인감",
+     "인주",
+     "일본"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "coin-stack",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Stack of gold coins",
+    "Two stacks of shiny gold coins with sparkles.",
+    [
+     "coins",
+     "money",
+     "savings",
+     "gold"
+    ]
+   ],
+   "ja": [
+    "積み上げた金貨",
+    "きらきら光る金貨を積み上げた2つの山。",
+    [
+     "コイン",
+     "お金",
+     "貯金",
+     "金貨"
+    ]
+   ],
+   "es": [
+    "Pila de monedas de oro",
+    "Dos pilas de monedas de oro brillantes con destellos.",
+    [
+     "monedas",
+     "dinero",
+     "ahorro",
+     "oro"
+    ]
+   ],
+   "pt": [
+    "Pilha de moedas de ouro",
+    "Duas pilhas de moedas de ouro brilhantes.",
+    [
+     "moedas",
+     "dinheiro",
+     "economia",
+     "ouro"
+    ]
+   ],
+   "fr": [
+    "Pile de pièces d'or",
+    "Deux piles de pièces d'or brillantes avec des étincelles.",
+    [
+     "pièces",
+     "argent",
+     "épargne",
+     "or"
+    ]
+   ],
+   "de": [
+    "Goldmünzen-Stapel",
+    "Zwei Stapel glänzender Goldmünzen mit Glitzer.",
+    [
+     "Münzen",
+     "Geld",
+     "Sparen",
+     "Gold"
+    ]
+   ],
+   "zh": [
+    "金币堆",
+    "两摞闪闪发光的金币。",
+    [
+     "硬币",
+     "钱",
+     "存钱",
+     "金币"
+    ]
+   ],
+   "ko": [
+    "금화 더미",
+    "반짝이는 금화를 쌓은 두 개의 더미.",
+    [
+     "동전",
+     "돈",
+     "저축",
+     "금화"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "wallet",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Wallet with cards",
+    "A brown leather wallet with cards and a bill peeking out.",
+    [
+     "wallet",
+     "money",
+     "cards",
+     "shopping"
+    ]
+   ],
+   "ja": [
+    "財布",
+    "カードやお札がのぞく茶色い革の財布。",
+    [
+     "財布",
+     "お金",
+     "カード",
+     "買い物"
+    ]
+   ],
+   "es": [
+    "Cartera con tarjetas",
+    "Una cartera de cuero marrón con tarjetas y un billete asomando.",
+    [
+     "cartera",
+     "dinero",
+     "tarjetas",
+     "compras"
+    ]
+   ],
+   "pt": [
+    "Carteira com cartões",
+    "Uma carteira de couro marrom com cartões e uma nota aparecendo.",
+    [
+     "carteira",
+     "dinheiro",
+     "cartões",
+     "compras"
+    ]
+   ],
+   "fr": [
+    "Portefeuille",
+    "Un portefeuille en cuir marron d'où dépassent des cartes et un billet.",
+    [
+     "portefeuille",
+     "argent",
+     "cartes",
+     "achats"
+    ]
+   ],
+   "de": [
+    "Geldbörse",
+    "Eine braune Ledergeldbörse, aus der Karten und ein Geldschein ragen.",
+    [
+     "Geldbörse",
+     "Portemonnaie",
+     "Geld",
+     "Karten"
+    ]
+   ],
+   "zh": [
+    "钱包",
+    "露出卡片和纸币的棕色皮钱包。",
+    [
+     "钱包",
+     "钱",
+     "银行卡",
+     "购物"
+    ]
+   ],
+   "ko": [
+    "지갑",
+    "카드와 지폐가 살짝 보이는 갈색 가죽 지갑.",
+    [
+     "지갑",
+     "돈",
+     "카드",
+     "쇼핑"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "credit-card",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Credit cards",
+    "Two credit cards with a gold chip and contactless symbol, no numbers.",
+    [
+     "credit card",
+     "payment",
+     "cashless",
+     "shopping"
+    ]
+   ],
+   "ja": [
+    "クレジットカード",
+    "ICチップとタッチ決済マークのある2枚のクレジットカード（番号なし）。",
+    [
+     "クレジットカード",
+     "支払い",
+     "キャッシュレス",
+     "買い物"
+    ]
+   ],
+   "es": [
+    "Tarjetas de crédito",
+    "Dos tarjetas de crédito con chip dorado y símbolo sin contacto, sin números.",
+    [
+     "tarjeta de crédito",
+     "pago",
+     "sin efectivo",
+     "compras"
+    ]
+   ],
+   "pt": [
+    "Cartões de crédito",
+    "Dois cartões de crédito com chip dourado e símbolo de aproximação, sem números.",
+    [
+     "cartão de crédito",
+     "pagamento",
+     "sem dinheiro",
+     "compras"
+    ]
+   ],
+   "fr": [
+    "Cartes bancaires",
+    "Deux cartes de crédit avec une puce dorée et le symbole sans contact, sans numéros.",
+    [
+     "carte bancaire",
+     "carte de crédit",
+     "paiement",
+     "sans contact"
+    ]
+   ],
+   "de": [
+    "Kreditkarten",
+    "Zwei Kreditkarten mit goldenem Chip und Kontaktlos-Symbol, ohne Nummern.",
+    [
+     "Kreditkarte",
+     "Bezahlen",
+     "bargeldlos",
+     "Einkaufen"
+    ]
+   ],
+   "zh": [
+    "信用卡",
+    "带金色芯片和闪付标志的两张信用卡（无卡号）。",
+    [
+     "信用卡",
+     "支付",
+     "无现金",
+     "购物"
+    ]
+   ],
+   "ko": [
+    "신용카드",
+    "IC칩과 비접촉 결제 표시가 있는 신용카드 두 장(번호 없음).",
+    [
+     "신용카드",
+     "결제",
+     "캐시리스",
+     "쇼핑"
+    ]
+   ]
+  }
+ }
+]

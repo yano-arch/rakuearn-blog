@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "police-officer",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Police officer saluting",
+    "A friendly police officer in uniform giving a salute.",
+    [
+     "police officer",
+     "police",
+     "safety",
+     "uniform"
+    ]
+   ],
+   "ja": [
+    "敬礼するおまわりさん",
+    "制服を着て敬礼する、やさしいおまわりさん。",
+    [
+     "警察官",
+     "おまわりさん",
+     "警察",
+     "安全"
+    ]
+   ],
+   "es": [
+    "Policía saludando",
+    "Un policía amable con uniforme haciendo el saludo.",
+    [
+     "policía",
+     "agente",
+     "seguridad",
+     "uniforme"
+    ]
+   ],
+   "pt": [
+    "Policial batendo continência",
+    "Um policial simpático de uniforme batendo continência.",
+    [
+     "policial",
+     "polícia",
+     "segurança",
+     "uniforme"
+    ]
+   ],
+   "fr": [
+    "Policier qui salue",
+    "Un policier souriant en uniforme qui fait le salut.",
+    [
+     "policier",
+     "police",
+     "sécurité",
+     "uniforme"
+    ]
+   ],
+   "de": [
+    "Salutierender Polizist",
+    "Ein freundlicher Polizist in Uniform, der salutiert.",
+    [
+     "Polizist",
+     "Polizei",
+     "Sicherheit",
+     "Uniform"
+    ]
+   ],
+   "zh": [
+    "敬礼的警察",
+    "身穿制服、正在敬礼的亲切警察。",
+    [
+     "警察",
+     "民警",
+     "安全",
+     "制服"
+    ]
+   ],
+   "ko": [
+    "경례하는 경찰관",
+    "제복을 입고 경례하는 친절한 경찰관.",
+    [
+     "경찰관",
+     "경찰",
+     "안전",
+     "제복"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pilot",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Airline pilot",
+    "A smiling airline pilot in a cap with a plane flying behind.",
+    [
+     "pilot",
+     "airplane",
+     "airline",
+     "travel"
+    ]
+   ],
+   "ja": [
+    "パイロット",
+    "制帽をかぶった笑顔のパイロットと飛行機。",
+    [
+     "パイロット",
+     "飛行機",
+     "航空",
+     "旅行"
+    ]
+   ],
+   "es": [
+    "Piloto de avión",
+    "Un piloto sonriente con gorra y un avión volando detrás.",
+    [
+     "piloto",
+     "avión",
+     "aerolínea",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Piloto de avião",
+    "Um piloto sorridente de quepe com um avião voando ao fundo.",
+    [
+     "piloto",
+     "avião",
+     "companhia aérea",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Pilote de ligne",
+    "Un pilote souriant avec sa casquette et un avion qui vole derrière.",
+    [
+     "pilote",
+     "avion",
+     "compagnie aérienne",
+     "voyage"
+    ]
+   ],
+   "de": [
+    "Pilot",
+    "Ein lächelnder Pilot mit Mütze und einem Flugzeug im Hintergrund.",
+    [
+     "Pilot",
+     "Flugzeug",
+     "Fluggesellschaft",
+     "Reise"
+    ]
+   ],
+   "zh": [
+    "飞行员",
+    "戴着制服帽、面带微笑的飞行员和飞机。",
+    [
+     "飞行员",
+     "飞机",
+     "航空",
+     "旅行"
+    ]
+   ],
+   "ko": [
+    "비행기 조종사",
+    "모자를 쓴 웃는 조종사와 날아가는 비행기.",
+    [
+     "조종사",
+     "파일럿",
+     "비행기",
+     "여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "flight-attendant",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Flight attendant with a suitcase",
+    "A flight attendant in uniform and scarf pulling a suitcase.",
+    [
+     "flight attendant",
+     "cabin crew",
+     "airline",
+     "travel"
+    ]
+   ],
+   "ja": [
+    "キャビンアテンダント",
+    "スカーフを巻いた制服姿でスーツケースを引くCA。",
+    [
+     "CA",
+     "客室乗務員",
+     "キャビンアテンダント",
+     "航空"
+    ]
+   ],
+   "es": [
+    "Azafata con maleta",
+    "Una azafata con uniforme y pañuelo que lleva una maleta.",
+    [
+     "azafata",
+     "tripulante de cabina",
+     "aerolínea",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Comissária de bordo com mala",
+    "Uma comissária de bordo de uniforme e lenço puxando uma mala.",
+    [
+     "comissária de bordo",
+     "aeromoça",
+     "companhia aérea",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Hôtesse de l'air avec valise",
+    "Une hôtesse de l'air en uniforme et foulard qui tire sa valise.",
+    [
+     "hôtesse de l'air",
+     "personnel navigant",
+     "compagnie aérienne",
+     "voyage"
+    ]
+   ],
+   "de": [
+    "Flugbegleiterin mit Koffer",
+    "Eine Flugbegleiterin in Uniform mit Halstuch und Rollkoffer.",
+    [
+     "Flugbegleiterin",
+     "Stewardess",
+     "Fluggesellschaft",
+     "Reise"
+    ]
+   ],
+   "zh": [
+    "空姐",
+    "系着丝巾、身穿制服、拉着行李箱的空乘人员。",
+    [
+     "空姐",
+     "空乘",
+     "航空",
+     "旅行"
+    ]
+   ],
+   "ko": [
+    "승무원",
+    "스카프를 맨 제복 차림으로 캐리어를 끄는 승무원.",
+    [
+     "승무원",
+     "스튜어디스",
+     "항공",
+     "여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "train-conductor",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Train conductor blowing a whistle",
+    "A train conductor in a cap blowing a whistle.",
+    [
+     "train conductor",
+     "railway",
+     "station",
+     "train"
+    ]
+   ],
+   "ja": [
+    "笛を吹く車掌さん",
+    "制帽をかぶって笛を吹く鉄道の車掌さん。",
+    [
+     "車掌",
+     "駅員",
+     "鉄道",
+     "電車"
+    ]
+   ],
+   "es": [
+    "Revisor de tren con silbato",
+    "Un revisor de tren con gorra tocando el silbato.",
+    [
+     "revisor",
+     "ferrocarril",
+     "estación",
+     "tren"
+    ]
+   ],
+   "pt": [
+    "Condutor de trem com apito",
+    "Um condutor de trem de quepe tocando o apito.",
+    [
+     "condutor de trem",
+     "ferrovia",
+     "estação",
+     "trem"
+    ]
+   ],
+   "fr": [
+    "Chef de train avec sifflet",
+    "Un chef de train en casquette qui donne un coup de sifflet.",
+    [
+     "chef de train",
+     "chemin de fer",
+     "gare",
+     "train"
+    ]
+   ],
+   "de": [
+    "Zugbegleiter mit Trillerpfeife",
+    "Ein Zugbegleiter mit Mütze, der in die Pfeife bläst.",
+    [
+     "Zugbegleiter",
+     "Bahn",
+     "Bahnhof",
+     "Zug"
+    ]
+   ],
+   "zh": [
+    "吹哨的列车员",
+    "戴着制服帽吹哨子的列车员。",
+    [
+     "列车员",
+     "铁路",
+     "车站",
+     "火车"
+    ]
+   ],
+   "ko": [
+    "호루라기 부는 차장",
+    "모자를 쓰고 호루라기를 부는 열차 차장.",
+    [
+     "차장",
+     "역무원",
+     "철도",
+     "기차"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bus-driver",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bus driver at the wheel",
+    "A smiling bus driver holding the big steering wheel.",
+    [
+     "bus driver",
+     "bus",
+     "driving",
+     "transport"
+    ]
+   ],
+   "ja": [
+    "バスの運転手さん",
+    "大きなハンドルを握る笑顔のバス運転手。",
+    [
+     "バス運転手",
+     "バス",
+     "運転",
+     "交通"
+    ]
+   ],
+   "es": [
+    "Conductor de autobús al volante",
+    "Un conductor de autobús sonriente sujetando el gran volante.",
+    [
+     "conductor de autobús",
+     "autobús",
+     "conducir",
+     "transporte"
+    ]
+   ],
+   "pt": [
+    "Motorista de ônibus no volante",
+    "Um motorista de ônibus sorridente segurando o volante.",
+    [
+     "motorista de ônibus",
+     "ônibus",
+     "dirigir",
+     "transporte"
+    ]
+   ],
+   "fr": [
+    "Chauffeur de bus au volant",
+    "Un chauffeur de bus souriant qui tient le grand volant.",
+    [
+     "chauffeur de bus",
+     "bus",
+     "conduite",
+     "transport"
+    ]
+   ],
+   "de": [
+    "Busfahrer am Steuer",
+    "Ein lächelnder Busfahrer hält das große Lenkrad.",
+    [
+     "Busfahrer",
+     "Bus",
+     "Fahren",
+     "Verkehr"
+    ]
+   ],
+   "zh": [
+    "公交车司机",
+    "握着大方向盘、面带微笑的公交车司机。",
+    [
+     "公交司机",
+     "公交车",
+     "驾驶",
+     "交通"
+    ]
+   ],
+   "ko": [
+    "버스 기사",
+    "큰 핸들을 잡고 웃는 버스 기사.",
+    [
+     "버스 기사",
+     "버스",
+     "운전",
+     "교통"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "taxi-driver",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Taxi driver with cap",
+    "A taxi driver in a cap standing next to a yellow taxi.",
+    [
+     "taxi driver",
+     "taxi",
+     "cab",
+     "transport"
+    ]
+   ],
+   "ja": [
+    "タクシーの運転手さん",
+    "帽子をかぶり、黄色いタクシーの横に立つ運転手。",
+    [
+     "タクシー運転手",
+     "タクシー",
+     "運転",
+     "交通"
+    ]
+   ],
+   "es": [
+    "Taxista con gorra",
+    "Un taxista con gorra junto a un taxi amarillo.",
+    [
+     "taxista",
+     "taxi",
+     "conductor",
+     "transporte"
+    ]
+   ],
+   "pt": [
+    "Taxista de quepe",
+    "Um taxista de quepe ao lado de um táxi amarelo.",
+    [
+     "taxista",
+     "táxi",
+     "motorista",
+     "transporte"
+    ]
+   ],
+   "fr": [
+    "Chauffeur de taxi",
+    "Un chauffeur de taxi en casquette à côté d'un taxi jaune.",
+    [
+     "chauffeur de taxi",
+     "taxi",
+     "conduite",
+     "transport"
+    ]
+   ],
+   "de": [
+    "Taxifahrer mit Mütze",
+    "Ein Taxifahrer mit Mütze neben einem gelben Taxi.",
+    [
+     "Taxifahrer",
+     "Taxi",
+     "Fahrer",
+     "Verkehr"
+    ]
+   ],
+   "zh": [
+    "出租车司机",
+    "戴着帽子、站在黄色出租车旁的司机。",
+    [
+     "出租车司机",
+     "出租车",
+     "的士",
+     "交通"
+    ]
+   ],
+   "ko": [
+    "택시 기사",
+    "모자를 쓰고 노란 택시 옆에 선 택시 기사.",
+    [
+     "택시 기사",
+     "택시",
+     "운전",
+     "교통"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mail-carrier",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Mail carrier with a letter bag",
+    "A mail carrier with a shoulder bag holding up a letter.",
+    [
+     "mail carrier",
+     "postman",
+     "letter",
+     "delivery"
+    ]
+   ],
+   "ja": [
+    "郵便屋さん",
+    "肩かけカバンを持って手紙を届ける郵便配達員。",
+    [
+     "郵便配達",
+     "郵便屋さん",
+     "手紙",
+     "配達"
+    ]
+   ],
+   "es": [
+    "Cartero con bolsa de cartas",
+    "Un cartero con bolsa al hombro que entrega una carta.",
+    [
+     "cartero",
+     "correo",
+     "carta",
+     "reparto"
+    ]
+   ],
+   "pt": [
+    "Carteiro com bolsa de cartas",
+    "Um carteiro com bolsa a tiracolo segurando uma carta.",
+    [
+     "carteiro",
+     "correio",
+     "carta",
+     "entrega"
+    ]
+   ],
+   "fr": [
+    "Facteur avec sacoche",
+    "Un facteur avec sa sacoche qui tend une lettre.",
+    [
+     "facteur",
+     "courrier",
+     "lettre",
+     "livraison"
+    ]
+   ],
+   "de": [
+    "Briefträger mit Posttasche",
+    "Ein Briefträger mit Umhängetasche hält einen Brief hoch.",
+    [
+     "Briefträger",
+     "Post",
+     "Brief",
+     "Zustellung"
+    ]
+   ],
+   "zh": [
+    "邮递员",
+    "背着邮包、手拿信件的邮递员。",
+    [
+     "邮递员",
+     "邮差",
+     "信件",
+     "投递"
+    ]
+   ],
+   "ko": [
+    "우편집배원",
+    "가방을 메고 편지를 들고 있는 우편집배원.",
+    [
+     "집배원",
+     "우체부",
+     "편지",
+     "배달"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "carpenter",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Carpenter with a saw",
+    "A carpenter with a headband sawing a wooden plank.",
+    [
+     "carpenter",
+     "woodwork",
+     "saw",
+     "DIY"
+    ]
+   ],
+   "ja": [
+    "のこぎりを使う大工さん",
+    "ねじりはちまきで木の板をのこぎりで切る大工さん。",
+    [
+     "大工",
+     "職人",
+     "のこぎり",
+     "木工"
+    ]
+   ],
+   "es": [
+    "Carpintero con serrucho",
+    "Un carpintero con cinta en la cabeza cortando una tabla de madera.",
+    [
+     "carpintero",
+     "carpintería",
+     "serrucho",
+     "bricolaje"
+    ]
+   ],
+   "pt": [
+    "Marceneiro com serrote",
+    "Um marceneiro de faixa na cabeça serrando uma tábua de madeira.",
+    [
+     "marceneiro",
+     "carpinteiro",
+     "serrote",
+     "madeira"
+    ]
+   ],
+   "fr": [
+    "Charpentier avec une scie",
+    "Un charpentier avec un bandeau qui scie une planche de bois.",
+    [
+     "charpentier",
+     "menuiserie",
+     "scie",
+     "bricolage"
+    ]
+   ],
+   "de": [
+    "Zimmermann mit Säge",
+    "Ein Zimmermann mit Stirnband sägt ein Holzbrett.",
+    [
+     "Zimmermann",
+     "Tischler",
+     "Säge",
+     "Handwerk"
+    ]
+   ],
+   "zh": [
+    "拿锯子的木匠",
+    "头系毛巾、用锯子锯木板的木匠。",
+    [
+     "木匠",
+     "木工",
+     "锯子",
+     "手艺人"
+    ]
+   ],
+   "ko": [
+    "톱질하는 목수",
+    "머리띠를 두르고 나무판을 톱질하는 목수.",
+    [
+     "목수",
+     "목공",
+     "톱",
+     "기술자"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "electrician",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Electrician with cable and tools",
+    "An electrician in a hard hat holding a cable and a screwdriver.",
+    [
+     "electrician",
+     "electricity",
+     "wiring",
+     "repair"
+    ]
+   ],
+   "ja": [
+    "電気工事士さん",
+    "ヘルメットをかぶり、ケーブルとドライバーを持つ電気屋さん。",
+    [
+     "電気工事",
+     "電気屋",
+     "配線",
+     "修理"
+    ]
+   ],
+   "es": [
+    "Electricista con cable y herramientas",
+    "Un electricista con casco sujetando un cable y un destornillador.",
+    [
+     "electricista",
+     "electricidad",
+     "cableado",
+     "reparación"
+    ]
+   ],
+   "pt": [
+    "Eletricista com fio e ferramentas",
+    "Um eletricista de capacete segurando um fio e uma chave de fenda.",
+    [
+     "eletricista",
+     "eletricidade",
+     "fiação",
+     "conserto"
+    ]
+   ],
+   "fr": [
+    "Électricien avec câble et outils",
+    "Un électricien casqué qui tient un câble et un tournevis.",
+    [
+     "électricien",
+     "électricité",
+     "câblage",
+     "dépannage"
+    ]
+   ],
+   "de": [
+    "Elektriker mit Kabel und Werkzeug",
+    "Ein Elektriker mit Helm hält ein Kabel und einen Schraubendreher.",
+    [
+     "Elektriker",
+     "Strom",
+     "Verkabelung",
+     "Reparatur"
+    ]
+   ],
+   "zh": [
+    "电工",
+    "戴着安全帽、拿着电线和螺丝刀的电工。",
+    [
+     "电工",
+     "电力",
+     "布线",
+     "维修"
+    ]
+   ],
+   "ko": [
+    "전기 기사",
+    "안전모를 쓰고 전선과 드라이버를 든 전기 기사.",
+    [
+     "전기 기사",
+     "전기",
+     "배선",
+     "수리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "plumber",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Plumber with a wrench",
+    "A plumber in overalls with a wrench next to a dripping pipe.",
+    [
+     "plumber",
+     "plumbing",
+     "wrench",
+     "repair"
+    ]
+   ],
+   "ja": [
+    "配管工さん",
+    "つなぎを着てレンチを持つ配管工と水もれするパイプ。",
+    [
+     "配管工",
+     "水道屋",
+     "レンチ",
+     "修理"
+    ]
+   ],
+   "es": [
+    "Fontanero con llave inglesa",
+    "Un fontanero con peto y llave inglesa junto a una tubería que gotea.",
+    [
+     "fontanero",
+     "fontanería",
+     "llave inglesa",
+     "reparación"
+    ]
+   ],
+   "pt": [
+    "Encanador com chave inglesa",
+    "Um encanador de macacão com chave inglesa ao lado de um cano pingando.",
+    [
+     "encanador",
+     "encanamento",
+     "chave inglesa",
+     "conserto"
+    ]
+   ],
+   "fr": [
+    "Plombier avec une clé",
+    "Un plombier en salopette avec une clé à côté d'un tuyau qui fuit.",
+    [
+     "plombier",
+     "plomberie",
+     "clé",
+     "dépannage"
+    ]
+   ],
+   "de": [
+    "Klempner mit Schraubenschlüssel",
+    "Ein Klempner in Latzhose mit Schraubenschlüssel neben einem tropfenden Rohr.",
+    [
+     "Klempner",
+     "Installateur",
+     "Schraubenschlüssel",
+     "Reparatur"
+    ]
+   ],
+   "zh": [
+    "水管工",
+    "穿着工装、拿着扳手的水管工和漏水的管道。",
+    [
+     "水管工",
+     "管道维修",
+     "扳手",
+     "维修"
+    ]
+   ],
+   "ko": [
+    "배관공",
+    "멜빵 작업복을 입고 렌치를 든 배관공과 물이 새는 파이프.",
+    [
+     "배관공",
+     "배관",
+     "렌치",
+     "수리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "house-painter",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Painter with a paint roller",
+    "A house painter with a roller and a paint bucket painting a wall.",
+    [
+     "painter",
+     "paint roller",
+     "painting",
+     "renovation"
+    ]
+   ],
+   "ja": [
+    "ペンキ屋さん",
+    "ローラーとペンキのバケツで壁を塗る塗装屋さん。",
+    [
+     "塗装",
+     "ペンキ屋",
+     "ペンキ",
+     "リフォーム"
+    ]
+   ],
+   "es": [
+    "Pintor con rodillo",
+    "Un pintor de brocha gorda con rodillo y cubo de pintura pintando una pared.",
+    [
+     "pintor",
+     "rodillo",
+     "pintura",
+     "reforma"
+    ]
+   ],
+   "pt": [
+    "Pintor com rolo de tinta",
+    "Um pintor com rolo e lata de tinta pintando a parede.",
+    [
+     "pintor",
+     "rolo de tinta",
+     "pintura",
+     "reforma"
+    ]
+   ],
+   "fr": [
+    "Peintre en bâtiment avec rouleau",
+    "Un peintre avec un rouleau et un seau de peinture qui peint un mur.",
+    [
+     "peintre",
+     "rouleau",
+     "peinture",
+     "rénovation"
+    ]
+   ],
+   "de": [
+    "Maler mit Farbroller",
+    "Ein Maler mit Farbroller und Eimer streicht eine Wand.",
+    [
+     "Maler",
+     "Farbroller",
+     "Streichen",
+     "Renovierung"
+    ]
+   ],
+   "zh": [
+    "油漆工",
+    "拿着滚筒和油漆桶刷墙的油漆工。",
+    [
+     "油漆工",
+     "滚筒刷",
+     "刷墙",
+     "装修"
+    ]
+   ],
+   "ko": [
+    "페인트공",
+    "롤러와 페인트 통으로 벽을 칠하는 페인트공.",
+    [
+     "페인트공",
+     "롤러",
+     "페인트",
+     "리모델링"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "gardener",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Gardener trimming a hedge",
+    "A gardener in a straw hat trimming a hedge with shears.",
+    [
+     "gardener",
+     "gardening",
+     "hedge",
+     "shears"
+    ]
+   ],
+   "ja": [
+    "植木屋さん",
+    "麦わら帽子をかぶり、刈り込みばさみで生け垣を整える庭師。",
+    [
+     "庭師",
+     "植木屋",
+     "ガーデニング",
+     "生け垣"
+    ]
+   ],
+   "es": [
+    "Jardinero podando un seto",
+    "Un jardinero con sombrero de paja podando un seto con tijeras.",
+    [
+     "jardinero",
+     "jardinería",
+     "seto",
+     "tijeras de podar"
+    ]
+   ],
+   "pt": [
+    "Jardineiro podando a cerca viva",
+    "Um jardineiro de chapéu de palha podando a cerca viva com tesoura.",
+    [
+     "jardineiro",
+     "jardinagem",
+     "cerca viva",
+     "tesoura de poda"
+    ]
+   ],
+   "fr": [
+    "Jardinier qui taille une haie",
+    "Un jardinier au chapeau de paille qui taille une haie avec une cisaille.",
+    [
+     "jardinier",
+     "jardinage",
+     "haie",
+     "cisaille"
+    ]
+   ],
+   "de": [
+    "Gärtner schneidet Hecke",
+    "Ein Gärtner mit Strohhut schneidet eine Hecke mit der Heckenschere.",
+    [
+     "Gärtner",
+     "Gartenarbeit",
+     "Hecke",
+     "Heckenschere"
+    ]
+   ],
+   "zh": [
+    "修剪树篱的园丁",
+    "戴着草帽、用大剪刀修剪树篱的园丁。",
+    [
+     "园丁",
+     "园艺",
+     "树篱",
+     "修剪"
+    ]
+   ],
+   "ko": [
+    "울타리를 다듬는 정원사",
+    "밀짚모자를 쓰고 가위로 울타리 나무를 다듬는 정원사.",
+    [
+     "정원사",
+     "원예",
+     "울타리",
+     "가지치기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "fisherman",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Fisherman holding a big fish",
+    "A happy fisherman in a rain hat holding up a big fish.",
+    [
+     "fisherman",
+     "fishing",
+     "fish",
+     "sea"
+    ]
+   ],
+   "ja": [
+    "魚をかかえる漁師さん",
+    "雨よけ帽子をかぶり、大きな魚をかかえて喜ぶ漁師。",
+    [
+     "漁師",
+     "釣り",
+     "魚",
+     "海"
+    ]
+   ],
+   "es": [
+    "Pescador con un pez grande",
+    "Un pescador contento con sombrero de lluvia sujetando un pez grande.",
+    [
+     "pescador",
+     "pesca",
+     "pez",
+     "mar"
+    ]
+   ],
+   "pt": [
+    "Pescador segurando um peixe grande",
+    "Um pescador feliz de chapéu de chuva segurando um peixe grande.",
+    [
+     "pescador",
+     "pesca",
+     "peixe",
+     "mar"
+    ]
+   ],
+   "fr": [
+    "Pêcheur avec un gros poisson",
+    "Un pêcheur ravi en ciré qui tient un gros poisson.",
+    [
+     "pêcheur",
+     "pêche",
+     "poisson",
+     "mer"
+    ]
+   ],
+   "de": [
+    "Fischer mit großem Fisch",
+    "Ein fröhlicher Fischer mit Südwester hält einen großen Fisch.",
+    [
+     "Fischer",
+     "Angeln",
+     "Fisch",
+     "Meer"
+    ]
+   ],
+   "zh": [
+    "抱着大鱼的渔夫",
+    "戴着雨帽、抱着大鱼开心的渔夫。",
+    [
+     "渔夫",
+     "钓鱼",
+     "鱼",
+     "大海"
+    ]
+   ],
+   "ko": [
+    "물고기를 든 어부",
+    "방수 모자를 쓰고 큰 물고기를 들고 기뻐하는 어부.",
+    [
+     "어부",
+     "낚시",
+     "물고기",
+     "바다"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "baker",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Baker with a tray of bread",
+    "A baker in a white hat holding a tray of fresh bread.",
+    [
+     "baker",
+     "bakery",
+     "bread",
+     "baking"
+    ]
+   ],
+   "ja": [
+    "パンを持つパン屋さん",
+    "白い帽子をかぶり、焼きたてパンのトレーを持つパン職人。",
+    [
+     "パン屋",
+     "パン職人",
+     "パン",
+     "ベーカリー"
+    ]
+   ],
+   "es": [
+    "Panadero con bandeja de pan",
+    "Un panadero con gorro blanco sujetando una bandeja de pan recién hecho.",
+    [
+     "panadero",
+     "panadería",
+     "pan",
+     "hornear"
+    ]
+   ],
+   "pt": [
+    "Padeiro com bandeja de pães",
+    "Um padeiro de chapéu branco segurando uma bandeja de pães fresquinhos.",
+    [
+     "padeiro",
+     "padaria",
+     "pão",
+     "confeitaria"
+    ]
+   ],
+   "fr": [
+    "Boulanger avec un plateau de pains",
+    "Un boulanger en toque blanche qui porte un plateau de pains frais.",
+    [
+     "boulanger",
+     "boulangerie",
+     "pain",
+     "viennoiserie"
+    ]
+   ],
+   "de": [
+    "Bäcker mit Brotblech",
+    "Ein Bäcker mit weißer Mütze hält ein Blech mit frischem Brot.",
+    [
+     "Bäcker",
+     "Bäckerei",
+     "Brot",
+     "Backen"
+    ]
+   ],
+   "zh": [
+    "端着面包的面包师",
+    "戴着白帽子、端着刚出炉面包的面包师。",
+    [
+     "面包师",
+     "面包店",
+     "面包",
+     "烘焙"
+    ]
+   ],
+   "ko": [
+    "빵을 든 제빵사",
+    "흰 모자를 쓰고 갓 구운 빵 쟁반을 든 제빵사.",
+    [
+     "제빵사",
+     "빵집",
+     "빵",
+     "베이커리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "barista",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Barista making a latte",
+    "A barista pouring milk into a cup to make latte art.",
+    [
+     "barista",
+     "coffee",
+     "latte",
+     "cafe"
+    ]
+   ],
+   "ja": [
+    "ラテをいれるバリスタ",
+    "ミルクを注いでラテアートを作るカフェのバリスタ。",
+    [
+     "バリスタ",
+     "コーヒー",
+     "カフェラテ",
+     "カフェ"
+    ]
+   ],
+   "es": [
+    "Barista preparando un latte",
+    "Una barista vertiendo leche en una taza para hacer arte latte.",
+    [
+     "barista",
+     "café",
+     "latte",
+     "cafetería"
+    ]
+   ],
+   "pt": [
+    "Barista fazendo um latte",
+    "Uma barista despejando leite na xícara para fazer latte art.",
+    [
+     "barista",
+     "café",
+     "latte",
+     "cafeteria"
+    ]
+   ],
+   "fr": [
+    "Barista qui prépare un latte",
+    "Une barista qui verse du lait dans une tasse pour un latte art.",
+    [
+     "barista",
+     "café",
+     "latte",
+     "coffee shop"
+    ]
+   ],
+   "de": [
+    "Barista macht einen Latte",
+    "Eine Barista gießt Milch in eine Tasse und macht Latte Art.",
+    [
+     "Barista",
+     "Kaffee",
+     "Latte",
+     "Café"
+    ]
+   ],
+   "zh": [
+    "制作拿铁的咖啡师",
+    "正在往杯中倒牛奶、制作拉花的咖啡师。",
+    [
+     "咖啡师",
+     "咖啡",
+     "拿铁",
+     "咖啡店"
+    ]
+   ],
+   "ko": [
+    "라테를 만드는 바리스타",
+    "우유를 부어 라테 아트를 만드는 카페 바리스타.",
+    [
+     "바리스타",
+     "커피",
+     "라테",
+     "카페"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "waiter",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Waiter carrying a tray",
+    "A waiter in a bow tie carrying a tray with a hot cup.",
+    [
+     "waiter",
+     "restaurant",
+     "service",
+     "cafe"
+    ]
+   ],
+   "ja": [
+    "トレーを運ぶウェイター",
+    "蝶ネクタイ姿でカップをのせたトレーを運ぶウェイター。",
+    [
+     "ウェイター",
+     "レストラン",
+     "接客",
+     "カフェ"
+    ]
+   ],
+   "es": [
+    "Camarero con bandeja",
+    "Un camarero con pajarita llevando una bandeja con una taza caliente.",
+    [
+     "camarero",
+     "restaurante",
+     "servicio",
+     "cafetería"
+    ]
+   ],
+   "pt": [
+    "Garçom com bandeja",
+    "Um garçom de gravata-borboleta levando uma bandeja com uma xícara.",
+    [
+     "garçom",
+     "restaurante",
+     "atendimento",
+     "cafeteria"
+    ]
+   ],
+   "fr": [
+    "Serveur avec un plateau",
+    "Un serveur en nœud papillon qui porte un plateau avec une tasse chaude.",
+    [
+     "serveur",
+     "restaurant",
+     "service",
+     "café"
+    ]
+   ],
+   "de": [
+    "Kellner mit Tablett",
+    "Ein Kellner mit Fliege trägt ein Tablett mit einer heißen Tasse.",
+    [
+     "Kellner",
+     "Restaurant",
+     "Service",
+     "Café"
+    ]
+   ],
+   "zh": [
+    "端托盘的服务员",
+    "系着领结、端着放有热饮托盘的服务员。",
+    [
+     "服务员",
+     "餐厅",
+     "服务",
+     "咖啡店"
+    ]
+   ],
+   "ko": [
+    "쟁반을 든 웨이터",
+    "나비넥타이를 매고 컵이 놓인 쟁반을 나르는 웨이터.",
+    [
+     "웨이터",
+     "레스토랑",
+     "서빙",
+     "카페"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cashier",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cashier at the register",
+    "A smiling cashier working at a cash register.",
+    [
+     "cashier",
+     "cash register",
+     "checkout",
+     "shop"
+    ]
+   ],
+   "ja": [
+    "レジ係さん",
+    "レジで笑顔で会計をするレジ係。",
+    [
+     "レジ",
+     "レジ係",
+     "会計",
+     "お店"
+    ]
+   ],
+   "es": [
+    "Cajera en la caja registradora",
+    "Una cajera sonriente atendiendo en la caja registradora.",
+    [
+     "cajera",
+     "caja registradora",
+     "cobro",
+     "tienda"
+    ]
+   ],
+   "pt": [
+    "Operadora de caixa",
+    "Uma operadora de caixa sorridente trabalhando na caixa registradora.",
+    [
+     "operadora de caixa",
+     "caixa registradora",
+     "pagamento",
+     "loja"
+    ]
+   ],
+   "fr": [
+    "Caissière à la caisse",
+    "Une caissière souriante qui travaille à la caisse enregistreuse.",
+    [
+     "caissière",
+     "caisse enregistreuse",
+     "paiement",
+     "magasin"
+    ]
+   ],
+   "de": [
+    "Kassiererin an der Kasse",
+    "Eine lächelnde Kassiererin arbeitet an der Registrierkasse.",
+    [
+     "Kassiererin",
+     "Kasse",
+     "Bezahlen",
+     "Geschäft"
+    ]
+   ],
+   "zh": [
+    "收银员",
+    "在收银台前微笑结账的收银员。",
+    [
+     "收银员",
+     "收银台",
+     "结账",
+     "商店"
+    ]
+   ],
+   "ko": [
+    "계산원",
+    "계산대에서 웃으며 계산하는 계산원.",
+    [
+     "계산원",
+     "계산대",
+     "결제",
+     "가게"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "shop-clerk",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Shop clerk bowing",
+    "A polite shop clerk bowing behind the counter to welcome customers.",
+    [
+     "shop clerk",
+     "customer service",
+     "bow",
+     "store"
+    ]
+   ],
+   "ja": [
+    "おじぎする店員さん",
+    "カウンターの向こうでていねいにおじぎする店員さん。",
+    [
+     "店員",
+     "接客",
+     "おじぎ",
+     "いらっしゃいませ"
+    ]
+   ],
+   "es": [
+    "Dependienta haciendo una reverencia",
+    "Una dependienta educada haciendo una reverencia detrás del mostrador.",
+    [
+     "dependienta",
+     "atención al cliente",
+     "reverencia",
+     "tienda"
+    ]
+   ],
+   "pt": [
+    "Atendente fazendo reverência",
+    "Uma atendente educada fazendo reverência atrás do balcão.",
+    [
+     "atendente",
+     "atendimento ao cliente",
+     "reverência",
+     "loja"
+    ]
+   ],
+   "fr": [
+    "Vendeuse qui s'incline",
+    "Une vendeuse polie qui s'incline derrière le comptoir pour accueillir les clients.",
+    [
+     "vendeuse",
+     "service client",
+     "salut",
+     "magasin"
+    ]
+   ],
+   "de": [
+    "Verkäuferin verbeugt sich",
+    "Eine höfliche Verkäuferin verbeugt sich hinter der Theke.",
+    [
+     "Verkäuferin",
+     "Kundenservice",
+     "Verbeugung",
+     "Laden"
+    ]
+   ],
+   "zh": [
+    "鞠躬的店员",
+    "在柜台后礼貌鞠躬迎接顾客的店员。",
+    [
+     "店员",
+     "接待",
+     "鞠躬",
+     "欢迎光临"
+    ]
+   ],
+   "ko": [
+    "인사하는 점원",
+    "카운터 뒤에서 공손하게 고개 숙여 인사하는 점원.",
+    [
+     "점원",
+     "고객 응대",
+     "인사",
+     "가게"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hairdresser",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hairdresser with scissors and comb",
+    "A hairdresser holding scissors and a comb, ready for a haircut.",
+    [
+     "hairdresser",
+     "hair salon",
+     "haircut",
+     "scissors"
+    ]
+   ],
+   "ja": [
+    "はさみとくしを持つ美容師さん",
+    "はさみとくしを手にしたヘアサロンの美容師。",
+    [
+     "美容師",
+     "美容院",
+     "ヘアカット",
+     "はさみ"
+    ]
+   ],
+   "es": [
+    "Peluquera con tijeras y peine",
+    "Una peluquera con tijeras y peine lista para cortar el pelo.",
+    [
+     "peluquera",
+     "peluquería",
+     "corte de pelo",
+     "tijeras"
+    ]
+   ],
+   "pt": [
+    "Cabeleireira com tesoura e pente",
+    "Uma cabeleireira com tesoura e pente pronta para cortar o cabelo.",
+    [
+     "cabeleireira",
+     "salão de beleza",
+     "corte de cabelo",
+     "tesoura"
+    ]
+   ],
+   "fr": [
+    "Coiffeuse avec ciseaux et peigne",
+    "Une coiffeuse avec ciseaux et peigne, prête pour une coupe.",
+    [
+     "coiffeuse",
+     "salon de coiffure",
+     "coupe de cheveux",
+     "ciseaux"
+    ]
+   ],
+   "de": [
+    "Friseurin mit Schere und Kamm",
+    "Eine Friseurin mit Schere und Kamm, bereit zum Haareschneiden.",
+    [
+     "Friseurin",
+     "Friseursalon",
+     "Haarschnitt",
+     "Schere"
+    ]
+   ],
+   "zh": [
+    "拿剪刀和梳子的理发师",
+    "手拿剪刀和梳子、准备剪发的美发师。",
+    [
+     "理发师",
+     "美发店",
+     "剪发",
+     "剪刀"
+    ]
+   ],
+   "ko": [
+    "가위와 빗을 든 미용사",
+    "가위와 빗을 들고 커트를 준비하는 미용사.",
+    [
+     "미용사",
+     "미용실",
+     "커트",
+     "가위"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "florist",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Florist with a flower bucket",
+    "A florist in an apron carrying a bucket of colorful flowers.",
+    [
+     "florist",
+     "flower shop",
+     "flowers",
+     "bouquet"
+    ]
+   ],
+   "ja": [
+    "花を持つお花屋さん",
+    "エプロン姿で色とりどりの花が入ったバケツを持つ花屋さん。",
+    [
+     "花屋",
+     "フラワーショップ",
+     "花",
+     "花束"
+    ]
+   ],
+   "es": [
+    "Florista con cubo de flores",
+    "Una florista con delantal llevando un cubo de flores de colores.",
+    [
+     "florista",
+     "floristería",
+     "flores",
+     "ramo"
+    ]
+   ],
+   "pt": [
+    "Florista com balde de flores",
+    "Uma florista de avental carregando um balde de flores coloridas.",
+    [
+     "florista",
+     "floricultura",
+     "flores",
+     "buquê"
+    ]
+   ],
+   "fr": [
+    "Fleuriste avec un seau de fleurs",
+    "Une fleuriste en tablier qui porte un seau de fleurs colorées.",
+    [
+     "fleuriste",
+     "boutique de fleurs",
+     "fleurs",
+     "bouquet"
+    ]
+   ],
+   "de": [
+    "Floristin mit Blumeneimer",
+    "Eine Floristin mit Schürze trägt einen Eimer bunter Blumen.",
+    [
+     "Floristin",
+     "Blumenladen",
+     "Blumen",
+     "Blumenstrauß"
+    ]
+   ],
+   "zh": [
+    "花店店员",
+    "系着围裙、提着一桶五颜六色鲜花的花艺师。",
+    [
+     "花店",
+     "花艺师",
+     "鲜花",
+     "花束"
+    ]
+   ],
+   "ko": [
+    "꽃을 든 플로리스트",
+    "앞치마를 두르고 알록달록한 꽃 양동이를 든 꽃집 직원.",
+    [
+     "꽃집",
+     "플로리스트",
+     "꽃",
+     "꽃다발"
+    ]
+   ]
+  }
+ }
+]

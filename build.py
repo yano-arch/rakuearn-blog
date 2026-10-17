@@ -1,4 +1,4 @@
-"""rakuearn イラスト素材サイトの静的ビルド（Python標準ライブラリのみ）
+"""FuwaFuwa イラスト素材サイトの静的ビルド（Python標準ライブラリのみ）
 
   python3 build.py            本番用（広告枠は ADSENSE_CLIENT を設定したときだけ出る）
   python3 build.py --preview  広告枠の位置を点線の枠で表示するプレビュー用
@@ -10,7 +10,7 @@ from datetime import date
 
 # ===== 設定 =====
 SITE_URL = "https://rakuearn.com"
-SITE_NAME = "rakuearn"
+SITE_NAME = "FuwaFuwa"
 CONTACT_EMAIL = "support@studyshort.co.jp"
 ADSENSE_CLIENT = ""                       # 例: "ca-pub-1234567890123456"（AdSense承認後に設定）
 ADSENSE_SLOTS = {"top": "", "side": "", "bottom": ""}  # 各広告ユニットの data-ad-slot
@@ -203,8 +203,8 @@ def page_illust(lang, item):
     <p class="desc">{e(desc)}</p>
     {badges(u)}
     <div class="dl">
-      <a class="btn primary" href="/images/png/{s}.png" download="{SITE_NAME}-{s}.png">{e(u['download_png'])} <small>1000×1000</small></a>
-      <a class="btn" href="/images/svg/{s}.svg" download="{SITE_NAME}-{s}.svg">{e(u['download_svg'])}</a>
+      <a class="btn primary" href="/images/png/{s}.png" download="{SITE_NAME.lower()}-{s}.png">{e(u['download_png'])} <small>1000×1000</small></a>
+      <a class="btn" href="/images/svg/{s}.svg" download="{SITE_NAME.lower()}-{s}.svg">{e(u['download_svg'])}</a>
     </div>
     <p class="note">{e(u['license_short'])} <a href="{url(lang, 'license')}">{e(u['license'])}</a></p>
     <div class="tags"><span>{e(u['tags'])}</span>{tag_html}</div>

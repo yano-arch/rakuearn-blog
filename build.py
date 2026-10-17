@@ -32,6 +32,9 @@ for _f in sorted(glob.glob("data/items/*.json")):
     _raw += json.load(open(_f, encoding="utf-8"))
 ITEMS = sorted(_raw, key=lambda x: x["date"], reverse=True)
 e = lambda s: html.escape(str(s), quote=True)
+import hashlib
+# CSS/JS は中身のハッシュをURLに付け、更新したら必ず新しいものが読み込まれるようにする
+ASSET_V = {f: hashlib.md5(open(f"static/{f}", "rb").read()).hexdigest()[:8] for f in ("style.css", "app.js")}
 
 LOGO = ('<svg viewBox="0 0 40 40" width="34" height="34" aria-hidden="true"><g stroke="#3b2f2a" stroke-width="2.4" '
         'stroke-linecap="round"><circle cx="21.5" cy="21.5" r="15" fill="#f5b971" stroke="none"/>'
@@ -94,7 +97,7 @@ def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None):
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?{fonts}&display=swap">
-<link rel="stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/style.css?v={ASSET_V['style.css']}">
 {adsense}{ld}
 </head>
 <body>
@@ -115,7 +118,7 @@ def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None):
   <p class="links"><a href="{url(lang, 'license')}">{e(u['license'])}</a><a href="{url(lang, 'privacy')}">{e(u['privacy'])}</a><a href="mailto:{CONTACT_EMAIL}">{e(u['contact'])}</a></p>
   <p class="copy">© {date.today().year} {SITE_NAME}</p>
 </div></footer>
-<script src="/static/app.js" defer></script>
+<script src="/static/app.js?v={ASSET_V['app.js']}" defer></script>
 </body>
 </html>"""
 
@@ -291,7 +294,7 @@ def page_root():
 {alts}<link rel="alternate" hreflang="x-default" href="{SITE_URL}/">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800&display=swap">
-<link rel="stylesheet" href="/static/style.css">
+<link rel="stylesheet" href="/static/style.css?v={ASSET_V['style.css']}">
 <script>(function(){{var L={langs_js};var p=(navigator.languages||[navigator.language||"en"]);
 for(var i=0;i<p.length;i++){{var c=(p[i]||"").toLowerCase().split("-")[0];if(L.indexOf(c)>-1){{location.replace("/"+c+"/");return;}}}}
 location.replace("/{DEFAULT_LANG}/");}})();</script>

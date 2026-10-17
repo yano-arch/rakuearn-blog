@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "puddle",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Rain Puddle",
+    "A smiling puddle with ripples and falling raindrops.",
+    [
+     "puddle",
+     "rain",
+     "raindrop",
+     "rainy season"
+    ]
+   ],
+   "ja": [
+    "水たまり",
+    "雨粒が落ちて波紋が広がる、にっこり顔の水たまり。",
+    [
+     "水たまり",
+     "雨",
+     "梅雨",
+     "雨粒"
+    ]
+   ],
+   "es": [
+    "Charco de lluvia",
+    "Un charco sonriente con ondas y gotas de lluvia cayendo.",
+    [
+     "charco",
+     "lluvia",
+     "gotas",
+     "día lluvioso"
+    ]
+   ],
+   "pt": [
+    "Poça d'água",
+    "Uma poça sorridente com ondinhas e gotas de chuva caindo.",
+    [
+     "poça",
+     "chuva",
+     "gotas",
+     "dia chuvoso"
+    ]
+   ],
+   "fr": [
+    "Flaque d'eau",
+    "Une flaque souriante avec des ronds dans l'eau et des gouttes de pluie.",
+    [
+     "flaque",
+     "pluie",
+     "gouttes",
+     "temps pluvieux"
+    ]
+   ],
+   "de": [
+    "Pfütze",
+    "Eine lächelnde Pfütze mit Wellenringen und fallenden Regentropfen.",
+    [
+     "Pfütze",
+     "Regen",
+     "Regentropfen",
+     "Regenwetter"
+    ]
+   ],
+   "zh": [
+    "水坑",
+    "落下的雨滴在笑脸水坑里泛起涟漪。",
+    [
+     "水坑",
+     "下雨",
+     "雨滴",
+     "雨季"
+    ]
+   ],
+   "ko": [
+    "물웅덩이",
+    "빗방울이 떨어져 물결이 퍼지는 웃는 물웅덩이.",
+    [
+     "물웅덩이",
+     "비",
+     "빗방울",
+     "장마"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "icicle",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Icicles",
+    "Icicles hanging from a snowy roof edge.",
+    [
+     "icicle",
+     "winter",
+     "snow",
+     "cold"
+    ]
+   ],
+   "ja": [
+    "つらら",
+    "雪の積もった屋根から垂れ下がるつらら。",
+    [
+     "つらら",
+     "冬",
+     "雪",
+     "寒い"
+    ]
+   ],
+   "es": [
+    "Carámbanos",
+    "Carámbanos colgando del borde de un tejado nevado.",
+    [
+     "carámbano",
+     "invierno",
+     "nieve",
+     "frío"
+    ]
+   ],
+   "pt": [
+    "Pingentes de gelo",
+    "Pingentes de gelo pendurados na beirada de um telhado com neve.",
+    [
+     "pingente de gelo",
+     "inverno",
+     "neve",
+     "frio"
+    ]
+   ],
+   "fr": [
+    "Stalactites de glace",
+    "Des stalactites de glace pendant au bord d'un toit enneigé.",
+    [
+     "glaçon",
+     "hiver",
+     "neige",
+     "froid"
+    ]
+   ],
+   "de": [
+    "Eiszapfen",
+    "Eiszapfen hängen an einer verschneiten Dachkante.",
+    [
+     "Eiszapfen",
+     "Winter",
+     "Schnee",
+     "kalt"
+    ]
+   ],
+   "zh": [
+    "冰柱",
+    "挂在积雪屋檐下的冰柱。",
+    [
+     "冰柱",
+     "冬天",
+     "雪",
+     "寒冷"
+    ]
+   ],
+   "ko": [
+    "고드름",
+    "눈 쌓인 지붕 끝에 매달린 고드름.",
+    [
+     "고드름",
+     "겨울",
+     "눈",
+     "추위"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sunbeam-clouds",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sun Behind Clouds",
+    "A smiling sun peeking out from behind fluffy clouds.",
+    [
+     "sun",
+     "clouds",
+     "partly cloudy",
+     "weather"
+    ]
+   ],
+   "ja": [
+    "雲から顔を出す太陽",
+    "ふわふわの雲の後ろからにっこり顔を出す太陽。",
+    [
+     "太陽",
+     "雲",
+     "晴れ時々曇り",
+     "天気"
+    ]
+   ],
+   "es": [
+    "Sol entre nubes",
+    "Un sol sonriente que se asoma detrás de nubes esponjosas.",
+    [
+     "sol",
+     "nubes",
+     "parcialmente nublado",
+     "clima"
+    ]
+   ],
+   "pt": [
+    "Sol entre nuvens",
+    "Um sol sorridente espiando por trás de nuvens fofinhas.",
+    [
+     "sol",
+     "nuvens",
+     "parcialmente nublado",
+     "clima"
+    ]
+   ],
+   "fr": [
+    "Soleil derrière les nuages",
+    "Un soleil souriant qui sort de derrière des nuages moelleux.",
+    [
+     "soleil",
+     "nuages",
+     "éclaircies",
+     "météo"
+    ]
+   ],
+   "de": [
+    "Sonne hinter Wolken",
+    "Eine lächelnde Sonne schaut hinter flauschigen Wolken hervor.",
+    [
+     "Sonne",
+     "Wolken",
+     "heiter bis wolkig",
+     "Wetter"
+    ]
+   ],
+   "zh": [
+    "云后的太阳",
+    "从蓬松云朵后面探出头的微笑太阳。",
+    [
+     "太阳",
+     "云",
+     "多云转晴",
+     "天气"
+    ]
+   ],
+   "ko": [
+    "구름 사이 해",
+    "폭신한 구름 뒤에서 방긋 얼굴을 내민 해.",
+    [
+     "해",
+     "구름",
+     "구름 조금",
+     "날씨"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "crescent-moon",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Crescent Moon",
+    "A sleepy-looking crescent moon with twinkling stars.",
+    [
+     "moon",
+     "crescent",
+     "night",
+     "stars"
+    ]
+   ],
+   "ja": [
+    "三日月",
+    "きらきら星といっしょの、にっこり三日月。",
+    [
+     "三日月",
+     "月",
+     "夜",
+     "星"
+    ]
+   ],
+   "es": [
+    "Luna creciente",
+    "Una luna creciente sonriente con estrellas brillantes.",
+    [
+     "luna",
+     "luna creciente",
+     "noche",
+     "estrellas"
+    ]
+   ],
+   "pt": [
+    "Lua crescente",
+    "Uma lua crescente sorridente com estrelas brilhando.",
+    [
+     "lua",
+     "lua crescente",
+     "noite",
+     "estrelas"
+    ]
+   ],
+   "fr": [
+    "Croissant de lune",
+    "Un croissant de lune souriant entouré d'étoiles scintillantes.",
+    [
+     "lune",
+     "croissant de lune",
+     "nuit",
+     "étoiles"
+    ]
+   ],
+   "de": [
+    "Mondsichel",
+    "Eine lächelnde Mondsichel mit funkelnden Sternen.",
+    [
+     "Mond",
+     "Mondsichel",
+     "Nacht",
+     "Sterne"
+    ]
+   ],
+   "zh": [
+    "弯月",
+    "带着闪闪星星的微笑弯月。",
+    [
+     "月亮",
+     "弯月",
+     "夜晚",
+     "星星"
+    ]
+   ],
+   "ko": [
+    "초승달",
+    "반짝이는 별과 함께 웃고 있는 초승달.",
+    [
+     "달",
+     "초승달",
+     "밤",
+     "별"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "milky-way",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Milky Way",
+    "A night sky with the Milky Way and sparkling stars.",
+    [
+     "milky way",
+     "starry sky",
+     "night sky",
+     "galaxy"
+    ]
+   ],
+   "ja": [
+    "天の川",
+    "星がきらめく夜空にかかる天の川。",
+    [
+     "天の川",
+     "星空",
+     "夜空",
+     "七夕"
+    ]
+   ],
+   "es": [
+    "Vía Láctea",
+    "Un cielo nocturno con la Vía Láctea y estrellas brillantes.",
+    [
+     "vía láctea",
+     "cielo estrellado",
+     "noche",
+     "galaxia"
+    ]
+   ],
+   "pt": [
+    "Via Láctea",
+    "Um céu noturno com a Via Láctea e estrelas brilhantes.",
+    [
+     "via láctea",
+     "céu estrelado",
+     "noite",
+     "galáxia"
+    ]
+   ],
+   "fr": [
+    "Voie lactée",
+    "Un ciel nocturne traversé par la Voie lactée et des étoiles scintillantes.",
+    [
+     "voie lactée",
+     "ciel étoilé",
+     "nuit",
+     "galaxie"
+    ]
+   ],
+   "de": [
+    "Milchstraße",
+    "Ein Nachthimmel mit der Milchstraße und funkelnden Sternen.",
+    [
+     "Milchstraße",
+     "Sternenhimmel",
+     "Nacht",
+     "Galaxie"
+    ]
+   ],
+   "zh": [
+    "银河",
+    "繁星闪烁的夜空中横跨着银河。",
+    [
+     "银河",
+     "星空",
+     "夜空",
+     "七夕"
+    ]
+   ],
+   "ko": [
+    "은하수",
+    "별이 반짝이는 밤하늘을 가로지르는 은하수.",
+    [
+     "은하수",
+     "별하늘",
+     "밤하늘",
+     "은하"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "planet-earth-moon",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Earth and Moon",
+    "A smiling Earth with the Moon orbiting nearby.",
+    [
+     "earth",
+     "moon",
+     "space",
+     "planet"
+    ]
+   ],
+   "ja": [
+    "地球と月",
+    "にっこり笑う地球と、そのまわりを回る月。",
+    [
+     "地球",
+     "月",
+     "宇宙",
+     "惑星"
+    ]
+   ],
+   "es": [
+    "La Tierra y la Luna",
+    "Una Tierra sonriente con la Luna en órbita a su lado.",
+    [
+     "Tierra",
+     "Luna",
+     "espacio",
+     "planeta"
+    ]
+   ],
+   "pt": [
+    "Terra e Lua",
+    "Uma Terra sorridente com a Lua em órbita ao lado.",
+    [
+     "Terra",
+     "Lua",
+     "espaço",
+     "planeta"
+    ]
+   ],
+   "fr": [
+    "La Terre et la Lune",
+    "Une Terre souriante avec la Lune en orbite tout près.",
+    [
+     "Terre",
+     "Lune",
+     "espace",
+     "planète"
+    ]
+   ],
+   "de": [
+    "Erde und Mond",
+    "Eine lächelnde Erde mit dem Mond auf seiner Umlaufbahn.",
+    [
+     "Erde",
+     "Mond",
+     "Weltall",
+     "Planet"
+    ]
+   ],
+   "zh": [
+    "地球和月亮",
+    "微笑的地球和绕着它转的月亮。",
+    [
+     "地球",
+     "月亮",
+     "宇宙",
+     "行星"
+    ]
+   ],
+   "ko": [
+    "지구와 달",
+    "방긋 웃는 지구와 그 주위를 도는 달.",
+    [
+     "지구",
+     "달",
+     "우주",
+     "행성"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "lavender",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Lavender Bunch",
+    "A bunch of purple lavender tied with a pink ribbon.",
+    [
+     "lavender",
+     "flowers",
+     "purple",
+     "herb"
+    ]
+   ],
+   "ja": [
+    "ラベンダーの花束",
+    "ピンクのリボンで結んだ紫のラベンダー。",
+    [
+     "ラベンダー",
+     "花",
+     "紫",
+     "ハーブ"
+    ]
+   ],
+   "es": [
+    "Ramo de lavanda",
+    "Un ramo de lavanda morada atado con un lazo rosa.",
+    [
+     "lavanda",
+     "flores",
+     "morado",
+     "hierba aromática"
+    ]
+   ],
+   "pt": [
+    "Buquê de lavanda",
+    "Um buquê de lavanda roxa amarrado com uma fita rosa.",
+    [
+     "lavanda",
+     "flores",
+     "roxo",
+     "erva"
+    ]
+   ],
+   "fr": [
+    "Bouquet de lavande",
+    "Un bouquet de lavande violette noué d'un ruban rose.",
+    [
+     "lavande",
+     "fleurs",
+     "violet",
+     "plante aromatique"
+    ]
+   ],
+   "de": [
+    "Lavendelstrauß",
+    "Ein Strauß lila Lavendel mit einer rosa Schleife.",
+    [
+     "Lavendel",
+     "Blumen",
+     "lila",
+     "Kräuter"
+    ]
+   ],
+   "zh": [
+    "薰衣草花束",
+    "用粉色丝带系起来的紫色薰衣草。",
+    [
+     "薰衣草",
+     "花",
+     "紫色",
+     "香草"
+    ]
+   ],
+   "ko": [
+    "라벤더 꽃다발",
+    "분홍 리본으로 묶은 보라색 라벤더.",
+    [
+     "라벤더",
+     "꽃",
+     "보라색",
+     "허브"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "poppy",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Poppies",
+    "Bright red and orange poppy flowers with green stems.",
+    [
+     "poppy",
+     "flowers",
+     "red flower",
+     "spring"
+    ]
+   ],
+   "ja": [
+    "ポピー",
+    "赤とオレンジのあざやかなポピーの花。",
+    [
+     "ポピー",
+     "ひなげし",
+     "花",
+     "春"
+    ]
+   ],
+   "es": [
+    "Amapolas",
+    "Amapolas rojas y naranjas de colores vivos con tallos verdes.",
+    [
+     "amapola",
+     "flores",
+     "flor roja",
+     "primavera"
+    ]
+   ],
+   "pt": [
+    "Papoulas",
+    "Papoulas vermelhas e laranja bem vivas com caules verdes.",
+    [
+     "papoula",
+     "flores",
+     "flor vermelha",
+     "primavera"
+    ]
+   ],
+   "fr": [
+    "Coquelicots",
+    "Des coquelicots rouges et orange éclatants sur leurs tiges vertes.",
+    [
+     "coquelicot",
+     "fleurs",
+     "fleur rouge",
+     "printemps"
+    ]
+   ],
+   "de": [
+    "Mohnblumen",
+    "Leuchtend rote und orange Mohnblumen mit grünen Stielen.",
+    [
+     "Mohnblume",
+     "Klatschmohn",
+     "Blumen",
+     "Frühling"
+    ]
+   ],
+   "zh": [
+    "虞美人",
+    "鲜艳的红色和橙色虞美人花。",
+    [
+     "虞美人",
+     "罂粟花",
+     "花",
+     "春天"
+    ]
+   ],
+   "ko": [
+    "양귀비꽃",
+    "빨갛고 주황빛이 선명한 양귀비꽃.",
+    [
+     "양귀비",
+     "개양귀비",
+     "꽃",
+     "봄"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "daisy",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Daisy",
+    "A cheerful white daisy with a smiling yellow center.",
+    [
+     "daisy",
+     "flower",
+     "white flower",
+     "spring"
+    ]
+   ],
+   "ja": [
+    "デイジー",
+    "まん中がにっこり笑う白いデイジーの花。",
+    [
+     "デイジー",
+     "花",
+     "白い花",
+     "春"
+    ]
+   ],
+   "es": [
+    "Margarita",
+    "Una margarita blanca y alegre con el centro amarillo sonriente.",
+    [
+     "margarita",
+     "flor",
+     "flor blanca",
+     "primavera"
+    ]
+   ],
+   "pt": [
+    "Margarida",
+    "Uma margarida branca e alegre com o miolo amarelo sorridente.",
+    [
+     "margarida",
+     "flor",
+     "flor branca",
+     "primavera"
+    ]
+   ],
+   "fr": [
+    "Marguerite",
+    "Une marguerite blanche et joyeuse au cœur jaune souriant.",
+    [
+     "marguerite",
+     "fleur",
+     "fleur blanche",
+     "printemps"
+    ]
+   ],
+   "de": [
+    "Gänseblümchen",
+    "Ein fröhliches weißes Gänseblümchen mit lächelnder gelber Mitte.",
+    [
+     "Gänseblümchen",
+     "Margerite",
+     "Blume",
+     "Frühling"
+    ]
+   ],
+   "zh": [
+    "雏菊",
+    "花心带着笑脸的白色雏菊。",
+    [
+     "雏菊",
+     "花",
+     "白色花",
+     "春天"
+    ]
+   ],
+   "ko": [
+    "데이지",
+    "가운데가 방긋 웃는 하얀 데이지 꽃.",
+    [
+     "데이지",
+     "꽃",
+     "흰 꽃",
+     "봄"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bonsai",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bonsai Tree",
+    "A small bonsai tree with a curved trunk in a shallow pot.",
+    [
+     "bonsai",
+     "tree",
+     "plant",
+     "Japan"
+    ]
+   ],
+   "ja": [
+    "盆栽",
+    "浅い鉢に植えられた、幹の曲がった松の盆栽。",
+    [
+     "盆栽",
+     "松",
+     "植物",
+     "和風"
+    ]
+   ],
+   "es": [
+    "Bonsái",
+    "Un pequeño bonsái de tronco curvo en una maceta baja.",
+    [
+     "bonsái",
+     "árbol",
+     "planta",
+     "Japón"
+    ]
+   ],
+   "pt": [
+    "Bonsai",
+    "Um pequeno bonsai de tronco curvo em um vaso raso.",
+    [
+     "bonsai",
+     "árvore",
+     "planta",
+     "Japão"
+    ]
+   ],
+   "fr": [
+    "Bonsaï",
+    "Un petit bonsaï au tronc tordu dans un pot peu profond.",
+    [
+     "bonsaï",
+     "arbre",
+     "plante",
+     "Japon"
+    ]
+   ],
+   "de": [
+    "Bonsai",
+    "Ein kleiner Bonsai mit geschwungenem Stamm in einer flachen Schale.",
+    [
+     "Bonsai",
+     "Baum",
+     "Pflanze",
+     "Japan"
+    ]
+   ],
+   "zh": [
+    "盆景",
+    "种在浅盆里、树干弯曲的小盆景。",
+    [
+     "盆景",
+     "松树",
+     "植物",
+     "日式"
+    ]
+   ],
+   "ko": [
+    "분재",
+    "얕은 화분에 심은 굽은 줄기의 분재.",
+    [
+     "분재",
+     "소나무",
+     "식물",
+     "일본풍"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "seed",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Seeds in Hands",
+    "Cupped hands holding seeds with a small sprout.",
+    [
+     "seeds",
+     "sprout",
+     "hands",
+     "growth"
+    ]
+   ],
+   "ja": [
+    "手のひらの種",
+    "両手ですくった種と、ちいさな芽。",
+    [
+     "種",
+     "芽",
+     "手",
+     "成長"
+    ]
+   ],
+   "es": [
+    "Semillas en las manos",
+    "Manos juntas que sostienen semillas con un pequeño brote.",
+    [
+     "semillas",
+     "brote",
+     "manos",
+     "crecimiento"
+    ]
+   ],
+   "pt": [
+    "Sementes nas mãos",
+    "Mãos em concha segurando sementes com um brotinho.",
+    [
+     "sementes",
+     "broto",
+     "mãos",
+     "crescimento"
+    ]
+   ],
+   "fr": [
+    "Graines dans les mains",
+    "Des mains en coupe qui tiennent des graines et une petite pousse.",
+    [
+     "graines",
+     "pousse",
+     "mains",
+     "croissance"
+    ]
+   ],
+   "de": [
+    "Samen in den Händen",
+    "Hohle Hände halten Samen mit einem kleinen Keimling.",
+    [
+     "Samen",
+     "Keimling",
+     "Hände",
+     "Wachstum"
+    ]
+   ],
+   "zh": [
+    "手中的种子",
+    "双手捧着种子和一棵小嫩芽。",
+    [
+     "种子",
+     "嫩芽",
+     "双手",
+     "成长"
+    ]
+   ],
+   "ko": [
+    "손 위의 씨앗",
+    "두 손에 담긴 씨앗과 작은 새싹.",
+    [
+     "씨앗",
+     "새싹",
+     "손",
+     "성장"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mushroom-forest",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Forest Mushrooms",
+    "Cute mushrooms growing on the grass in the forest.",
+    [
+     "mushroom",
+     "forest",
+     "autumn",
+     "nature"
+    ]
+   ],
+   "ja": [
+    "森のきのこ",
+    "森の草むらに生えたかわいいきのこたち。",
+    [
+     "きのこ",
+     "森",
+     "秋",
+     "自然"
+    ]
+   ],
+   "es": [
+    "Setas del bosque",
+    "Setas adorables que crecen en la hierba del bosque.",
+    [
+     "setas",
+     "hongos",
+     "bosque",
+     "otoño"
+    ]
+   ],
+   "pt": [
+    "Cogumelos na floresta",
+    "Cogumelos fofos crescendo na grama da floresta.",
+    [
+     "cogumelo",
+     "floresta",
+     "outono",
+     "natureza"
+    ]
+   ],
+   "fr": [
+    "Champignons de la forêt",
+    "De jolis champignons qui poussent dans l'herbe de la forêt.",
+    [
+     "champignon",
+     "forêt",
+     "automne",
+     "nature"
+    ]
+   ],
+   "de": [
+    "Pilze im Wald",
+    "Niedliche Pilze wachsen im Gras des Waldes.",
+    [
+     "Pilze",
+     "Wald",
+     "Herbst",
+     "Natur"
+    ]
+   ],
+   "zh": [
+    "森林里的蘑菇",
+    "森林草地上长出的可爱蘑菇。",
+    [
+     "蘑菇",
+     "森林",
+     "秋天",
+     "大自然"
+    ]
+   ],
+   "ko": [
+    "숲속 버섯",
+    "숲속 풀밭에 돋아난 귀여운 버섯들.",
+    [
+     "버섯",
+     "숲",
+     "가을",
+     "자연"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "snow-mountain",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Snowy Mountains",
+    "A mountain range with snow-capped peaks under the sun.",
+    [
+     "mountain",
+     "snow",
+     "mountain range",
+     "landscape"
+    ]
+   ],
+   "ja": [
+    "雪山",
+    "雪をかぶった山々が連なる山並み。",
+    [
+     "雪山",
+     "山",
+     "山脈",
+     "風景"
+    ]
+   ],
+   "es": [
+    "Montañas nevadas",
+    "Una cordillera con picos nevados bajo el sol.",
+    [
+     "montaña",
+     "nieve",
+     "cordillera",
+     "paisaje"
+    ]
+   ],
+   "pt": [
+    "Montanhas nevadas",
+    "Uma cordilheira com picos cobertos de neve sob o sol.",
+    [
+     "montanha",
+     "neve",
+     "cordilheira",
+     "paisagem"
+    ]
+   ],
+   "fr": [
+    "Montagnes enneigées",
+    "Une chaîne de montagnes aux sommets enneigés sous le soleil.",
+    [
+     "montagne",
+     "neige",
+     "chaîne de montagnes",
+     "paysage"
+    ]
+   ],
+   "de": [
+    "Schneeberge",
+    "Eine Bergkette mit schneebedeckten Gipfeln in der Sonne.",
+    [
+     "Berge",
+     "Schnee",
+     "Gebirge",
+     "Landschaft"
+    ]
+   ],
+   "zh": [
+    "雪山",
+    "阳光下山顶积雪的连绵群山。",
+    [
+     "雪山",
+     "山",
+     "山脉",
+     "风景"
+    ]
+   ],
+   "ko": [
+    "설산",
+    "햇살 아래 눈 덮인 봉우리가 이어진 산맥.",
+    [
+     "설산",
+     "산",
+     "산맥",
+     "풍경"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "aurora",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Aurora",
+    "Green and purple northern lights over mountains and pine trees.",
+    [
+     "aurora",
+     "northern lights",
+     "night sky",
+     "winter"
+    ]
+   ],
+   "ja": [
+    "オーロラ",
+    "山と針葉樹の上に広がる緑と紫のオーロラ。",
+    [
+     "オーロラ",
+     "夜空",
+     "北欧",
+     "冬"
+    ]
+   ],
+   "es": [
+    "Aurora boreal",
+    "Una aurora boreal verde y morada sobre montañas y pinos.",
+    [
+     "aurora boreal",
+     "luces del norte",
+     "cielo nocturno",
+     "invierno"
+    ]
+   ],
+   "pt": [
+    "Aurora boreal",
+    "Uma aurora boreal verde e roxa sobre montanhas e pinheiros.",
+    [
+     "aurora boreal",
+     "luzes do norte",
+     "céu noturno",
+     "inverno"
+    ]
+   ],
+   "fr": [
+    "Aurore boréale",
+    "Une aurore boréale verte et violette au-dessus des montagnes et des sapins.",
+    [
+     "aurore boréale",
+     "ciel nocturne",
+     "nuit",
+     "hiver"
+    ]
+   ],
+   "de": [
+    "Polarlicht",
+    "Grünes und lila Nordlicht über Bergen und Tannen.",
+    [
+     "Polarlicht",
+     "Nordlicht",
+     "Nachthimmel",
+     "Winter"
+    ]
+   ],
+   "zh": [
+    "极光",
+    "群山和松树上空的绿色与紫色极光。",
+    [
+     "极光",
+     "北极光",
+     "夜空",
+     "冬天"
+    ]
+   ],
+   "ko": [
+    "오로라",
+    "산과 침엽수 위로 펼쳐진 초록·보라 오로라.",
+    [
+     "오로라",
+     "북극광",
+     "밤하늘",
+     "겨울"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "coral-reef",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Coral Reef",
+    "Colorful corals on the sea floor with a little yellow fish.",
+    [
+     "coral reef",
+     "coral",
+     "ocean",
+     "sea life"
+    ]
+   ],
+   "ja": [
+    "サンゴ礁",
+    "カラフルなサンゴと小さな黄色い魚がいる海の底。",
+    [
+     "サンゴ礁",
+     "サンゴ",
+     "海",
+     "海の生き物"
+    ]
+   ],
+   "es": [
+    "Arrecife de coral",
+    "Corales de colores en el fondo del mar con un pececito amarillo.",
+    [
+     "arrecife de coral",
+     "coral",
+     "mar",
+     "vida marina"
+    ]
+   ],
+   "pt": [
+    "Recife de coral",
+    "Corais coloridos no fundo do mar com um peixinho amarelo.",
+    [
+     "recife de coral",
+     "coral",
+     "mar",
+     "vida marinha"
+    ]
+   ],
+   "fr": [
+    "Récif corallien",
+    "Des coraux colorés au fond de la mer avec un petit poisson jaune.",
+    [
+     "récif corallien",
+     "corail",
+     "mer",
+     "vie marine"
+    ]
+   ],
+   "de": [
+    "Korallenriff",
+    "Bunte Korallen auf dem Meeresgrund mit einem kleinen gelben Fisch.",
+    [
+     "Korallenriff",
+     "Korallen",
+     "Meer",
+     "Meeresbewohner"
+    ]
+   ],
+   "zh": [
+    "珊瑚礁",
+    "海底五彩的珊瑚和一条黄色小鱼。",
+    [
+     "珊瑚礁",
+     "珊瑚",
+     "大海",
+     "海洋生物"
+    ]
+   ],
+   "ko": [
+    "산호초",
+    "바닷속 알록달록한 산호와 작은 노란 물고기.",
+    [
+     "산호초",
+     "산호",
+     "바다",
+     "해양 생물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sea-grass",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Seaweed and Bubbles",
+    "Swaying seaweed on the sea floor with rising bubbles.",
+    [
+     "seaweed",
+     "sea grass",
+     "bubbles",
+     "underwater"
+    ]
+   ],
+   "ja": [
+    "海藻と泡",
+    "海の底でゆらゆら揺れる海藻と、のぼっていく泡。",
+    [
+     "海藻",
+     "わかめ",
+     "泡",
+     "海の中"
+    ]
+   ],
+   "es": [
+    "Algas y burbujas",
+    "Algas que se mecen en el fondo del mar con burbujas subiendo.",
+    [
+     "algas",
+     "alga marina",
+     "burbujas",
+     "fondo marino"
+    ]
+   ],
+   "pt": [
+    "Algas e bolhas",
+    "Algas balançando no fundo do mar com bolhas subindo.",
+    [
+     "algas",
+     "alga marinha",
+     "bolhas",
+     "fundo do mar"
+    ]
+   ],
+   "fr": [
+    "Algues et bulles",
+    "Des algues qui ondulent au fond de la mer avec des bulles qui montent.",
+    [
+     "algues",
+     "herbier marin",
+     "bulles",
+     "sous-marin"
+    ]
+   ],
+   "de": [
+    "Seetang und Blasen",
+    "Wiegender Seetang auf dem Meeresgrund mit aufsteigenden Blasen.",
+    [
+     "Seetang",
+     "Seegras",
+     "Blasen",
+     "Unterwasser"
+    ]
+   ],
+   "zh": [
+    "海草和气泡",
+    "在海底摇曳的海草和往上冒的气泡。",
+    [
+     "海草",
+     "海藻",
+     "气泡",
+     "海底"
+    ]
+   ],
+   "ko": [
+    "해초와 물방울",
+    "바다 밑에서 하늘거리는 해초와 올라가는 물방울.",
+    [
+     "해초",
+     "미역",
+     "물방울",
+     "바닷속"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "weather-umbrella-sun",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sun and Umbrella",
+    "A smiling sun and an umbrella with raindrops, like a weather forecast.",
+    [
+     "weather forecast",
+     "sun",
+     "umbrella",
+     "rain"
+    ]
+   ],
+   "ja": [
+    "晴れと傘",
+    "天気予報のような、にっこり太陽と雨粒のついた傘。",
+    [
+     "天気予報",
+     "晴れ",
+     "傘",
+     "雨"
+    ]
+   ],
+   "es": [
+    "Sol y paraguas",
+    "Un sol sonriente y un paraguas con gotas, como en el pronóstico del tiempo.",
+    [
+     "pronóstico del tiempo",
+     "sol",
+     "paraguas",
+     "lluvia"
+    ]
+   ],
+   "pt": [
+    "Sol e guarda-chuva",
+    "Um sol sorridente e um guarda-chuva com gotas, como na previsão do tempo.",
+    [
+     "previsão do tempo",
+     "sol",
+     "guarda-chuva",
+     "chuva"
+    ]
+   ],
+   "fr": [
+    "Soleil et parapluie",
+    "Un soleil souriant et un parapluie avec des gouttes, comme à la météo.",
+    [
+     "prévisions météo",
+     "soleil",
+     "parapluie",
+     "pluie"
+    ]
+   ],
+   "de": [
+    "Sonne und Regenschirm",
+    "Eine lächelnde Sonne und ein Regenschirm mit Tropfen wie im Wetterbericht.",
+    [
+     "Wettervorhersage",
+     "Sonne",
+     "Regenschirm",
+     "Regen"
+    ]
+   ],
+   "zh": [
+    "太阳和雨伞",
+    "像天气预报一样的微笑太阳和带雨滴的雨伞。",
+    [
+     "天气预报",
+     "晴天",
+     "雨伞",
+     "下雨"
+    ]
+   ],
+   "ko": [
+    "해와 우산",
+    "일기예보처럼 웃는 해와 빗방울 맺힌 우산.",
+    [
+     "일기예보",
+     "맑음",
+     "우산",
+     "비"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "thermometer-hot",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hot Thermometer",
+    "A thermometer reading high next to a blazing sun.",
+    [
+     "thermometer",
+     "hot",
+     "heat",
+     "summer"
+    ]
+   ],
+   "ja": [
+    "暑い日の温度計",
+    "ギラギラ太陽と、目盛りが高く上がった温度計。",
+    [
+     "温度計",
+     "暑い",
+     "猛暑",
+     "夏"
+    ]
+   ],
+   "es": [
+    "Termómetro de calor",
+    "Un termómetro muy alto junto a un sol ardiente.",
+    [
+     "termómetro",
+     "calor",
+     "ola de calor",
+     "verano"
+    ]
+   ],
+   "pt": [
+    "Termômetro no calor",
+    "Um termômetro bem alto ao lado de um sol escaldante.",
+    [
+     "termômetro",
+     "calor",
+     "onda de calor",
+     "verão"
+    ]
+   ],
+   "fr": [
+    "Thermomètre chaud",
+    "Un thermomètre au plus haut à côté d'un soleil brûlant.",
+    [
+     "thermomètre",
+     "chaleur",
+     "canicule",
+     "été"
+    ]
+   ],
+   "de": [
+    "Heißes Thermometer",
+    "Ein Thermometer mit hoher Anzeige neben einer glühenden Sonne.",
+    [
+     "Thermometer",
+     "heiß",
+     "Hitze",
+     "Sommer"
+    ]
+   ],
+   "zh": [
+    "高温温度计",
+    "火辣太阳旁边升得很高的温度计。",
+    [
+     "温度计",
+     "炎热",
+     "高温",
+     "夏天"
+    ]
+   ],
+   "ko": [
+    "더운 날 온도계",
+    "쨍쨍한 해 옆에서 높이 올라간 온도계.",
+    [
+     "온도계",
+     "더위",
+     "폭염",
+     "여름"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "thermometer-cold",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cold Thermometer",
+    "A thermometer reading low next to a snowflake.",
+    [
+     "thermometer",
+     "cold",
+     "freezing",
+     "winter"
+    ]
+   ],
+   "ja": [
+    "寒い日の温度計",
+    "雪の結晶と、目盛りが下がった温度計。",
+    [
+     "温度計",
+     "寒い",
+     "冷え込み",
+     "冬"
+    ]
+   ],
+   "es": [
+    "Termómetro de frío",
+    "Un termómetro muy bajo junto a un copo de nieve.",
+    [
+     "termómetro",
+     "frío",
+     "helada",
+     "invierno"
+    ]
+   ],
+   "pt": [
+    "Termômetro no frio",
+    "Um termômetro bem baixo ao lado de um floco de neve.",
+    [
+     "termômetro",
+     "frio",
+     "congelante",
+     "inverno"
+    ]
+   ],
+   "fr": [
+    "Thermomètre froid",
+    "Un thermomètre au plus bas à côté d'un flocon de neige.",
+    [
+     "thermomètre",
+     "froid",
+     "gel",
+     "hiver"
+    ]
+   ],
+   "de": [
+    "Kaltes Thermometer",
+    "Ein Thermometer mit niedriger Anzeige neben einer Schneeflocke.",
+    [
+     "Thermometer",
+     "kalt",
+     "Frost",
+     "Winter"
+    ]
+   ],
+   "zh": [
+    "低温温度计",
+    "雪花旁边降得很低的温度计。",
+    [
+     "温度计",
+     "寒冷",
+     "低温",
+     "冬天"
+    ]
+   ],
+   "ko": [
+    "추운 날 온도계",
+    "눈송이 옆에서 낮게 내려간 온도계.",
+    [
+     "온도계",
+     "추위",
+     "한파",
+     "겨울"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "wildflowers",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Wildflower Bouquet",
+    "A colorful bouquet of wildflowers wrapped in paper with a ribbon.",
+    [
+     "wildflowers",
+     "bouquet",
+     "flowers",
+     "gift"
+    ]
+   ],
+   "ja": [
+    "野の花の花束",
+    "紙で包んでリボンを結んだ、色とりどりの野の花。",
+    [
+     "野の花",
+     "花束",
+     "花",
+     "プレゼント"
+    ]
+   ],
+   "es": [
+    "Ramo de flores silvestres",
+    "Un ramo colorido de flores silvestres envuelto en papel con un lazo.",
+    [
+     "flores silvestres",
+     "ramo",
+     "flores",
+     "regalo"
+    ]
+   ],
+   "pt": [
+    "Buquê de flores do campo",
+    "Um buquê colorido de flores do campo embrulhado em papel com fita.",
+    [
+     "flores do campo",
+     "buquê",
+     "flores",
+     "presente"
+    ]
+   ],
+   "fr": [
+    "Bouquet de fleurs des champs",
+    "Un bouquet coloré de fleurs des champs emballé avec un ruban.",
+    [
+     "fleurs des champs",
+     "bouquet",
+     "fleurs",
+     "cadeau"
+    ]
+   ],
+   "de": [
+    "Wildblumenstrauß",
+    "Ein bunter Wildblumenstrauß in Papier mit einer Schleife.",
+    [
+     "Wildblumen",
+     "Blumenstrauß",
+     "Blumen",
+     "Geschenk"
+    ]
+   ],
+   "zh": [
+    "野花花束",
+    "用纸包好、系着丝带的缤纷野花花束。",
+    [
+     "野花",
+     "花束",
+     "鲜花",
+     "礼物"
+    ]
+   ],
+   "ko": [
+    "들꽃 꽃다발",
+    "종이로 싸서 리본을 묶은 알록달록한 들꽃 꽃다발.",
+    [
+     "들꽃",
+     "꽃다발",
+     "꽃",
+     "선물"
+    ]
+   ]
+  }
+ }
+]

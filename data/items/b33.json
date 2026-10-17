@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "lake",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Mountain Lake",
+    "A calm lake reflecting snowy mountains, surrounded by pine trees.",
+    [
+     "lake",
+     "reflection",
+     "mountain",
+     "landscape"
+    ]
+   ],
+   "ja": [
+    "山と湖",
+    "雪山が映る静かな湖と針葉樹の風景イラスト。",
+    [
+     "湖",
+     "山",
+     "風景",
+     "自然"
+    ]
+   ],
+   "es": [
+    "Lago de montaña",
+    "Un lago tranquilo que refleja montañas nevadas, rodeado de pinos.",
+    [
+     "lago",
+     "reflejo",
+     "montaña",
+     "paisaje"
+    ]
+   ],
+   "pt": [
+    "Lago na montanha",
+    "Um lago calmo refletindo montanhas com neve, cercado de pinheiros.",
+    [
+     "lago",
+     "reflexo",
+     "montanha",
+     "paisagem"
+    ]
+   ],
+   "fr": [
+    "Lac de montagne",
+    "Un lac paisible reflétant des montagnes enneigées, entouré de sapins.",
+    [
+     "lac",
+     "reflet",
+     "montagne",
+     "paysage"
+    ]
+   ],
+   "de": [
+    "Bergsee",
+    "Ein ruhiger See, in dem sich verschneite Berge spiegeln, umgeben von Tannen.",
+    [
+     "See",
+     "Spiegelung",
+     "Berge",
+     "Landschaft"
+    ]
+   ],
+   "zh": [
+    "山间湖泊",
+    "倒映着雪山、四周长着松树的宁静湖泊。",
+    [
+     "湖",
+     "倒影",
+     "山",
+     "风景"
+    ]
+   ],
+   "ko": [
+    "산과 호수",
+    "눈 덮인 산이 비치는 고요한 호수와 소나무 풍경.",
+    [
+     "호수",
+     "산",
+     "풍경",
+     "자연"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "flower-field",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Flower Field",
+    "A meadow full of colorful blooming flowers.",
+    [
+     "flower field",
+     "flowers",
+     "meadow",
+     "spring"
+    ]
+   ],
+   "ja": [
+    "お花畑",
+    "色とりどりの花が咲きほこるお花畑のイラスト。",
+    [
+     "お花畑",
+     "花",
+     "春",
+     "自然"
+    ]
+   ],
+   "es": [
+    "Campo de flores",
+    "Un prado lleno de flores de colores.",
+    [
+     "campo de flores",
+     "flores",
+     "prado",
+     "primavera"
+    ]
+   ],
+   "pt": [
+    "Campo de flores",
+    "Um campo cheio de flores coloridas desabrochando.",
+    [
+     "campo de flores",
+     "flores",
+     "jardim",
+     "primavera"
+    ]
+   ],
+   "fr": [
+    "Champ de fleurs",
+    "Une prairie remplie de fleurs colorées.",
+    [
+     "champ de fleurs",
+     "fleurs",
+     "prairie",
+     "printemps"
+    ]
+   ],
+   "de": [
+    "Blumenwiese",
+    "Eine Wiese voller bunter, blühender Blumen.",
+    [
+     "Blumenwiese",
+     "Blumen",
+     "Wiese",
+     "Frühling"
+    ]
+   ],
+   "zh": [
+    "花田",
+    "开满五颜六色花朵的花田。",
+    [
+     "花田",
+     "花",
+     "草地",
+     "春天"
+    ]
+   ],
+   "ko": [
+    "꽃밭",
+    "알록달록한 꽃이 가득 핀 꽃밭 일러스트.",
+    [
+     "꽃밭",
+     "꽃",
+     "봄",
+     "자연"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rice-paddy",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Rice Paddy",
+    "Rows of young rice plants growing in flooded paddy fields.",
+    [
+     "rice paddy",
+     "rice field",
+     "farming",
+     "countryside"
+    ]
+   ],
+   "ja": [
+    "田んぼ",
+    "水を張った田んぼに苗が並ぶ田園風景のイラスト。",
+    [
+     "田んぼ",
+     "田植え",
+     "稲",
+     "田舎"
+    ]
+   ],
+   "es": [
+    "Arrozal",
+    "Hileras de plantas de arroz jóvenes en campos inundados.",
+    [
+     "arrozal",
+     "arroz",
+     "agricultura",
+     "campo"
+    ]
+   ],
+   "pt": [
+    "Plantação de arroz",
+    "Fileiras de mudas de arroz crescendo em campos alagados.",
+    [
+     "arrozal",
+     "arroz",
+     "agricultura",
+     "interior"
+    ]
+   ],
+   "fr": [
+    "Rizière",
+    "Des rangées de jeunes plants de riz dans des rizières inondées.",
+    [
+     "rizière",
+     "riz",
+     "agriculture",
+     "campagne"
+    ]
+   ],
+   "de": [
+    "Reisfeld",
+    "Reihen junger Reispflanzen in gefluteten Reisfeldern.",
+    [
+     "Reisfeld",
+     "Reis",
+     "Landwirtschaft",
+     "Land"
+    ]
+   ],
+   "zh": [
+    "稻田",
+    "灌满水的稻田里整齐排列着秧苗。",
+    [
+     "稻田",
+     "水稻",
+     "插秧",
+     "田园"
+    ]
+   ],
+   "ko": [
+    "논",
+    "물을 댄 논에 모가 줄지어 자라는 시골 풍경.",
+    [
+     "논",
+     "벼",
+     "모내기",
+     "시골"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "fire",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling Flame",
+    "A cute smiling flame burning on crossed logs.",
+    [
+     "fire",
+     "flame",
+     "campfire",
+     "bonfire"
+    ]
+   ],
+   "ja": [
+    "にっこり炎",
+    "薪の上で燃える、にっこり笑った炎のイラスト。",
+    [
+     "火",
+     "炎",
+     "たき火",
+     "キャンプファイヤー"
+    ]
+   ],
+   "es": [
+    "Llama sonriente",
+    "Una llama sonriente y tierna ardiendo sobre troncos.",
+    [
+     "fuego",
+     "llama",
+     "fogata",
+     "hoguera"
+    ]
+   ],
+   "pt": [
+    "Chama sorridente",
+    "Uma chama fofa e sorridente queimando sobre lenha.",
+    [
+     "fogo",
+     "chama",
+     "fogueira",
+     "lenha"
+    ]
+   ],
+   "fr": [
+    "Flamme souriante",
+    "Une jolie flamme souriante qui brûle sur des bûches.",
+    [
+     "feu",
+     "flamme",
+     "feu de camp",
+     "bûches"
+    ]
+   ],
+   "de": [
+    "Lächelnde Flamme",
+    "Eine niedliche, lächelnde Flamme auf gekreuzten Holzscheiten.",
+    [
+     "Feuer",
+     "Flamme",
+     "Lagerfeuer",
+     "Holz"
+    ]
+   ],
+   "zh": [
+    "微笑的火焰",
+    "在木柴上燃烧、笑眯眯的可爱火焰。",
+    [
+     "火",
+     "火焰",
+     "篝火",
+     "营火"
+    ]
+   ],
+   "ko": [
+    "웃는 불꽃",
+    "장작 위에서 타오르는 방긋 웃는 불꽃.",
+    [
+     "불",
+     "불꽃",
+     "모닥불",
+     "캠프파이어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "water-drop",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Water Drop Character",
+    "A cute water drop with a smiling face.",
+    [
+     "water drop",
+     "water",
+     "droplet",
+     "save water"
+    ]
+   ],
+   "ja": [
+    "水のしずく",
+    "にっこり顔のかわいい水滴のキャラクター。",
+    [
+     "水",
+     "しずく",
+     "水滴",
+     "節水"
+    ]
+   ],
+   "es": [
+    "Gota de agua",
+    "Una tierna gota de agua con cara sonriente.",
+    [
+     "gota de agua",
+     "agua",
+     "gota",
+     "ahorro de agua"
+    ]
+   ],
+   "pt": [
+    "Gota d'água",
+    "Uma gota d'água fofa com rosto sorridente.",
+    [
+     "gota d'água",
+     "água",
+     "gota",
+     "economizar água"
+    ]
+   ],
+   "fr": [
+    "Goutte d'eau",
+    "Une jolie goutte d'eau au visage souriant.",
+    [
+     "goutte d'eau",
+     "eau",
+     "goutte",
+     "économie d'eau"
+    ]
+   ],
+   "de": [
+    "Wassertropfen",
+    "Ein niedlicher Wassertropfen mit lächelndem Gesicht.",
+    [
+     "Wassertropfen",
+     "Wasser",
+     "Tropfen",
+     "Wasser sparen"
+    ]
+   ],
+   "zh": [
+    "小水滴",
+    "带着笑脸的可爱水滴角色。",
+    [
+     "水滴",
+     "水",
+     "节约用水",
+     "可爱"
+    ]
+   ],
+   "ko": [
+    "물방울",
+    "웃는 얼굴의 귀여운 물방울 캐릭터.",
+    [
+     "물방울",
+     "물",
+     "절수",
+     "캐릭터"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "recycle",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Recycling Arrows",
+    "Three green arrows circling around a sprout, a symbol of recycling.",
+    [
+     "recycle",
+     "recycling",
+     "eco",
+     "environment"
+    ]
+   ],
+   "ja": [
+    "リサイクルマーク",
+    "新芽のまわりを緑の矢印がめぐるリサイクルのイラスト。",
+    [
+     "リサイクル",
+     "エコ",
+     "環境",
+     "循環"
+    ]
+   ],
+   "es": [
+    "Flechas de reciclaje",
+    "Tres flechas verdes girando alrededor de un brote, símbolo del reciclaje.",
+    [
+     "reciclaje",
+     "reciclar",
+     "ecología",
+     "medio ambiente"
+    ]
+   ],
+   "pt": [
+    "Setas de reciclagem",
+    "Três setas verdes girando em volta de um broto, símbolo da reciclagem.",
+    [
+     "reciclagem",
+     "reciclar",
+     "sustentável",
+     "meio ambiente"
+    ]
+   ],
+   "fr": [
+    "Flèches de recyclage",
+    "Trois flèches vertes qui tournent autour d'une pousse, symbole du recyclage.",
+    [
+     "recyclage",
+     "recycler",
+     "écologie",
+     "environnement"
+    ]
+   ],
+   "de": [
+    "Recycling-Pfeile",
+    "Drei grüne Pfeile im Kreis um einen Spross, Symbol für Recycling.",
+    [
+     "Recycling",
+     "Umwelt",
+     "Kreislauf",
+     "Öko"
+    ]
+   ],
+   "zh": [
+    "循环回收箭头",
+    "绕着嫩芽循环的三支绿色箭头，象征回收利用。",
+    [
+     "回收",
+     "循环利用",
+     "环保",
+     "环境"
+    ]
+   ],
+   "ko": [
+    "재활용 화살표",
+    "새싹 주위를 도는 초록 화살표, 재활용을 나타내는 일러스트.",
+    [
+     "재활용",
+     "리사이클",
+     "친환경",
+     "환경"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "earth-eco",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Eco Earth",
+    "A smiling Earth with a green sprout growing on top.",
+    [
+     "eco",
+     "earth",
+     "environment",
+     "sustainability"
+    ]
+   ],
+   "ja": [
+    "エコな地球",
+    "頭に新芽が生えた、にっこり笑う地球のイラスト。",
+    [
+     "地球",
+     "エコ",
+     "環境",
+     "SDGs"
+    ]
+   ],
+   "es": [
+    "Tierra ecológica",
+    "Una Tierra sonriente con un brote verde en la cabeza.",
+    [
+     "ecología",
+     "Tierra",
+     "medio ambiente",
+     "sostenibilidad"
+    ]
+   ],
+   "pt": [
+    "Terra sustentável",
+    "Uma Terra sorridente com um broto verde no topo.",
+    [
+     "sustentabilidade",
+     "Terra",
+     "meio ambiente",
+     "ecologia"
+    ]
+   ],
+   "fr": [
+    "Terre écologique",
+    "Une Terre souriante avec une pousse verte sur le dessus.",
+    [
+     "écologie",
+     "Terre",
+     "environnement",
+     "développement durable"
+    ]
+   ],
+   "de": [
+    "Öko-Erde",
+    "Eine lächelnde Erde, auf der ein grüner Spross wächst.",
+    [
+     "Öko",
+     "Erde",
+     "Umwelt",
+     "Nachhaltigkeit"
+    ]
+   ],
+   "zh": [
+    "环保地球",
+    "头顶长出嫩芽、笑眯眯的地球。",
+    [
+     "环保",
+     "地球",
+     "环境",
+     "可持续发展"
+    ]
+   ],
+   "ko": [
+    "친환경 지구",
+    "머리에 새싹이 자란 웃는 지구 일러스트.",
+    [
+     "지구",
+     "친환경",
+     "환경",
+     "지속가능성"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rock",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Rock",
+    "A round gray rock with a smiling face and a small stone beside it.",
+    [
+     "rock",
+     "stone",
+     "boulder",
+     "nature"
+    ]
+   ],
+   "ja": [
+    "岩",
+    "にっこり顔の大きな岩と小石のイラスト。",
+    [
+     "岩",
+     "石",
+     "小石",
+     "自然"
+    ]
+   ],
+   "es": [
+    "Roca",
+    "Una roca redonda con cara sonriente y una piedra pequeña al lado.",
+    [
+     "roca",
+     "piedra",
+     "peña",
+     "naturaleza"
+    ]
+   ],
+   "pt": [
+    "Pedra",
+    "Uma pedra redonda sorridente com uma pedrinha ao lado.",
+    [
+     "pedra",
+     "rocha",
+     "pedregulho",
+     "natureza"
+    ]
+   ],
+   "fr": [
+    "Rocher",
+    "Un gros rocher souriant avec un petit caillou à côté.",
+    [
+     "rocher",
+     "pierre",
+     "caillou",
+     "nature"
+    ]
+   ],
+   "de": [
+    "Felsbrocken",
+    "Ein runder, lächelnder Felsen mit einem kleinen Stein daneben.",
+    [
+     "Fels",
+     "Stein",
+     "Felsbrocken",
+     "Natur"
+    ]
+   ],
+   "zh": [
+    "石头",
+    "带着笑脸的大石头和旁边的小石子。",
+    [
+     "石头",
+     "岩石",
+     "石块",
+     "自然"
+    ]
+   ],
+   "ko": [
+    "바위",
+    "웃는 얼굴의 큰 바위와 작은 돌 일러스트.",
+    [
+     "바위",
+     "돌",
+     "자갈",
+     "자연"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "gem",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sparkling Gem",
+    "A shiny blue gemstone with sparkles.",
+    [
+     "gem",
+     "jewel",
+     "diamond",
+     "sparkle"
+    ]
+   ],
+   "ja": [
+    "キラキラの宝石",
+    "キラキラ輝く青い宝石のイラスト。",
+    [
+     "宝石",
+     "ダイヤモンド",
+     "キラキラ",
+     "ジュエリー"
+    ]
+   ],
+   "es": [
+    "Gema brillante",
+    "Una piedra preciosa azul y brillante con destellos.",
+    [
+     "gema",
+     "joya",
+     "diamante",
+     "brillo"
+    ]
+   ],
+   "pt": [
+    "Pedra preciosa",
+    "Uma pedra preciosa azul e brilhante com cintilações.",
+    [
+     "pedra preciosa",
+     "joia",
+     "diamante",
+     "brilho"
+    ]
+   ],
+   "fr": [
+    "Pierre précieuse",
+    "Une pierre précieuse bleue et étincelante.",
+    [
+     "pierre précieuse",
+     "bijou",
+     "diamant",
+     "éclat"
+    ]
+   ],
+   "de": [
+    "Funkelnder Edelstein",
+    "Ein glänzender blauer Edelstein mit Funkeln.",
+    [
+     "Edelstein",
+     "Juwel",
+     "Diamant",
+     "Glitzer"
+    ]
+   ],
+   "zh": [
+    "闪亮的宝石",
+    "闪闪发光的蓝色宝石。",
+    [
+     "宝石",
+     "钻石",
+     "闪亮",
+     "珠宝"
+    ]
+   ],
+   "ko": [
+    "반짝이는 보석",
+    "반짝반짝 빛나는 파란 보석 일러스트.",
+    [
+     "보석",
+     "다이아몬드",
+     "반짝임",
+     "주얼리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "seashell",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Seashell",
+    "A cute pink scallop shell with a smiling face.",
+    [
+     "seashell",
+     "shell",
+     "beach",
+     "ocean"
+    ]
+   ],
+   "ja": [
+    "貝がら",
+    "にっこり顔のピンクのホタテ貝がらのイラスト。",
+    [
+     "貝がら",
+     "貝",
+     "海",
+     "ビーチ"
+    ]
+   ],
+   "es": [
+    "Concha marina",
+    "Una tierna concha rosa de vieira con cara sonriente.",
+    [
+     "concha",
+     "concha marina",
+     "playa",
+     "mar"
+    ]
+   ],
+   "pt": [
+    "Concha do mar",
+    "Uma concha rosa fofa com rosto sorridente.",
+    [
+     "concha",
+     "concha do mar",
+     "praia",
+     "mar"
+    ]
+   ],
+   "fr": [
+    "Coquillage",
+    "Un joli coquillage rose en forme de coquille Saint-Jacques, au visage souriant.",
+    [
+     "coquillage",
+     "coquille",
+     "plage",
+     "mer"
+    ]
+   ],
+   "de": [
+    "Muschel",
+    "Eine niedliche rosa Jakobsmuschel mit lächelndem Gesicht.",
+    [
+     "Muschel",
+     "Muschelschale",
+     "Strand",
+     "Meer"
+    ]
+   ],
+   "zh": [
+    "贝壳",
+    "带着笑脸的可爱粉色扇贝壳。",
+    [
+     "贝壳",
+     "扇贝",
+     "海边",
+     "大海"
+    ]
+   ],
+   "ko": [
+    "조개껍데기",
+    "웃는 얼굴의 분홍 가리비 조개껍데기.",
+    [
+     "조개껍데기",
+     "조개",
+     "바다",
+     "해변"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "spring",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Spring Cherry Blossoms",
+    "A cherry blossom tree in full bloom with petals dancing in the air.",
+    [
+     "spring",
+     "cherry blossom",
+     "sakura",
+     "season"
+    ]
+   ],
+   "ja": [
+    "春の桜",
+    "満開の桜の木と舞い散る花びらの春の風景。",
+    [
+     "春",
+     "桜",
+     "花見",
+     "季節"
+    ]
+   ],
+   "es": [
+    "Primavera con cerezos",
+    "Un cerezo en plena floración con pétalos que vuelan.",
+    [
+     "primavera",
+     "cerezo",
+     "flor de cerezo",
+     "estación"
+    ]
+   ],
+   "pt": [
+    "Primavera com cerejeira",
+    "Uma cerejeira toda florida com pétalas voando no ar.",
+    [
+     "primavera",
+     "cerejeira",
+     "flor de cerejeira",
+     "estação"
+    ]
+   ],
+   "fr": [
+    "Printemps en fleurs",
+    "Un cerisier en pleine floraison avec des pétales qui volent.",
+    [
+     "printemps",
+     "cerisier",
+     "fleurs de cerisier",
+     "saison"
+    ]
+   ],
+   "de": [
+    "Frühling mit Kirschblüten",
+    "Ein blühender Kirschbaum mit tanzenden Blütenblättern.",
+    [
+     "Frühling",
+     "Kirschblüte",
+     "Sakura",
+     "Jahreszeit"
+    ]
+   ],
+   "zh": [
+    "春天的樱花",
+    "樱花盛开、花瓣飞舞的春日风景。",
+    [
+     "春天",
+     "樱花",
+     "赏花",
+     "季节"
+    ]
+   ],
+   "ko": [
+    "봄 벚꽃",
+    "벚꽃이 활짝 피고 꽃잎이 흩날리는 봄 풍경.",
+    [
+     "봄",
+     "벚꽃",
+     "꽃놀이",
+     "계절"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "summer",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Summer Beach",
+    "A sunny beach with blue sea and a beach umbrella.",
+    [
+     "summer",
+     "beach",
+     "sea",
+     "vacation"
+    ]
+   ],
+   "ja": [
+    "夏の海",
+    "太陽と青い海、ビーチパラソルの夏の風景イラスト。",
+    [
+     "夏",
+     "海",
+     "ビーチ",
+     "夏休み"
+    ]
+   ],
+   "es": [
+    "Verano en la playa",
+    "Una playa soleada con mar azul y sombrilla.",
+    [
+     "verano",
+     "playa",
+     "mar",
+     "vacaciones"
+    ]
+   ],
+   "pt": [
+    "Verão na praia",
+    "Uma praia ensolarada com mar azul e guarda-sol.",
+    [
+     "verão",
+     "praia",
+     "mar",
+     "férias"
+    ]
+   ],
+   "fr": [
+    "Été à la plage",
+    "Une plage ensoleillée avec la mer bleue et un parasol.",
+    [
+     "été",
+     "plage",
+     "mer",
+     "vacances"
+    ]
+   ],
+   "de": [
+    "Sommer am Strand",
+    "Ein sonniger Strand mit blauem Meer und Sonnenschirm.",
+    [
+     "Sommer",
+     "Strand",
+     "Meer",
+     "Urlaub"
+    ]
+   ],
+   "zh": [
+    "夏日海滩",
+    "阳光、蓝色大海和遮阳伞的夏日海滩风景。",
+    [
+     "夏天",
+     "海滩",
+     "大海",
+     "暑假"
+    ]
+   ],
+   "ko": [
+    "여름 바다",
+    "햇살과 푸른 바다, 비치 파라솔이 있는 여름 풍경.",
+    [
+     "여름",
+     "바다",
+     "해변",
+     "여름휴가"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "autumn",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Autumn Tree",
+    "A tree in red and orange autumn colors with falling leaves.",
+    [
+     "autumn",
+     "fall",
+     "autumn leaves",
+     "season"
+    ]
+   ],
+   "ja": [
+    "秋の紅葉",
+    "赤やオレンジに色づいた木と舞い落ちる葉の秋の風景。",
+    [
+     "秋",
+     "紅葉",
+     "落ち葉",
+     "季節"
+    ]
+   ],
+   "es": [
+    "Árbol de otoño",
+    "Un árbol con hojas rojas y naranjas de otoño que caen.",
+    [
+     "otoño",
+     "hojas de otoño",
+     "follaje",
+     "estación"
+    ]
+   ],
+   "pt": [
+    "Árvore de outono",
+    "Uma árvore com folhas vermelhas e laranja de outono caindo.",
+    [
+     "outono",
+     "folhas secas",
+     "folhagem",
+     "estação"
+    ]
+   ],
+   "fr": [
+    "Arbre d'automne",
+    "Un arbre aux couleurs rouges et orangées avec des feuilles qui tombent.",
+    [
+     "automne",
+     "feuilles mortes",
+     "feuillage",
+     "saison"
+    ]
+   ],
+   "de": [
+    "Herbstbaum",
+    "Ein Baum in roten und orangen Herbstfarben mit fallenden Blättern.",
+    [
+     "Herbst",
+     "Herbstlaub",
+     "Blätter",
+     "Jahreszeit"
+    ]
+   ],
+   "zh": [
+    "秋天的红叶",
+    "染上红色和橙色的树与飘落的叶子。",
+    [
+     "秋天",
+     "红叶",
+     "落叶",
+     "季节"
+    ]
+   ],
+   "ko": [
+    "가을 단풍",
+    "붉고 주황빛으로 물든 나무와 떨어지는 낙엽.",
+    [
+     "가을",
+     "단풍",
+     "낙엽",
+     "계절"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "winter",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Winter Snowman",
+    "A snowman with a scarf in a snowy scene with pine trees and snowflakes.",
+    [
+     "winter",
+     "snowman",
+     "snow",
+     "season"
+    ]
+   ],
+   "ja": [
+    "冬の雪だるま",
+    "マフラーを巻いた雪だるまと雪の積もった木の冬景色。",
+    [
+     "冬",
+     "雪だるま",
+     "雪",
+     "季節"
+    ]
+   ],
+   "es": [
+    "Muñeco de nieve en invierno",
+    "Un muñeco de nieve con bufanda en un paisaje nevado con pinos.",
+    [
+     "invierno",
+     "muñeco de nieve",
+     "nieve",
+     "estación"
+    ]
+   ],
+   "pt": [
+    "Boneco de neve no inverno",
+    "Um boneco de neve de cachecol numa paisagem nevada com pinheiros.",
+    [
+     "inverno",
+     "boneco de neve",
+     "neve",
+     "estação"
+    ]
+   ],
+   "fr": [
+    "Bonhomme de neige en hiver",
+    "Un bonhomme de neige avec une écharpe dans un paysage enneigé.",
+    [
+     "hiver",
+     "bonhomme de neige",
+     "neige",
+     "saison"
+    ]
+   ],
+   "de": [
+    "Schneemann im Winter",
+    "Ein Schneemann mit Schal in einer verschneiten Landschaft mit Tannen.",
+    [
+     "Winter",
+     "Schneemann",
+     "Schnee",
+     "Jahreszeit"
+    ]
+   ],
+   "zh": [
+    "冬天的雪人",
+    "围着围巾的雪人和积雪松树的冬日景色。",
+    [
+     "冬天",
+     "雪人",
+     "雪",
+     "季节"
+    ]
+   ],
+   "ko": [
+    "겨울 눈사람",
+    "목도리를 두른 눈사람과 눈 덮인 나무가 있는 겨울 풍경.",
+    [
+     "겨울",
+     "눈사람",
+     "눈",
+     "계절"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "leaf",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Green Leaf",
+    "A fresh green leaf with a smiling face and a dewdrop.",
+    [
+     "leaf",
+     "green",
+     "plant",
+     "nature"
+    ]
+   ],
+   "ja": [
+    "緑の葉っぱ",
+    "しずくのついた、にっこり顔の緑の葉っぱ。",
+    [
+     "葉っぱ",
+     "緑",
+     "植物",
+     "自然"
+    ]
+   ],
+   "es": [
+    "Hoja verde",
+    "Una hoja verde fresca con cara sonriente y una gota de rocío.",
+    [
+     "hoja",
+     "verde",
+     "planta",
+     "naturaleza"
+    ]
+   ],
+   "pt": [
+    "Folha verde",
+    "Uma folha verde fresquinha com rosto sorridente e uma gota de orvalho.",
+    [
+     "folha",
+     "verde",
+     "planta",
+     "natureza"
+    ]
+   ],
+   "fr": [
+    "Feuille verte",
+    "Une feuille verte toute fraîche au visage souriant avec une goutte de rosée.",
+    [
+     "feuille",
+     "vert",
+     "plante",
+     "nature"
+    ]
+   ],
+   "de": [
+    "Grünes Blatt",
+    "Ein frisches grünes Blatt mit lächelndem Gesicht und einem Tautropfen.",
+    [
+     "Blatt",
+     "grün",
+     "Pflanze",
+     "Natur"
+    ]
+   ],
+   "zh": [
+    "绿叶",
+    "带着露珠和笑脸的清新绿叶。",
+    [
+     "叶子",
+     "绿色",
+     "植物",
+     "自然"
+    ]
+   ],
+   "ko": [
+    "초록 잎사귀",
+    "이슬이 맺힌 웃는 얼굴의 초록 잎사귀.",
+    [
+     "잎사귀",
+     "초록",
+     "식물",
+     "자연"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "clover-field",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Clover Field",
+    "Clovers growing in the grass, including a lucky four-leaf clover.",
+    [
+     "clover",
+     "four-leaf clover",
+     "grass",
+     "luck"
+    ]
+   ],
+   "ja": [
+    "クローバー畑",
+    "四つ葉もまじった草むらのクローバーのイラスト。",
+    [
+     "クローバー",
+     "四つ葉",
+     "草むら",
+     "幸運"
+    ]
+   ],
+   "es": [
+    "Campo de tréboles",
+    "Tréboles en la hierba, entre ellos un trébol de cuatro hojas.",
+    [
+     "trébol",
+     "trébol de cuatro hojas",
+     "hierba",
+     "suerte"
+    ]
+   ],
+   "pt": [
+    "Campo de trevos",
+    "Trevos crescendo na grama, incluindo um trevo de quatro folhas.",
+    [
+     "trevo",
+     "trevo de quatro folhas",
+     "grama",
+     "sorte"
+    ]
+   ],
+   "fr": [
+    "Champ de trèfles",
+    "Des trèfles dans l'herbe, dont un trèfle à quatre feuilles.",
+    [
+     "trèfle",
+     "trèfle à quatre feuilles",
+     "herbe",
+     "chance"
+    ]
+   ],
+   "de": [
+    "Kleewiese",
+    "Klee im Gras, darunter ein vierblättriges Kleeblatt.",
+    [
+     "Klee",
+     "vierblättriges Kleeblatt",
+     "Wiese",
+     "Glück"
+    ]
+   ],
+   "zh": [
+    "三叶草地",
+    "草丛中的三叶草，还有一株幸运的四叶草。",
+    [
+     "三叶草",
+     "四叶草",
+     "草地",
+     "幸运"
+    ]
+   ],
+   "ko": [
+    "클로버 풀밭",
+    "네잎클로버가 섞인 풀밭의 클로버 일러스트.",
+    [
+     "클로버",
+     "네잎클로버",
+     "풀밭",
+     "행운"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "moss-stump",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Mossy Tree Stump",
+    "A smiling tree stump covered in moss with a little mushroom.",
+    [
+     "tree stump",
+     "moss",
+     "forest",
+     "mushroom"
+    ]
+   ],
+   "ja": [
+    "苔むした切り株",
+    "苔が生えた切り株と小さなきのこのイラスト。",
+    [
+     "切り株",
+     "苔",
+     "森",
+     "きのこ"
+    ]
+   ],
+   "es": [
+    "Tocón con musgo",
+    "Un tocón sonriente cubierto de musgo con una pequeña seta.",
+    [
+     "tocón",
+     "musgo",
+     "bosque",
+     "seta"
+    ]
+   ],
+   "pt": [
+    "Toco com musgo",
+    "Um toco de árvore sorridente coberto de musgo com um cogumelo.",
+    [
+     "toco de árvore",
+     "musgo",
+     "floresta",
+     "cogumelo"
+    ]
+   ],
+   "fr": [
+    "Souche moussue",
+    "Une souche d'arbre souriante couverte de mousse avec un petit champignon.",
+    [
+     "souche",
+     "mousse",
+     "forêt",
+     "champignon"
+    ]
+   ],
+   "de": [
+    "Bemooster Baumstumpf",
+    "Ein lächelnder, bemooster Baumstumpf mit einem kleinen Pilz.",
+    [
+     "Baumstumpf",
+     "Moos",
+     "Wald",
+     "Pilz"
+    ]
+   ],
+   "zh": [
+    "长满青苔的树桩",
+    "长着青苔和小蘑菇、笑眯眯的树桩。",
+    [
+     "树桩",
+     "青苔",
+     "森林",
+     "蘑菇"
+    ]
+   ],
+   "ko": [
+    "이끼 낀 그루터기",
+    "이끼가 덮인 웃는 그루터기와 작은 버섯.",
+    [
+     "그루터기",
+     "이끼",
+     "숲",
+     "버섯"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cave",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cave Entrance",
+    "A rocky cave entrance with glowing eyes peeking out from the dark.",
+    [
+     "cave",
+     "cavern",
+     "rock",
+     "adventure"
+    ]
+   ],
+   "ja": [
+    "洞窟",
+    "暗い奥から目がのぞく岩山の洞窟の入り口。",
+    [
+     "洞窟",
+     "洞穴",
+     "岩",
+     "冒険"
+    ]
+   ],
+   "es": [
+    "Entrada de cueva",
+    "La entrada de una cueva rocosa con ojos brillando en la oscuridad.",
+    [
+     "cueva",
+     "caverna",
+     "roca",
+     "aventura"
+    ]
+   ],
+   "pt": [
+    "Entrada da caverna",
+    "A entrada de uma caverna rochosa com olhos espiando no escuro.",
+    [
+     "caverna",
+     "gruta",
+     "pedra",
+     "aventura"
+    ]
+   ],
+   "fr": [
+    "Entrée de grotte",
+    "L'entrée d'une grotte rocheuse avec des yeux qui brillent dans le noir.",
+    [
+     "grotte",
+     "caverne",
+     "rocher",
+     "aventure"
+    ]
+   ],
+   "de": [
+    "Höhleneingang",
+    "Ein felsiger Höhleneingang mit leuchtenden Augen im Dunkeln.",
+    [
+     "Höhle",
+     "Felsen",
+     "Grotte",
+     "Abenteuer"
+    ]
+   ],
+   "zh": [
+    "洞穴入口",
+    "黑暗深处有眼睛在偷看的岩石洞穴入口。",
+    [
+     "洞穴",
+     "山洞",
+     "岩石",
+     "探险"
+    ]
+   ],
+   "ko": [
+    "동굴 입구",
+    "어두운 안쪽에서 눈이 반짝이는 바위 동굴 입구.",
+    [
+     "동굴",
+     "바위",
+     "탐험",
+     "자연"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cliff-sea",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Seaside Cliff",
+    "A grassy cliff overlooking the sea with waves and seagulls.",
+    [
+     "cliff",
+     "sea",
+     "coast",
+     "seagull"
+    ]
+   ],
+   "ja": [
+    "海辺の崖",
+    "波が打ち寄せる海とカモメが飛ぶ崖の風景。",
+    [
+     "崖",
+     "海",
+     "海岸",
+     "カモメ"
+    ]
+   ],
+   "es": [
+    "Acantilado junto al mar",
+    "Un acantilado con hierba frente al mar, con olas y gaviotas.",
+    [
+     "acantilado",
+     "mar",
+     "costa",
+     "gaviota"
+    ]
+   ],
+   "pt": [
+    "Falésia à beira-mar",
+    "Uma falésia gramada de frente para o mar, com ondas e gaivotas.",
+    [
+     "falésia",
+     "mar",
+     "litoral",
+     "gaivota"
+    ]
+   ],
+   "fr": [
+    "Falaise en bord de mer",
+    "Une falaise herbeuse surplombant la mer, avec des vagues et des mouettes.",
+    [
+     "falaise",
+     "mer",
+     "côte",
+     "mouette"
+    ]
+   ],
+   "de": [
+    "Klippe am Meer",
+    "Eine grasbewachsene Klippe über dem Meer mit Wellen und Möwen.",
+    [
+     "Klippe",
+     "Meer",
+     "Küste",
+     "Möwe"
+    ]
+   ],
+   "zh": [
+    "海边悬崖",
+    "面朝大海、海浪拍打、海鸥飞翔的悬崖。",
+    [
+     "悬崖",
+     "大海",
+     "海岸",
+     "海鸥"
+    ]
+   ],
+   "ko": [
+    "바닷가 절벽",
+    "파도가 치는 바다와 갈매기가 나는 절벽 풍경.",
+    [
+     "절벽",
+     "바다",
+     "해안",
+     "갈매기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hill",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Green Rolling Hills",
+    "Gentle green hills with a winding path, trees and clouds.",
+    [
+     "hills",
+     "meadow",
+     "countryside",
+     "landscape"
+    ]
+   ],
+   "ja": [
+    "緑の丘",
+    "小道がつづく、なだらかな緑の丘の風景イラスト。",
+    [
+     "丘",
+     "草原",
+     "風景",
+     "自然"
+    ]
+   ],
+   "es": [
+    "Colinas verdes",
+    "Suaves colinas verdes con un camino sinuoso, árboles y nubes.",
+    [
+     "colinas",
+     "prado",
+     "campo",
+     "paisaje"
+    ]
+   ],
+   "pt": [
+    "Colinas verdes",
+    "Colinas verdes suaves com uma trilha, árvores e nuvens.",
+    [
+     "colinas",
+     "campo",
+     "morro",
+     "paisagem"
+    ]
+   ],
+   "fr": [
+    "Collines verdoyantes",
+    "De douces collines vertes avec un chemin sinueux, des arbres et des nuages.",
+    [
+     "collines",
+     "prairie",
+     "campagne",
+     "paysage"
+    ]
+   ],
+   "de": [
+    "Grüne Hügel",
+    "Sanfte grüne Hügel mit einem gewundenen Weg, Bäumen und Wolken.",
+    [
+     "Hügel",
+     "Wiese",
+     "Landschaft",
+     "Natur"
+    ]
+   ],
+   "zh": [
+    "绿色山丘",
+    "小路蜿蜒、绿意盎然的起伏山丘。",
+    [
+     "山丘",
+     "草原",
+     "田园",
+     "风景"
+    ]
+   ],
+   "ko": [
+    "푸른 언덕",
+    "오솔길이 이어지는 완만한 초록 언덕 풍경.",
+    [
+     "언덕",
+     "초원",
+     "풍경",
+     "자연"
+    ]
+   ]
+  }
+ }
+]

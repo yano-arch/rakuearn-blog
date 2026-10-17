@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "iron",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Clothes iron",
+    "A cute steam iron ready to press wrinkled clothes.",
+    [
+     "iron",
+     "ironing",
+     "laundry",
+     "appliance"
+    ]
+   ],
+   "ja": [
+    "アイロン",
+    "しわを伸ばすスチームアイロンのイラスト。",
+    [
+     "アイロン",
+     "アイロンがけ",
+     "家事",
+     "家電"
+    ]
+   ],
+   "es": [
+    "Plancha de ropa",
+    "Una plancha de vapor lista para quitar las arrugas de la ropa.",
+    [
+     "plancha",
+     "planchar",
+     "ropa",
+     "electrodoméstico"
+    ]
+   ],
+   "pt": [
+    "Ferro de passar roupa",
+    "Um ferro a vapor fofo pronto para passar as roupas.",
+    [
+     "ferro de passar",
+     "passar roupa",
+     "tarefas domésticas",
+     "eletrodoméstico"
+    ]
+   ],
+   "fr": [
+    "Fer à repasser",
+    "Un joli fer à vapeur prêt à défroisser les vêtements.",
+    [
+     "fer à repasser",
+     "repassage",
+     "linge",
+     "électroménager"
+    ]
+   ],
+   "de": [
+    "Bügeleisen",
+    "Ein niedliches Dampfbügeleisen zum Glätten von Kleidung.",
+    [
+     "Bügeleisen",
+     "Bügeln",
+     "Wäsche",
+     "Haushaltsgerät"
+    ]
+   ],
+   "zh": [
+    "熨斗",
+    "准备熨平衣服褶皱的可爱蒸汽熨斗。",
+    [
+     "熨斗",
+     "熨衣服",
+     "家务",
+     "家电"
+    ]
+   ],
+   "ko": [
+    "다리미",
+    "구겨진 옷을 펴 주는 귀여운 스팀 다리미.",
+    [
+     "다리미",
+     "다림질",
+     "집안일",
+     "가전제품"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hair-dryer",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hair dryer",
+    "A pink hair dryer blowing warm air.",
+    [
+     "hair dryer",
+     "blow dryer",
+     "hair care",
+     "bathroom"
+    ]
+   ],
+   "ja": [
+    "ドライヤー",
+    "温風を出すピンクのヘアドライヤー。",
+    [
+     "ドライヤー",
+     "ヘアドライヤー",
+     "髪を乾かす",
+     "洗面所"
+    ]
+   ],
+   "es": [
+    "Secador de pelo",
+    "Un secador de pelo rosa soplando aire caliente.",
+    [
+     "secador",
+     "secador de pelo",
+     "cabello",
+     "baño"
+    ]
+   ],
+   "pt": [
+    "Secador de cabelo",
+    "Um secador de cabelo rosa soprando ar quente.",
+    [
+     "secador",
+     "secador de cabelo",
+     "cabelo",
+     "banheiro"
+    ]
+   ],
+   "fr": [
+    "Sèche-cheveux",
+    "Un sèche-cheveux rose qui souffle de l'air chaud.",
+    [
+     "sèche-cheveux",
+     "cheveux",
+     "coiffure",
+     "salle de bain"
+    ]
+   ],
+   "de": [
+    "Föhn",
+    "Ein rosa Haartrockner, der warme Luft bläst.",
+    [
+     "Föhn",
+     "Haartrockner",
+     "Haare",
+     "Badezimmer"
+    ]
+   ],
+   "zh": [
+    "吹风机",
+    "吹出热风的粉色吹风机。",
+    [
+     "吹风机",
+     "电吹风",
+     "吹头发",
+     "浴室"
+    ]
+   ],
+   "ko": [
+    "헤어드라이어",
+    "따뜻한 바람이 나오는 분홍색 드라이어.",
+    [
+     "드라이어",
+     "헤어드라이어",
+     "머리 말리기",
+     "욕실"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "television",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Retro television",
+    "A retro TV with antennas showing a sunny landscape.",
+    [
+     "TV",
+     "television",
+     "living room",
+     "retro"
+    ]
+   ],
+   "ja": [
+    "テレビ",
+    "アンテナ付きのレトロなテレビ。画面には晴れた景色。",
+    [
+     "テレビ",
+     "TV",
+     "リビング",
+     "レトロ"
+    ]
+   ],
+   "es": [
+    "Televisor retro",
+    "Un televisor retro con antenas que muestra un paisaje soleado.",
+    [
+     "televisor",
+     "tele",
+     "sala de estar",
+     "retro"
+    ]
+   ],
+   "pt": [
+    "Televisão retrô",
+    "Uma TV retrô com antenas mostrando uma paisagem ensolarada.",
+    [
+     "televisão",
+     "TV",
+     "sala de estar",
+     "retrô"
+    ]
+   ],
+   "fr": [
+    "Télévision rétro",
+    "Une télé rétro à antennes affichant un paysage ensoleillé.",
+    [
+     "télévision",
+     "télé",
+     "salon",
+     "rétro"
+    ]
+   ],
+   "de": [
+    "Fernseher",
+    "Ein Retro-Fernseher mit Antennen und sonniger Landschaft.",
+    [
+     "Fernseher",
+     "TV",
+     "Wohnzimmer",
+     "retro"
+    ]
+   ],
+   "zh": [
+    "电视机",
+    "带天线的复古电视，屏幕上是晴朗的风景。",
+    [
+     "电视",
+     "电视机",
+     "客厅",
+     "复古"
+    ]
+   ],
+   "ko": [
+    "텔레비전",
+    "안테나가 달린 레트로 TV, 화면에는 맑은 풍경.",
+    [
+     "TV",
+     "텔레비전",
+     "거실",
+     "레트로"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ceiling-light",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ceiling light",
+    "A pendant ceiling lamp glowing warmly.",
+    [
+     "ceiling light",
+     "lamp",
+     "lighting",
+     "interior"
+    ]
+   ],
+   "ja": [
+    "天井の照明",
+    "あたたかく光るペンダントライト。",
+    [
+     "照明",
+     "ライト",
+     "電気",
+     "インテリア"
+    ]
+   ],
+   "es": [
+    "Lámpara de techo",
+    "Una lámpara colgante de techo que brilla con luz cálida.",
+    [
+     "lámpara",
+     "luz",
+     "iluminación",
+     "decoración"
+    ]
+   ],
+   "pt": [
+    "Luminária de teto",
+    "Um pendente de teto brilhando com luz quente.",
+    [
+     "luminária",
+     "lustre",
+     "iluminação",
+     "decoração"
+    ]
+   ],
+   "fr": [
+    "Plafonnier",
+    "Une suspension au plafond qui éclaire chaleureusement.",
+    [
+     "plafonnier",
+     "lampe",
+     "éclairage",
+     "intérieur"
+    ]
+   ],
+   "de": [
+    "Deckenlampe",
+    "Eine Pendelleuchte an der Decke mit warmem Licht.",
+    [
+     "Deckenlampe",
+     "Lampe",
+     "Beleuchtung",
+     "Einrichtung"
+    ]
+   ],
+   "zh": [
+    "吊灯",
+    "散发温暖光芒的天花板吊灯。",
+    [
+     "吊灯",
+     "灯",
+     "照明",
+     "室内"
+    ]
+   ],
+   "ko": [
+    "천장 조명",
+    "따뜻하게 빛나는 펜던트 조명.",
+    [
+     "조명",
+     "전등",
+     "천장등",
+     "인테리어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "frying-pan",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Frying pan with egg",
+    "A frying pan with a smiling sunny-side-up egg.",
+    [
+     "frying pan",
+     "fried egg",
+     "cooking",
+     "breakfast"
+    ]
+   ],
+   "ja": [
+    "目玉焼きとフライパン",
+    "にっこり笑う目玉焼きがのったフライパン。",
+    [
+     "フライパン",
+     "目玉焼き",
+     "料理",
+     "朝ごはん"
+    ]
+   ],
+   "es": [
+    "Sartén con huevo",
+    "Una sartén con un huevo frito sonriente.",
+    [
+     "sartén",
+     "huevo frito",
+     "cocinar",
+     "desayuno"
+    ]
+   ],
+   "pt": [
+    "Frigideira com ovo",
+    "Uma frigideira com um ovo frito sorridente.",
+    [
+     "frigideira",
+     "ovo frito",
+     "cozinhar",
+     "café da manhã"
+    ]
+   ],
+   "fr": [
+    "Poêle avec un œuf",
+    "Une poêle avec un œuf au plat souriant.",
+    [
+     "poêle",
+     "œuf au plat",
+     "cuisine",
+     "petit-déjeuner"
+    ]
+   ],
+   "de": [
+    "Pfanne mit Spiegelei",
+    "Eine Bratpfanne mit einem lächelnden Spiegelei.",
+    [
+     "Pfanne",
+     "Spiegelei",
+     "Kochen",
+     "Frühstück"
+    ]
+   ],
+   "zh": [
+    "平底锅煎蛋",
+    "平底锅里有一个微笑的荷包蛋。",
+    [
+     "平底锅",
+     "煎蛋",
+     "做饭",
+     "早餐"
+    ]
+   ],
+   "ko": [
+    "프라이팬과 달걀프라이",
+    "웃는 달걀프라이가 담긴 프라이팬.",
+    [
+     "프라이팬",
+     "달걀프라이",
+     "요리",
+     "아침밥"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cutting-board",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Knife and cutting board",
+    "A kitchen knife on a cutting board with a carrot and slices.",
+    [
+     "cutting board",
+     "knife",
+     "cooking",
+     "vegetables"
+    ]
+   ],
+   "ja": [
+    "まな板と包丁",
+    "にんじんと輪切りがのったまな板と包丁。",
+    [
+     "まな板",
+     "包丁",
+     "料理",
+     "野菜"
+    ]
+   ],
+   "es": [
+    "Tabla de cortar y cuchillo",
+    "Un cuchillo sobre una tabla de cortar con una zanahoria en rodajas.",
+    [
+     "tabla de cortar",
+     "cuchillo",
+     "cocinar",
+     "verduras"
+    ]
+   ],
+   "pt": [
+    "Tábua de corte e faca",
+    "Uma faca sobre a tábua de corte com cenoura e rodelas.",
+    [
+     "tábua de corte",
+     "faca",
+     "cozinhar",
+     "legumes"
+    ]
+   ],
+   "fr": [
+    "Planche à découper et couteau",
+    "Un couteau sur une planche à découper avec une carotte en rondelles.",
+    [
+     "planche à découper",
+     "couteau",
+     "cuisine",
+     "légumes"
+    ]
+   ],
+   "de": [
+    "Schneidebrett und Messer",
+    "Ein Küchenmesser auf einem Schneidebrett mit Karotte und Scheiben.",
+    [
+     "Schneidebrett",
+     "Messer",
+     "Kochen",
+     "Gemüse"
+    ]
+   ],
+   "zh": [
+    "菜板和菜刀",
+    "菜板上放着菜刀和切片的胡萝卜。",
+    [
+     "菜板",
+     "菜刀",
+     "做饭",
+     "蔬菜"
+    ]
+   ],
+   "ko": [
+    "도마와 칼",
+    "당근과 썬 조각이 놓인 도마와 식칼.",
+    [
+     "도마",
+     "칼",
+     "요리",
+     "채소"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "kitchen-utensils",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Kitchen utensils",
+    "A ladle, spatula and whisk hanging on a rail.",
+    [
+     "kitchen utensils",
+     "ladle",
+     "spatula",
+     "whisk"
+    ]
+   ],
+   "ja": [
+    "キッチンツール",
+    "吊るされたおたま・フライ返し・泡立て器。",
+    [
+     "キッチンツール",
+     "おたま",
+     "フライ返し",
+     "泡立て器"
+    ]
+   ],
+   "es": [
+    "Utensilios de cocina",
+    "Un cucharón, una espátula y un batidor colgados.",
+    [
+     "utensilios de cocina",
+     "cucharón",
+     "espátula",
+     "batidor"
+    ]
+   ],
+   "pt": [
+    "Utensílios de cozinha",
+    "Concha, espátula e batedor pendurados.",
+    [
+     "utensílios de cozinha",
+     "concha",
+     "espátula",
+     "batedor"
+    ]
+   ],
+   "fr": [
+    "Ustensiles de cuisine",
+    "Une louche, une spatule et un fouet suspendus.",
+    [
+     "ustensiles de cuisine",
+     "louche",
+     "spatule",
+     "fouet"
+    ]
+   ],
+   "de": [
+    "Küchenutensilien",
+    "Schöpfkelle, Pfannenwender und Schneebesen an einer Stange.",
+    [
+     "Küchenutensilien",
+     "Schöpfkelle",
+     "Pfannenwender",
+     "Schneebesen"
+    ]
+   ],
+   "zh": [
+    "厨房用具",
+    "挂着的汤勺、锅铲和打蛋器。",
+    [
+     "厨房用具",
+     "汤勺",
+     "锅铲",
+     "打蛋器"
+    ]
+   ],
+   "ko": [
+    "주방 도구",
+    "걸려 있는 국자, 뒤집개, 거품기.",
+    [
+     "주방 도구",
+     "국자",
+     "뒤집개",
+     "거품기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "plates",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Stack of plates",
+    "A neat stack of white plates with blue rims.",
+    [
+     "plates",
+     "dishes",
+     "tableware",
+     "kitchen"
+    ]
+   ],
+   "ja": [
+    "重ねたお皿",
+    "青いふちの白いお皿を重ねたイラスト。",
+    [
+     "お皿",
+     "食器",
+     "皿",
+     "キッチン"
+    ]
+   ],
+   "es": [
+    "Pila de platos",
+    "Una pila ordenada de platos blancos con borde azul.",
+    [
+     "platos",
+     "vajilla",
+     "cocina",
+     "loza"
+    ]
+   ],
+   "pt": [
+    "Pilha de pratos",
+    "Uma pilha arrumada de pratos brancos com borda azul.",
+    [
+     "pratos",
+     "louça",
+     "cozinha",
+     "utensílios"
+    ]
+   ],
+   "fr": [
+    "Pile d'assiettes",
+    "Une pile bien rangée d'assiettes blanches à bord bleu.",
+    [
+     "assiettes",
+     "vaisselle",
+     "cuisine",
+     "art de la table"
+    ]
+   ],
+   "de": [
+    "Tellerstapel",
+    "Ein ordentlicher Stapel weißer Teller mit blauem Rand.",
+    [
+     "Teller",
+     "Geschirr",
+     "Küche",
+     "Tellerstapel"
+    ]
+   ],
+   "zh": [
+    "一摞盘子",
+    "整齐叠放的蓝边白盘子。",
+    [
+     "盘子",
+     "餐具",
+     "碗碟",
+     "厨房"
+    ]
+   ],
+   "ko": [
+    "쌓인 접시",
+    "파란 테두리의 흰 접시를 가지런히 쌓은 모습.",
+    [
+     "접시",
+     "식기",
+     "그릇",
+     "주방"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "teapot",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Teapot",
+    "A round teal teapot with steam from the spout.",
+    [
+     "teapot",
+     "tea",
+     "tea time",
+     "kitchen"
+    ]
+   ],
+   "ja": [
+    "ティーポット",
+    "注ぎ口から湯気が出る丸いティーポット。",
+    [
+     "ティーポット",
+     "紅茶",
+     "お茶",
+     "ティータイム"
+    ]
+   ],
+   "es": [
+    "Tetera",
+    "Una tetera redonda con vapor saliendo del pico.",
+    [
+     "tetera",
+     "té",
+     "hora del té",
+     "cocina"
+    ]
+   ],
+   "pt": [
+    "Bule de chá",
+    "Um bule redondo com vapor saindo do bico.",
+    [
+     "bule",
+     "chá",
+     "hora do chá",
+     "cozinha"
+    ]
+   ],
+   "fr": [
+    "Théière",
+    "Une théière ronde avec de la vapeur qui sort du bec.",
+    [
+     "théière",
+     "thé",
+     "heure du thé",
+     "cuisine"
+    ]
+   ],
+   "de": [
+    "Teekanne",
+    "Eine runde Teekanne mit Dampf aus der Tülle.",
+    [
+     "Teekanne",
+     "Tee",
+     "Teezeit",
+     "Küche"
+    ]
+   ],
+   "zh": [
+    "茶壶",
+    "壶嘴冒着热气的圆茶壶。",
+    [
+     "茶壶",
+     "茶",
+     "下午茶",
+     "厨房"
+    ]
+   ],
+   "ko": [
+    "티포트",
+    "주둥이에서 김이 나는 동그란 찻주전자.",
+    [
+     "티포트",
+     "찻주전자",
+     "차",
+     "티타임"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "oven-mitt",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Oven mitt",
+    "A cute red oven mitt for handling hot dishes.",
+    [
+     "oven mitt",
+     "oven glove",
+     "kitchen",
+     "baking"
+    ]
+   ],
+   "ja": [
+    "鍋つかみ",
+    "熱いお鍋を持つときの赤いミトン。",
+    [
+     "鍋つかみ",
+     "ミトン",
+     "キッチン",
+     "料理"
+    ]
+   ],
+   "es": [
+    "Guante de cocina",
+    "Un lindo guante de horno rojo para agarrar cosas calientes.",
+    [
+     "guante de cocina",
+     "manopla",
+     "cocina",
+     "horno"
+    ]
+   ],
+   "pt": [
+    "Luva de cozinha",
+    "Uma luva térmica vermelha para pegar panelas quentes.",
+    [
+     "luva de cozinha",
+     "luva térmica",
+     "cozinha",
+     "forno"
+    ]
+   ],
+   "fr": [
+    "Gant de cuisine",
+    "Un joli gant de cuisine rouge pour attraper les plats chauds.",
+    [
+     "gant de cuisine",
+     "manique",
+     "cuisine",
+     "four"
+    ]
+   ],
+   "de": [
+    "Ofenhandschuh",
+    "Ein niedlicher roter Topfhandschuh für heißes Geschirr.",
+    [
+     "Ofenhandschuh",
+     "Topfhandschuh",
+     "Küche",
+     "Backen"
+    ]
+   ],
+   "zh": [
+    "隔热手套",
+    "用来端热锅的可爱红色隔热手套。",
+    [
+     "隔热手套",
+     "烤箱手套",
+     "厨房",
+     "烘焙"
+    ]
+   ],
+   "ko": [
+    "오븐 장갑",
+    "뜨거운 냄비를 잡을 때 쓰는 빨간 주방 장갑.",
+    [
+     "오븐 장갑",
+     "주방 장갑",
+     "주방",
+     "베이킹"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "apron",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Apron",
+    "A pink apron with a pocket and a little heart.",
+    [
+     "apron",
+     "cooking",
+     "kitchen",
+     "housework"
+    ]
+   ],
+   "ja": [
+    "エプロン",
+    "ポケットとハートが付いたピンクのエプロン。",
+    [
+     "エプロン",
+     "料理",
+     "キッチン",
+     "家事"
+    ]
+   ],
+   "es": [
+    "Delantal",
+    "Un delantal rosa con bolsillo y un corazoncito.",
+    [
+     "delantal",
+     "cocinar",
+     "cocina",
+     "tareas del hogar"
+    ]
+   ],
+   "pt": [
+    "Avental",
+    "Um avental rosa com bolso e um coraçãozinho.",
+    [
+     "avental",
+     "cozinhar",
+     "cozinha",
+     "tarefas domésticas"
+    ]
+   ],
+   "fr": [
+    "Tablier",
+    "Un tablier rose avec une poche et un petit cœur.",
+    [
+     "tablier",
+     "cuisine",
+     "cuisiner",
+     "ménage"
+    ]
+   ],
+   "de": [
+    "Schürze",
+    "Eine rosa Schürze mit Tasche und kleinem Herz.",
+    [
+     "Schürze",
+     "Kochen",
+     "Küche",
+     "Hausarbeit"
+    ]
+   ],
+   "zh": [
+    "围裙",
+    "带口袋和小爱心的粉色围裙。",
+    [
+     "围裙",
+     "做饭",
+     "厨房",
+     "家务"
+    ]
+   ],
+   "ko": [
+    "앞치마",
+    "주머니와 작은 하트가 있는 분홍색 앞치마.",
+    [
+     "앞치마",
+     "요리",
+     "주방",
+     "집안일"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "toilet",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Toilet",
+    "A clean white toilet with a blue seat.",
+    [
+     "toilet",
+     "restroom",
+     "bathroom",
+     "WC"
+    ]
+   ],
+   "ja": [
+    "トイレ",
+    "青い便座の清潔な白いトイレ。",
+    [
+     "トイレ",
+     "便器",
+     "お手洗い",
+     "洗面所"
+    ]
+   ],
+   "es": [
+    "Inodoro",
+    "Un inodoro blanco y limpio con asiento azul.",
+    [
+     "inodoro",
+     "baño",
+     "váter",
+     "sanitario"
+    ]
+   ],
+   "pt": [
+    "Vaso sanitário",
+    "Um vaso sanitário branco e limpo com assento azul.",
+    [
+     "vaso sanitário",
+     "banheiro",
+     "privada",
+     "sanitário"
+    ]
+   ],
+   "fr": [
+    "Toilettes",
+    "Des toilettes blanches et propres avec un abattant bleu.",
+    [
+     "toilettes",
+     "WC",
+     "salle de bain",
+     "cuvette"
+    ]
+   ],
+   "de": [
+    "Toilette",
+    "Eine saubere weiße Toilette mit blauem Sitz.",
+    [
+     "Toilette",
+     "WC",
+     "Klo",
+     "Badezimmer"
+    ]
+   ],
+   "zh": [
+    "马桶",
+    "带蓝色马桶圈的干净白色马桶。",
+    [
+     "马桶",
+     "厕所",
+     "洗手间",
+     "卫生间"
+    ]
+   ],
+   "ko": [
+    "변기",
+    "파란 변기 시트가 있는 깨끗한 흰 변기.",
+    [
+     "변기",
+     "화장실",
+     "욕실",
+     "좌변기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "toothbrush-cup",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Toothbrushes in a cup",
+    "Three toothbrushes standing in a blue cup.",
+    [
+     "toothbrush",
+     "cup",
+     "brushing teeth",
+     "bathroom"
+    ]
+   ],
+   "ja": [
+    "コップと歯ブラシ",
+    "青いコップに立てた3本の歯ブラシ。",
+    [
+     "歯ブラシ",
+     "コップ",
+     "歯みがき",
+     "洗面所"
+    ]
+   ],
+   "es": [
+    "Cepillos de dientes en un vaso",
+    "Tres cepillos de dientes en un vaso azul.",
+    [
+     "cepillo de dientes",
+     "vaso",
+     "cepillarse",
+     "baño"
+    ]
+   ],
+   "pt": [
+    "Escovas de dente no copo",
+    "Três escovas de dente em um copo azul.",
+    [
+     "escova de dente",
+     "copo",
+     "escovar os dentes",
+     "banheiro"
+    ]
+   ],
+   "fr": [
+    "Brosses à dents dans un gobelet",
+    "Trois brosses à dents dans un gobelet bleu.",
+    [
+     "brosse à dents",
+     "gobelet",
+     "brossage",
+     "salle de bain"
+    ]
+   ],
+   "de": [
+    "Zahnbürsten im Becher",
+    "Drei Zahnbürsten in einem blauen Zahnputzbecher.",
+    [
+     "Zahnbürste",
+     "Zahnputzbecher",
+     "Zähneputzen",
+     "Badezimmer"
+    ]
+   ],
+   "zh": [
+    "杯子里的牙刷",
+    "插在蓝色杯子里的三支牙刷。",
+    [
+     "牙刷",
+     "漱口杯",
+     "刷牙",
+     "洗手间"
+    ]
+   ],
+   "ko": [
+    "컵에 꽂힌 칫솔",
+    "파란 컵에 꽂힌 칫솔 세 개.",
+    [
+     "칫솔",
+     "양치컵",
+     "양치질",
+     "욕실"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "towel",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Folded towels",
+    "A stack of soft, colorful folded towels.",
+    [
+     "towel",
+     "towels",
+     "bathroom",
+     "laundry"
+    ]
+   ],
+   "ja": [
+    "たたんだタオル",
+    "カラフルなふわふわタオルを重ねたイラスト。",
+    [
+     "タオル",
+     "バスタオル",
+     "洗面所",
+     "洗濯"
+    ]
+   ],
+   "es": [
+    "Toallas dobladas",
+    "Una pila de toallas suaves y coloridas dobladas.",
+    [
+     "toalla",
+     "toallas",
+     "baño",
+     "ropa limpia"
+    ]
+   ],
+   "pt": [
+    "Toalhas dobradas",
+    "Uma pilha de toalhas macias e coloridas dobradas.",
+    [
+     "toalha",
+     "toalhas",
+     "banheiro",
+     "roupa limpa"
+    ]
+   ],
+   "fr": [
+    "Serviettes pliées",
+    "Une pile de serviettes douces et colorées.",
+    [
+     "serviette",
+     "serviettes de bain",
+     "salle de bain",
+     "linge"
+    ]
+   ],
+   "de": [
+    "Gefaltete Handtücher",
+    "Ein Stapel weicher, bunter Handtücher.",
+    [
+     "Handtuch",
+     "Handtücher",
+     "Badezimmer",
+     "Wäsche"
+    ]
+   ],
+   "zh": [
+    "叠好的毛巾",
+    "一摞柔软的彩色毛巾。",
+    [
+     "毛巾",
+     "浴巾",
+     "浴室",
+     "洗衣"
+    ]
+   ],
+   "ko": [
+    "개어 둔 수건",
+    "폭신한 알록달록 수건을 쌓아 둔 모습.",
+    [
+     "수건",
+     "타월",
+     "욕실",
+     "빨래"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "soap",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Soap with bubbles",
+    "A pink bar of soap on a dish with foamy bubbles.",
+    [
+     "soap",
+     "bubbles",
+     "hand washing",
+     "hygiene"
+    ]
+   ],
+   "ja": [
+    "泡と石けん",
+    "ソープディッシュにのったピンクの石けんと泡。",
+    [
+     "石けん",
+     "泡",
+     "手洗い",
+     "衛生"
+    ]
+   ],
+   "es": [
+    "Jabón con burbujas",
+    "Una pastilla de jabón rosa en su jabonera con burbujas.",
+    [
+     "jabón",
+     "burbujas",
+     "lavarse las manos",
+     "higiene"
+    ]
+   ],
+   "pt": [
+    "Sabonete com bolhas",
+    "Um sabonete rosa na saboneteira com bolhas de espuma.",
+    [
+     "sabonete",
+     "bolhas",
+     "lavar as mãos",
+     "higiene"
+    ]
+   ],
+   "fr": [
+    "Savon et bulles",
+    "Un savon rose sur un porte-savon avec des bulles.",
+    [
+     "savon",
+     "bulles",
+     "lavage des mains",
+     "hygiène"
+    ]
+   ],
+   "de": [
+    "Seife mit Schaumblasen",
+    "Ein rosa Stück Seife in der Schale mit Seifenblasen.",
+    [
+     "Seife",
+     "Seifenblasen",
+     "Händewaschen",
+     "Hygiene"
+    ]
+   ],
+   "zh": [
+    "香皂和泡泡",
+    "肥皂盒里的粉色香皂和泡泡。",
+    [
+     "香皂",
+     "肥皂",
+     "泡泡",
+     "洗手"
+    ]
+   ],
+   "ko": [
+    "거품과 비누",
+    "비누 받침에 놓인 분홍 비누와 거품.",
+    [
+     "비누",
+     "거품",
+     "손 씻기",
+     "위생"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "shampoo",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Shampoo bottles",
+    "A pump bottle and a squeeze bottle of shampoo.",
+    [
+     "shampoo",
+     "conditioner",
+     "bottle",
+     "bathroom"
+    ]
+   ],
+   "ja": [
+    "シャンプーボトル",
+    "ポンプ式とチューブ式のシャンプーボトル。",
+    [
+     "シャンプー",
+     "リンス",
+     "ボトル",
+     "お風呂"
+    ]
+   ],
+   "es": [
+    "Botes de champú",
+    "Un bote con dosificador y otro bote de champú.",
+    [
+     "champú",
+     "acondicionador",
+     "bote",
+     "baño"
+    ]
+   ],
+   "pt": [
+    "Frascos de xampu",
+    "Um frasco com válvula pump e outro frasco de xampu.",
+    [
+     "xampu",
+     "condicionador",
+     "frasco",
+     "banheiro"
+    ]
+   ],
+   "fr": [
+    "Flacons de shampooing",
+    "Un flacon à pompe et un flacon souple de shampooing.",
+    [
+     "shampooing",
+     "après-shampooing",
+     "flacon",
+     "salle de bain"
+    ]
+   ],
+   "de": [
+    "Shampooflaschen",
+    "Eine Pumpflasche und eine Tube Shampoo.",
+    [
+     "Shampoo",
+     "Spülung",
+     "Flasche",
+     "Badezimmer"
+    ]
+   ],
+   "zh": [
+    "洗发水瓶",
+    "按压瓶和挤压瓶的洗发水。",
+    [
+     "洗发水",
+     "护发素",
+     "瓶子",
+     "浴室"
+    ]
+   ],
+   "ko": [
+    "샴푸 통",
+    "펌프형 통과 짜는 통에 담긴 샴푸.",
+    [
+     "샴푸",
+     "린스",
+     "샴푸 통",
+     "욕실"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "shower",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Shower head",
+    "A shower head spraying water drops.",
+    [
+     "shower",
+     "shower head",
+     "water",
+     "bathroom"
+    ]
+   ],
+   "ja": [
+    "シャワー",
+    "水がしたたるシャワーヘッド。",
+    [
+     "シャワー",
+     "シャワーヘッド",
+     "お風呂",
+     "水"
+    ]
+   ],
+   "es": [
+    "Ducha",
+    "Una regadera de ducha que rocía gotas de agua.",
+    [
+     "ducha",
+     "regadera",
+     "agua",
+     "baño"
+    ]
+   ],
+   "pt": [
+    "Chuveiro",
+    "Um chuveiro jorrando gotas de água.",
+    [
+     "chuveiro",
+     "banho",
+     "água",
+     "banheiro"
+    ]
+   ],
+   "fr": [
+    "Pommeau de douche",
+    "Un pommeau de douche qui projette des gouttes d'eau.",
+    [
+     "douche",
+     "pommeau de douche",
+     "eau",
+     "salle de bain"
+    ]
+   ],
+   "de": [
+    "Duschkopf",
+    "Ein Duschkopf, aus dem Wassertropfen sprühen.",
+    [
+     "Dusche",
+     "Duschkopf",
+     "Wasser",
+     "Badezimmer"
+    ]
+   ],
+   "zh": [
+    "淋浴喷头",
+    "喷出水滴的淋浴喷头。",
+    [
+     "淋浴",
+     "花洒",
+     "水",
+     "浴室"
+    ]
+   ],
+   "ko": [
+    "샤워기",
+    "물방울이 쏟아지는 샤워 헤드.",
+    [
+     "샤워",
+     "샤워기",
+     "물",
+     "욕실"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "laundry-hanging",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Laundry hanging to dry",
+    "A T-shirt, sock and towel drying on a clothesline.",
+    [
+     "laundry",
+     "clothesline",
+     "drying clothes",
+     "housework"
+    ]
+   ],
+   "ja": [
+    "洗濯物干し",
+    "物干しロープに干したTシャツ・靴下・タオル。",
+    [
+     "洗濯物",
+     "物干し",
+     "洗濯",
+     "家事"
+    ]
+   ],
+   "es": [
+    "Ropa tendida",
+    "Una camiseta, un calcetín y una toalla secándose en el tendedero.",
+    [
+     "ropa tendida",
+     "tendedero",
+     "colada",
+     "tareas del hogar"
+    ]
+   ],
+   "pt": [
+    "Roupas no varal",
+    "Uma camiseta, uma meia e uma toalha secando no varal.",
+    [
+     "varal",
+     "roupa lavada",
+     "secar roupa",
+     "tarefas domésticas"
+    ]
+   ],
+   "fr": [
+    "Linge qui sèche",
+    "Un t-shirt, une chaussette et une serviette sur la corde à linge.",
+    [
+     "linge",
+     "corde à linge",
+     "séchage",
+     "ménage"
+    ]
+   ],
+   "de": [
+    "Wäsche auf der Leine",
+    "T-Shirt, Socke und Handtuch trocknen auf der Wäscheleine.",
+    [
+     "Wäsche",
+     "Wäscheleine",
+     "Wäsche trocknen",
+     "Hausarbeit"
+    ]
+   ],
+   "zh": [
+    "晾衣服",
+    "晾衣绳上晒着的T恤、袜子和毛巾。",
+    [
+     "晾衣服",
+     "晾衣绳",
+     "洗衣",
+     "家务"
+    ]
+   ],
+   "ko": [
+    "빨래 널기",
+    "빨랫줄에 널린 티셔츠, 양말, 수건.",
+    [
+     "빨래",
+     "빨랫줄",
+     "빨래 널기",
+     "집안일"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "folding-clothes",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Stack of folded clothes",
+    "Neatly folded shirts piled up in a colorful stack.",
+    [
+     "folded clothes",
+     "laundry",
+     "tidy",
+     "clothes"
+    ]
+   ],
+   "ja": [
+    "たたんだ服",
+    "きれいにたたんで重ねたカラフルな服。",
+    [
+     "たたんだ服",
+     "洗濯物",
+     "片付け",
+     "衣類"
+    ]
+   ],
+   "es": [
+    "Ropa doblada",
+    "Camisetas bien dobladas apiladas en colores.",
+    [
+     "ropa doblada",
+     "colada",
+     "orden",
+     "ropa"
+    ]
+   ],
+   "pt": [
+    "Pilha de roupas dobradas",
+    "Camisetas bem dobradas empilhadas e coloridas.",
+    [
+     "roupas dobradas",
+     "roupa lavada",
+     "organização",
+     "roupas"
+    ]
+   ],
+   "fr": [
+    "Pile de vêtements pliés",
+    "Des vêtements bien pliés empilés en couleurs.",
+    [
+     "vêtements pliés",
+     "linge",
+     "rangement",
+     "vêtements"
+    ]
+   ],
+   "de": [
+    "Gefaltete Kleidung",
+    "Ordentlich gefaltete, bunte Kleidungsstücke im Stapel.",
+    [
+     "gefaltete Kleidung",
+     "Wäsche",
+     "Ordnung",
+     "Kleidung"
+    ]
+   ],
+   "zh": [
+    "叠好的衣服",
+    "整齐叠好的一摞彩色衣服。",
+    [
+     "叠衣服",
+     "衣服",
+     "整理",
+     "洗衣"
+    ]
+   ],
+   "ko": [
+    "개어 둔 옷",
+    "가지런히 개어 쌓아 둔 알록달록한 옷.",
+    [
+     "옷 개기",
+     "빨래",
+     "정리",
+     "옷"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "washing-dishes",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Washing dishes in the sink",
+    "A plate, sponge and soap bubbles in a kitchen sink.",
+    [
+     "washing dishes",
+     "sink",
+     "dishes",
+     "housework"
+    ]
+   ],
+   "ja": [
+    "シンクで皿洗い",
+    "キッチンのシンクでお皿とスポンジ、泡。",
+    [
+     "皿洗い",
+     "シンク",
+     "洗い物",
+     "家事"
+    ]
+   ],
+   "es": [
+    "Lavar los platos",
+    "Un plato, una esponja y burbujas en el fregadero.",
+    [
+     "lavar los platos",
+     "fregadero",
+     "platos",
+     "tareas del hogar"
+    ]
+   ],
+   "pt": [
+    "Lavando a louça",
+    "Um prato, uma esponja e bolhas na pia da cozinha.",
+    [
+     "lavar louça",
+     "pia",
+     "louça",
+     "tarefas domésticas"
+    ]
+   ],
+   "fr": [
+    "Faire la vaisselle",
+    "Une assiette, une éponge et des bulles dans l'évier.",
+    [
+     "vaisselle",
+     "évier",
+     "éponge",
+     "ménage"
+    ]
+   ],
+   "de": [
+    "Abwaschen in der Spüle",
+    "Ein Teller, ein Schwamm und Seifenblasen in der Spüle.",
+    [
+     "Abwasch",
+     "Spüle",
+     "Geschirr spülen",
+     "Hausarbeit"
+    ]
+   ],
+   "zh": [
+    "在水槽洗碗",
+    "水槽里的盘子、海绵和泡泡。",
+    [
+     "洗碗",
+     "水槽",
+     "餐具",
+     "家务"
+    ]
+   ],
+   "ko": [
+    "싱크대 설거지",
+    "싱크대 속 접시와 수세미, 거품.",
+    [
+     "설거지",
+     "싱크대",
+     "그릇",
+     "집안일"
+    ]
+   ]
+  }
+ }
+]

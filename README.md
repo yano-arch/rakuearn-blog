@@ -20,11 +20,11 @@
 `/{lang}/` トップ、`/{lang}/illust/{slug}/` 個別、`/{lang}/category/{cat}/`、`/{lang}/license/`、`/{lang}/privacy/`
 言語: en, ja, es, pt, fr, de, zh, ko。`/` はブラウザの言語に合わせて自動で振り分け。
 
-## 公開（Vercel）
-1. GitHubにpush → Vercelで新規プロジェクトとしてインポート（Framework: Other）
-2. `vercel.json` の設定で `python3 build.py` → `dist/` が公開される
-   ※ビルド環境でPythonが使えない場合は、ローカルで `python3 build.py` した `dist/` をOutput Directoryにして配信
-3. Domains に `rakuearn.com` を追加し、DNSをVercelの指示どおり設定
+## 公開（Cloudflare Pages）
+1. Cloudflare ダッシュボード → Workers & Pages → Create → Pages → Connect to Git でこのリポジトリを選ぶ
+2. Build command: `python3 build.py` / Build output directory: `dist`（Framework preset: None）
+3. Custom domains に `rakuearn.com` を追加（ドメインがCloudflareにあればDNSは自動設定）
+キャッシュ設定は `public/_headers`。無料プランは1サイト2万ファイルまで（1イラスト＝8言語ページ＋画像2枚で約10ファイル）。
 
 ## 広告（AdSense）
 承認後、`build.py` 冒頭の `ADSENSE_CLIENT` と `ADSENSE_SLOTS` を設定するだけで、

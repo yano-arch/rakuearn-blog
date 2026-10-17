@@ -1,0 +1,1726 @@
+[
+ {
+  "slug": "eraser",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling eraser",
+    "A cute pink eraser with a blue paper sleeve and a happy face.",
+    [
+     "eraser",
+     "stationery",
+     "school supplies"
+    ]
+   ],
+   "ja": [
+    "にっこり消しゴム",
+    "青いケースに入ったピンクの消しゴムに笑顔がついたかわいいイラスト。",
+    [
+     "消しゴム",
+     "文房具",
+     "学用品"
+    ]
+   ],
+   "es": [
+    "Goma de borrar sonriente",
+    "Una linda goma de borrar rosa con funda azul y carita feliz.",
+    [
+     "goma de borrar",
+     "útiles escolares",
+     "papelería"
+    ]
+   ],
+   "pt": [
+    "Borracha sorridente",
+    "Uma borracha rosa fofa com capinha azul e rostinho feliz.",
+    [
+     "borracha",
+     "material escolar",
+     "papelaria"
+    ]
+   ],
+   "fr": [
+    "Gomme souriante",
+    "Une jolie gomme rose avec un étui bleu et un visage joyeux.",
+    [
+     "gomme",
+     "fournitures scolaires",
+     "papeterie"
+    ]
+   ],
+   "de": [
+    "Lächelnder Radiergummi",
+    "Ein niedlicher rosa Radiergummi mit blauer Hülle und fröhlichem Gesicht.",
+    [
+     "Radiergummi",
+     "Schreibwaren",
+     "Schulsachen"
+    ]
+   ],
+   "zh": [
+    "微笑的橡皮擦",
+    "套着蓝色纸套、带笑脸的可爱粉色橡皮擦。",
+    [
+     "橡皮擦",
+     "文具",
+     "学习用品"
+    ]
+   ],
+   "ko": [
+    "웃는 지우개",
+    "파란 케이스에 든 분홍 지우개에 웃는 얼굴이 있는 귀여운 그림.",
+    [
+     "지우개",
+     "문구",
+     "학용품"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "crayons",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Box of crayons",
+    "Five colorful crayons standing in a row.",
+    [
+     "crayons",
+     "drawing",
+     "kids",
+     "art supplies"
+    ]
+   ],
+   "ja": [
+    "クレヨン",
+    "カラフルなクレヨンが5本並んだイラスト。",
+    [
+     "クレヨン",
+     "お絵かき",
+     "子ども",
+     "画材"
+    ]
+   ],
+   "es": [
+    "Crayones de colores",
+    "Cinco crayones de colores en fila.",
+    [
+     "crayones",
+     "dibujar",
+     "niños",
+     "material de arte"
+    ]
+   ],
+   "pt": [
+    "Giz de cera",
+    "Cinco gizes de cera coloridos lado a lado.",
+    [
+     "giz de cera",
+     "desenho",
+     "crianças",
+     "material escolar"
+    ]
+   ],
+   "fr": [
+    "Crayons de cire",
+    "Cinq crayons de cire colorés alignés.",
+    [
+     "crayons de cire",
+     "dessin",
+     "enfants",
+     "coloriage"
+    ]
+   ],
+   "de": [
+    "Wachsmalstifte",
+    "Fünf bunte Wachsmalstifte in einer Reihe.",
+    [
+     "Wachsmalstifte",
+     "Malen",
+     "Kinder",
+     "Bastelbedarf"
+    ]
+   ],
+   "zh": [
+    "蜡笔",
+    "一排五支彩色蜡笔。",
+    [
+     "蜡笔",
+     "画画",
+     "儿童",
+     "美术用品"
+    ]
+   ],
+   "ko": [
+    "크레파스",
+    "알록달록한 크레파스 다섯 개가 나란히 서 있는 그림.",
+    [
+     "크레파스",
+     "그림 그리기",
+     "어린이",
+     "미술 도구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "colored-pencils",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Colored pencils in a cup",
+    "A smiling pencil cup filled with colored pencils.",
+    [
+     "colored pencils",
+     "pencil holder",
+     "drawing",
+     "stationery"
+    ]
+   ],
+   "ja": [
+    "色鉛筆とペン立て",
+    "色鉛筆がたくさん入った笑顔のペン立て。",
+    [
+     "色鉛筆",
+     "ペン立て",
+     "お絵かき",
+     "文房具"
+    ]
+   ],
+   "es": [
+    "Lápices de colores en un vaso",
+    "Un portalápices sonriente lleno de lápices de colores.",
+    [
+     "lápices de colores",
+     "portalápices",
+     "dibujar",
+     "útiles escolares"
+    ]
+   ],
+   "pt": [
+    "Lápis de cor no porta-lápis",
+    "Um porta-lápis sorridente cheio de lápis de cor.",
+    [
+     "lápis de cor",
+     "porta-lápis",
+     "desenho",
+     "material escolar"
+    ]
+   ],
+   "fr": [
+    "Crayons de couleur dans un pot",
+    "Un pot à crayons souriant rempli de crayons de couleur.",
+    [
+     "crayons de couleur",
+     "pot à crayons",
+     "dessin",
+     "fournitures scolaires"
+    ]
+   ],
+   "de": [
+    "Buntstifte im Becher",
+    "Ein lächelnder Stiftebecher voller Buntstifte.",
+    [
+     "Buntstifte",
+     "Stiftehalter",
+     "Malen",
+     "Schreibwaren"
+    ]
+   ],
+   "zh": [
+    "笔筒里的彩色铅笔",
+    "插满彩色铅笔的笑脸笔筒。",
+    [
+     "彩色铅笔",
+     "笔筒",
+     "画画",
+     "文具"
+    ]
+   ],
+   "ko": [
+    "색연필과 연필꽂이",
+    "색연필이 가득 꽂힌 웃는 연필꽂이.",
+    [
+     "색연필",
+     "연필꽂이",
+     "그림 그리기",
+     "문구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "scissors",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Scissors",
+    "A pair of open scissors with orange handles.",
+    [
+     "scissors",
+     "cutting",
+     "crafts",
+     "stationery"
+    ]
+   ],
+   "ja": [
+    "はさみ",
+    "オレンジの持ち手のはさみが開いたイラスト。",
+    [
+     "はさみ",
+     "工作",
+     "切る",
+     "文房具"
+    ]
+   ],
+   "es": [
+    "Tijeras",
+    "Unas tijeras abiertas con mangos naranjas.",
+    [
+     "tijeras",
+     "cortar",
+     "manualidades",
+     "útiles escolares"
+    ]
+   ],
+   "pt": [
+    "Tesoura",
+    "Uma tesoura aberta com cabo laranja.",
+    [
+     "tesoura",
+     "cortar",
+     "artesanato",
+     "material escolar"
+    ]
+   ],
+   "fr": [
+    "Ciseaux",
+    "Une paire de ciseaux ouverts aux poignées orange.",
+    [
+     "ciseaux",
+     "découper",
+     "bricolage",
+     "fournitures scolaires"
+    ]
+   ],
+   "de": [
+    "Schere",
+    "Eine geöffnete Schere mit orangefarbenen Griffen.",
+    [
+     "Schere",
+     "Schneiden",
+     "Basteln",
+     "Schreibwaren"
+    ]
+   ],
+   "zh": [
+    "剪刀",
+    "橙色把手、张开的剪刀。",
+    [
+     "剪刀",
+     "手工",
+     "剪纸",
+     "文具"
+    ]
+   ],
+   "ko": [
+    "가위",
+    "주황색 손잡이의 벌어진 가위.",
+    [
+     "가위",
+     "만들기",
+     "자르기",
+     "문구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "glue",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Glue stick",
+    "A smiling glue stick with its cap off.",
+    [
+     "glue stick",
+     "glue",
+     "crafts",
+     "stationery"
+    ]
+   ],
+   "ja": [
+    "スティックのり",
+    "キャップを外したにっこり顔のスティックのり。",
+    [
+     "のり",
+     "スティックのり",
+     "工作",
+     "文房具"
+    ]
+   ],
+   "es": [
+    "Barra de pegamento",
+    "Una barra de pegamento sonriente sin tapa.",
+    [
+     "pegamento",
+     "barra adhesiva",
+     "manualidades",
+     "útiles escolares"
+    ]
+   ],
+   "pt": [
+    "Cola bastão",
+    "Uma cola bastão sorridente sem a tampa.",
+    [
+     "cola bastão",
+     "cola",
+     "artesanato",
+     "material escolar"
+    ]
+   ],
+   "fr": [
+    "Bâton de colle",
+    "Un bâton de colle souriant sans son bouchon.",
+    [
+     "bâton de colle",
+     "colle",
+     "bricolage",
+     "fournitures scolaires"
+    ]
+   ],
+   "de": [
+    "Klebestift",
+    "Ein lächelnder Klebestift ohne Kappe.",
+    [
+     "Klebestift",
+     "Kleber",
+     "Basteln",
+     "Schreibwaren"
+    ]
+   ],
+   "zh": [
+    "固体胶",
+    "拔开盖子、带笑脸的固体胶棒。",
+    [
+     "固体胶",
+     "胶棒",
+     "手工",
+     "文具"
+    ]
+   ],
+   "ko": [
+    "딱풀",
+    "뚜껑을 연 웃는 얼굴의 딱풀.",
+    [
+     "딱풀",
+     "풀",
+     "만들기",
+     "문구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "watercolors",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Watercolor paints and brush",
+    "A watercolor paint set with a paintbrush.",
+    [
+     "watercolor",
+     "paints",
+     "paintbrush",
+     "art class"
+    ]
+   ],
+   "ja": [
+    "水彩絵の具と筆",
+    "固形水彩の絵の具セットと絵筆。",
+    [
+     "水彩",
+     "絵の具",
+     "筆",
+     "図工"
+    ]
+   ],
+   "es": [
+    "Acuarelas y pincel",
+    "Una caja de acuarelas con un pincel.",
+    [
+     "acuarelas",
+     "pinturas",
+     "pincel",
+     "clase de arte"
+    ]
+   ],
+   "pt": [
+    "Aquarela e pincel",
+    "Um estojo de aquarela com pincel.",
+    [
+     "aquarela",
+     "tintas",
+     "pincel",
+     "aula de artes"
+    ]
+   ],
+   "fr": [
+    "Aquarelle et pinceau",
+    "Une boîte de peinture aquarelle avec un pinceau.",
+    [
+     "aquarelle",
+     "peinture",
+     "pinceau",
+     "arts plastiques"
+    ]
+   ],
+   "de": [
+    "Wasserfarben und Pinsel",
+    "Ein Wasserfarbkasten mit Pinsel.",
+    [
+     "Wasserfarben",
+     "Farbkasten",
+     "Pinsel",
+     "Kunstunterricht"
+    ]
+   ],
+   "zh": [
+    "水彩颜料和画笔",
+    "一盒固体水彩颜料和一支画笔。",
+    [
+     "水彩",
+     "颜料",
+     "画笔",
+     "美术课"
+    ]
+   ],
+   "ko": [
+    "수채화 물감과 붓",
+    "고체 수채화 물감 세트와 붓.",
+    [
+     "수채화",
+     "물감",
+     "붓",
+     "미술 시간"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pencil-sharpener",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pencil sharpener",
+    "A cute pencil sharpener sharpening a yellow pencil.",
+    [
+     "pencil sharpener",
+     "pencil",
+     "stationery"
+    ]
+   ],
+   "ja": [
+    "鉛筆削り",
+    "黄色い鉛筆を削っているかわいい鉛筆削り。",
+    [
+     "鉛筆削り",
+     "鉛筆",
+     "文房具"
+    ]
+   ],
+   "es": [
+    "Sacapuntas",
+    "Un lindo sacapuntas afilando un lápiz amarillo.",
+    [
+     "sacapuntas",
+     "lápiz",
+     "útiles escolares"
+    ]
+   ],
+   "pt": [
+    "Apontador",
+    "Um apontador fofo apontando um lápis amarelo.",
+    [
+     "apontador",
+     "lápis",
+     "material escolar"
+    ]
+   ],
+   "fr": [
+    "Taille-crayon",
+    "Un joli taille-crayon qui taille un crayon jaune.",
+    [
+     "taille-crayon",
+     "crayon",
+     "fournitures scolaires"
+    ]
+   ],
+   "de": [
+    "Anspitzer",
+    "Ein niedlicher Anspitzer spitzt einen gelben Bleistift.",
+    [
+     "Anspitzer",
+     "Bleistift",
+     "Schreibwaren"
+    ]
+   ],
+   "zh": [
+    "卷笔刀",
+    "正在削黄色铅笔的可爱卷笔刀。",
+    [
+     "卷笔刀",
+     "铅笔",
+     "文具"
+    ]
+   ],
+   "ko": [
+    "연필깎이",
+    "노란 연필을 깎고 있는 귀여운 연필깎이.",
+    [
+     "연필깎이",
+     "연필",
+     "문구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pencil-case",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pencil case",
+    "A purple zipper pencil case with a pencil and ruler sticking out.",
+    [
+     "pencil case",
+     "pencil pouch",
+     "stationery",
+     "school"
+    ]
+   ],
+   "ja": [
+    "ペンケース",
+    "鉛筆と定規がのぞく紫のファスナー付き筆箱。",
+    [
+     "筆箱",
+     "ペンケース",
+     "文房具",
+     "学校"
+    ]
+   ],
+   "es": [
+    "Estuche",
+    "Un estuche morado con cremallera, con un lápiz y una regla asomando.",
+    [
+     "estuche",
+     "cartuchera",
+     "útiles escolares",
+     "escuela"
+    ]
+   ],
+   "pt": [
+    "Estojo",
+    "Um estojo roxo de zíper com lápis e régua aparecendo.",
+    [
+     "estojo",
+     "material escolar",
+     "escola",
+     "papelaria"
+    ]
+   ],
+   "fr": [
+    "Trousse",
+    "Une trousse violette à fermeture éclair avec un crayon et une règle.",
+    [
+     "trousse",
+     "fournitures scolaires",
+     "école",
+     "papeterie"
+    ]
+   ],
+   "de": [
+    "Federmäppchen",
+    "Ein lila Mäppchen mit Reißverschluss, aus dem Stift und Lineal ragen.",
+    [
+     "Federmäppchen",
+     "Schlamper",
+     "Schreibwaren",
+     "Schule"
+    ]
+   ],
+   "zh": [
+    "笔袋",
+    "露出铅笔和尺子的紫色拉链笔袋。",
+    [
+     "笔袋",
+     "文具袋",
+     "文具",
+     "学校"
+    ]
+   ],
+   "ko": [
+    "필통",
+    "연필과 자가 삐져나온 보라색 지퍼 필통.",
+    [
+     "필통",
+     "펜케이스",
+     "문구",
+     "학교"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "drawing-compass",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Drawing compass",
+    "A compass with a pencil for drawing circles.",
+    [
+     "compass",
+     "math",
+     "geometry",
+     "stationery"
+    ]
+   ],
+   "ja": [
+    "コンパス",
+    "円をかくための鉛筆付きコンパス。",
+    [
+     "コンパス",
+     "算数",
+     "図形",
+     "文房具"
+    ]
+   ],
+   "es": [
+    "Compás",
+    "Un compás con lápiz para dibujar círculos.",
+    [
+     "compás",
+     "matemáticas",
+     "geometría",
+     "útiles escolares"
+    ]
+   ],
+   "pt": [
+    "Compasso",
+    "Um compasso com lápis para desenhar círculos.",
+    [
+     "compasso",
+     "matemática",
+     "geometria",
+     "material escolar"
+    ]
+   ],
+   "fr": [
+    "Compas",
+    "Un compas avec crayon pour tracer des cercles.",
+    [
+     "compas",
+     "mathématiques",
+     "géométrie",
+     "fournitures scolaires"
+    ]
+   ],
+   "de": [
+    "Zirkel",
+    "Ein Zirkel mit Bleistift zum Kreiseziehen.",
+    [
+     "Zirkel",
+     "Mathe",
+     "Geometrie",
+     "Schreibwaren"
+    ]
+   ],
+   "zh": [
+    "圆规",
+    "带铅笔、用来画圆的圆规。",
+    [
+     "圆规",
+     "数学",
+     "几何",
+     "文具"
+    ]
+   ],
+   "ko": [
+    "컴퍼스",
+    "원을 그리는 연필 달린 컴퍼스.",
+    [
+     "컴퍼스",
+     "수학",
+     "도형",
+     "문구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "globe-desk",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Desk globe",
+    "A world globe on a wooden stand.",
+    [
+     "globe",
+     "geography",
+     "world",
+     "classroom"
+    ]
+   ],
+   "ja": [
+    "地球儀",
+    "木の台に乗った地球儀のイラスト。",
+    [
+     "地球儀",
+     "地理",
+     "世界",
+     "社会科"
+    ]
+   ],
+   "es": [
+    "Globo terráqueo",
+    "Un globo terráqueo sobre una base de madera.",
+    [
+     "globo terráqueo",
+     "geografía",
+     "mundo",
+     "escuela"
+    ]
+   ],
+   "pt": [
+    "Globo terrestre",
+    "Um globo terrestre em uma base de madeira.",
+    [
+     "globo terrestre",
+     "geografia",
+     "mundo",
+     "escola"
+    ]
+   ],
+   "fr": [
+    "Globe terrestre",
+    "Un globe terrestre sur un pied en bois.",
+    [
+     "globe terrestre",
+     "géographie",
+     "monde",
+     "école"
+    ]
+   ],
+   "de": [
+    "Globus",
+    "Ein Globus auf einem Holzständer.",
+    [
+     "Globus",
+     "Erdkunde",
+     "Welt",
+     "Schule"
+    ]
+   ],
+   "zh": [
+    "地球仪",
+    "放在木制底座上的地球仪。",
+    [
+     "地球仪",
+     "地理",
+     "世界",
+     "教室"
+    ]
+   ],
+   "ko": [
+    "지구본",
+    "나무 받침대 위의 지구본.",
+    [
+     "지구본",
+     "지리",
+     "세계",
+     "교실"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "abacus",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Abacus",
+    "A wooden counting abacus with colorful beads.",
+    [
+     "abacus",
+     "counting",
+     "math",
+     "kids"
+    ]
+   ],
+   "ja": [
+    "そろばん",
+    "カラフルな玉の木の計算そろばん。",
+    [
+     "そろばん",
+     "計算",
+     "算数",
+     "子ども"
+    ]
+   ],
+   "es": [
+    "Ábaco",
+    "Un ábaco de madera con cuentas de colores.",
+    [
+     "ábaco",
+     "contar",
+     "matemáticas",
+     "niños"
+    ]
+   ],
+   "pt": [
+    "Ábaco",
+    "Um ábaco de madeira com contas coloridas.",
+    [
+     "ábaco",
+     "contar",
+     "matemática",
+     "crianças"
+    ]
+   ],
+   "fr": [
+    "Boulier",
+    "Un boulier en bois avec des perles colorées.",
+    [
+     "boulier",
+     "compter",
+     "mathématiques",
+     "enfants"
+    ]
+   ],
+   "de": [
+    "Rechenschieber",
+    "Ein Holz-Rechenschieber mit bunten Perlen.",
+    [
+     "Rechenschieber",
+     "Abakus",
+     "Rechnen",
+     "Kinder"
+    ]
+   ],
+   "zh": [
+    "算盘",
+    "带彩色珠子的木制计数算盘。",
+    [
+     "算盘",
+     "计数",
+     "数学",
+     "儿童"
+    ]
+   ],
+   "ko": [
+    "주판",
+    "알록달록한 구슬이 달린 나무 주판.",
+    [
+     "주판",
+     "셈하기",
+     "수학",
+     "어린이"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "test-tubes",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Test tubes in a rack",
+    "Three test tubes with colorful liquids in a wooden rack.",
+    [
+     "test tubes",
+     "science",
+     "experiment",
+     "lab"
+    ]
+   ],
+   "ja": [
+    "試験管立て",
+    "色とりどりの液体が入った試験管3本と試験管立て。",
+    [
+     "試験管",
+     "理科",
+     "実験",
+     "科学"
+    ]
+   ],
+   "es": [
+    "Tubos de ensayo",
+    "Tres tubos de ensayo con líquidos de colores en una gradilla.",
+    [
+     "tubos de ensayo",
+     "ciencia",
+     "experimento",
+     "laboratorio"
+    ]
+   ],
+   "pt": [
+    "Tubos de ensaio",
+    "Três tubos de ensaio com líquidos coloridos em uma estante.",
+    [
+     "tubos de ensaio",
+     "ciências",
+     "experiência",
+     "laboratório"
+    ]
+   ],
+   "fr": [
+    "Tubes à essai",
+    "Trois tubes à essai aux liquides colorés sur un portoir.",
+    [
+     "tubes à essai",
+     "sciences",
+     "expérience",
+     "laboratoire"
+    ]
+   ],
+   "de": [
+    "Reagenzgläser",
+    "Drei Reagenzgläser mit bunten Flüssigkeiten im Ständer.",
+    [
+     "Reagenzglas",
+     "Chemie",
+     "Experiment",
+     "Labor"
+    ]
+   ],
+   "zh": [
+    "试管架",
+    "木架上插着三支装有彩色液体的试管。",
+    [
+     "试管",
+     "科学",
+     "实验",
+     "实验室"
+    ]
+   ],
+   "ko": [
+    "시험관",
+    "색색의 액체가 담긴 시험관 세 개와 시험관 꽂이.",
+    [
+     "시험관",
+     "과학",
+     "실험",
+     "실험실"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "magnet",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Horseshoe magnet",
+    "A smiling horseshoe magnet attracting paper clips.",
+    [
+     "magnet",
+     "science",
+     "paper clips",
+     "experiment"
+    ]
+   ],
+   "ja": [
+    "U字磁石",
+    "クリップを引きつけるにっこり顔のU字磁石。",
+    [
+     "磁石",
+     "理科",
+     "クリップ",
+     "実験"
+    ]
+   ],
+   "es": [
+    "Imán de herradura",
+    "Un imán de herradura sonriente atrayendo clips.",
+    [
+     "imán",
+     "ciencia",
+     "clips",
+     "experimento"
+    ]
+   ],
+   "pt": [
+    "Ímã de ferradura",
+    "Um ímã de ferradura sorridente atraindo clipes.",
+    [
+     "ímã",
+     "ciências",
+     "clipes",
+     "experiência"
+    ]
+   ],
+   "fr": [
+    "Aimant en fer à cheval",
+    "Un aimant en fer à cheval souriant qui attire des trombones.",
+    [
+     "aimant",
+     "sciences",
+     "trombones",
+     "expérience"
+    ]
+   ],
+   "de": [
+    "Hufeisenmagnet",
+    "Ein lächelnder Hufeisenmagnet zieht Büroklammern an.",
+    [
+     "Magnet",
+     "Physik",
+     "Büroklammern",
+     "Experiment"
+    ]
+   ],
+   "zh": [
+    "U形磁铁",
+    "吸住回形针、带笑脸的U形磁铁。",
+    [
+     "磁铁",
+     "科学",
+     "回形针",
+     "实验"
+    ]
+   ],
+   "ko": [
+    "말굽자석",
+    "클립을 끌어당기는 웃는 얼굴의 말굽자석.",
+    [
+     "자석",
+     "과학",
+     "클립",
+     "실험"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "dictionary",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Open dictionary",
+    "A thick dictionary lying open with index tabs and a bookmark.",
+    [
+     "dictionary",
+     "book",
+     "study",
+     "reading"
+    ]
+   ],
+   "ja": [
+    "辞書",
+    "インデックス付きの分厚い辞書を開いたイラスト。",
+    [
+     "辞書",
+     "本",
+     "勉強",
+     "調べ物"
+    ]
+   ],
+   "es": [
+    "Diccionario abierto",
+    "Un diccionario grueso abierto con pestañas y marcapáginas.",
+    [
+     "diccionario",
+     "libro",
+     "estudiar",
+     "leer"
+    ]
+   ],
+   "pt": [
+    "Dicionário aberto",
+    "Um dicionário grosso aberto com abas e marcador de página.",
+    [
+     "dicionário",
+     "livro",
+     "estudar",
+     "leitura"
+    ]
+   ],
+   "fr": [
+    "Dictionnaire ouvert",
+    "Un gros dictionnaire ouvert avec des onglets et un signet.",
+    [
+     "dictionnaire",
+     "livre",
+     "étudier",
+     "lecture"
+    ]
+   ],
+   "de": [
+    "Offenes Wörterbuch",
+    "Ein dickes, aufgeschlagenes Wörterbuch mit Registern und Lesezeichen.",
+    [
+     "Wörterbuch",
+     "Buch",
+     "Lernen",
+     "Lesen"
+    ]
+   ],
+   "zh": [
+    "打开的词典",
+    "带索引标签和书签、摊开的厚词典。",
+    [
+     "词典",
+     "字典",
+     "学习",
+     "阅读"
+    ]
+   ],
+   "ko": [
+    "펼친 사전",
+    "색인 탭과 책갈피가 있는 두꺼운 사전을 펼친 그림.",
+    [
+     "사전",
+     "책",
+     "공부",
+     "독서"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "school-desk",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "School desk and chair",
+    "A classroom desk with a book on top and a wooden chair.",
+    [
+     "school desk",
+     "chair",
+     "classroom",
+     "school"
+    ]
+   ],
+   "ja": [
+    "学校の机と椅子",
+    "教科書をのせた教室の机と椅子。",
+    [
+     "机",
+     "椅子",
+     "教室",
+     "学校"
+    ]
+   ],
+   "es": [
+    "Pupitre y silla",
+    "Un pupitre escolar con un libro encima y una silla de madera.",
+    [
+     "pupitre",
+     "silla",
+     "aula",
+     "escuela"
+    ]
+   ],
+   "pt": [
+    "Carteira escolar",
+    "Uma carteira escolar com um livro em cima e uma cadeira.",
+    [
+     "carteira escolar",
+     "cadeira",
+     "sala de aula",
+     "escola"
+    ]
+   ],
+   "fr": [
+    "Pupitre et chaise",
+    "Un bureau d'écolier avec un livre et une chaise en bois.",
+    [
+     "pupitre",
+     "chaise",
+     "salle de classe",
+     "école"
+    ]
+   ],
+   "de": [
+    "Schulbank und Stuhl",
+    "Ein Schultisch mit Buch und ein Holzstuhl.",
+    [
+     "Schultisch",
+     "Stuhl",
+     "Klassenzimmer",
+     "Schule"
+    ]
+   ],
+   "zh": [
+    "课桌椅",
+    "放着课本的教室课桌和椅子。",
+    [
+     "课桌",
+     "椅子",
+     "教室",
+     "学校"
+    ]
+   ],
+   "ko": [
+    "책상과 의자",
+    "교과서가 놓인 교실 책상과 의자.",
+    [
+     "책상",
+     "의자",
+     "교실",
+     "학교"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "blackboard",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Blackboard with chalk",
+    "A green chalkboard with simple chalk doodles and colored chalk.",
+    [
+     "blackboard",
+     "chalkboard",
+     "chalk",
+     "classroom"
+    ]
+   ],
+   "ja": [
+    "黒板とチョーク",
+    "チョークの落書きがある黒板と色チョーク。",
+    [
+     "黒板",
+     "チョーク",
+     "教室",
+     "授業"
+    ]
+   ],
+   "es": [
+    "Pizarra y tizas",
+    "Una pizarra verde con dibujos de tiza y tizas de colores.",
+    [
+     "pizarra",
+     "tiza",
+     "aula",
+     "clase"
+    ]
+   ],
+   "pt": [
+    "Quadro-negro e giz",
+    "Um quadro verde com desenhos de giz e gizes coloridos.",
+    [
+     "quadro-negro",
+     "lousa",
+     "giz",
+     "sala de aula"
+    ]
+   ],
+   "fr": [
+    "Tableau noir et craies",
+    "Un tableau vert avec des dessins à la craie et des craies de couleur.",
+    [
+     "tableau noir",
+     "craie",
+     "salle de classe",
+     "école"
+    ]
+   ],
+   "de": [
+    "Tafel mit Kreide",
+    "Eine grüne Tafel mit Kreidezeichnungen und bunter Kreide.",
+    [
+     "Tafel",
+     "Kreide",
+     "Klassenzimmer",
+     "Unterricht"
+    ]
+   ],
+   "zh": [
+    "黑板和粉笔",
+    "画着粉笔涂鸦的黑板和彩色粉笔。",
+    [
+     "黑板",
+     "粉笔",
+     "教室",
+     "上课"
+    ]
+   ],
+   "ko": [
+    "칠판과 분필",
+    "분필 낙서가 있는 칠판과 색분필.",
+    [
+     "칠판",
+     "분필",
+     "교실",
+     "수업"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "school-bell",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "School bell",
+    "A smiling golden hand bell with a wooden handle, ringing.",
+    [
+     "bell",
+     "school bell",
+     "ringing",
+     "class time"
+    ]
+   ],
+   "ja": [
+    "学校のベル",
+    "木の持ち手が付いた、鳴っているにっこり顔のハンドベル。",
+    [
+     "ベル",
+     "鐘",
+     "チャイム",
+     "学校"
+    ]
+   ],
+   "es": [
+    "Campana escolar",
+    "Una campana dorada sonriente con mango de madera, sonando.",
+    [
+     "campana",
+     "timbre escolar",
+     "sonar",
+     "escuela"
+    ]
+   ],
+   "pt": [
+    "Sino da escola",
+    "Um sino dourado sorridente com cabo de madeira, tocando.",
+    [
+     "sino",
+     "sinal da escola",
+     "tocar",
+     "escola"
+    ]
+   ],
+   "fr": [
+    "Cloche d'école",
+    "Une cloche dorée souriante à manche en bois qui sonne.",
+    [
+     "cloche",
+     "sonnerie",
+     "école",
+     "récréation"
+    ]
+   ],
+   "de": [
+    "Schulglocke",
+    "Eine lächelnde goldene Handglocke mit Holzgriff, die läutet.",
+    [
+     "Glocke",
+     "Schulglocke",
+     "Läuten",
+     "Schule"
+    ]
+   ],
+   "zh": [
+    "学校的铃铛",
+    "带木柄、正在响的笑脸金色手铃。",
+    [
+     "铃铛",
+     "上课铃",
+     "学校",
+     "下课"
+    ]
+   ],
+   "ko": [
+    "학교 종",
+    "나무 손잡이가 달린, 울리고 있는 웃는 금색 종.",
+    [
+     "종",
+     "학교 종",
+     "수업",
+     "학교"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "school-bus",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "School bus",
+    "A yellow school bus seen from the side.",
+    [
+     "school bus",
+     "bus",
+     "school",
+     "commute"
+    ]
+   ],
+   "ja": [
+    "スクールバス",
+    "横から見た黄色いスクールバス。",
+    [
+     "スクールバス",
+     "バス",
+     "通学",
+     "学校"
+    ]
+   ],
+   "es": [
+    "Autobús escolar",
+    "Un autobús escolar amarillo visto de lado.",
+    [
+     "autobús escolar",
+     "autobús",
+     "escuela",
+     "transporte"
+    ]
+   ],
+   "pt": [
+    "Ônibus escolar",
+    "Um ônibus escolar amarelo visto de lado.",
+    [
+     "ônibus escolar",
+     "ônibus",
+     "escola",
+     "transporte"
+    ]
+   ],
+   "fr": [
+    "Bus scolaire",
+    "Un bus scolaire jaune vu de profil.",
+    [
+     "bus scolaire",
+     "car scolaire",
+     "école",
+     "transport"
+    ]
+   ],
+   "de": [
+    "Schulbus",
+    "Ein gelber Schulbus von der Seite.",
+    [
+     "Schulbus",
+     "Bus",
+     "Schule",
+     "Schulweg"
+    ]
+   ],
+   "zh": [
+    "校车",
+    "从侧面看的黄色校车。",
+    [
+     "校车",
+     "巴士",
+     "上学",
+     "学校"
+    ]
+   ],
+   "ko": [
+    "스쿨버스",
+    "옆에서 본 노란 스쿨버스.",
+    [
+     "스쿨버스",
+     "버스",
+     "통학",
+     "학교"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "school-lunch",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "School lunch tray",
+    "A school lunch tray with rice, soup, a main dish and milk.",
+    [
+     "school lunch",
+     "lunch tray",
+     "meal",
+     "school"
+    ]
+   ],
+   "ja": [
+    "給食",
+    "ごはん・汁物・おかず・牛乳がのった給食のトレー。",
+    [
+     "給食",
+     "トレー",
+     "昼ごはん",
+     "学校"
+    ]
+   ],
+   "es": [
+    "Almuerzo escolar",
+    "Una bandeja de comedor escolar con arroz, sopa, plato principal y leche.",
+    [
+     "almuerzo escolar",
+     "comedor",
+     "bandeja",
+     "escuela"
+    ]
+   ],
+   "pt": [
+    "Merenda escolar",
+    "Uma bandeja de merenda com arroz, sopa, prato principal e leite.",
+    [
+     "merenda escolar",
+     "almoço",
+     "bandeja",
+     "escola"
+    ]
+   ],
+   "fr": [
+    "Plateau de cantine",
+    "Un plateau de cantine avec riz, soupe, plat et lait.",
+    [
+     "cantine",
+     "repas scolaire",
+     "plateau",
+     "école"
+    ]
+   ],
+   "de": [
+    "Schulessen",
+    "Ein Tablett mit Schulessen: Reis, Suppe, Hauptgericht und Milch.",
+    [
+     "Schulessen",
+     "Mensa",
+     "Tablett",
+     "Mittagessen"
+    ]
+   ],
+   "zh": [
+    "学校午餐",
+    "放着米饭、汤、主菜和牛奶的午餐托盘。",
+    [
+     "学校午餐",
+     "餐盘",
+     "午饭",
+     "学校"
+    ]
+   ],
+   "ko": [
+    "학교 급식",
+    "밥, 국, 반찬, 우유가 놓인 급식 식판.",
+    [
+     "급식",
+     "식판",
+     "점심",
+     "학교"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "recorder-flute",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Recorder",
+    "A recorder flute with musical notes.",
+    [
+     "recorder",
+     "flute",
+     "music class",
+     "instrument"
+    ]
+   ],
+   "ja": [
+    "リコーダー",
+    "音符と一緒に描いたリコーダー。",
+    [
+     "リコーダー",
+     "笛",
+     "音楽",
+     "楽器"
+    ]
+   ],
+   "es": [
+    "Flauta dulce",
+    "Una flauta dulce con notas musicales.",
+    [
+     "flauta dulce",
+     "flauta",
+     "clase de música",
+     "instrumento"
+    ]
+   ],
+   "pt": [
+    "Flauta doce",
+    "Uma flauta doce com notas musicais.",
+    [
+     "flauta doce",
+     "flauta",
+     "aula de música",
+     "instrumento"
+    ]
+   ],
+   "fr": [
+    "Flûte à bec",
+    "Une flûte à bec avec des notes de musique.",
+    [
+     "flûte à bec",
+     "flûte",
+     "cours de musique",
+     "instrument"
+    ]
+   ],
+   "de": [
+    "Blockflöte",
+    "Eine Blockflöte mit Musiknoten.",
+    [
+     "Blockflöte",
+     "Flöte",
+     "Musikunterricht",
+     "Instrument"
+    ]
+   ],
+   "zh": [
+    "竖笛",
+    "竖笛和音符。",
+    [
+     "竖笛",
+     "笛子",
+     "音乐课",
+     "乐器"
+    ]
+   ],
+   "ko": [
+    "리코더",
+    "음표와 함께 그린 리코더.",
+    [
+     "리코더",
+     "피리",
+     "음악 시간",
+     "악기"
+    ]
+   ]
+  }
+ }
+]

@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "mopping",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person mopping the floor",
+    "A person cleaning the floor with a mop next to a bucket.",
+    [
+     "mopping",
+     "cleaning",
+     "housework",
+     "mop"
+    ]
+   ],
+   "ja": [
+    "モップがけする人",
+    "バケツの横でモップを使って床をふく人。",
+    [
+     "モップ",
+     "掃除",
+     "家事",
+     "床掃除"
+    ]
+   ],
+   "es": [
+    "Persona trapeando el piso",
+    "Una persona limpiando el piso con un trapeador junto a una cubeta.",
+    [
+     "trapear",
+     "limpieza",
+     "tareas del hogar",
+     "fregona"
+    ]
+   ],
+   "pt": [
+    "Pessoa passando pano no chão",
+    "Uma pessoa limpando o chão com um esfregão ao lado de um balde.",
+    [
+     "esfregão",
+     "limpeza",
+     "tarefas domésticas",
+     "faxina"
+    ]
+   ],
+   "fr": [
+    "Personne passant la serpillière",
+    "Une personne nettoie le sol avec une serpillière à côté d'un seau.",
+    [
+     "serpillière",
+     "ménage",
+     "tâches ménagères",
+     "nettoyage"
+    ]
+   ],
+   "de": [
+    "Person wischt den Boden",
+    "Eine Person wischt mit einem Wischmopp neben einem Eimer den Boden.",
+    [
+     "Wischen",
+     "Putzen",
+     "Hausarbeit",
+     "Wischmopp"
+    ]
+   ],
+   "zh": [
+    "拖地的人",
+    "在水桶旁用拖把拖地的人。",
+    [
+     "拖地",
+     "打扫",
+     "家务",
+     "拖把"
+    ]
+   ],
+   "ko": [
+    "걸레질하는 사람",
+    "양동이 옆에서 밀대로 바닥을 닦는 사람.",
+    [
+     "걸레질",
+     "청소",
+     "집안일",
+     "밀대"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "window-cleaning",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Window cleaning spray",
+    "A spray bottle misting a shiny clean window.",
+    [
+     "window cleaning",
+     "cleaning",
+     "spray bottle",
+     "housework"
+    ]
+   ],
+   "ja": [
+    "窓ふきスプレー",
+    "ピカピカの窓にシュッと吹きかけるスプレーボトル。",
+    [
+     "窓掃除",
+     "掃除",
+     "スプレー",
+     "家事"
+    ]
+   ],
+   "es": [
+    "Limpiando la ventana con atomizador",
+    "Un atomizador rociando una ventana limpia y brillante.",
+    [
+     "limpiar ventanas",
+     "limpieza",
+     "atomizador",
+     "tareas del hogar"
+    ]
+   ],
+   "pt": [
+    "Limpando a janela com borrifador",
+    "Um borrifador limpando uma janela brilhante.",
+    [
+     "limpar janela",
+     "limpeza",
+     "borrifador",
+     "faxina"
+    ]
+   ],
+   "fr": [
+    "Nettoyage de vitre au spray",
+    "Un vaporisateur pulvérise sur une vitre brillante et propre.",
+    [
+     "nettoyage des vitres",
+     "ménage",
+     "vaporisateur",
+     "fenêtre"
+    ]
+   ],
+   "de": [
+    "Fensterputzen mit Sprühflasche",
+    "Eine Sprühflasche sprüht auf ein sauberes, glänzendes Fenster.",
+    [
+     "Fensterputzen",
+     "Putzen",
+     "Sprühflasche",
+     "Hausarbeit"
+    ]
+   ],
+   "zh": [
+    "擦窗喷雾",
+    "对着闪亮干净的窗户喷洒的喷雾瓶。",
+    [
+     "擦窗户",
+     "打扫",
+     "喷雾瓶",
+     "家务"
+    ]
+   ],
+   "ko": [
+    "유리창 청소 스프레이",
+    "반짝이는 유리창에 칙칙 뿌리는 분무기.",
+    [
+     "유리창 청소",
+     "청소",
+     "분무기",
+     "집안일"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "taking-out-trash",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Trash bag by the door",
+    "A tied trash bag waiting by the front door for garbage day.",
+    [
+     "trash",
+     "garbage day",
+     "trash bag",
+     "chores"
+    ]
+   ],
+   "ja": [
+    "玄関に置いたゴミ袋",
+    "ゴミの日に出すため玄関に置かれた口をしばったゴミ袋。",
+    [
+     "ゴミ出し",
+     "ゴミ袋",
+     "ゴミの日",
+     "家事"
+    ]
+   ],
+   "es": [
+    "Bolsa de basura junto a la puerta",
+    "Una bolsa de basura amarrada lista junto a la puerta para sacarla.",
+    [
+     "basura",
+     "sacar la basura",
+     "bolsa de basura",
+     "tareas del hogar"
+    ]
+   ],
+   "pt": [
+    "Saco de lixo na porta",
+    "Um saco de lixo amarrado ao lado da porta, pronto para ser levado.",
+    [
+     "lixo",
+     "tirar o lixo",
+     "saco de lixo",
+     "tarefas domésticas"
+    ]
+   ],
+   "fr": [
+    "Sac poubelle devant la porte",
+    "Un sac poubelle fermé attend devant la porte d'entrée.",
+    [
+     "poubelle",
+     "sortir les poubelles",
+     "sac poubelle",
+     "corvée"
+    ]
+   ],
+   "de": [
+    "Müllbeutel an der Haustür",
+    "Ein zugebundener Müllbeutel steht zum Rausbringen an der Haustür.",
+    [
+     "Müll",
+     "Müll rausbringen",
+     "Müllbeutel",
+     "Hausarbeit"
+    ]
+   ],
+   "zh": [
+    "门口的垃圾袋",
+    "扎好口放在门口准备扔掉的垃圾袋。",
+    [
+     "倒垃圾",
+     "垃圾袋",
+     "垃圾",
+     "家务"
+    ]
+   ],
+   "ko": [
+    "현관 앞 쓰레기봉투",
+    "버리려고 현관 앞에 묶어 둔 쓰레기봉투.",
+    [
+     "쓰레기 버리기",
+     "쓰레기봉투",
+     "분리수거",
+     "집안일"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "grocery-bag",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Grocery bag with vegetables",
+    "A paper grocery bag filled with leeks, a carrot and bread.",
+    [
+     "groceries",
+     "shopping bag",
+     "vegetables",
+     "supermarket"
+    ]
+   ],
+   "ja": [
+    "野菜の入った買い物袋",
+    "ネギやにんじん、パンが入った紙の買い物袋。",
+    [
+     "買い物袋",
+     "食料品",
+     "野菜",
+     "スーパー"
+    ]
+   ],
+   "es": [
+    "Bolsa de compras con verduras",
+    "Una bolsa de papel llena de puerros, zanahoria y pan.",
+    [
+     "compras",
+     "bolsa de supermercado",
+     "verduras",
+     "mandado"
+    ]
+   ],
+   "pt": [
+    "Sacola de compras com legumes",
+    "Uma sacola de papel com alho-poró, cenoura e pão.",
+    [
+     "compras",
+     "sacola de mercado",
+     "legumes",
+     "supermercado"
+    ]
+   ],
+   "fr": [
+    "Sac de courses avec légumes",
+    "Un sac en papier rempli de poireaux, d'une carotte et de pain.",
+    [
+     "courses",
+     "sac de courses",
+     "légumes",
+     "supermarché"
+    ]
+   ],
+   "de": [
+    "Einkaufstüte mit Gemüse",
+    "Eine Papiertüte mit Lauch, Karotte und Brot.",
+    [
+     "Einkauf",
+     "Einkaufstüte",
+     "Gemüse",
+     "Supermarkt"
+    ]
+   ],
+   "zh": [
+    "装着蔬菜的购物袋",
+    "装着大葱、胡萝卜和面包的纸质购物袋。",
+    [
+     "购物袋",
+     "买菜",
+     "蔬菜",
+     "超市"
+    ]
+   ],
+   "ko": [
+    "채소가 든 장바구니",
+    "대파와 당근, 빵이 담긴 종이 장바구니.",
+    [
+     "장보기",
+     "장바구니",
+     "채소",
+     "마트"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "door",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Front door",
+    "A green front door with a small window, a lamp and a doormat.",
+    [
+     "door",
+     "front door",
+     "entrance",
+     "house"
+    ]
+   ],
+   "ja": [
+    "玄関のドア",
+    "小窓とランプ、玄関マットのある緑の玄関ドア。",
+    [
+     "ドア",
+     "玄関",
+     "扉",
+     "住宅"
+    ]
+   ],
+   "es": [
+    "Puerta principal",
+    "Una puerta principal verde con ventanita, lámpara y tapete.",
+    [
+     "puerta",
+     "entrada",
+     "puerta principal",
+     "casa"
+    ]
+   ],
+   "pt": [
+    "Porta de entrada",
+    "Uma porta de entrada verde com janelinha, luminária e capacho.",
+    [
+     "porta",
+     "entrada",
+     "porta da frente",
+     "casa"
+    ]
+   ],
+   "fr": [
+    "Porte d'entrée",
+    "Une porte d'entrée verte avec petite fenêtre, lampe et paillasson.",
+    [
+     "porte",
+     "porte d'entrée",
+     "entrée",
+     "maison"
+    ]
+   ],
+   "de": [
+    "Haustür",
+    "Eine grüne Haustür mit kleinem Fenster, Lampe und Fußmatte.",
+    [
+     "Tür",
+     "Haustür",
+     "Eingang",
+     "Haus"
+    ]
+   ],
+   "zh": [
+    "家门",
+    "带小窗、门灯和地垫的绿色大门。",
+    [
+     "门",
+     "大门",
+     "玄关",
+     "房子"
+    ]
+   ],
+   "ko": [
+    "현관문",
+    "작은 창과 조명, 현관 매트가 있는 초록색 현관문.",
+    [
+     "문",
+     "현관문",
+     "현관",
+     "집"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "intercom",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Doorbell intercom",
+    "A wall-mounted video intercom with a camera and a ringing button.",
+    [
+     "intercom",
+     "doorbell",
+     "visitor",
+     "entrance"
+    ]
+   ],
+   "ja": [
+    "インターホン",
+    "カメラ付きでボタンが鳴っている壁のインターホン。",
+    [
+     "インターホン",
+     "チャイム",
+     "来客",
+     "玄関"
+    ]
+   ],
+   "es": [
+    "Interfón",
+    "Un interfón de pared con cámara y botón sonando.",
+    [
+     "interfón",
+     "timbre",
+     "visita",
+     "portero eléctrico"
+    ]
+   ],
+   "pt": [
+    "Interfone",
+    "Um interfone de parede com câmera e botão tocando.",
+    [
+     "interfone",
+     "campainha",
+     "visita",
+     "porteiro eletrônico"
+    ]
+   ],
+   "fr": [
+    "Interphone",
+    "Un interphone mural avec caméra et bouton qui sonne.",
+    [
+     "interphone",
+     "sonnette",
+     "visiteur",
+     "entrée"
+    ]
+   ],
+   "de": [
+    "Gegensprechanlage",
+    "Eine Video-Gegensprechanlage an der Wand mit klingelndem Knopf.",
+    [
+     "Gegensprechanlage",
+     "Türklingel",
+     "Besuch",
+     "Eingang"
+    ]
+   ],
+   "zh": [
+    "门铃对讲机",
+    "带摄像头、按钮正在响的壁挂式对讲门铃。",
+    [
+     "对讲机",
+     "门铃",
+     "访客",
+     "可视门铃"
+    ]
+   ],
+   "ko": [
+    "인터폰",
+    "카메라가 달린 벽걸이 인터폰에서 벨이 울리는 모습.",
+    [
+     "인터폰",
+     "초인종",
+     "방문객",
+     "현관"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mailbox",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Mailbox with a letter",
+    "A cute mailbox on a post with a letter going in and the flag up.",
+    [
+     "mailbox",
+     "letter",
+     "mail",
+     "post"
+    ]
+   ],
+   "ja": [
+    "手紙の入った郵便受け",
+    "手紙が差し込まれ旗が上がったかわいい郵便受け。",
+    [
+     "郵便受け",
+     "ポスト",
+     "手紙",
+     "郵便"
+    ]
+   ],
+   "es": [
+    "Buzón con carta",
+    "Un buzón con una carta entrando y la banderita arriba.",
+    [
+     "buzón",
+     "carta",
+     "correo",
+     "correspondencia"
+    ]
+   ],
+   "pt": [
+    "Caixa de correio com carta",
+    "Uma caixa de correio com uma carta entrando e a bandeirinha erguida.",
+    [
+     "caixa de correio",
+     "carta",
+     "correio",
+     "correspondência"
+    ]
+   ],
+   "fr": [
+    "Boîte aux lettres avec lettre",
+    "Une boîte aux lettres sur poteau avec une lettre et le drapeau levé.",
+    [
+     "boîte aux lettres",
+     "lettre",
+     "courrier",
+     "poste"
+    ]
+   ],
+   "de": [
+    "Briefkasten mit Brief",
+    "Ein niedlicher Briefkasten mit eingeworfenem Brief und erhobener Fahne.",
+    [
+     "Briefkasten",
+     "Brief",
+     "Post",
+     "Postfach"
+    ]
+   ],
+   "zh": [
+    "插着信的信箱",
+    "插着一封信、旗子竖起的可爱信箱。",
+    [
+     "信箱",
+     "信件",
+     "邮件",
+     "邮箱"
+    ]
+   ],
+   "ko": [
+    "편지가 든 우편함",
+    "편지가 꽂히고 깃발이 올라간 귀여운 우편함.",
+    [
+     "우편함",
+     "편지",
+     "우편",
+     "우체통"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "umbrella-stand",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Umbrella stand",
+    "An umbrella stand holding three colorful closed umbrellas.",
+    [
+     "umbrella stand",
+     "umbrella",
+     "entrance",
+     "rainy day"
+    ]
+   ],
+   "ja": [
+    "傘立て",
+    "カラフルな傘が3本入った玄関の傘立て。",
+    [
+     "傘立て",
+     "傘",
+     "玄関",
+     "雨の日"
+    ]
+   ],
+   "es": [
+    "Paragüero",
+    "Un paragüero con tres paraguas cerrados de colores.",
+    [
+     "paragüero",
+     "paraguas",
+     "entrada",
+     "día lluvioso"
+    ]
+   ],
+   "pt": [
+    "Porta-guarda-chuva",
+    "Um porta-guarda-chuva com três guarda-chuvas coloridos fechados.",
+    [
+     "porta-guarda-chuva",
+     "guarda-chuva",
+     "entrada",
+     "dia de chuva"
+    ]
+   ],
+   "fr": [
+    "Porte-parapluie",
+    "Un porte-parapluie avec trois parapluies colorés fermés.",
+    [
+     "porte-parapluie",
+     "parapluie",
+     "entrée",
+     "jour de pluie"
+    ]
+   ],
+   "de": [
+    "Schirmständer",
+    "Ein Schirmständer mit drei bunten zugeklappten Regenschirmen.",
+    [
+     "Schirmständer",
+     "Regenschirm",
+     "Eingang",
+     "Regentag"
+    ]
+   ],
+   "zh": [
+    "雨伞架",
+    "插着三把彩色雨伞的伞架。",
+    [
+     "伞架",
+     "雨伞",
+     "玄关",
+     "雨天"
+    ]
+   ],
+   "ko": [
+    "우산꽂이",
+    "알록달록한 우산 세 개가 꽂힌 우산꽂이.",
+    [
+     "우산꽂이",
+     "우산",
+     "현관",
+     "비 오는 날"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "slippers",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pair of slippers",
+    "A pair of cozy pink house slippers with smiling faces.",
+    [
+     "slippers",
+     "house slippers",
+     "indoor shoes",
+     "cozy"
+    ]
+   ],
+   "ja": [
+    "スリッパ",
+    "にっこり顔のついたピンクのスリッパ一足。",
+    [
+     "スリッパ",
+     "室内履き",
+     "ルームシューズ",
+     "来客"
+    ]
+   ],
+   "es": [
+    "Par de pantuflas",
+    "Un par de pantuflas rosas y acogedoras con caritas sonrientes.",
+    [
+     "pantuflas",
+     "zapatillas de casa",
+     "calzado",
+     "casa"
+    ]
+   ],
+   "pt": [
+    "Par de pantufas",
+    "Um par de pantufas rosa e aconchegantes com carinhas sorridentes.",
+    [
+     "pantufas",
+     "chinelo de quarto",
+     "calçado",
+     "casa"
+    ]
+   ],
+   "fr": [
+    "Paire de chaussons",
+    "Une paire de chaussons roses douillets avec des visages souriants.",
+    [
+     "chaussons",
+     "pantoufles",
+     "maison",
+     "confort"
+    ]
+   ],
+   "de": [
+    "Hausschuhe",
+    "Ein Paar gemütliche rosa Hausschuhe mit lächelnden Gesichtern.",
+    [
+     "Hausschuhe",
+     "Pantoffeln",
+     "Zuhause",
+     "gemütlich"
+    ]
+   ],
+   "zh": [
+    "一双拖鞋",
+    "一双带笑脸的粉色室内拖鞋。",
+    [
+     "拖鞋",
+     "室内拖鞋",
+     "居家",
+     "鞋子"
+    ]
+   ],
+   "ko": [
+    "실내화 한 켤레",
+    "웃는 얼굴이 있는 분홍색 실내 슬리퍼 한 켤레.",
+    [
+     "슬리퍼",
+     "실내화",
+     "집",
+     "신발"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "shoes-entrance",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Shoes at the entrance",
+    "Two pairs of sneakers neatly lined up in the entryway below the step.",
+    [
+     "shoes",
+     "entryway",
+     "sneakers",
+     "genkan"
+    ]
+   ],
+   "ja": [
+    "玄関に並んだ靴",
+    "上がりかまちの下にきれいにそろえた2足のスニーカー。",
+    [
+     "玄関",
+     "靴",
+     "スニーカー",
+     "靴をそろえる"
+    ]
+   ],
+   "es": [
+    "Zapatos en la entrada",
+    "Dos pares de tenis bien acomodados en la entrada de la casa.",
+    [
+     "zapatos",
+     "entrada",
+     "tenis",
+     "recibidor"
+    ]
+   ],
+   "pt": [
+    "Sapatos na entrada",
+    "Dois pares de tênis arrumados na entrada da casa.",
+    [
+     "sapatos",
+     "entrada",
+     "tênis",
+     "hall de entrada"
+    ]
+   ],
+   "fr": [
+    "Chaussures à l'entrée",
+    "Deux paires de baskets bien rangées dans l'entrée.",
+    [
+     "chaussures",
+     "entrée",
+     "baskets",
+     "vestibule"
+    ]
+   ],
+   "de": [
+    "Schuhe im Eingang",
+    "Zwei Paar Turnschuhe ordentlich im Eingangsbereich aufgereiht.",
+    [
+     "Schuhe",
+     "Eingang",
+     "Turnschuhe",
+     "Flur"
+    ]
+   ],
+   "zh": [
+    "玄关的鞋子",
+    "在玄关台阶下摆放整齐的两双运动鞋。",
+    [
+     "玄关",
+     "鞋子",
+     "运动鞋",
+     "摆鞋"
+    ]
+   ],
+   "ko": [
+    "현관에 놓인 신발",
+    "현관 턱 아래 가지런히 놓인 운동화 두 켤레.",
+    [
+     "현관",
+     "신발",
+     "운동화",
+     "신발 정리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "picture-frame",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Picture frame",
+    "A wooden picture frame with a mountain landscape hanging on a nail.",
+    [
+     "picture frame",
+     "frame",
+     "painting",
+     "wall decor"
+    ]
+   ],
+   "ja": [
+    "額縁",
+    "山の風景画が入った、くぎに掛けた木の額縁。",
+    [
+     "額縁",
+     "絵",
+     "フレーム",
+     "インテリア"
+    ]
+   ],
+   "es": [
+    "Cuadro con marco",
+    "Un marco de madera con un paisaje de montañas colgado de un clavo.",
+    [
+     "marco",
+     "cuadro",
+     "pintura",
+     "decoración"
+    ]
+   ],
+   "pt": [
+    "Quadro com moldura",
+    "Uma moldura de madeira com paisagem de montanhas pendurada num prego.",
+    [
+     "moldura",
+     "quadro",
+     "pintura",
+     "decoração"
+    ]
+   ],
+   "fr": [
+    "Cadre photo",
+    "Un cadre en bois avec un paysage de montagne accroché à un clou.",
+    [
+     "cadre",
+     "tableau",
+     "peinture",
+     "décoration murale"
+    ]
+   ],
+   "de": [
+    "Bilderrahmen",
+    "Ein Holzrahmen mit Berglandschaft, an einem Nagel aufgehängt.",
+    [
+     "Bilderrahmen",
+     "Bild",
+     "Gemälde",
+     "Wanddeko"
+    ]
+   ],
+   "zh": [
+    "画框",
+    "挂在钉子上、装着山景画的木画框。",
+    [
+     "画框",
+     "挂画",
+     "相框",
+     "装饰"
+    ]
+   ],
+   "ko": [
+    "액자",
+    "못에 걸린 산 풍경 그림이 든 나무 액자.",
+    [
+     "액자",
+     "그림",
+     "프레임",
+     "인테리어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "wall-clock",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Wall clock",
+    "A round wall clock with a smiling face and simple tick marks.",
+    [
+     "clock",
+     "wall clock",
+     "time",
+     "home"
+    ]
+   ],
+   "ja": [
+    "壁掛け時計",
+    "にっこり顔の丸い壁掛け時計。",
+    [
+     "時計",
+     "掛け時計",
+     "時間",
+     "インテリア"
+    ]
+   ],
+   "es": [
+    "Reloj de pared",
+    "Un reloj de pared redondo con carita sonriente.",
+    [
+     "reloj",
+     "reloj de pared",
+     "hora",
+     "tiempo"
+    ]
+   ],
+   "pt": [
+    "Relógio de parede",
+    "Um relógio de parede redondo com carinha sorridente.",
+    [
+     "relógio",
+     "relógio de parede",
+     "hora",
+     "tempo"
+    ]
+   ],
+   "fr": [
+    "Horloge murale",
+    "Une horloge murale ronde avec un visage souriant.",
+    [
+     "horloge",
+     "pendule",
+     "heure",
+     "temps"
+    ]
+   ],
+   "de": [
+    "Wanduhr",
+    "Eine runde Wanduhr mit lächelndem Gesicht.",
+    [
+     "Uhr",
+     "Wanduhr",
+     "Zeit",
+     "Uhrzeit"
+    ]
+   ],
+   "zh": [
+    "挂钟",
+    "带笑脸的圆形挂钟。",
+    [
+     "钟表",
+     "挂钟",
+     "时间",
+     "时钟"
+    ]
+   ],
+   "ko": [
+    "벽시계",
+    "웃는 얼굴이 있는 동그란 벽시계.",
+    [
+     "시계",
+     "벽시계",
+     "시간",
+     "인테리어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "candle",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Candle",
+    "A pink candle with a glowing flame on a small dish.",
+    [
+     "candle",
+     "flame",
+     "light",
+     "relax"
+    ]
+   ],
+   "ja": [
+    "キャンドル",
+    "小皿の上で炎がゆらめくピンクのろうそく。",
+    [
+     "キャンドル",
+     "ろうそく",
+     "炎",
+     "癒し"
+    ]
+   ],
+   "es": [
+    "Vela",
+    "Una vela rosa con una llama encendida sobre un platito.",
+    [
+     "vela",
+     "llama",
+     "luz",
+     "relajación"
+    ]
+   ],
+   "pt": [
+    "Vela",
+    "Uma vela rosa com chama acesa sobre um pratinho.",
+    [
+     "vela",
+     "chama",
+     "luz",
+     "relaxar"
+    ]
+   ],
+   "fr": [
+    "Bougie",
+    "Une bougie rose allumée sur une petite soucoupe.",
+    [
+     "bougie",
+     "flamme",
+     "lumière",
+     "détente"
+    ]
+   ],
+   "de": [
+    "Kerze",
+    "Eine rosa Kerze mit leuchtender Flamme auf einem Teller.",
+    [
+     "Kerze",
+     "Flamme",
+     "Licht",
+     "Entspannung"
+    ]
+   ],
+   "zh": [
+    "蜡烛",
+    "放在小碟上、火焰摇曳的粉色蜡烛。",
+    [
+     "蜡烛",
+     "烛光",
+     "火焰",
+     "放松"
+    ]
+   ],
+   "ko": [
+    "양초",
+    "작은 접시 위에서 불꽃이 타오르는 분홍 양초.",
+    [
+     "양초",
+     "캔들",
+     "불꽃",
+     "힐링"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "toolbox",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Toolbox",
+    "A red toolbox with a handle and a yellow latch.",
+    [
+     "toolbox",
+     "tools",
+     "DIY",
+     "repair"
+    ]
+   ],
+   "ja": [
+    "工具箱",
+    "持ち手と黄色い留め金のついた赤い工具箱。",
+    [
+     "工具箱",
+     "道具箱",
+     "DIY",
+     "修理"
+    ]
+   ],
+   "es": [
+    "Caja de herramientas",
+    "Una caja de herramientas roja con asa y cierre amarillo.",
+    [
+     "caja de herramientas",
+     "herramientas",
+     "bricolaje",
+     "reparación"
+    ]
+   ],
+   "pt": [
+    "Caixa de ferramentas",
+    "Uma caixa de ferramentas vermelha com alça e trava amarela.",
+    [
+     "caixa de ferramentas",
+     "ferramentas",
+     "faça você mesmo",
+     "conserto"
+    ]
+   ],
+   "fr": [
+    "Boîte à outils",
+    "Une boîte à outils rouge avec poignée et fermoir jaune.",
+    [
+     "boîte à outils",
+     "outils",
+     "bricolage",
+     "réparation"
+    ]
+   ],
+   "de": [
+    "Werkzeugkasten",
+    "Ein roter Werkzeugkasten mit Griff und gelbem Verschluss.",
+    [
+     "Werkzeugkasten",
+     "Werkzeug",
+     "Heimwerken",
+     "Reparatur"
+    ]
+   ],
+   "zh": [
+    "工具箱",
+    "带提手和黄色锁扣的红色工具箱。",
+    [
+     "工具箱",
+     "工具",
+     "DIY",
+     "维修"
+    ]
+   ],
+   "ko": [
+    "공구함",
+    "손잡이와 노란 잠금장치가 달린 빨간 공구함.",
+    [
+     "공구함",
+     "공구",
+     "DIY",
+     "수리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hammer",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hammer and nails",
+    "A hammer with nails driven into a wooden board.",
+    [
+     "hammer",
+     "nails",
+     "DIY",
+     "carpentry"
+    ]
+   ],
+   "ja": [
+    "金づちとくぎ",
+    "板に打ったくぎと金づち。",
+    [
+     "金づち",
+     "トンカチ",
+     "くぎ",
+     "日曜大工"
+    ]
+   ],
+   "es": [
+    "Martillo y clavos",
+    "Un martillo con clavos clavados en una tabla de madera.",
+    [
+     "martillo",
+     "clavos",
+     "bricolaje",
+     "carpintería"
+    ]
+   ],
+   "pt": [
+    "Martelo e pregos",
+    "Um martelo com pregos pregados em uma tábua de madeira.",
+    [
+     "martelo",
+     "pregos",
+     "faça você mesmo",
+     "marcenaria"
+    ]
+   ],
+   "fr": [
+    "Marteau et clous",
+    "Un marteau et des clous plantés dans une planche de bois.",
+    [
+     "marteau",
+     "clous",
+     "bricolage",
+     "menuiserie"
+    ]
+   ],
+   "de": [
+    "Hammer und Nägel",
+    "Ein Hammer mit Nägeln, die in ein Holzbrett geschlagen sind.",
+    [
+     "Hammer",
+     "Nägel",
+     "Heimwerken",
+     "Tischlern"
+    ]
+   ],
+   "zh": [
+    "锤子和钉子",
+    "锤子和钉在木板上的钉子。",
+    [
+     "锤子",
+     "钉子",
+     "DIY",
+     "木工"
+    ]
+   ],
+   "ko": [
+    "망치와 못",
+    "나무판에 박힌 못과 망치.",
+    [
+     "망치",
+     "못",
+     "DIY",
+     "목공"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ladder",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Stepladder",
+    "A sturdy yellow stepladder with a red top.",
+    [
+     "ladder",
+     "stepladder",
+     "DIY",
+     "tools"
+    ]
+   ],
+   "ja": [
+    "脚立",
+    "赤い天板のついた黄色い脚立。",
+    [
+     "脚立",
+     "はしご",
+     "DIY",
+     "作業"
+    ]
+   ],
+   "es": [
+    "Escalera de tijera",
+    "Una escalera de tijera amarilla con tapa roja.",
+    [
+     "escalera",
+     "escalera de tijera",
+     "bricolaje",
+     "herramientas"
+    ]
+   ],
+   "pt": [
+    "Escada",
+    "Uma escada dobrável amarela com topo vermelho.",
+    [
+     "escada",
+     "escada dobrável",
+     "faça você mesmo",
+     "ferramentas"
+    ]
+   ],
+   "fr": [
+    "Escabeau",
+    "Un escabeau jaune robuste avec un plateau rouge.",
+    [
+     "escabeau",
+     "échelle",
+     "bricolage",
+     "outils"
+    ]
+   ],
+   "de": [
+    "Stehleiter",
+    "Eine stabile gelbe Stehleiter mit roter Ablage oben.",
+    [
+     "Leiter",
+     "Stehleiter",
+     "Heimwerken",
+     "Werkzeug"
+    ]
+   ],
+   "zh": [
+    "人字梯",
+    "顶部为红色的黄色人字梯。",
+    [
+     "梯子",
+     "人字梯",
+     "DIY",
+     "工具"
+    ]
+   ],
+   "ko": [
+    "사다리",
+    "빨간 상판이 달린 노란 접이식 사다리.",
+    [
+     "사다리",
+     "접이식 사다리",
+     "DIY",
+     "작업"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "flashlight",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Flashlight",
+    "A blue flashlight shining a bright yellow beam.",
+    [
+     "flashlight",
+     "torch",
+     "light",
+     "emergency"
+    ]
+   ],
+   "ja": [
+    "懐中電灯",
+    "明るい光を照らす青い懐中電灯。",
+    [
+     "懐中電灯",
+     "ライト",
+     "防災",
+     "停電"
+    ]
+   ],
+   "es": [
+    "Linterna",
+    "Una linterna azul que ilumina con un haz amarillo.",
+    [
+     "linterna",
+     "luz",
+     "emergencia",
+     "apagón"
+    ]
+   ],
+   "pt": [
+    "Lanterna",
+    "Uma lanterna azul iluminando com um feixe amarelo.",
+    [
+     "lanterna",
+     "luz",
+     "emergência",
+     "queda de energia"
+    ]
+   ],
+   "fr": [
+    "Lampe de poche",
+    "Une lampe de poche bleue projetant un faisceau jaune.",
+    [
+     "lampe de poche",
+     "lampe torche",
+     "lumière",
+     "urgence"
+    ]
+   ],
+   "de": [
+    "Taschenlampe",
+    "Eine blaue Taschenlampe mit hellem gelbem Lichtstrahl.",
+    [
+     "Taschenlampe",
+     "Licht",
+     "Notfall",
+     "Stromausfall"
+    ]
+   ],
+   "zh": [
+    "手电筒",
+    "发出明亮黄光的蓝色手电筒。",
+    [
+     "手电筒",
+     "照明",
+     "应急",
+     "停电"
+    ]
+   ],
+   "ko": [
+    "손전등",
+    "밝은 노란빛을 비추는 파란 손전등.",
+    [
+     "손전등",
+     "랜턴",
+     "비상",
+     "정전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "emergency-bag",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Emergency kit backpack",
+    "An orange emergency backpack with a water bottle beside it.",
+    [
+     "emergency kit",
+     "go bag",
+     "disaster preparedness",
+     "backpack"
+    ]
+   ],
+   "ja": [
+    "防災リュック",
+    "水のボトルを添えたオレンジ色の非常用持ち出し袋。",
+    [
+     "防災リュック",
+     "非常持ち出し袋",
+     "防災グッズ",
+     "備え"
+    ]
+   ],
+   "es": [
+    "Mochila de emergencia",
+    "Una mochila de emergencia naranja con una botella de agua al lado.",
+    [
+     "mochila de emergencia",
+     "kit de emergencia",
+     "prevención de desastres",
+     "sismo"
+    ]
+   ],
+   "pt": [
+    "Mochila de emergência",
+    "Uma mochila de emergência laranja com uma garrafa de água ao lado.",
+    [
+     "mochila de emergência",
+     "kit de emergência",
+     "prevenção de desastres",
+     "sobrevivência"
+    ]
+   ],
+   "fr": [
+    "Sac d'urgence",
+    "Un sac à dos d'urgence orange avec une bouteille d'eau à côté.",
+    [
+     "sac d'urgence",
+     "kit de survie",
+     "prévention des catastrophes",
+     "sac à dos"
+    ]
+   ],
+   "de": [
+    "Notfallrucksack",
+    "Ein orangefarbener Notfallrucksack mit einer Wasserflasche daneben.",
+    [
+     "Notfallrucksack",
+     "Notgepäck",
+     "Katastrophenschutz",
+     "Vorsorge"
+    ]
+   ],
+   "zh": [
+    "应急背包",
+    "旁边放着水瓶的橙色应急避难背包。",
+    [
+     "应急包",
+     "防灾",
+     "避难",
+     "背包"
+    ]
+   ],
+   "ko": [
+    "비상 배낭",
+    "물병이 옆에 놓인 주황색 재난 대비 비상 배낭.",
+    [
+     "비상 배낭",
+     "생존 가방",
+     "재난 대비",
+     "방재"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "moving-boxes",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Moving boxes",
+    "A stack of taped cardboard boxes ready for moving day.",
+    [
+     "moving",
+     "cardboard boxes",
+     "packing",
+     "relocation"
+    ]
+   ],
+   "ja": [
+    "引っ越しの段ボール",
+    "テープで閉じて積み上げた引っ越し用の段ボール箱。",
+    [
+     "引っ越し",
+     "段ボール",
+     "荷造り",
+     "新生活"
+    ]
+   ],
+   "es": [
+    "Cajas de mudanza",
+    "Una pila de cajas de cartón cerradas con cinta para la mudanza.",
+    [
+     "mudanza",
+     "cajas de cartón",
+     "empacar",
+     "nuevo hogar"
+    ]
+   ],
+   "pt": [
+    "Caixas de mudança",
+    "Uma pilha de caixas de papelão fechadas com fita para a mudança.",
+    [
+     "mudança",
+     "caixas de papelão",
+     "embalar",
+     "casa nova"
+    ]
+   ],
+   "fr": [
+    "Cartons de déménagement",
+    "Une pile de cartons scotchés prêts pour le déménagement.",
+    [
+     "déménagement",
+     "cartons",
+     "emballage",
+     "nouveau logement"
+    ]
+   ],
+   "de": [
+    "Umzugskartons",
+    "Ein Stapel zugeklebter Kartons für den Umzug.",
+    [
+     "Umzug",
+     "Umzugskartons",
+     "Packen",
+     "neue Wohnung"
+    ]
+   ],
+   "zh": [
+    "搬家纸箱",
+    "用胶带封好、堆在一起的搬家纸箱。",
+    [
+     "搬家",
+     "纸箱",
+     "打包",
+     "新生活"
+    ]
+   ],
+   "ko": [
+    "이삿짐 상자",
+    "테이프로 봉해 쌓아 둔 이사용 종이 상자.",
+    [
+     "이사",
+     "박스",
+     "이삿짐",
+     "짐 싸기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "apartment",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Apartment building",
+    "A tall apartment building with rows of windows and trees beside it.",
+    [
+     "apartment",
+     "building",
+     "housing",
+     "condo"
+    ]
+   ],
+   "ja": [
+    "マンション",
+    "窓が並ぶ背の高いマンションと木。",
+    [
+     "マンション",
+     "アパート",
+     "集合住宅",
+     "住まい"
+    ]
+   ],
+   "es": [
+    "Edificio de departamentos",
+    "Un edificio alto de departamentos con hileras de ventanas y árboles.",
+    [
+     "departamento",
+     "edificio",
+     "vivienda",
+     "condominio"
+    ]
+   ],
+   "pt": [
+    "Prédio de apartamentos",
+    "Um prédio alto de apartamentos com fileiras de janelas e árvores.",
+    [
+     "apartamento",
+     "prédio",
+     "moradia",
+     "condomínio"
+    ]
+   ],
+   "fr": [
+    "Immeuble d'habitation",
+    "Un grand immeuble avec des rangées de fenêtres et des arbres.",
+    [
+     "immeuble",
+     "appartement",
+     "logement",
+     "résidence"
+    ]
+   ],
+   "de": [
+    "Wohnhaus",
+    "Ein hohes Mehrfamilienhaus mit Fensterreihen und Bäumen daneben.",
+    [
+     "Wohnung",
+     "Wohnhaus",
+     "Mehrfamilienhaus",
+     "Wohnen"
+    ]
+   ],
+   "zh": [
+    "公寓楼",
+    "有一排排窗户、旁边有树的高层公寓楼。",
+    [
+     "公寓",
+     "楼房",
+     "住宅",
+     "小区"
+    ]
+   ],
+   "ko": [
+    "아파트",
+    "창문이 줄지어 있는 높은 아파트와 나무.",
+    [
+     "아파트",
+     "건물",
+     "주택",
+     "공동주택"
+    ]
+   ]
+  }
+ }
+]

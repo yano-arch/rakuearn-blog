@@ -24,6 +24,8 @@ PREVIEW = "--preview" in sys.argv
 OUT = "dist"
 
 UI = json.load(open("data/ui.json", encoding="utf-8"))
+# 肌の色の切り替え（人物イラスト）。先頭が標準の肌色で、イラストはこの色で描かれている
+SKIN_TONES = ["#ffd9b8", "#f1c27d", "#e0ac69", "#c68642", "#8d5a3b"]
 import glob
 _raw = json.load(open("data/illustrations.json", encoding="utf-8"))
 for _f in sorted(glob.glob("data/items/*.json")):
@@ -201,6 +203,7 @@ def page_illust(lang, item):
     u = UI[lang]
     s = item["slug"]
     title, desc, tags = t(item, lang)
+    has_skin = SKIN_TONES[0] in open(f"public/images/svg/{s}.svg", encoding="utf-8").read().lower()
     same = [i for i in ITEMS if i["cat"] == item["cat"] and i is not item]
     other = [i for i in ITEMS if i["cat"] != item["cat"]]
     related = (same + other)[:8]
@@ -216,14 +219,15 @@ def page_illust(lang, item):
     body = f"""
 <nav class="crumbs"><a href="{url(lang)}">{e(u['home'])}</a><span>›</span><a href="{url(lang, 'cat', item['cat'])}">{e(u['cats'][item['cat']])}</a><span>›</span><span>{e(title)}</span></nav>
 <article class="detail">
-  <div class="detail-art"><img src="/images/svg/{s}.svg" alt="{e(title)}" width="480" height="480"></div>
+  <div class="detail-art"><img id="art" src="/images/svg/{s}.svg" alt="{e(title)}" width="480" height="480"></div>
   <div class="detail-info">
     <h1>{e(title)}</h1>
     <p class="desc">{e(desc)}</p>
     {badges(u)}
     <div class="dl">
-      <a class="btn primary" data-dl href="/images/png/{s}.png" download="{SITE_NAME.lower()}-{s}.png">{e(u['download_png'])} <small>1000×1000</small></a>
-      <a class="btn" data-dl href="/images/svg/{s}.svg" download="{SITE_NAME.lower()}-{s}.svg">{e(u['download_svg'])}</a>
+      {skin_picker(lang, s) if has_skin else ""}
+      <a class="btn primary" data-dl="png" href="/images/png/{s}.png" download="{SITE_NAME.lower()}-{s}.png">{e(u['download_png'])} <small>1000×1000</small></a>
+      <a class="btn" data-dl="svg" href="/images/svg/{s}.svg" download="{SITE_NAME.lower()}-{s}.svg">{e(u['download_svg'])}</a>
     </div>
     <p class="note">{e(u['license_short'])} <a href="{url(lang, 'license')}">{e(u['license'])}</a></p>
     <div class="tags"><span>{e(u['tags'])}</span>{tag_html}</div>
@@ -236,6 +240,16 @@ def page_illust(lang, item):
 {ad('bottom', lang)}"""
     return layout(lang, "illust", s, title, f"{desc} {u['meta_desc']}", body,
                   og_image=f"/images/png/{s}.png", jsonld=jsonld)
+
+
+def skin_picker(lang, slug):
+    u = UI[lang]
+    btns = "".join(
+        f'<button type="button" class="sw{" on" if i == 0 else ""}" data-c="{c}" style="background:{c}" '
+        f'aria-label="{e(u["skin_label"])} {i + 1}" aria-pressed="{"true" if i == 0 else "false"}"></button>'
+        for i, c in enumerate(SKIN_TONES))
+    return (f'<div class="skin" id="skin" data-base="{SKIN_TONES[0]}" data-svg="/images/svg/{slug}.svg">'
+            f'<span>{e(u["skin_label"])}</span><div class="sws">{btns}</div></div>')
 
 
 def rewarded_modal(lang):

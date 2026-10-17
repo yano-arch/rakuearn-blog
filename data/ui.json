@@ -80,7 +80,8 @@
     "rw_cancel": "Cancel",
     "rw_loading": "Loading the ad…",
     "rw_closed": "Your download starts once the ad finishes. You can try again anytime.",
-    "rw_thanks": "Thank you! Your download is starting."
+    "rw_thanks": "Thank you! Your download is starting.",
+    "skin_label": "Skin tone"
   },
   "ja": {
     "lang_name": "日本語",
@@ -163,7 +164,8 @@
     "rw_cancel": "キャンセル",
     "rw_loading": "広告を読み込んでいます…",
     "rw_closed": "広告を最後まで見るとダウンロードが始まります。もう一度お試しいただけます。",
-    "rw_thanks": "ありがとうございます！ダウンロードを開始します。"
+    "rw_thanks": "ありがとうございます！ダウンロードを開始します。",
+    "skin_label": "肌の色"
   },
   "es": {
     "lang_name": "Español",
@@ -246,7 +248,8 @@
     "rw_cancel": "Cancelar",
     "rw_loading": "Cargando el anuncio…",
     "rw_closed": "La descarga empieza cuando termina el anuncio. Puedes intentarlo de nuevo cuando quieras.",
-    "rw_thanks": "¡Gracias! Tu descarga está comenzando."
+    "rw_thanks": "¡Gracias! Tu descarga está comenzando.",
+    "skin_label": "Tono de piel"
   },
   "pt": {
     "lang_name": "Português",
@@ -329,7 +332,8 @@
     "rw_cancel": "Cancelar",
     "rw_loading": "Carregando o anúncio…",
     "rw_closed": "O download começa quando o anúncio termina. Você pode tentar de novo quando quiser.",
-    "rw_thanks": "Obrigado! Seu download está começando."
+    "rw_thanks": "Obrigado! Seu download está começando.",
+    "skin_label": "Tom de pele"
   },
   "fr": {
     "lang_name": "Français",
@@ -412,7 +416,8 @@
     "rw_cancel": "Annuler",
     "rw_loading": "Chargement de la publicité…",
     "rw_closed": "Le téléchargement démarre à la fin de la publicité. Vous pouvez réessayer à tout moment.",
-    "rw_thanks": "Merci ! Votre téléchargement commence."
+    "rw_thanks": "Merci ! Votre téléchargement commence.",
+    "skin_label": "Teint"
   },
   "de": {
     "lang_name": "Deutsch",
@@ -495,7 +500,8 @@
     "rw_cancel": "Abbrechen",
     "rw_loading": "Anzeige wird geladen…",
     "rw_closed": "Der Download startet, sobald die Anzeige zu Ende ist. Du kannst es jederzeit erneut versuchen.",
-    "rw_thanks": "Danke! Dein Download startet."
+    "rw_thanks": "Danke! Dein Download startet.",
+    "skin_label": "Hautton"
   },
   "zh": {
     "lang_name": "简体中文",
@@ -578,7 +584,8 @@
     "rw_cancel": "取消",
     "rw_loading": "正在加载广告…",
     "rw_closed": "广告播放完毕后才会开始下载。你可以随时再试一次。",
-    "rw_thanks": "谢谢！下载即将开始。"
+    "rw_thanks": "谢谢！下载即将开始。",
+    "skin_label": "肤色"
   },
   "ko": {
     "lang_name": "한국어",
@@ -661,6 +668,7 @@
     "rw_cancel": "취소",
     "rw_loading": "광고를 불러오는 중…",
     "rw_closed": "광고가 끝나면 다운로드가 시작돼요. 언제든 다시 시도할 수 있어요.",
-    "rw_thanks": "감사합니다! 다운로드를 시작할게요."
+    "rw_thanks": "감사합니다! 다운로드를 시작할게요.",
+    "skin_label": "피부색"
   }
 }

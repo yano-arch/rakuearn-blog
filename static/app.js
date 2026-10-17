@@ -28,6 +28,75 @@
   input.addEventListener("input", run);
 })();
 
+/* ダウンロード共通処理と、人物イラストの肌の色切り替え */
+(function () {
+  function save(url, name) {
+    var t = document.createElement("a");
+    t.href = url; t.download = name || "";
+    document.body.appendChild(t); t.click(); t.remove();
+  }
+  var box = document.getElementById("skin"), art = document.getElementById("art");
+  var base = box && box.getAttribute("data-base"), tone = base, svgText = null;
+
+  function getSvg() {
+    if (svgText) return Promise.resolve(svgText);
+    return fetch(box.getAttribute("data-svg")).then(function (r) { return r.text(); })
+      .then(function (t) { svgText = t; return t; });
+  }
+  function recolored() {
+    return getSvg().then(function (t) { return t.split(base).join(tone); });
+  }
+  function toneName(a) {
+    var n = a.getAttribute("download") || "";
+    var i = Array.prototype.indexOf.call(box.querySelectorAll(".sw"), box.querySelector(".sw.on"));
+    return n.replace(/\.(png|svg)$/, "-skin" + (i + 1) + ".$1");
+  }
+
+  // a[data-dl] のダウンロードを実行（肌の色を変えていれば、その色で書き出す）
+  window.FuwaDL = function (a) {
+    if (!box || tone === base) return save(a.href, a.getAttribute("download"));
+    var kind = a.getAttribute("data-dl"), name = toneName(a);
+    return recolored().then(function (text) {
+      var svgUrl = URL.createObjectURL(new Blob([text], { type: "image/svg+xml" }));
+      if (kind === "svg") { save(svgUrl, name); setTimeout(function () { URL.revokeObjectURL(svgUrl); }, 4000); return; }
+      return new Promise(function (resolve) {
+        var img = new Image();
+        img.onload = function () {
+          var c = document.createElement("canvas"); c.width = 1000; c.height = 1000;
+          c.getContext("2d").drawImage(img, 0, 0, 1000, 1000);
+          URL.revokeObjectURL(svgUrl);
+          c.toBlob(function (b) {
+            var u = URL.createObjectURL(b); save(u, name);
+            setTimeout(function () { URL.revokeObjectURL(u); }, 4000); resolve();
+          }, "image/png");
+        };
+        img.src = svgUrl;
+      });
+    });
+  };
+
+  // リワード広告がないページでは、肌の色を変えたときだけ自前で書き出す
+  if (!document.getElementById("rw")) {
+    document.addEventListener("click", function (ev) {
+      var a = ev.target.closest && ev.target.closest("a[data-dl]");
+      if (!a || !box || tone === base) return;
+      ev.preventDefault(); window.FuwaDL(a);
+    });
+  }
+
+  if (!box || !art) return;
+  var original = art.src;
+  box.addEventListener("click", function (ev) {
+    var b = ev.target.closest(".sw");
+    if (!b) return;
+    box.querySelectorAll(".sw").forEach(function (x) { x.classList.remove("on"); x.setAttribute("aria-pressed", "false"); });
+    b.classList.add("on"); b.setAttribute("aria-pressed", "true");
+    tone = b.getAttribute("data-c");
+    if (tone === base) { art.src = original; return; }
+    recolored().then(function (t) { art.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(t); });
+  });
+})();
+
 /* ダウンロード前のリワード広告（Google Ad Manager / GPT）
    広告が出ない・読み込めない・広告ブロック時は、待たせずにそのままダウンロードする */
 (function () {
@@ -37,11 +106,7 @@
   var msg = document.getElementById("rw-msg"), ok = document.getElementById("rw-ok"), cancel = document.getElementById("rw-cancel");
   var bodyText = msg.textContent, pending = null, busy = false;
 
-  function download(a) {
-    var t = document.createElement("a");
-    t.href = a.href; t.download = a.getAttribute("download") || "";
-    document.body.appendChild(t); t.click(); t.remove();
-  }
+  function download(a) { window.FuwaDL(a); }
   function close() { rw.hidden = true; busy = false; ok.disabled = false; ok.hidden = false; msg.textContent = bodyText; }
   function fallback() { download(pending); close(); }
   function finish(granted) {

@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "rooster",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Rooster",
+    "A proud rooster with a red comb and colorful tail feathers.",
+    [
+     "rooster",
+     "chicken",
+     "farm animal",
+     "bird"
+    ]
+   ],
+   "ja": [
+    "にわとり（おんどり）",
+    "赤いトサカとカラフルな尾羽のおんどり。",
+    [
+     "にわとり",
+     "おんどり",
+     "鶏",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Gallo",
+    "Un gallo orgulloso con cresta roja y cola de colores.",
+    [
+     "gallo",
+     "gallina",
+     "animal de granja",
+     "ave"
+    ]
+   ],
+   "pt": [
+    "Galo",
+    "Um galo todo orgulhoso com crista vermelha e cauda colorida.",
+    [
+     "galo",
+     "galinha",
+     "animal da fazenda",
+     "ave"
+    ]
+   ],
+   "fr": [
+    "Coq",
+    "Un coq fier avec une crête rouge et une queue colorée.",
+    [
+     "coq",
+     "poule",
+     "animal de la ferme",
+     "oiseau"
+    ]
+   ],
+   "de": [
+    "Hahn",
+    "Ein stolzer Hahn mit rotem Kamm und bunten Schwanzfedern.",
+    [
+     "Hahn",
+     "Huhn",
+     "Bauernhoftier",
+     "Vogel"
+    ]
+   ],
+   "zh": [
+    "大公鸡",
+    "一只红鸡冠、彩色尾羽的大公鸡。",
+    [
+     "公鸡",
+     "鸡",
+     "农场动物",
+     "鸟"
+    ]
+   ],
+   "ko": [
+    "수탉",
+    "빨간 볏과 알록달록한 꼬리깃을 가진 수탉.",
+    [
+     "수탉",
+     "닭",
+     "농장 동물",
+     "새"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "duck",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Duck",
+    "A white duck floating happily on the water.",
+    [
+     "duck",
+     "bird",
+     "pond",
+     "cute"
+    ]
+   ],
+   "ja": [
+    "アヒル",
+    "水にぷかぷか浮かぶ白いアヒル。",
+    [
+     "アヒル",
+     "あひる",
+     "鳥",
+     "池"
+    ]
+   ],
+   "es": [
+    "Pato",
+    "Un pato blanco flotando feliz en el agua.",
+    [
+     "pato",
+     "ave",
+     "estanque",
+     "tierno"
+    ]
+   ],
+   "pt": [
+    "Pato",
+    "Um patinho branco boiando feliz na água.",
+    [
+     "pato",
+     "patinho",
+     "lagoa",
+     "fofo"
+    ]
+   ],
+   "fr": [
+    "Canard",
+    "Un canard blanc qui flotte joyeusement sur l'eau.",
+    [
+     "canard",
+     "oiseau",
+     "mare",
+     "mignon"
+    ]
+   ],
+   "de": [
+    "Ente",
+    "Eine weiße Ente, die fröhlich auf dem Wasser schwimmt.",
+    [
+     "Ente",
+     "Vogel",
+     "Teich",
+     "niedlich"
+    ]
+   ],
+   "zh": [
+    "小鸭子",
+    "一只在水面上开心漂浮的白色鸭子。",
+    [
+     "鸭子",
+     "小鸭子",
+     "鸟",
+     "池塘"
+    ]
+   ],
+   "ko": [
+    "오리",
+    "물 위에 둥둥 떠 있는 하얀 오리.",
+    [
+     "오리",
+     "새",
+     "연못",
+     "귀여운"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "donkey",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Donkey",
+    "A gray donkey with long ears and a white muzzle.",
+    [
+     "donkey",
+     "farm animal",
+     "animal",
+     "cute"
+    ]
+   ],
+   "ja": [
+    "ロバ",
+    "長い耳と白い鼻先の灰色のロバ。",
+    [
+     "ロバ",
+     "ろば",
+     "動物",
+     "牧場"
+    ]
+   ],
+   "es": [
+    "Burro",
+    "Un burro gris de orejas largas y hocico blanco.",
+    [
+     "burro",
+     "asno",
+     "animal de granja",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Burro",
+    "Um burrinho cinza de orelhas compridas e focinho branco.",
+    [
+     "burro",
+     "jumento",
+     "animal da fazenda",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Âne",
+    "Un âne gris aux longues oreilles et au museau blanc.",
+    [
+     "âne",
+     "animal de la ferme",
+     "animal",
+     "mignon"
+    ]
+   ],
+   "de": [
+    "Esel",
+    "Ein grauer Esel mit langen Ohren und weißer Schnauze.",
+    [
+     "Esel",
+     "Bauernhoftier",
+     "Tier",
+     "niedlich"
+    ]
+   ],
+   "zh": [
+    "小毛驴",
+    "一只长耳朵、白鼻头的灰色小毛驴。",
+    [
+     "驴",
+     "毛驴",
+     "动物",
+     "农场"
+    ]
+   ],
+   "ko": [
+    "당나귀",
+    "긴 귀와 하얀 주둥이를 가진 회색 당나귀.",
+    [
+     "당나귀",
+     "농장 동물",
+     "동물",
+     "귀여운"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "lion",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Lion",
+    "A friendly lion with a big fluffy mane.",
+    [
+     "lion",
+     "wild animal",
+     "zoo",
+     "safari"
+    ]
+   ],
+   "ja": [
+    "ライオン",
+    "ふさふさのたてがみのやさしいライオン。",
+    [
+     "ライオン",
+     "動物",
+     "動物園",
+     "サバンナ"
+    ]
+   ],
+   "es": [
+    "León",
+    "Un león simpático con una gran melena esponjosa.",
+    [
+     "león",
+     "animal salvaje",
+     "zoológico",
+     "safari"
+    ]
+   ],
+   "pt": [
+    "Leão",
+    "Um leão simpático com uma juba grande e fofa.",
+    [
+     "leão",
+     "animal selvagem",
+     "zoológico",
+     "safári"
+    ]
+   ],
+   "fr": [
+    "Lion",
+    "Un lion sympathique avec une grande crinière toute douce.",
+    [
+     "lion",
+     "animal sauvage",
+     "zoo",
+     "safari"
+    ]
+   ],
+   "de": [
+    "Löwe",
+    "Ein freundlicher Löwe mit großer, flauschiger Mähne.",
+    [
+     "Löwe",
+     "Wildtier",
+     "Zoo",
+     "Safari"
+    ]
+   ],
+   "zh": [
+    "狮子",
+    "一只有着蓬松大鬃毛的友善狮子。",
+    [
+     "狮子",
+     "野生动物",
+     "动物园",
+     "草原"
+    ]
+   ],
+   "ko": [
+    "사자",
+    "풍성한 갈기를 가진 다정한 사자.",
+    [
+     "사자",
+     "야생 동물",
+     "동물원",
+     "사파리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tiger",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tiger",
+    "A cute orange tiger with black stripes.",
+    [
+     "tiger",
+     "wild animal",
+     "zoo",
+     "stripes"
+    ]
+   ],
+   "ja": [
+    "トラ",
+    "黒いしましまのかわいいトラ。",
+    [
+     "トラ",
+     "虎",
+     "動物",
+     "動物園"
+    ]
+   ],
+   "es": [
+    "Tigre",
+    "Un tigre naranja y tierno con rayas negras.",
+    [
+     "tigre",
+     "animal salvaje",
+     "zoológico",
+     "rayas"
+    ]
+   ],
+   "pt": [
+    "Tigre",
+    "Um tigre laranja fofo com listras pretas.",
+    [
+     "tigre",
+     "animal selvagem",
+     "zoológico",
+     "listras"
+    ]
+   ],
+   "fr": [
+    "Tigre",
+    "Un tigre orange tout mignon aux rayures noires.",
+    [
+     "tigre",
+     "animal sauvage",
+     "zoo",
+     "rayures"
+    ]
+   ],
+   "de": [
+    "Tiger",
+    "Ein niedlicher orangefarbener Tiger mit schwarzen Streifen.",
+    [
+     "Tiger",
+     "Wildtier",
+     "Zoo",
+     "Streifen"
+    ]
+   ],
+   "zh": [
+    "老虎",
+    "一只有黑色条纹的可爱橙色老虎。",
+    [
+     "老虎",
+     "虎",
+     "野生动物",
+     "动物园"
+    ]
+   ],
+   "ko": [
+    "호랑이",
+    "검은 줄무늬가 있는 귀여운 주황색 호랑이.",
+    [
+     "호랑이",
+     "야생 동물",
+     "동물원",
+     "줄무늬"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "elephant",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Elephant",
+    "A gentle elephant with big ears and a curled trunk.",
+    [
+     "elephant",
+     "wild animal",
+     "zoo",
+     "safari"
+    ]
+   ],
+   "ja": [
+    "ゾウ",
+    "大きな耳と長い鼻のやさしいゾウ。",
+    [
+     "ゾウ",
+     "象",
+     "動物",
+     "動物園"
+    ]
+   ],
+   "es": [
+    "Elefante",
+    "Un elefante tierno con orejas grandes y la trompa enroscada.",
+    [
+     "elefante",
+     "animal salvaje",
+     "zoológico",
+     "safari"
+    ]
+   ],
+   "pt": [
+    "Elefante",
+    "Um elefante fofo de orelhas grandes e tromba enrolada.",
+    [
+     "elefante",
+     "animal selvagem",
+     "zoológico",
+     "safári"
+    ]
+   ],
+   "fr": [
+    "Éléphant",
+    "Un gentil éléphant aux grandes oreilles et à la trompe enroulée.",
+    [
+     "éléphant",
+     "animal sauvage",
+     "zoo",
+     "safari"
+    ]
+   ],
+   "de": [
+    "Elefant",
+    "Ein sanfter Elefant mit großen Ohren und eingerolltem Rüssel.",
+    [
+     "Elefant",
+     "Wildtier",
+     "Zoo",
+     "Safari"
+    ]
+   ],
+   "zh": [
+    "大象",
+    "一只大耳朵、卷鼻子的温柔大象。",
+    [
+     "大象",
+     "野生动物",
+     "动物园",
+     "可爱"
+    ]
+   ],
+   "ko": [
+    "코끼리",
+    "큰 귀와 돌돌 말린 코를 가진 순한 코끼리.",
+    [
+     "코끼리",
+     "야생 동물",
+     "동물원",
+     "사파리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "giraffe",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Giraffe",
+    "A tall giraffe with a long neck and brown spots.",
+    [
+     "giraffe",
+     "wild animal",
+     "zoo",
+     "safari"
+    ]
+   ],
+   "ja": [
+    "キリン",
+    "長い首と茶色のもようのキリン。",
+    [
+     "キリン",
+     "きりん",
+     "動物",
+     "動物園"
+    ]
+   ],
+   "es": [
+    "Jirafa",
+    "Una jirafa alta con cuello largo y manchas marrones.",
+    [
+     "jirafa",
+     "animal salvaje",
+     "zoológico",
+     "safari"
+    ]
+   ],
+   "pt": [
+    "Girafa",
+    "Uma girafa alta de pescoço comprido e manchas marrons.",
+    [
+     "girafa",
+     "animal selvagem",
+     "zoológico",
+     "safári"
+    ]
+   ],
+   "fr": [
+    "Girafe",
+    "Une grande girafe au long cou et aux taches brunes.",
+    [
+     "girafe",
+     "animal sauvage",
+     "zoo",
+     "safari"
+    ]
+   ],
+   "de": [
+    "Giraffe",
+    "Eine große Giraffe mit langem Hals und braunen Flecken.",
+    [
+     "Giraffe",
+     "Wildtier",
+     "Zoo",
+     "Safari"
+    ]
+   ],
+   "zh": [
+    "长颈鹿",
+    "一只长脖子、有棕色斑点的长颈鹿。",
+    [
+     "长颈鹿",
+     "野生动物",
+     "动物园",
+     "草原"
+    ]
+   ],
+   "ko": [
+    "기린",
+    "긴 목과 갈색 무늬를 가진 기린.",
+    [
+     "기린",
+     "야생 동물",
+     "동물원",
+     "사파리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "zebra",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Zebra",
+    "A cute zebra with black and white stripes.",
+    [
+     "zebra",
+     "wild animal",
+     "zoo",
+     "stripes"
+    ]
+   ],
+   "ja": [
+    "シマウマ",
+    "白と黒のしましまのかわいいシマウマ。",
+    [
+     "シマウマ",
+     "しまうま",
+     "動物",
+     "動物園"
+    ]
+   ],
+   "es": [
+    "Cebra",
+    "Una cebra tierna con rayas blancas y negras.",
+    [
+     "cebra",
+     "animal salvaje",
+     "zoológico",
+     "rayas"
+    ]
+   ],
+   "pt": [
+    "Zebra",
+    "Uma zebra fofa com listras pretas e brancas.",
+    [
+     "zebra",
+     "animal selvagem",
+     "zoológico",
+     "listras"
+    ]
+   ],
+   "fr": [
+    "Zèbre",
+    "Un zèbre mignon aux rayures noires et blanches.",
+    [
+     "zèbre",
+     "animal sauvage",
+     "zoo",
+     "rayures"
+    ]
+   ],
+   "de": [
+    "Zebra",
+    "Ein niedliches Zebra mit schwarz-weißen Streifen.",
+    [
+     "Zebra",
+     "Wildtier",
+     "Zoo",
+     "Streifen"
+    ]
+   ],
+   "zh": [
+    "斑马",
+    "一只黑白条纹的可爱斑马。",
+    [
+     "斑马",
+     "野生动物",
+     "动物园",
+     "条纹"
+    ]
+   ],
+   "ko": [
+    "얼룩말",
+    "검은색과 흰색 줄무늬의 귀여운 얼룩말.",
+    [
+     "얼룩말",
+     "야생 동물",
+     "동물원",
+     "줄무늬"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hippo",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hippo",
+    "A round pink hippopotamus with a big smile.",
+    [
+     "hippo",
+     "hippopotamus",
+     "zoo",
+     "cute"
+    ]
+   ],
+   "ja": [
+    "カバ",
+    "にっこり笑うまるいピンクのカバ。",
+    [
+     "カバ",
+     "かば",
+     "動物",
+     "動物園"
+    ]
+   ],
+   "es": [
+    "Hipopótamo",
+    "Un hipopótamo rosado y redondo con una gran sonrisa.",
+    [
+     "hipopótamo",
+     "animal",
+     "zoológico",
+     "tierno"
+    ]
+   ],
+   "pt": [
+    "Hipopótamo",
+    "Um hipopótamo rosa e redondinho com um sorrisão.",
+    [
+     "hipopótamo",
+     "animal",
+     "zoológico",
+     "fofo"
+    ]
+   ],
+   "fr": [
+    "Hippopotame",
+    "Un hippopotame rose tout rond avec un grand sourire.",
+    [
+     "hippopotame",
+     "hippo",
+     "zoo",
+     "mignon"
+    ]
+   ],
+   "de": [
+    "Nilpferd",
+    "Ein rundes rosa Nilpferd mit breitem Lächeln.",
+    [
+     "Nilpferd",
+     "Flusspferd",
+     "Zoo",
+     "niedlich"
+    ]
+   ],
+   "zh": [
+    "河马",
+    "一只笑眯眯的圆滚滚粉色河马。",
+    [
+     "河马",
+     "动物",
+     "动物园",
+     "可爱"
+    ]
+   ],
+   "ko": [
+    "하마",
+    "활짝 웃는 동글동글한 분홍 하마.",
+    [
+     "하마",
+     "동물",
+     "동물원",
+     "귀여운"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rhino",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Rhino",
+    "A sturdy gray rhinoceros with a big horn.",
+    [
+     "rhino",
+     "rhinoceros",
+     "wild animal",
+     "safari"
+    ]
+   ],
+   "ja": [
+    "サイ",
+    "大きなツノのがっしりした灰色のサイ。",
+    [
+     "サイ",
+     "犀",
+     "動物",
+     "動物園"
+    ]
+   ],
+   "es": [
+    "Rinoceronte",
+    "Un rinoceronte gris y robusto con un gran cuerno.",
+    [
+     "rinoceronte",
+     "animal salvaje",
+     "zoológico",
+     "safari"
+    ]
+   ],
+   "pt": [
+    "Rinoceronte",
+    "Um rinoceronte cinza e robusto com um chifre grande.",
+    [
+     "rinoceronte",
+     "animal selvagem",
+     "zoológico",
+     "safári"
+    ]
+   ],
+   "fr": [
+    "Rhinocéros",
+    "Un rhinocéros gris et costaud avec une grande corne.",
+    [
+     "rhinocéros",
+     "animal sauvage",
+     "zoo",
+     "safari"
+    ]
+   ],
+   "de": [
+    "Nashorn",
+    "Ein kräftiges graues Nashorn mit großem Horn.",
+    [
+     "Nashorn",
+     "Wildtier",
+     "Zoo",
+     "Safari"
+    ]
+   ],
+   "zh": [
+    "犀牛",
+    "一只有大角的结实灰色犀牛。",
+    [
+     "犀牛",
+     "野生动物",
+     "动物园",
+     "草原"
+    ]
+   ],
+   "ko": [
+    "코뿔소",
+    "커다란 뿔을 가진 튼튼한 회색 코뿔소.",
+    [
+     "코뿔소",
+     "야생 동물",
+     "동물원",
+     "사파리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "monkey",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Monkey with a banana",
+    "A cheerful monkey holding a yellow banana.",
+    [
+     "monkey",
+     "banana",
+     "zoo",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "バナナを持ったサル",
+    "黄色いバナナを持ったごきげんなおサル。",
+    [
+     "サル",
+     "猿",
+     "バナナ",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Mono con plátano",
+    "Un mono alegre sosteniendo un plátano amarillo.",
+    [
+     "mono",
+     "plátano",
+     "zoológico",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Macaco com banana",
+    "Um macaquinho alegre segurando uma banana amarela.",
+    [
+     "macaco",
+     "banana",
+     "zoológico",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Singe avec une banane",
+    "Un singe joyeux qui tient une banane jaune.",
+    [
+     "singe",
+     "banane",
+     "zoo",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Affe mit Banane",
+    "Ein fröhlicher Affe, der eine gelbe Banane hält.",
+    [
+     "Affe",
+     "Banane",
+     "Zoo",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "拿香蕉的小猴子",
+    "一只拿着黄色香蕉的开心小猴子。",
+    [
+     "猴子",
+     "香蕉",
+     "动物园",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "바나나를 든 원숭이",
+    "노란 바나나를 든 신난 원숭이.",
+    [
+     "원숭이",
+     "바나나",
+     "동물원",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "gorilla",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Gorilla",
+    "A big, gentle gorilla sitting calmly.",
+    [
+     "gorilla",
+     "ape",
+     "zoo",
+     "wild animal"
+    ]
+   ],
+   "ja": [
+    "ゴリラ",
+    "どっしり座るやさしい大きなゴリラ。",
+    [
+     "ゴリラ",
+     "動物",
+     "動物園",
+     "類人猿"
+    ]
+   ],
+   "es": [
+    "Gorila",
+    "Un gorila grande y bonachón sentado tranquilo.",
+    [
+     "gorila",
+     "simio",
+     "zoológico",
+     "animal salvaje"
+    ]
+   ],
+   "pt": [
+    "Gorila",
+    "Um gorila grandão e gentil sentado tranquilo.",
+    [
+     "gorila",
+     "primata",
+     "zoológico",
+     "animal selvagem"
+    ]
+   ],
+   "fr": [
+    "Gorille",
+    "Un grand gorille tout doux assis tranquillement.",
+    [
+     "gorille",
+     "singe",
+     "zoo",
+     "animal sauvage"
+    ]
+   ],
+   "de": [
+    "Gorilla",
+    "Ein großer, sanfter Gorilla, der ruhig dasitzt.",
+    [
+     "Gorilla",
+     "Affe",
+     "Zoo",
+     "Wildtier"
+    ]
+   ],
+   "zh": [
+    "大猩猩",
+    "一只安静坐着的温和大猩猩。",
+    [
+     "大猩猩",
+     "猩猩",
+     "动物园",
+     "野生动物"
+    ]
+   ],
+   "ko": [
+    "고릴라",
+    "얌전히 앉아 있는 순한 덩치 큰 고릴라.",
+    [
+     "고릴라",
+     "유인원",
+     "동물원",
+     "야생 동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "kangaroo",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Kangaroo with a joey",
+    "A mother kangaroo with a baby peeking out of her pouch.",
+    [
+     "kangaroo",
+     "joey",
+     "Australia",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "子どもを連れたカンガルー",
+    "おなかの袋から赤ちゃんが顔を出すカンガルーのお母さん。",
+    [
+     "カンガルー",
+     "親子",
+     "オーストラリア",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Canguro con su cría",
+    "Una mamá canguro con su cría asomándose de la bolsa.",
+    [
+     "canguro",
+     "cría",
+     "Australia",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Canguru com filhote",
+    "Uma mamãe canguru com o filhote espiando da bolsa.",
+    [
+     "canguru",
+     "filhote",
+     "Austrália",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Kangourou et son petit",
+    "Une maman kangourou avec son petit qui sort la tête de la poche.",
+    [
+     "kangourou",
+     "bébé",
+     "Australie",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Känguru mit Jungtier",
+    "Eine Kängurumutter, aus deren Beutel ein Junges herausschaut.",
+    [
+     "Känguru",
+     "Jungtier",
+     "Australien",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "袋鼠妈妈和宝宝",
+    "袋鼠宝宝从妈妈的育儿袋里探出头来。",
+    [
+     "袋鼠",
+     "袋鼠宝宝",
+     "澳大利亚",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "아기 캥거루와 엄마",
+    "주머니에서 아기가 빼꼼 얼굴을 내민 엄마 캥거루.",
+    [
+     "캥거루",
+     "아기 캥거루",
+     "호주",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "koala",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Koala on a branch",
+    "A fluffy koala hugging a tree branch.",
+    [
+     "koala",
+     "Australia",
+     "tree",
+     "cute"
+    ]
+   ],
+   "ja": [
+    "木の枝にいるコアラ",
+    "木の枝にしがみつくふわふわのコアラ。",
+    [
+     "コアラ",
+     "動物",
+     "オーストラリア",
+     "かわいい"
+    ]
+   ],
+   "es": [
+    "Koala en una rama",
+    "Un koala esponjoso abrazado a una rama.",
+    [
+     "koala",
+     "Australia",
+     "árbol",
+     "tierno"
+    ]
+   ],
+   "pt": [
+    "Coala no galho",
+    "Um coala fofinho abraçado a um galho de árvore.",
+    [
+     "coala",
+     "Austrália",
+     "árvore",
+     "fofo"
+    ]
+   ],
+   "fr": [
+    "Koala sur une branche",
+    "Un koala tout doux agrippé à une branche.",
+    [
+     "koala",
+     "Australie",
+     "arbre",
+     "mignon"
+    ]
+   ],
+   "de": [
+    "Koala auf einem Ast",
+    "Ein flauschiger Koala, der sich an einen Ast klammert.",
+    [
+     "Koala",
+     "Australien",
+     "Baum",
+     "niedlich"
+    ]
+   ],
+   "zh": [
+    "树枝上的考拉",
+    "一只抱着树枝的毛茸茸考拉。",
+    [
+     "考拉",
+     "树袋熊",
+     "澳大利亚",
+     "可爱"
+    ]
+   ],
+   "ko": [
+    "나뭇가지 위의 코알라",
+    "나뭇가지를 꼭 붙잡은 복슬복슬한 코알라.",
+    [
+     "코알라",
+     "호주",
+     "나무",
+     "귀여운"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sloth",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hanging sloth",
+    "A relaxed sloth hanging from a tree branch.",
+    [
+     "sloth",
+     "animal",
+     "relax",
+     "slow"
+    ]
+   ],
+   "ja": [
+    "ぶらさがるナマケモノ",
+    "木の枝にぶらさがるのんびりしたナマケモノ。",
+    [
+     "ナマケモノ",
+     "動物",
+     "のんびり",
+     "ゆっくり"
+    ]
+   ],
+   "es": [
+    "Perezoso colgado",
+    "Un perezoso tranquilo colgado de una rama.",
+    [
+     "perezoso",
+     "animal",
+     "relax",
+     "lento"
+    ]
+   ],
+   "pt": [
+    "Bicho-preguiça pendurado",
+    "Um bicho-preguiça tranquilão pendurado num galho.",
+    [
+     "bicho-preguiça",
+     "preguiça",
+     "animal",
+     "relaxar"
+    ]
+   ],
+   "fr": [
+    "Paresseux suspendu",
+    "Un paresseux tout calme suspendu à une branche.",
+    [
+     "paresseux",
+     "animal",
+     "détente",
+     "lent"
+    ]
+   ],
+   "de": [
+    "Hängendes Faultier",
+    "Ein entspanntes Faultier, das an einem Ast hängt.",
+    [
+     "Faultier",
+     "Tier",
+     "entspannt",
+     "langsam"
+    ]
+   ],
+   "zh": [
+    "挂在树上的树懒",
+    "一只悠闲地挂在树枝上的树懒。",
+    [
+     "树懒",
+     "动物",
+     "悠闲",
+     "慢"
+    ]
+   ],
+   "ko": [
+    "매달린 나무늘보",
+    "나뭇가지에 느긋하게 매달린 나무늘보.",
+    [
+     "나무늘보",
+     "동물",
+     "느긋한",
+     "힐링"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "fox",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Fox",
+    "An orange fox with pointy ears and a fluffy tail.",
+    [
+     "fox",
+     "forest animal",
+     "animal",
+     "cute"
+    ]
+   ],
+   "ja": [
+    "キツネ",
+    "とがった耳とふさふさしっぽのキツネ。",
+    [
+     "キツネ",
+     "きつね",
+     "動物",
+     "森"
+    ]
+   ],
+   "es": [
+    "Zorro",
+    "Un zorro naranja de orejas puntiagudas y cola esponjosa.",
+    [
+     "zorro",
+     "animal del bosque",
+     "animal",
+     "tierno"
+    ]
+   ],
+   "pt": [
+    "Raposa",
+    "Uma raposa laranja de orelhas pontudas e rabo fofo.",
+    [
+     "raposa",
+     "animal da floresta",
+     "animal",
+     "fofo"
+    ]
+   ],
+   "fr": [
+    "Renard",
+    "Un renard roux aux oreilles pointues et à la queue touffue.",
+    [
+     "renard",
+     "animal de la forêt",
+     "animal",
+     "mignon"
+    ]
+   ],
+   "de": [
+    "Fuchs",
+    "Ein orangefarbener Fuchs mit spitzen Ohren und buschigem Schwanz.",
+    [
+     "Fuchs",
+     "Waldtier",
+     "Tier",
+     "niedlich"
+    ]
+   ],
+   "zh": [
+    "小狐狸",
+    "一只尖耳朵、大尾巴的橙色狐狸。",
+    [
+     "狐狸",
+     "小狐狸",
+     "森林动物",
+     "可爱"
+    ]
+   ],
+   "ko": [
+    "여우",
+    "뾰족한 귀와 복슬복슬한 꼬리를 가진 주황색 여우.",
+    [
+     "여우",
+     "숲속 동물",
+     "동물",
+     "귀여운"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "raccoon",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Raccoon",
+    "A raccoon with a dark mask and a striped tail.",
+    [
+     "raccoon",
+     "forest animal",
+     "animal",
+     "cute"
+    ]
+   ],
+   "ja": [
+    "アライグマ",
+    "目のまわりが黒くて、しましまのしっぽのアライグマ。",
+    [
+     "アライグマ",
+     "あらいぐま",
+     "動物",
+     "森"
+    ]
+   ],
+   "es": [
+    "Mapache",
+    "Un mapache con antifaz oscuro y cola a rayas.",
+    [
+     "mapache",
+     "animal del bosque",
+     "animal",
+     "tierno"
+    ]
+   ],
+   "pt": [
+    "Guaxinim",
+    "Um guaxinim com máscara escura e rabo listrado.",
+    [
+     "guaxinim",
+     "animal da floresta",
+     "animal",
+     "fofo"
+    ]
+   ],
+   "fr": [
+    "Raton laveur",
+    "Un raton laveur au masque sombre et à la queue rayée.",
+    [
+     "raton laveur",
+     "animal de la forêt",
+     "animal",
+     "mignon"
+    ]
+   ],
+   "de": [
+    "Waschbär",
+    "Ein Waschbär mit dunkler Maske und geringeltem Schwanz.",
+    [
+     "Waschbär",
+     "Waldtier",
+     "Tier",
+     "niedlich"
+    ]
+   ],
+   "zh": [
+    "浣熊",
+    "一只有黑眼罩和条纹尾巴的浣熊。",
+    [
+     "浣熊",
+     "森林动物",
+     "动物",
+     "可爱"
+    ]
+   ],
+   "ko": [
+    "너구리",
+    "눈가가 까맣고 줄무늬 꼬리를 가진 아메리카너구리.",
+    [
+     "너구리",
+     "라쿤",
+     "숲속 동물",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "deer",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Deer",
+    "A gentle deer with antlers and white spots.",
+    [
+     "deer",
+     "antlers",
+     "forest animal",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "シカ",
+    "ツノと白い点もようのやさしいシカ。",
+    [
+     "シカ",
+     "鹿",
+     "動物",
+     "森"
+    ]
+   ],
+   "es": [
+    "Ciervo",
+    "Un ciervo tierno con astas y manchas blancas.",
+    [
+     "ciervo",
+     "venado",
+     "astas",
+     "animal del bosque"
+    ]
+   ],
+   "pt": [
+    "Cervo",
+    "Um cervo meigo com chifres e pintinhas brancas.",
+    [
+     "cervo",
+     "veado",
+     "chifres",
+     "animal da floresta"
+    ]
+   ],
+   "fr": [
+    "Cerf",
+    "Un gentil cerf avec des bois et des taches blanches.",
+    [
+     "cerf",
+     "biche",
+     "bois",
+     "animal de la forêt"
+    ]
+   ],
+   "de": [
+    "Hirsch",
+    "Ein sanfter Hirsch mit Geweih und weißen Tupfen.",
+    [
+     "Hirsch",
+     "Reh",
+     "Geweih",
+     "Waldtier"
+    ]
+   ],
+   "zh": [
+    "小鹿",
+    "一只有鹿角和白色斑点的温柔小鹿。",
+    [
+     "鹿",
+     "小鹿",
+     "鹿角",
+     "森林动物"
+    ]
+   ],
+   "ko": [
+    "사슴",
+    "뿔과 하얀 점무늬가 있는 순한 사슴.",
+    [
+     "사슴",
+     "뿔",
+     "숲속 동물",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "squirrel",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Squirrel with an acorn",
+    "A squirrel with a bushy tail holding an acorn.",
+    [
+     "squirrel",
+     "acorn",
+     "autumn",
+     "forest animal"
+    ]
+   ],
+   "ja": [
+    "どんぐりを持ったリス",
+    "ふさふさしっぽでどんぐりを抱えたリス。",
+    [
+     "リス",
+     "どんぐり",
+     "秋",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Ardilla con bellota",
+    "Una ardilla de cola esponjosa sosteniendo una bellota.",
+    [
+     "ardilla",
+     "bellota",
+     "otoño",
+     "animal del bosque"
+    ]
+   ],
+   "pt": [
+    "Esquilo com bolota",
+    "Um esquilo de rabo fofo segurando uma bolota.",
+    [
+     "esquilo",
+     "bolota",
+     "outono",
+     "animal da floresta"
+    ]
+   ],
+   "fr": [
+    "Écureuil et son gland",
+    "Un écureuil à la queue touffue qui tient un gland.",
+    [
+     "écureuil",
+     "gland",
+     "automne",
+     "animal de la forêt"
+    ]
+   ],
+   "de": [
+    "Eichhörnchen mit Eichel",
+    "Ein Eichhörnchen mit buschigem Schwanz, das eine Eichel hält.",
+    [
+     "Eichhörnchen",
+     "Eichel",
+     "Herbst",
+     "Waldtier"
+    ]
+   ],
+   "zh": [
+    "抱着橡果的松鼠",
+    "一只大尾巴松鼠抱着一颗橡果。",
+    [
+     "松鼠",
+     "橡果",
+     "秋天",
+     "森林动物"
+    ]
+   ],
+   "ko": [
+    "도토리를 든 다람쥐",
+    "복슬복슬한 꼬리로 도토리를 꼭 안은 다람쥐.",
+    [
+     "다람쥐",
+     "도토리",
+     "가을",
+     "숲속 동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "wolf",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Wolf",
+    "A gray wolf with pointy ears and a bushy tail.",
+    [
+     "wolf",
+     "wild animal",
+     "forest",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "オオカミ",
+    "とがった耳とふさふさしっぽの灰色のオオカミ。",
+    [
+     "オオカミ",
+     "狼",
+     "動物",
+     "森"
+    ]
+   ],
+   "es": [
+    "Lobo",
+    "Un lobo gris de orejas puntiagudas y cola peluda.",
+    [
+     "lobo",
+     "animal salvaje",
+     "bosque",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Lobo",
+    "Um lobo cinza de orelhas pontudas e rabo peludo.",
+    [
+     "lobo",
+     "animal selvagem",
+     "floresta",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Loup",
+    "Un loup gris aux oreilles pointues et à la queue touffue.",
+    [
+     "loup",
+     "animal sauvage",
+     "forêt",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Wolf",
+    "Ein grauer Wolf mit spitzen Ohren und buschigem Schwanz.",
+    [
+     "Wolf",
+     "Wildtier",
+     "Wald",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "灰狼",
+    "一只尖耳朵、大尾巴的灰色狼。",
+    [
+     "狼",
+     "灰狼",
+     "野生动物",
+     "森林"
+    ]
+   ],
+   "ko": [
+    "늑대",
+    "뾰족한 귀와 복슬복슬한 꼬리를 가진 회색 늑대.",
+    [
+     "늑대",
+     "야생 동물",
+     "숲",
+     "동물"
+    ]
+   ]
+  }
+ }
+]

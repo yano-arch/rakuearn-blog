@@ -1,0 +1,234 @@
+{
+  "en": {
+    "lang_name": "English", "html_lang": "en",
+    "tagline": "Free, soft & cute illustrations",
+    "hero_title": "Soft, friendly illustrations. Free for commercial use.",
+    "hero_sub": "Download PNG or SVG instantly. No sign-up, no credit required.",
+    "search": "Search illustrations", "no_results": "No illustrations found.",
+    "all": "All", "latest": "New illustrations", "count": "{n} illustrations",
+    "download_png": "Download PNG", "download_svg": "Download SVG",
+    "badge_free": "Free for commercial use", "badge_credit": "No credit needed", "badge_formats": "PNG / SVG",
+    "tags": "Tags", "category": "Category", "related": "You may also like",
+    "license": "License", "privacy": "Privacy policy", "home": "Home", "language": "Language", "contact": "Contact",
+    "footer": "All illustrations are original works by rakuearn.",
+    "meta_desc": "Free, cute illustrations you can use in commercial projects. Download PNG and SVG without signing up.",
+    "license_short": "Free for personal and commercial use. Please read the license before use.",
+    "cats": {"people": "People", "animals": "Animals", "nature": "Nature", "travel": "Travel", "home": "Home & life", "tech": "Technology", "events": "Events"},
+    "license_title": "License & terms of use",
+    "license_body": [
+      ["What you can do", "Use the illustrations for free in personal and commercial projects: websites, social media, presentations, flyers, product packaging, videos and more. You may resize, recolor and edit them. Credit is appreciated but not required."],
+      ["What you can't do", "Do not redistribute or sell the illustrations as they are (for example as a stock or clip-art collection, or as NFTs). Do not register them as a trademark or logo. Do not use them in content that is illegal, hateful or misleading, or that damages anyone's reputation."],
+      ["Using many illustrations", "If a single product (such as a book or an app) uses 21 or more illustrations, please contact us first."],
+      ["Disclaimer", "The illustrations are provided as is. We are not responsible for any damage arising from their use. These terms may be updated without notice."]
+    ],
+    "privacy_title": "Privacy policy",
+    "privacy_body": [
+      ["Advertising", "This site uses third-party advertising services such as Google AdSense. These providers may use cookies to show ads based on your visits to this and other websites. You can turn off personalized ads in Google's Ads Settings."],
+      ["Analytics", "We may use analytics tools that collect traffic data through cookies. This data is collected anonymously and does not identify you personally."],
+      ["Contact", "If you have any questions, please email us at the address below."]
+    ]
+  },
+  "ja": {
+    "lang_name": "日本語", "html_lang": "ja",
+    "tagline": "ゆるくてかわいい、無料のイラスト",
+    "hero_title": "やさしいイラスト、商用利用も無料。",
+    "hero_sub": "PNG・SVGですぐダウンロード。登録もクレジット表記も不要です。",
+    "search": "イラストを検索", "no_results": "イラストが見つかりませんでした。",
+    "all": "すべて", "latest": "新着イラスト", "count": "{n}点のイラスト",
+    "download_png": "PNGをダウンロード", "download_svg": "SVGをダウンロード",
+    "badge_free": "商用利用OK", "badge_credit": "クレジット表記不要", "badge_formats": "PNG / SVG",
+    "tags": "タグ", "category": "カテゴリー", "related": "こちらもおすすめ",
+    "license": "利用規約", "privacy": "プライバシーポリシー", "home": "ホーム", "language": "言語", "contact": "お問い合わせ",
+    "footer": "掲載イラストはすべてrakuearnのオリジナル作品です。",
+    "meta_desc": "商用利用もできる、ゆるくてかわいい無料イラスト素材。登録不要でPNG・SVGをダウンロードできます。",
+    "license_short": "個人・商用ともに無料でご利用いただけます。ご利用前に利用規約をお読みください。",
+    "cats": {"people": "人物", "animals": "動物", "nature": "自然", "travel": "旅行", "home": "家・暮らし", "tech": "テクノロジー", "events": "イベント"},
+    "license_title": "利用規約・ライセンス",
+    "license_body": [
+      ["できること", "個人・商用を問わず、Webサイト、SNS、プレゼン資料、チラシ、商品パッケージ、動画などに無料でお使いいただけます。サイズ変更・色の変更・加工も自由です。クレジット表記は歓迎しますが必須ではありません。"],
+      ["禁止事項", "イラストをそのままの形で再配布・販売すること（素材集・クリップアートとしての配布、NFT化など）は禁止です。商標やロゴとしての登録、違法・差別的・誤解を招く内容や、他者の名誉を傷つける用途での使用もお控えください。"],
+      ["たくさん使う場合", "ひとつの制作物（書籍やアプリなど）で21点以上を使用する場合は、事前にお問い合わせください。"],
+      ["免責事項", "イラストは現状のまま提供されます。ご利用により生じた損害について当サイトは責任を負いません。本規約は予告なく変更されることがあります。"]
+    ],
+    "privacy_title": "プライバシーポリシー",
+    "privacy_body": [
+      ["広告について", "当サイトはGoogle AdSenseなどの第三者配信の広告サービスを利用しています。広告配信事業者は、当サイトや他サイトへのアクセス情報をもとに、Cookieを使用して興味に応じた広告を表示することがあります。パーソナライズ広告はGoogleの広告設定から無効にできます。"],
+      ["アクセス解析について", "当サイトでは、Cookieを利用してトラフィックデータを収集するアクセス解析ツールを使用する場合があります。このデータは匿名で収集され、個人を特定するものではありません。"],
+      ["お問い合わせ", "ご質問は下記のメールアドレスまでご連絡ください。"]
+    ]
+  },
+  "es": {
+    "lang_name": "Español", "html_lang": "es",
+    "tagline": "Ilustraciones gratis, suaves y adorables",
+    "hero_title": "Ilustraciones tiernas y amables. Gratis para uso comercial.",
+    "hero_sub": "Descarga PNG o SVG al instante. Sin registro y sin necesidad de dar crédito.",
+    "search": "Buscar ilustraciones", "no_results": "No se encontraron ilustraciones.",
+    "all": "Todas", "latest": "Nuevas ilustraciones", "count": "{n} ilustraciones",
+    "download_png": "Descargar PNG", "download_svg": "Descargar SVG",
+    "badge_free": "Uso comercial gratis", "badge_credit": "Sin atribución", "badge_formats": "PNG / SVG",
+    "tags": "Etiquetas", "category": "Categoría", "related": "También te puede gustar",
+    "license": "Licencia", "privacy": "Política de privacidad", "home": "Inicio", "language": "Idioma", "contact": "Contacto",
+    "footer": "Todas las ilustraciones son obras originales de rakuearn.",
+    "meta_desc": "Ilustraciones gratis y adorables que puedes usar en proyectos comerciales. Descarga PNG y SVG sin registrarte.",
+    "license_short": "Gratis para uso personal y comercial. Lee la licencia antes de usarlas.",
+    "cats": {"people": "Personas", "animals": "Animales", "nature": "Naturaleza", "travel": "Viajes", "home": "Hogar y vida", "tech": "Tecnología", "events": "Eventos"},
+    "license_title": "Licencia y condiciones de uso",
+    "license_body": [
+      ["Lo que puedes hacer", "Usa las ilustraciones gratis en proyectos personales y comerciales: sitios web, redes sociales, presentaciones, folletos, envases de productos, vídeos y más. Puedes cambiar su tamaño, colores y editarlas. Agradecemos la atribución, pero no es obligatoria."],
+      ["Lo que no puedes hacer", "No redistribuyas ni vendas las ilustraciones tal cual (por ejemplo, como colección de stock o clip art, o como NFT). No las registres como marca o logotipo. No las uses en contenido ilegal, de odio, engañoso o que dañe la reputación de otras personas."],
+      ["Uso de muchas ilustraciones", "Si un solo producto (como un libro o una app) usa 21 ilustraciones o más, contáctanos antes."],
+      ["Exención de responsabilidad", "Las ilustraciones se ofrecen tal cual. No nos hacemos responsables de ningún daño derivado de su uso. Estas condiciones pueden cambiar sin previo aviso."]
+    ],
+    "privacy_title": "Política de privacidad",
+    "privacy_body": [
+      ["Publicidad", "Este sitio utiliza servicios de publicidad de terceros como Google AdSense. Estos proveedores pueden usar cookies para mostrar anuncios basados en tus visitas a este y otros sitios web. Puedes desactivar los anuncios personalizados en la Configuración de anuncios de Google."],
+      ["Analítica", "Podemos usar herramientas de analítica que recopilan datos de tráfico mediante cookies. Estos datos son anónimos y no te identifican personalmente."],
+      ["Contacto", "Si tienes alguna pregunta, escríbenos a la dirección de abajo."]
+    ]
+  },
+  "pt": {
+    "lang_name": "Português", "html_lang": "pt-BR",
+    "tagline": "Ilustrações grátis, fofas e suaves",
+    "hero_title": "Ilustrações fofas e amigáveis. Grátis para uso comercial.",
+    "hero_sub": "Baixe PNG ou SVG na hora. Sem cadastro e sem precisar dar crédito.",
+    "search": "Buscar ilustrações", "no_results": "Nenhuma ilustração encontrada.",
+    "all": "Todas", "latest": "Novas ilustrações", "count": "{n} ilustrações",
+    "download_png": "Baixar PNG", "download_svg": "Baixar SVG",
+    "badge_free": "Uso comercial grátis", "badge_credit": "Sem crédito obrigatório", "badge_formats": "PNG / SVG",
+    "tags": "Tags", "category": "Categoria", "related": "Você também pode gostar",
+    "license": "Licença", "privacy": "Política de privacidade", "home": "Início", "language": "Idioma", "contact": "Contato",
+    "footer": "Todas as ilustrações são obras originais da rakuearn.",
+    "meta_desc": "Ilustrações grátis e fofas para usar em projetos comerciais. Baixe PNG e SVG sem cadastro.",
+    "license_short": "Grátis para uso pessoal e comercial. Leia a licença antes de usar.",
+    "cats": {"people": "Pessoas", "animals": "Animais", "nature": "Natureza", "travel": "Viagem", "home": "Casa e vida", "tech": "Tecnologia", "events": "Eventos"},
+    "license_title": "Licença e termos de uso",
+    "license_body": [
+      ["O que você pode fazer", "Use as ilustrações de graça em projetos pessoais e comerciais: sites, redes sociais, apresentações, panfletos, embalagens, vídeos e muito mais. Você pode redimensionar, mudar as cores e editar. O crédito é bem-vindo, mas não é obrigatório."],
+      ["O que você não pode fazer", "Não redistribua nem venda as ilustrações do jeito que estão (por exemplo, como banco de imagens, clip art ou NFT). Não registre como marca ou logotipo. Não use em conteúdo ilegal, de ódio, enganoso ou que prejudique a reputação de alguém."],
+      ["Uso de muitas ilustrações", "Se um único produto (como um livro ou um app) usar 21 ilustrações ou mais, entre em contato antes."],
+      ["Isenção de responsabilidade", "As ilustrações são fornecidas como estão. Não nos responsabilizamos por danos decorrentes do uso. Estes termos podem mudar sem aviso prévio."]
+    ],
+    "privacy_title": "Política de privacidade",
+    "privacy_body": [
+      ["Publicidade", "Este site usa serviços de publicidade de terceiros, como o Google AdSense. Esses provedores podem usar cookies para exibir anúncios com base nas suas visitas a este e a outros sites. Você pode desativar os anúncios personalizados nas Configurações de anúncios do Google."],
+      ["Análise de acesso", "Podemos usar ferramentas de análise que coletam dados de tráfego por meio de cookies. Esses dados são anônimos e não identificam você pessoalmente."],
+      ["Contato", "Em caso de dúvidas, envie um e-mail para o endereço abaixo."]
+    ]
+  },
+  "fr": {
+    "lang_name": "Français", "html_lang": "fr",
+    "tagline": "Illustrations gratuites, douces et mignonnes",
+    "hero_title": "Des illustrations douces et sympathiques. Gratuites pour un usage commercial.",
+    "hero_sub": "Téléchargez en PNG ou SVG instantanément. Sans inscription, sans attribution obligatoire.",
+    "search": "Rechercher des illustrations", "no_results": "Aucune illustration trouvée.",
+    "all": "Toutes", "latest": "Nouvelles illustrations", "count": "{n} illustrations",
+    "download_png": "Télécharger en PNG", "download_svg": "Télécharger en SVG",
+    "badge_free": "Usage commercial gratuit", "badge_credit": "Sans attribution", "badge_formats": "PNG / SVG",
+    "tags": "Mots-clés", "category": "Catégorie", "related": "Vous aimerez aussi",
+    "license": "Licence", "privacy": "Politique de confidentialité", "home": "Accueil", "language": "Langue", "contact": "Contact",
+    "footer": "Toutes les illustrations sont des œuvres originales de rakuearn.",
+    "meta_desc": "Des illustrations gratuites et mignonnes, utilisables dans des projets commerciaux. Téléchargez en PNG et SVG sans inscription.",
+    "license_short": "Gratuites pour un usage personnel et commercial. Merci de lire la licence avant utilisation.",
+    "cats": {"people": "Personnes", "animals": "Animaux", "nature": "Nature", "travel": "Voyage", "home": "Maison et vie", "tech": "Technologie", "events": "Événements"},
+    "license_title": "Licence et conditions d'utilisation",
+    "license_body": [
+      ["Ce que vous pouvez faire", "Utilisez gratuitement les illustrations dans vos projets personnels et commerciaux : sites web, réseaux sociaux, présentations, flyers, emballages, vidéos et plus encore. Vous pouvez les redimensionner, changer leurs couleurs et les modifier. Une mention est appréciée mais pas obligatoire."],
+      ["Ce que vous ne pouvez pas faire", "Ne redistribuez pas et ne vendez pas les illustrations telles quelles (par exemple sous forme de banque d'images, de clip art ou de NFT). Ne les déposez pas comme marque ou logo. Ne les utilisez pas dans des contenus illégaux, haineux, trompeurs ou portant atteinte à la réputation d'autrui."],
+      ["Utilisation de nombreuses illustrations", "Si un même produit (un livre ou une application, par exemple) utilise 21 illustrations ou plus, contactez-nous au préalable."],
+      ["Avertissement", "Les illustrations sont fournies en l'état. Nous déclinons toute responsabilité pour les dommages liés à leur utilisation. Ces conditions peuvent être modifiées sans préavis."]
+    ],
+    "privacy_title": "Politique de confidentialité",
+    "privacy_body": [
+      ["Publicité", "Ce site utilise des services publicitaires tiers comme Google AdSense. Ces fournisseurs peuvent utiliser des cookies pour afficher des annonces en fonction de vos visites sur ce site et d'autres sites. Vous pouvez désactiver les annonces personnalisées dans les paramètres des annonces Google."],
+      ["Mesure d'audience", "Nous pouvons utiliser des outils de mesure d'audience qui collectent des données de trafic à l'aide de cookies. Ces données sont anonymes et ne permettent pas de vous identifier."],
+      ["Contact", "Pour toute question, écrivez-nous à l'adresse ci-dessous."]
+    ]
+  },
+  "de": {
+    "lang_name": "Deutsch", "html_lang": "de",
+    "tagline": "Kostenlose, sanfte und niedliche Illustrationen",
+    "hero_title": "Sanfte, freundliche Illustrationen. Kostenlos auch für kommerzielle Nutzung.",
+    "hero_sub": "PNG oder SVG sofort herunterladen. Ohne Anmeldung, ohne Namensnennung.",
+    "search": "Illustrationen suchen", "no_results": "Keine Illustrationen gefunden.",
+    "all": "Alle", "latest": "Neue Illustrationen", "count": "{n} Illustrationen",
+    "download_png": "PNG herunterladen", "download_svg": "SVG herunterladen",
+    "badge_free": "Kommerziell nutzbar", "badge_credit": "Keine Namensnennung nötig", "badge_formats": "PNG / SVG",
+    "tags": "Schlagwörter", "category": "Kategorie", "related": "Das könnte dir auch gefallen",
+    "license": "Lizenz", "privacy": "Datenschutz", "home": "Startseite", "language": "Sprache", "contact": "Kontakt",
+    "footer": "Alle Illustrationen sind Originalwerke von rakuearn.",
+    "meta_desc": "Kostenlose, niedliche Illustrationen für kommerzielle Projekte. PNG und SVG ohne Anmeldung herunterladen.",
+    "license_short": "Kostenlos für private und kommerzielle Nutzung. Bitte lies vor der Nutzung die Lizenz.",
+    "cats": {"people": "Menschen", "animals": "Tiere", "nature": "Natur", "travel": "Reisen", "home": "Zuhause & Alltag", "tech": "Technik", "events": "Anlässe"},
+    "license_title": "Lizenz und Nutzungsbedingungen",
+    "license_body": [
+      ["Was du darfst", "Nutze die Illustrationen kostenlos für private und kommerzielle Projekte: Websites, soziale Medien, Präsentationen, Flyer, Produktverpackungen, Videos und mehr. Du darfst die Größe und Farben ändern und sie bearbeiten. Eine Namensnennung freut uns, ist aber nicht erforderlich."],
+      ["Was du nicht darfst", "Die Illustrationen dürfen nicht unverändert weiterverbreitet oder verkauft werden (zum Beispiel als Stock- oder Clipart-Sammlung oder als NFT). Sie dürfen nicht als Marke oder Logo eingetragen werden. Keine Verwendung in rechtswidrigen, hasserfüllten oder irreführenden Inhalten oder in Inhalten, die dem Ruf anderer schaden."],
+      ["Nutzung vieler Illustrationen", "Wenn ein einzelnes Produkt (etwa ein Buch oder eine App) 21 oder mehr Illustrationen verwendet, kontaktiere uns bitte vorher."],
+      ["Haftungsausschluss", "Die Illustrationen werden ohne Gewähr bereitgestellt. Wir haften nicht für Schäden, die aus ihrer Nutzung entstehen. Diese Bedingungen können ohne Ankündigung geändert werden."]
+    ],
+    "privacy_title": "Datenschutzerklärung",
+    "privacy_body": [
+      ["Werbung", "Diese Website nutzt Werbedienste von Drittanbietern wie Google AdSense. Diese Anbieter können Cookies verwenden, um Anzeigen auf Grundlage deiner Besuche auf dieser und anderen Websites anzuzeigen. Personalisierte Werbung kannst du in den Google-Anzeigeneinstellungen deaktivieren."],
+      ["Analyse", "Wir können Analysetools einsetzen, die mithilfe von Cookies Zugriffsdaten erfassen. Diese Daten werden anonym erhoben und lassen keine Rückschlüsse auf deine Person zu."],
+      ["Kontakt", "Bei Fragen schreib uns bitte an die unten stehende Adresse."]
+    ]
+  },
+  "zh": {
+    "lang_name": "简体中文", "html_lang": "zh-Hans",
+    "tagline": "免费、柔和又可爱的插画",
+    "hero_title": "温柔亲切的插画，商用也免费。",
+    "hero_sub": "立即下载 PNG 或 SVG。无需注册，无需署名。",
+    "search": "搜索插画", "no_results": "没有找到插画。",
+    "all": "全部", "latest": "最新插画", "count": "共 {n} 张插画",
+    "download_png": "下载 PNG", "download_svg": "下载 SVG",
+    "badge_free": "可免费商用", "badge_credit": "无需署名", "badge_formats": "PNG / SVG",
+    "tags": "标签", "category": "分类", "related": "你可能还喜欢",
+    "license": "使用条款", "privacy": "隐私政策", "home": "首页", "language": "语言", "contact": "联系我们",
+    "footer": "本站所有插画均为 rakuearn 的原创作品。",
+    "meta_desc": "可用于商业项目的免费可爱插画素材。无需注册即可下载 PNG 和 SVG。",
+    "license_short": "个人和商业用途均可免费使用。使用前请阅读使用条款。",
+    "cats": {"people": "人物", "animals": "动物", "nature": "自然", "travel": "旅行", "home": "家居生活", "tech": "科技", "events": "节日活动"},
+    "license_title": "使用条款与许可",
+    "license_body": [
+      ["可以做的事", "无论个人还是商业用途，都可以免费将插画用于网站、社交媒体、演示文稿、传单、商品包装、视频等。可以自由调整大小、更改颜色和编辑。欢迎署名，但不是必须的。"],
+      ["禁止事项", "禁止将插画原样再次分发或出售（例如作为素材合集、剪贴画或 NFT）。禁止将其注册为商标或标志。请勿用于违法、仇恨、误导性内容，或损害他人名誉的用途。"],
+      ["大量使用时", "如果单个作品（如书籍或应用）使用 21 张及以上插画，请事先与我们联系。"],
+      ["免责声明", "插画按现状提供。对于因使用插画而产生的任何损失，本站概不负责。本条款可能会在不另行通知的情况下更改。"]
+    ],
+    "privacy_title": "隐私政策",
+    "privacy_body": [
+      ["关于广告", "本站使用 Google AdSense 等第三方广告服务。广告服务商可能会使用 Cookie，根据您访问本站及其他网站的记录展示广告。您可以在 Google 广告设置中关闭个性化广告。"],
+      ["关于访问分析", "本站可能使用通过 Cookie 收集流量数据的访问分析工具。这些数据以匿名方式收集，不会识别您的个人身份。"],
+      ["联系我们", "如有任何问题，请发送邮件至下方地址。"]
+    ]
+  },
+  "ko": {
+    "lang_name": "한국어", "html_lang": "ko",
+    "tagline": "무료로 쓰는 말랑하고 귀여운 일러스트",
+    "hero_title": "다정하고 귀여운 일러스트, 상업적 이용도 무료.",
+    "hero_sub": "PNG·SVG를 바로 다운로드하세요. 회원가입도 출처 표기도 필요 없어요.",
+    "search": "일러스트 검색", "no_results": "일러스트를 찾지 못했어요.",
+    "all": "전체", "latest": "새 일러스트", "count": "일러스트 {n}개",
+    "download_png": "PNG 다운로드", "download_svg": "SVG 다운로드",
+    "badge_free": "상업적 이용 가능", "badge_credit": "출처 표기 불필요", "badge_formats": "PNG / SVG",
+    "tags": "태그", "category": "카테고리", "related": "이런 일러스트는 어때요",
+    "license": "이용약관", "privacy": "개인정보처리방침", "home": "홈", "language": "언어", "contact": "문의",
+    "footer": "게재된 모든 일러스트는 rakuearn의 오리지널 작품입니다.",
+    "meta_desc": "상업적으로도 쓸 수 있는 귀여운 무료 일러스트. 회원가입 없이 PNG와 SVG를 다운로드하세요.",
+    "license_short": "개인·상업적 용도 모두 무료로 이용할 수 있어요. 이용 전에 이용약관을 확인해 주세요.",
+    "cats": {"people": "사람", "animals": "동물", "nature": "자연", "travel": "여행", "home": "집·생활", "tech": "테크", "events": "이벤트"},
+    "license_title": "이용약관 및 라이선스",
+    "license_body": [
+      ["할 수 있는 것", "개인·상업적 용도를 불문하고 웹사이트, SNS, 프레젠테이션, 전단지, 상품 패키지, 영상 등에 무료로 사용할 수 있습니다. 크기 변경, 색상 변경, 편집도 자유입니다. 출처 표기는 환영하지만 필수는 아닙니다."],
+      ["금지 사항", "일러스트를 그대로 재배포하거나 판매하는 행위(소재집·클립아트로 배포, NFT화 등)는 금지됩니다. 상표나 로고로 등록하는 것, 불법적·차별적·오해를 부르는 콘텐츠나 타인의 명예를 훼손하는 용도로 사용하는 것도 삼가 주세요."],
+      ["많이 사용하는 경우", "하나의 제작물(책이나 앱 등)에 21개 이상을 사용하는 경우 사전에 문의해 주세요."],
+      ["면책 사항", "일러스트는 있는 그대로 제공됩니다. 이용으로 인해 발생한 손해에 대해 본 사이트는 책임지지 않습니다. 본 약관은 예고 없이 변경될 수 있습니다."]
+    ],
+    "privacy_title": "개인정보처리방침",
+    "privacy_body": [
+      ["광고에 대하여", "본 사이트는 Google AdSense 등 제3자 광고 서비스를 이용합니다. 광고 사업자는 본 사이트 및 다른 사이트 방문 정보를 바탕으로 쿠키를 사용해 관심사에 맞는 광고를 표시할 수 있습니다. 맞춤 광고는 Google 광고 설정에서 끌 수 있습니다."],
+      ["접속 분석에 대하여", "본 사이트는 쿠키를 이용해 트래픽 데이터를 수집하는 접속 분석 도구를 사용할 수 있습니다. 이 데이터는 익명으로 수집되며 개인을 식별하지 않습니다."],
+      ["문의", "궁금한 점이 있으면 아래 이메일 주소로 연락해 주세요."]
+    ]
+  }
+}

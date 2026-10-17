@@ -1,44 +1,32 @@
-# ミリオン記事速報
+# rakuearn — 無料イラスト素材サイト（8言語）
 
-トレンドトピックを自動リサーチして記事化する、シンプルなNext.js + Supabaseのブログサイトです。
+静的サイト。Python標準ライブラリだけでビルドでき、Vercelにそのまま載せられます。
 
-## セットアップ
+## 構成
+- `art.py` … イラストの定義（ズレ塗り画風のパーツ関数＋各イラスト）
+- `make_images.py` … `public/images/` に SVG / PNG(1000px) を書き出す（ローカル専用・`pip install cairosvg`）
+- `data/illustrations.json` … イラストごとのカテゴリ・8言語のタイトル/説明/タグ
+- `data/ui.json` … 画面の文言・利用規約・プライバシーポリシー（8言語）
+- `build.py` … `dist/` にサイトを生成（hreflang・sitemap.xml・robots.txt・構造化データ込み）
+- `static/` … CSS / 検索用JS
 
-### 1. 環境変数(Vercel)
+## イラストを追加する手順
+1. `art.py` の `I` に描画を追加し、`SLUGS` にURL用の英語名を追加
+2. `python3 make_images.py`
+3. `data/illustrations.json` に1件追加（8言語のタイトル・説明・タグ）
+4. `python3 build.py --preview` で確認 → push
 
-Vercelのプロジェクト設定 → Environment Variables に以下を追加してください。
+## URL
+`/{lang}/` トップ、`/{lang}/illust/{slug}/` 個別、`/{lang}/category/{cat}/`、`/{lang}/license/`、`/{lang}/privacy/`
+言語: en, ja, es, pt, fr, de, zh, ko。`/` はブラウザの言語に合わせて自動で振り分け。
 
-```
-NEXT_PUBLIC_SUPABASE_URL=https://xxxxx.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
-```
+## 公開（Vercel）
+1. GitHubにpush → Vercelで新規プロジェクトとしてインポート（Framework: Other）
+2. `vercel.json` の設定で `python3 build.py` → `dist/` が公開される
+   ※ビルド環境でPythonが使えない場合は、ローカルで `python3 build.py` した `dist/` をOutput Directoryにして配信
+3. Domains に `rakuearn.com` を追加し、DNSをVercelの指示どおり設定
 
-(この2つは公開しても問題ない値です。記事の閲覧のみに使われ、RLSにより公開記事しか読み取れません。)
-
-### 2. Supabaseのテーブル作成
-
-Supabaseダッシュボード → SQL Editor で `supabase/schema.sql` の内容を実行してください。`articles` テーブルとRLSポリシーが作成されます。
-
-### 3. 記事の自動投稿(スケジュールタスク側)
-
-以下の環境変数は **Vercelには設定しません**(公開してはいけない値のため)。記事自動生成を行うスケジュールタスク実行環境でのみ使用します。
-
-```
-SUPABASE_URL=https://xxxxx.supabase.co
-SUPABASE_SERVICE_ROLE_KEY=your-service-role-key
-```
-
-- `scripts/list-recent-articles.js` : 直近の記事タイトル一覧を取得(重複テーマ回避用)
-- `scripts/publish-article.js` : 記事1本をSupabaseに投稿
-
-## ローカル開発
-
-```bash
-npm install
-npm run dev
-```
-
-## 開発方針
-
-- 会員登録・ログイン・ポイント交換・管理画面などポイ活関連の機能は全て削除し、記事の一覧・詳細のみのシンプルな構成にしています。
-- 記事データはビルド時ではなくリクエスト時にSupabaseから取得しているため(`revalidate = 60`)、記事を追加してもサイトの再ビルドは不要です。
+## 広告（AdSense）
+承認後、`build.py` 冒頭の `ADSENSE_CLIENT` と `ADSENSE_SLOTS` を設定するだけで、
+全ページの広告枠（上・サイド・下）と `ads.txt` が出力されます。未設定のあいだ広告枠は表示されません。
+問い合わせ先は `CONTACT_EMAIL`（support@studyshort.co.jp）で変更できます。

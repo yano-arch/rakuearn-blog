@@ -6,6 +6,7 @@
 出力先: dist/
 """
 import json, os, shutil, sys, html
+from urllib.parse import quote, unquote
 from datetime import date
 
 # ===== 設定 =====
@@ -56,7 +57,36 @@ def url(lang, kind="home", arg=None):
     if kind == "home": return f"/{lang}/"
     if kind == "illust": return f"/{lang}/illust/{arg}/"
     if kind == "cat": return f"/{lang}/category/{arg}/"
+    if kind == "tag": return f"/{lang}/tag/{quote(tag_key(arg), safe='')}/"
     return f"/{lang}/{kind}/"
+
+
+def tag_key(tag):
+    return tag.strip().lower().replace("/", "-").replace(" ", "-")
+
+
+def cap(lang, k):
+    return k[:1].upper() + k[1:] if lang in ("en", "es", "pt", "fr", "de") else k
+
+
+MIN_TAG = 3   # この点数以上あるキーワードだけ、まとめページを作る
+TAGS = {}     # lang -> {tag_key: (表示名, [items])}
+
+
+def build_tags():
+    for lang in LANGS:
+        d = {}
+        for i in NEWEST:
+            for tg in t(i, lang)[2]:
+                k = tag_key(tg)
+                if not k: continue
+                d.setdefault(k, [tg.strip(), []])[1].append(i)
+        TAGS[lang] = {k: v for k, v in d.items() if len(v[1]) >= MIN_TAG}
+
+
+def tag_href(lang, tg):
+    k = tag_key(tg)
+    return url(lang, "tag", tg) if k in TAGS.get(lang, {}) else f"{url(lang)}?q={quote(tg)}"
 
 
 def ad(slot, lang):
@@ -71,21 +101,27 @@ def ad(slot, lang):
     return ""
 
 
-def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None):
+def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None, full_title=None):
     u = UI[lang]
     canonical = SITE_URL + url(lang, kind, arg)
-    alts = "".join(f'<link rel="alternate" hreflang="{UI[l]["html_lang"]}" href="{SITE_URL}{url(l, kind, arg)}">'
-                   for l in LANGS)
-    alts += f'<link rel="alternate" hreflang="x-default" href="{SITE_URL}{url(DEFAULT_LANG, kind, arg)}">'
-    opts = "".join(f'<option value="{url(l, kind, arg)}"{" selected" if l == lang else ""}>{e(UI[l]["lang_name"])}</option>'
-                   for l in LANGS)
+    if kind == "tag":  # キーワードページは言語ごとに別物なので、言語切り替えは各言語のトップへ
+        alts = ""
+        opts = "".join(f'<option value="{url(lang, kind, arg) if l == lang else url(l)}"{" selected" if l == lang else ""}>'
+                       f'{e(UI[l]["lang_name"])}</option>' for l in LANGS)
+    else:
+        alts = "".join(f'<link rel="alternate" hreflang="{UI[l]["html_lang"]}" href="{SITE_URL}{url(l, kind, arg)}">'
+                       for l in LANGS)
+        alts += f'<link rel="alternate" hreflang="x-default" href="{SITE_URL}{url(DEFAULT_LANG, kind, arg)}">'
+        opts = "".join(f'<option value="{url(l, kind, arg)}"{" selected" if l == lang else ""}>{e(UI[l]["lang_name"])}</option>'
+                       for l in LANGS)
     fonts = "family=Nunito:wght@400;700;800"
     if lang == "ja": fonts += "&family=M+PLUS+Rounded+1c:wght@400;700"
     og = SITE_URL + (og_image or "/images/png/smiling-earth.png")
     adsense = (f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_CLIENT}" '
                f'crossorigin="anonymous"></script>') if ADSENSE_CLIENT else ""
     ld = f'<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>' if jsonld else ""
-    if kind == "home": full_title = u["home_title"]
+    if full_title: full_title = f"{full_title} | {SITE_NAME}"
+    elif kind == "home": full_title = u["home_title"]
     elif kind == "illust": full_title = f"{u['title_illust'].format(t=title)} | {SITE_NAME}"
     elif kind == "cat": full_title = f"{u['title_cat'].format(c=title)} | {SITE_NAME}"
     else: full_title = f"{title} | {SITE_NAME}"
@@ -216,6 +252,7 @@ def page_home(lang):
 {ad('feed', lang)}
 <h2 class="section-title">{e(u['latest'])}</h2>
 <div class="grid">{new}</div>
+{popular_tags(lang, 40)}
 </div>
 {ad('bottom', lang)}"""
     home_desc = u["home_desc"].format(n=f"{len(ITEMS) // 100 * 100:,}")
@@ -256,6 +293,7 @@ def page_cat(lang, c, p=1):
 {ad('top', lang)}
 <div class="grid">{"".join(cards)}</div>
 {pager(lang, c, p, pages)}
+{popular_tags(lang, 30, items) if p == 1 else ""}
 {ad('bottom', lang)}"""
     desc = u["cat_desc"].format(c=u["cats"][c], n=len(items), ex=ex)
     jsonld = {"@context": "https://schema.org", "@graph": [
@@ -282,7 +320,10 @@ def page_illust(lang, item):
     same = [i for i in ITEMS if i["cat"] == item["cat"] and i is not item]
     other = [i for i in ITEMS if i["cat"] != item["cat"]]
     related = (same + other)[:8]
-    tag_html = "".join(f'<a href="{url(lang)}?q={e(tg)}">#{e(tg)}</a>' for tg in tags)
+    tag_html = "".join(f'<a href="{tag_href(lang, tg)}">#{e(tg)}</a>' for tg in tags)
+    kw = [cap(lang, tg.strip()) for tg in tags[:3]] or [title]
+    ks = u["kjoin"].join(kw)
+    alt = u["alt"].format(t=title, k=kw[0])
     image_ld = {
         "@type": "ImageObject",
         "name": title, "description": desc, "inLanguage": u["html_lang"],
@@ -299,7 +340,7 @@ def page_illust(lang, item):
     body = f"""
 <nav class="crumbs"><a href="{url(lang)}">{e(u['home'])}</a><span>›</span><a href="{url(lang, 'cat', item['cat'])}">{e(u['cats'][item['cat']])}</a><span>›</span><span>{e(title)}</span></nav>
 <article class="detail">
-  <div class="detail-left"><div class="detail-art"><img id="art" src="/images/svg/{s}.svg" alt="{e(title)}" width="480" height="480"></div>{skin_picker(lang, s) if has_skin else ""}</div>
+  <div class="detail-left"><div class="detail-art"><img id="art" src="/images/svg/{s}.svg" alt="{e(alt)}" width="480" height="480"></div>{skin_picker(lang, s) if has_skin else ""}</div>
   <div class="detail-info">
     <h1>{e(title)}</h1>
     <p class="desc">{e(desc)}</p>
@@ -308,6 +349,8 @@ def page_illust(lang, item):
       <a class="btn" data-dl="svg" href="/images/svg/{s}.svg" download="{SITE_NAME.lower()}-{s}.svg">{e(u['download_svg'])}</a>
     </div>
     <p class="note">{e(u['license_short'])} <a href="{url(lang, 'license')}">{e(u['license'])}</a></p>
+    <h2 class="about-h">{e(u['about_h'])}</h2>
+    <p class="about">{e(u['about'].format(ks=ks))}</p>
     <div class="tags"><span>{e(u['tags'])}</span>{tag_html}</div>
     {ad('side', lang)}
   </div>
@@ -316,8 +359,55 @@ def page_illust(lang, item):
 <h2 class="section-title">{e(u['related'])}</h2>
 <div class="grid">{"".join(card(i, lang) for i in related)}</div>
 {ad('bottom', lang)}"""
-    return layout(lang, "illust", s, title, (desc + ("" if lang in ("ja", "zh", "ko") else " ") + u["seo_short"]), body,
-                  og_image=f"/images/png/{s}.png", jsonld=jsonld)
+    sp = "" if lang in ("ja", "zh", "ko") else " "
+    return layout(lang, "illust", s, title, desc + sp + u["kw_desc"].format(ks=ks), body,
+                  og_image=f"/images/png/{s}.png", jsonld=jsonld,
+                  full_title=u["title_illust2"].format(t=title, k=kw[0]))
+
+
+def popular_tags(lang, n=40, items=None):
+    """人気キーワードのリンク集（内部リンク用）"""
+    u = UI[lang]
+    tags = TAGS[lang]
+    if items is not None:
+        keys = {tag_key(tg) for i in items for tg in t(i, lang)[2]}
+        tags = {k: v for k, v in tags.items() if k in keys}
+    top = sorted(tags.items(), key=lambda kv: (-len(kv[1][1]), kv[0]))[:n]
+    if not top: return ""
+    links = "".join(f'<a href="{url(lang, "tag", name)}">{e(cap(lang, name))} <small>{len(its)}</small></a>'
+                    for _, (name, its) in top)
+    return f'<h2 class="section-title">{e(u["popular"])}</h2><div class="tags kw">{links}</div>'
+
+
+def page_tag(lang, key):
+    u = UI[lang]
+    name, items = TAGS[lang][key]
+    k = cap(lang, name)
+    ex = u["sep"].join(t(i, lang)[0] for i in items[:3])
+    desc = u["tag_desc"].format(k=name if lang != "de" else k, n=len(items), ex=ex)
+    cards = [card(i, lang) for i in items]
+    if len(cards) > 12: cards.insert(12, ad('feed', lang))
+    cats = sorted({i["cat"] for i in items}, key=CATS.index)
+    body = f"""
+<nav class="crumbs"><a href="{url(lang)}">{e(u['home'])}</a><span>›</span><span>{e(u['tag_h1'].format(k=k))}</span></nav>
+<h1 class="page-title">{e(u['tag_h1'].format(k=k))} <small>{e(u['count'].format(n=len(items)))}</small></h1>
+<p class="lead">{e(desc)}</p>
+{ad('top', lang)}
+<div class="grid">{"".join(cards)}</div>
+{popular_tags(lang, 24, [j for c in cats for j in cat_items(c)])}
+{ad('bottom', lang)}"""
+    title = u["tag_title"].format(k=k)
+    jsonld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "CollectionPage", "name": title, "description": desc, "url": SITE_URL + url(lang, "tag", name),
+         "inLanguage": u["html_lang"],
+         "mainEntity": {"@type": "ItemList", "numberOfItems": len(items), "itemListElement": [
+             {"@type": "ListItem", "position": n + 1, "url": SITE_URL + url(lang, "illust", i["slug"])}
+             for n, i in enumerate(items[:30])]}},
+        {"@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": u["home"], "item": SITE_URL + url(lang)},
+            {"@type": "ListItem", "position": 2, "name": u["tag_h1"].format(k=k), "item": SITE_URL + url(lang, "tag", name)}]}]}
+    return layout(lang, "tag", name, k, desc, body, og_image=f"/images/png/{items[0]['slug']}.png",
+                  jsonld=jsonld, full_title=title)
 
 
 def skin_picker(lang, slug):
@@ -399,6 +489,8 @@ def sitemap(lang):
         if kind == "illust":
             img = (f'<image:image><image:loc>{SITE_URL}/images/png/{arg}.png</image:loc></image:image>')
         rows.append(f"<url><loc>{SITE_URL}{url(lang, kind, arg)}</loc>{alts}{img}</url>")
+    for name, _ in TAGS[lang].values():
+        rows.append(f"<url><loc>{SITE_URL}{url(lang, 'tag', name)}</loc></url>")
     return ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
             'xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">'
             + "".join(rows) + "</urlset>")
@@ -412,7 +504,7 @@ def sitemap_index():
 
 
 def write(path, text):
-    full = os.path.join(OUT, path.lstrip("/"))
+    full = os.path.join(OUT, unquote(path).lstrip("/"))
     if full.endswith("/"): full += "index.html"
     os.makedirs(os.path.dirname(full), exist_ok=True)
     open(full, "w", encoding="utf-8").write(text)
@@ -422,7 +514,10 @@ def main():
     if os.path.exists(OUT): shutil.rmtree(OUT)
     shutil.copytree("public", OUT)
     shutil.copytree("static", os.path.join(OUT, "static"))
+    build_tags()
     for lang in LANGS:
+        for key in TAGS[lang]:
+            write(url(lang, "tag", TAGS[lang][key][0]), page_tag(lang, key))
         write(url(lang), page_home(lang))
         write(url(lang, "license"), page_text(lang, "license"))
         write(url(lang, "privacy"), page_text(lang, "privacy"))

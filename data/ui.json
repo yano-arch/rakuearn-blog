@@ -95,7 +95,17 @@
     "cat_desc": "Free {c} clipart and cute illustrations you can use commercially. {n} images including {ex}. Download PNG and SVG with no sign-up.",
     "seo_short": "Free for commercial use, no credit needed. Download PNG/SVG instantly.",
     "sep": ", ",
-    "home_desc": "Free cute illustrations and clipart you can use commercially. {n}+ images of people, animals, food, events and more. Download PNG/SVG with no sign-up or credit."
+    "home_desc": "Free cute illustrations and clipart you can use commercially. {n}+ images of people, animals, food, events and more. Download PNG/SVG with no sign-up or credit.",
+    "title_illust2": "{t} Clipart – Free {k} Illustration (Commercial Use OK)",
+    "kw_desc": "Free {ks} clipart. Free for commercial use with no credit needed — download PNG/SVG instantly.",
+    "about_h": "About this illustration",
+    "about": "A free {ks} illustration you can use in personal and commercial projects. No sign-up or credit required — download it as PNG or SVG.",
+    "tag_title": "{k} Clipart – Free {k} Illustrations (Commercial Use OK)",
+    "tag_h1": "{k} illustrations",
+    "tag_desc": "{n} free {k} clipart illustrations, including {ex}. Free for commercial use, no sign-up or credit needed. Download PNG/SVG.",
+    "popular": "Popular keywords",
+    "alt": "{t} – free {k} clipart",
+    "kjoin": ", "
   },
   "ja": {
     "lang_name": "日本語",
@@ -193,7 +203,17 @@
     "cat_desc": "{c}のかわいい無料イラスト・フリー素材{n}点。{ex}など、商用利用OK・登録不要でPNG・SVGをダウンロードできます。",
     "seo_short": "無料・商用利用OK・クレジット表記不要のフリー素材。PNG・SVGですぐダウンロードできます。",
     "sep": "、",
-    "home_desc": "商用利用OKの、ゆるくてかわいい無料イラスト・フリー素材サイト。人物・動物・食べもの・季節行事など{n}点以上を、登録不要・クレジット表記不要でPNG・SVGダウンロードできます。"
+    "home_desc": "商用利用OKの、ゆるくてかわいい無料イラスト・フリー素材サイト。人物・動物・食べもの・季節行事など{n}点以上を、登録不要・クレジット表記不要でPNG・SVGダウンロードできます。",
+    "title_illust2": "{t}のイラスト｜{k}のフリー素材・無料イラスト（商用利用可）",
+    "kw_desc": "{ks}のフリーイラスト。無料・商用利用可能、クレジット表記不要でPNG・SVGをダウンロードできます。",
+    "about_h": "このイラストについて",
+    "about": "「{ks}」のフリーイラストです。個人・商用を問わず無料で使えて、登録やクレジット表記も不要。PNG・SVGでダウンロードできます。",
+    "tag_title": "{k}のフリーイラスト・無料素材（商用利用可）",
+    "tag_h1": "{k}のイラスト",
+    "tag_desc": "{k}のかわいいフリーイラスト{n}点。{ex}など、無料・商用利用可能で登録不要。PNG・SVGをダウンロードできます。",
+    "popular": "人気のキーワード",
+    "alt": "{t}（{k}のフリーイラスト）",
+    "kjoin": "・"
   },
   "es": {
     "lang_name": "Español",
@@ -291,7 +311,17 @@
     "cat_desc": "Ilustraciones y clipart gratis de {c} para uso comercial. {n} imágenes, como {ex}. Descarga PNG y SVG sin registro.",
     "seo_short": "Gratis para uso comercial, sin atribución. Descarga PNG/SVG al instante.",
     "sep": ", ",
-    "home_desc": "Ilustraciones y clipart gratis y bonitos para uso comercial. Más de {n} imágenes de personas, animales, comida y eventos. Descarga PNG/SVG sin registro ni atribución."
+    "home_desc": "Ilustraciones y clipart gratis y bonitos para uso comercial. Más de {n} imágenes de personas, animales, comida y eventos. Descarga PNG/SVG sin registro ni atribución.",
+    "title_illust2": "{t} – ilustración gratis de {k} (uso comercial)",
+    "kw_desc": "Clipart gratis de {ks}. Uso comercial permitido, sin atribución. Descarga PNG/SVG al instante.",
+    "about_h": "Sobre esta ilustración",
+    "about": "Ilustración gratis de {ks} para proyectos personales y comerciales. Sin registro ni atribución. Descárgala en PNG o SVG.",
+    "tag_title": "{k}: ilustraciones y clipart gratis (uso comercial)",
+    "tag_h1": "{k}: ilustraciones",
+    "tag_desc": "{n} ilustraciones gratis de {k}, como {ex}. Uso comercial permitido, sin registro. Descarga PNG/SVG.",
+    "popular": "Palabras clave populares",
+    "alt": "{t} – clipart gratis de {k}",
+    "kjoin": ", "
   },
   "pt": {
     "lang_name": "Português",
@@ -389,7 +419,17 @@
     "cat_desc": "Ilustrações e cliparts grátis de {c} para uso comercial. {n} imagens, como {ex}. Baixe PNG e SVG sem cadastro.",
     "seo_short": "Grátis para uso comercial, sem crédito obrigatório. Baixe PNG/SVG na hora.",
     "sep": ", ",
-    "home_desc": "Ilustrações e cliparts fofos grátis para uso comercial. Mais de {n} imagens de pessoas, animais, comida e eventos. Baixe PNG/SVG sem cadastro nem crédito."
+    "home_desc": "Ilustrações e cliparts fofos grátis para uso comercial. Mais de {n} imagens de pessoas, animais, comida e eventos. Baixe PNG/SVG sem cadastro nem crédito.",
+    "title_illust2": "{t} – ilustração grátis de {k} (uso comercial)",
+    "kw_desc": "Clipart grátis de {ks}. Uso comercial liberado, sem crédito. Baixe PNG/SVG na hora.",
+    "about_h": "Sobre esta ilustração",
+    "about": "Ilustração grátis de {ks} para projetos pessoais e comerciais. Sem cadastro nem crédito. Baixe em PNG ou SVG.",
+    "tag_title": "{k}: ilustrações e cliparts grátis (uso comercial)",
+    "tag_h1": "{k}: ilustrações",
+    "tag_desc": "{n} ilustrações grátis de {k}, como {ex}. Uso comercial liberado, sem cadastro. Baixe PNG/SVG.",
+    "popular": "Palavras-chave populares",
+    "alt": "{t} – clipart grátis de {k}",
+    "kjoin": ", "
   },
   "fr": {
     "lang_name": "Français",
@@ -487,7 +527,17 @@
     "cat_desc": "Illustrations et cliparts gratuits ({c}) utilisables commercialement. {n} images, dont {ex}. Téléchargez en PNG et SVG sans inscription.",
     "seo_short": "Gratuit pour un usage commercial, sans attribution. Téléchargement PNG/SVG immédiat.",
     "sep": ", ",
-    "home_desc": "Illustrations et cliparts mignons gratuits, utilisables commercialement. Plus de {n} images : personnes, animaux, nourriture, fêtes… Téléchargez en PNG/SVG sans inscription ni attribution."
+    "home_desc": "Illustrations et cliparts mignons gratuits, utilisables commercialement. Plus de {n} images : personnes, animaux, nourriture, fêtes… Téléchargez en PNG/SVG sans inscription ni attribution.",
+    "title_illust2": "{t} – illustration gratuite {k} (usage commercial)",
+    "kw_desc": "Clipart gratuit : {ks}. Usage commercial autorisé, sans attribution. Téléchargez en PNG/SVG.",
+    "about_h": "À propos de cette illustration",
+    "about": "Illustration gratuite ({ks}) pour vos projets personnels et commerciaux. Sans inscription ni attribution. Téléchargez-la en PNG ou SVG.",
+    "tag_title": "{k} : illustrations et cliparts gratuits (usage commercial)",
+    "tag_h1": "{k} : illustrations",
+    "tag_desc": "{n} illustrations gratuites « {k} », dont {ex}. Usage commercial autorisé, sans inscription. PNG/SVG.",
+    "popular": "Mots-clés populaires",
+    "alt": "{t} – clipart gratuit {k}",
+    "kjoin": ", "
   },
   "de": {
     "lang_name": "Deutsch",
@@ -585,7 +635,17 @@
     "cat_desc": "Kostenlose Illustrationen und Cliparts zum Thema {c}, auch kommerziell nutzbar. {n} Bilder, z. B. {ex}. PNG und SVG ohne Anmeldung herunterladen.",
     "seo_short": "Kostenlos auch für kommerzielle Nutzung, ohne Namensnennung. PNG/SVG sofort herunterladen.",
     "sep": ", ",
-    "home_desc": "Kostenlose niedliche Illustrationen und Cliparts, auch kommerziell nutzbar. Über {n} Bilder von Menschen, Tieren, Essen, Anlässen und mehr. PNG/SVG ohne Anmeldung und Namensnennung herunterladen."
+    "home_desc": "Kostenlose niedliche Illustrationen und Cliparts, auch kommerziell nutzbar. Über {n} Bilder von Menschen, Tieren, Essen, Anlässen und mehr. PNG/SVG ohne Anmeldung und Namensnennung herunterladen.",
+    "title_illust2": "{t} – kostenlose {k}-Illustration (kommerziell nutzbar)",
+    "kw_desc": "Kostenlose Cliparts: {ks}. Kommerziell nutzbar, ohne Namensnennung. PNG/SVG sofort herunterladen.",
+    "about_h": "Über diese Illustration",
+    "about": "Kostenlose Illustration ({ks}) für private und kommerzielle Projekte. Ohne Anmeldung und Namensnennung. Als PNG oder SVG herunterladen.",
+    "tag_title": "{k} – kostenlose Illustrationen & Cliparts (kommerziell nutzbar)",
+    "tag_h1": "{k}: Illustrationen",
+    "tag_desc": "{n} kostenlose Illustrationen zum Thema {k}, z. B. {ex}. Kommerziell nutzbar, ohne Anmeldung. PNG/SVG.",
+    "popular": "Beliebte Stichwörter",
+    "alt": "{t} – kostenloses {k}-Clipart",
+    "kjoin": ", "
   },
   "zh": {
     "lang_name": "简体中文",
@@ -683,7 +743,17 @@
     "cat_desc": "{n}张可爱的{c}免费插画素材，包括{ex}等。可商用、无需注册，可下载 PNG 和 SVG。",
     "seo_short": "免费可商用，无需署名。立即下载 PNG/SVG。",
     "sep": "、",
-    "home_desc": "可商用的免费可爱插画素材网站。人物、动物、美食、节日等 {n} 多张插画，无需注册、无需署名即可下载 PNG/SVG。"
+    "home_desc": "可商用的免费可爱插画素材网站。人物、动物、美食、节日等 {n} 多张插画，无需注册、无需署名即可下载 PNG/SVG。",
+    "title_illust2": "{t}插画｜{k}免费素材（可商用）",
+    "kw_desc": "{ks}免费插画素材，可商用、无需署名，立即下载 PNG/SVG。",
+    "about_h": "关于这张插画",
+    "about": "这是一张「{ks}」主题的免费插画，个人和商业用途均可免费使用，无需注册或署名，可下载 PNG 或 SVG。",
+    "tag_title": "{k}免费插画素材（可商用）",
+    "tag_h1": "{k}插画",
+    "tag_desc": "{n}张{k}免费插画，包括{ex}等。可商用、无需注册，可下载 PNG/SVG。",
+    "popular": "热门关键词",
+    "alt": "{t}（{k}免费插画）",
+    "kjoin": "、"
   },
   "ko": {
     "lang_name": "한국어",
@@ -781,6 +851,16 @@
     "cat_desc": "귀여운 {c} 무료 일러스트 소재 {n}개. {ex} 등을 상업적으로도 무료로 이용할 수 있으며, 회원가입 없이 PNG·SVG를 다운로드할 수 있습니다.",
     "seo_short": "상업적 이용 무료, 출처 표기 불필요. PNG·SVG 바로 다운로드.",
     "sep": ", ",
-    "home_desc": "상업적으로도 쓸 수 있는 귀여운 무료 일러스트 소재 사이트. 사람·동물·음식·이벤트 등 {n}개 이상을 회원가입·출처 표기 없이 PNG/SVG로 다운로드하세요."
+    "home_desc": "상업적으로도 쓸 수 있는 귀여운 무료 일러스트 소재 사이트. 사람·동물·음식·이벤트 등 {n}개 이상을 회원가입·출처 표기 없이 PNG/SVG로 다운로드하세요.",
+    "title_illust2": "{t} 일러스트｜{k} 무료 소재 (상업적 이용 가능)",
+    "kw_desc": "{ks} 무료 일러스트. 상업적 이용 가능, 출처 표기 불필요. PNG·SVG 바로 다운로드.",
+    "about_h": "이 일러스트에 대해",
+    "about": "'{ks}' 무료 일러스트입니다. 개인·상업적 용도 모두 무료이며 회원가입과 출처 표기가 필요 없습니다. PNG·SVG로 다운로드하세요.",
+    "tag_title": "{k} 무료 일러스트 소재 (상업적 이용 가능)",
+    "tag_h1": "{k} 일러스트",
+    "tag_desc": "{k} 무료 일러스트 {n}개. {ex} 등 상업적 이용 가능, 회원가입 불필요. PNG·SVG 다운로드.",
+    "popular": "인기 키워드",
+    "alt": "{t} ({k} 무료 일러스트)",
+    "kjoin": ", "
   }
 }

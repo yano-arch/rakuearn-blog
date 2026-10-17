@@ -72,7 +72,15 @@
         "Contact",
         "If you have any questions, please email us at the address below."
       ]
-    ]
+    ],
+    "ad_label": "Advertisement",
+    "rw_title": "Watch a short ad to download",
+    "rw_body": "FuwaFuwa is free thanks to ads. Watch a short ad and your download will start automatically.",
+    "rw_watch": "Watch ad & download",
+    "rw_cancel": "Cancel",
+    "rw_loading": "Loading the ad…",
+    "rw_closed": "Your download starts once the ad finishes. You can try again anytime.",
+    "rw_thanks": "Thank you! Your download is starting."
   },
   "ja": {
     "lang_name": "日本語",
@@ -147,7 +155,15 @@
         "お問い合わせ",
         "ご質問は下記のメールアドレスまでご連絡ください。"
       ]
-    ]
+    ],
+    "ad_label": "広告",
+    "rw_title": "短い広告を見てダウンロード",
+    "rw_body": "FuwaFuwaは広告のおかげで無料で使えます。短い広告を見ると、自動でダウンロードが始まります。",
+    "rw_watch": "広告を見てダウンロード",
+    "rw_cancel": "キャンセル",
+    "rw_loading": "広告を読み込んでいます…",
+    "rw_closed": "広告を最後まで見るとダウンロードが始まります。もう一度お試しいただけます。",
+    "rw_thanks": "ありがとうございます！ダウンロードを開始します。"
   },
   "es": {
     "lang_name": "Español",
@@ -222,7 +238,15 @@
         "Contacto",
         "Si tienes alguna pregunta, escríbenos a la dirección de abajo."
       ]
-    ]
+    ],
+    "ad_label": "Publicidad",
+    "rw_title": "Mira un anuncio corto para descargar",
+    "rw_body": "FuwaFuwa es gratis gracias a los anuncios. Mira un anuncio corto y la descarga empezará automáticamente.",
+    "rw_watch": "Ver anuncio y descargar",
+    "rw_cancel": "Cancelar",
+    "rw_loading": "Cargando el anuncio…",
+    "rw_closed": "La descarga empieza cuando termina el anuncio. Puedes intentarlo de nuevo cuando quieras.",
+    "rw_thanks": "¡Gracias! Tu descarga está comenzando."
   },
   "pt": {
     "lang_name": "Português",
@@ -297,7 +321,15 @@
         "Contato",
         "Em caso de dúvidas, envie um e-mail para o endereço abaixo."
       ]
-    ]
+    ],
+    "ad_label": "Publicidade",
+    "rw_title": "Assista a um anúncio curto para baixar",
+    "rw_body": "O FuwaFuwa é grátis graças aos anúncios. Assista a um anúncio curto e o download começa automaticamente.",
+    "rw_watch": "Assistir e baixar",
+    "rw_cancel": "Cancelar",
+    "rw_loading": "Carregando o anúncio…",
+    "rw_closed": "O download começa quando o anúncio termina. Você pode tentar de novo quando quiser.",
+    "rw_thanks": "Obrigado! Seu download está começando."
   },
   "fr": {
     "lang_name": "Français",
@@ -372,7 +404,15 @@
         "Contact",
         "Pour toute question, écrivez-nous à l'adresse ci-dessous."
       ]
-    ]
+    ],
+    "ad_label": "Publicité",
+    "rw_title": "Regardez une courte publicité pour télécharger",
+    "rw_body": "FuwaFuwa est gratuit grâce à la publicité. Regardez une courte annonce et le téléchargement démarrera automatiquement.",
+    "rw_watch": "Regarder et télécharger",
+    "rw_cancel": "Annuler",
+    "rw_loading": "Chargement de la publicité…",
+    "rw_closed": "Le téléchargement démarre à la fin de la publicité. Vous pouvez réessayer à tout moment.",
+    "rw_thanks": "Merci ! Votre téléchargement commence."
   },
   "de": {
     "lang_name": "Deutsch",
@@ -447,7 +487,15 @@
         "Kontakt",
         "Bei Fragen schreib uns bitte an die unten stehende Adresse."
       ]
-    ]
+    ],
+    "ad_label": "Anzeige",
+    "rw_title": "Kurze Anzeige ansehen und herunterladen",
+    "rw_body": "FuwaFuwa ist dank Werbung kostenlos. Sieh dir eine kurze Anzeige an, dann startet der Download automatisch.",
+    "rw_watch": "Anzeige ansehen & herunterladen",
+    "rw_cancel": "Abbrechen",
+    "rw_loading": "Anzeige wird geladen…",
+    "rw_closed": "Der Download startet, sobald die Anzeige zu Ende ist. Du kannst es jederzeit erneut versuchen.",
+    "rw_thanks": "Danke! Dein Download startet."
   },
   "zh": {
     "lang_name": "简体中文",
@@ -522,7 +570,15 @@
         "联系我们",
         "如有任何问题，请发送邮件至下方地址。"
       ]
-    ]
+    ],
+    "ad_label": "广告",
+    "rw_title": "观看短广告后下载",
+    "rw_body": "FuwaFuwa 依靠广告免费提供。观看一段短广告后，下载会自动开始。",
+    "rw_watch": "观看广告并下载",
+    "rw_cancel": "取消",
+    "rw_loading": "正在加载广告…",
+    "rw_closed": "广告播放完毕后才会开始下载。你可以随时再试一次。",
+    "rw_thanks": "谢谢！下载即将开始。"
   },
   "ko": {
     "lang_name": "한국어",
@@ -597,6 +653,14 @@
         "문의",
         "궁금한 점이 있으면 아래 이메일 주소로 연락해 주세요."
       ]
-    ]
+    ],
+    "ad_label": "광고",
+    "rw_title": "짧은 광고를 보고 다운로드",
+    "rw_body": "FuwaFuwa는 광고 덕분에 무료로 이용할 수 있어요. 짧은 광고를 보면 다운로드가 자동으로 시작돼요.",
+    "rw_watch": "광고 보고 다운로드",
+    "rw_cancel": "취소",
+    "rw_loading": "광고를 불러오는 중…",
+    "rw_closed": "광고가 끝나면 다운로드가 시작돼요. 언제든 다시 시도할 수 있어요.",
+    "rw_thanks": "감사합니다! 다운로드를 시작할게요."
   }
 }

@@ -26,7 +26,12 @@
 3. Custom domains に `rakuearn.com` を追加（ドメインがCloudflareにあればDNSは自動設定）
 キャッシュ設定は `public/_headers`。無料プランは1サイト2万ファイルまで（1イラスト＝8言語ページ＋画像2枚で約10ファイル）。
 
-## 広告（AdSense）
-承認後、`build.py` 冒頭の `ADSENSE_CLIENT` と `ADSENSE_SLOTS` を設定するだけで、
-全ページの広告枠（上・サイド・下）と `ads.txt` が出力されます。未設定のあいだ広告枠は表示されません。
-問い合わせ先は `CONTACT_EMAIL`（support@studyshort.co.jp）で変更できます。
+## 広告
+`build.py` 冒頭の設定だけで有効になる（未設定のあいだは何も表示されない）。
+
+- バナー広告（AdSense）：`ADSENSE_CLIENT` と `ADSENSE_SLOTS`（top / feed / side / bottom）を設定。
+  全ページの上・一覧の途中（12点目のあと）・個別ページのサイド・下に「広告」ラベル付きで出る。`ads.txt` も自動出力。
+- ダウンロード時のリワード広告（Google Ad Manager）：`REWARDED_AD_UNIT` に広告ユニットのパスを設定。
+  ダウンロードボタン → 確認画面 →「広告を見てダウンロード」→ 広告を最後まで見るとダウンロード開始。
+  広告が埋まらない・読み込めない・広告ブロック時（8秒以内に表示されない場合）は、そのままダウンロードさせる。
+- `python3 build.py --preview` で広告位置とリワードの流れ（5秒のダミー広告）を確認できる。

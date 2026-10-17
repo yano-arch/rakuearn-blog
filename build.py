@@ -13,7 +13,10 @@ SITE_URL = "https://rakuearn.com"
 SITE_NAME = "FuwaFuwa"
 CONTACT_EMAIL = "support@studyshort.co.jp"
 ADSENSE_CLIENT = ""                       # 例: "ca-pub-1234567890123456"（AdSense承認後に設定）
-ADSENSE_SLOTS = {"top": "", "side": "", "bottom": ""}  # 各広告ユニットの data-ad-slot
+ADSENSE_SLOTS = {"top": "", "feed": "", "side": "", "bottom": ""}  # 各広告ユニットの data-ad-slot
+# ダウンロード時のリワード広告（Google Ad Manager の広告ユニットパス。例: "/1234567/fuwafuwa_rewarded"）
+# 未設定・広告が出ない・広告ブロック時は、そのままダウンロードできる
+REWARDED_AD_UNIT = ""
 LANGS = ["en", "ja", "es", "pt", "fr", "de", "zh", "ko"]
 DEFAULT_LANG = "en"
 CATS = ["people", "work", "animals", "food", "nature", "home", "tech", "school", "travel", "events", "sports"]
@@ -43,14 +46,15 @@ def url(lang, kind="home", arg=None):
     return f"/{lang}/{kind}/"
 
 
-def ad(slot):
+def ad(slot, lang):
+    label = f'<span class="ad-label">{e(UI[lang]["ad_label"])}</span>'
     if ADSENSE_CLIENT:
-        return (f'<div class="ad ad-{slot}"><ins class="adsbygoogle" style="display:block" '
+        return (f'<div class="ad ad-{slot}">{label}<ins class="adsbygoogle" style="display:block" '
                 f'data-ad-client="{ADSENSE_CLIENT}" data-ad-slot="{ADSENSE_SLOTS.get(slot, "")}" '
                 f'data-ad-format="auto" data-full-width-responsive="true"></ins>'
                 f'<script>(adsbygoogle=window.adsbygoogle||[]).push({{}});</script></div>')
     if PREVIEW:
-        return f'<div class="ad ad-{slot} ad-preview">AD ({slot})</div>'
+        return f'<div class="ad ad-{slot}">{label}<div class="ad-preview">AD ({slot})</div></div>'
     return ""
 
 
@@ -141,7 +145,9 @@ def badges(u):
 
 def page_home(lang):
     u = UI[lang]
-    grid = "".join(card(i, lang) for i in ITEMS)
+    cards = [card(i, lang) for i in ITEMS]
+    if len(cards) > 12: cards.insert(12, ad('feed', lang))
+    grid = "".join(cards)
     body = f"""
 <section class="hero">
   <div class="hero-text">
@@ -160,11 +166,11 @@ def page_home(lang):
   <input id="q" type="search" placeholder="{e(u['search'])}" aria-label="{e(u['search'])}" autocomplete="off">
 </form>
 {chips(lang)}
-{ad('top')}
+{ad('top', lang)}
 <h2 class="section-title">{e(u['latest'])} <small id="count" data-tpl="{e(u['count'])}">{e(u['count'].format(n=len(ITEMS)))}</small></h2>
 <div class="grid" id="grid">{grid}</div>
 <p class="empty" id="empty" hidden>{e(u['no_results'])}</p>
-{ad('bottom')}"""
+{ad('bottom', lang)}"""
     return layout(lang, "home", None, SITE_NAME, u["meta_desc"], body)
 
 
@@ -174,9 +180,9 @@ def page_cat(lang, c):
     body = f"""
 <h1 class="page-title">{e(u['cats'][c])} <small>{e(u['count'].format(n=len(items)))}</small></h1>
 {chips(lang, c)}
-{ad('top')}
-<div class="grid">{"".join(card(i, lang) for i in items)}</div>
-{ad('bottom')}"""
+{ad('top', lang)}
+<div class="grid">{"".join(card(i, lang) for i in items[:12]) + (ad('feed', lang) if len(items) > 12 else "") + "".join(card(i, lang) for i in items[12:])}</div>
+{ad('bottom', lang)}"""
     desc = f"{u['cats'][c]} — {u['meta_desc']}"
     return layout(lang, "cat", c, u["cats"][c], desc, body)
 
@@ -206,19 +212,39 @@ def page_illust(lang, item):
     <p class="desc">{e(desc)}</p>
     {badges(u)}
     <div class="dl">
-      <a class="btn primary" href="/images/png/{s}.png" download="{SITE_NAME.lower()}-{s}.png">{e(u['download_png'])} <small>1000×1000</small></a>
-      <a class="btn" href="/images/svg/{s}.svg" download="{SITE_NAME.lower()}-{s}.svg">{e(u['download_svg'])}</a>
+      <a class="btn primary" data-dl href="/images/png/{s}.png" download="{SITE_NAME.lower()}-{s}.png">{e(u['download_png'])} <small>1000×1000</small></a>
+      <a class="btn" data-dl href="/images/svg/{s}.svg" download="{SITE_NAME.lower()}-{s}.svg">{e(u['download_svg'])}</a>
     </div>
     <p class="note">{e(u['license_short'])} <a href="{url(lang, 'license')}">{e(u['license'])}</a></p>
     <div class="tags"><span>{e(u['tags'])}</span>{tag_html}</div>
-    {ad('side')}
+    {ad('side', lang)}
   </div>
 </article>
+{rewarded_modal(lang)}
 <h2 class="section-title">{e(u['related'])}</h2>
 <div class="grid">{"".join(card(i, lang) for i in related)}</div>
-{ad('bottom')}"""
+{ad('bottom', lang)}"""
     return layout(lang, "illust", s, title, f"{desc} {u['meta_desc']}", body,
                   og_image=f"/images/png/{s}.png", jsonld=jsonld)
+
+
+def rewarded_modal(lang):
+    """ダウンロード前のリワード広告の確認画面（REWARDED_AD_UNIT 設定時、またはプレビュー時のみ動く）"""
+    if not (REWARDED_AD_UNIT or PREVIEW): return ""
+    u = UI[lang]
+    cfg = json.dumps({"unit": REWARDED_AD_UNIT, "preview": PREVIEW, "loading": u["rw_loading"],
+                      "closed": u["rw_closed"], "thanks": u["rw_thanks"]}, ensure_ascii=False)
+    return f"""<div class="rw" id="rw" hidden role="dialog" aria-modal="true" aria-labelledby="rw-title" data-cfg='{e(cfg)}'>
+  <div class="rw-box">
+    <img src="/images/svg/gift-box.svg" alt="" width="96" height="96">
+    <h2 id="rw-title">{e(u['rw_title'])}</h2>
+    <p id="rw-msg">{e(u['rw_body'])}</p>
+    <div class="rw-actions">
+      <button type="button" class="btn primary" id="rw-ok">{e(u['rw_watch'])}</button>
+      <button type="button" class="btn" id="rw-cancel">{e(u['rw_cancel'])}</button>
+    </div>
+  </div>
+</div>"""
 
 
 def page_text(lang, kind):

@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "cactus",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cactus in a Pot",
+    "A smiling cactus with a little pink flower in a terracotta pot.",
+    [
+     "cactus",
+     "succulent",
+     "houseplant",
+     "plant"
+    ]
+   ],
+   "ja": [
+    "鉢植えのサボテン",
+    "ピンクの花をつけた笑顔のサボテンの鉢植えのイラスト。",
+    [
+     "サボテン",
+     "多肉植物",
+     "観葉植物",
+     "植物"
+    ]
+   ],
+   "es": [
+    "Cactus en maceta",
+    "Un cactus sonriente con una florecita rosa en una maceta de barro.",
+    [
+     "cactus",
+     "suculenta",
+     "planta de interior",
+     "planta"
+    ]
+   ],
+   "pt": [
+    "Cacto no vaso",
+    "Um cacto sorridente com uma florzinha rosa em um vaso de barro.",
+    [
+     "cacto",
+     "suculenta",
+     "planta de casa",
+     "planta"
+    ]
+   ],
+   "fr": [
+    "Cactus en pot",
+    "Un cactus souriant avec une petite fleur rose dans un pot en terre cuite.",
+    [
+     "cactus",
+     "plante grasse",
+     "plante d’intérieur",
+     "plante"
+    ]
+   ],
+   "de": [
+    "Kaktus im Topf",
+    "Ein lächelnder Kaktus mit kleiner rosa Blüte in einem Tontopf.",
+    [
+     "Kaktus",
+     "Sukkulente",
+     "Zimmerpflanze",
+     "Pflanze"
+    ]
+   ],
+   "zh": [
+    "盆栽仙人掌",
+    "开着粉色小花、面带微笑的盆栽仙人掌。",
+    [
+     "仙人掌",
+     "多肉植物",
+     "盆栽",
+     "植物"
+    ]
+   ],
+   "ko": [
+    "화분 속 선인장",
+    "분홍 꽃을 피운 웃는 얼굴의 선인장 화분.",
+    [
+     "선인장",
+     "다육식물",
+     "화분",
+     "식물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "forest",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Forest",
+    "A small forest of round trees and a tall fir tree on green grass.",
+    [
+     "forest",
+     "trees",
+     "woods",
+     "nature"
+    ]
+   ],
+   "ja": [
+    "森",
+    "丸い木ととがった針葉樹が並ぶ小さな森のイラスト。",
+    [
+     "森",
+     "木",
+     "林",
+     "自然"
+    ]
+   ],
+   "es": [
+    "Bosque",
+    "Un pequeño bosque con árboles redondos y un abeto sobre el césped.",
+    [
+     "bosque",
+     "árboles",
+     "arboleda",
+     "naturaleza"
+    ]
+   ],
+   "pt": [
+    "Floresta",
+    "Uma pequena floresta com árvores redondas e um pinheiro na grama.",
+    [
+     "floresta",
+     "árvores",
+     "mata",
+     "natureza"
+    ]
+   ],
+   "fr": [
+    "Forêt",
+    "Une petite forêt d’arbres ronds et d’un sapin sur l’herbe verte.",
+    [
+     "forêt",
+     "arbres",
+     "bois",
+     "nature"
+    ]
+   ],
+   "de": [
+    "Wald",
+    "Ein kleiner Wald mit runden Bäumen und einer Tanne auf grüner Wiese.",
+    [
+     "Wald",
+     "Bäume",
+     "Natur",
+     "Grün"
+    ]
+   ],
+   "zh": [
+    "森林",
+    "圆圆的树和高高的杉树组成的小森林。",
+    [
+     "森林",
+     "树木",
+     "树林",
+     "大自然"
+    ]
+   ],
+   "ko": [
+    "숲",
+    "둥근 나무와 뾰족한 침엽수가 어우러진 작은 숲.",
+    [
+     "숲",
+     "나무",
+     "수풀",
+     "자연"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "palm-tree",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Palm Tree",
+    "A palm tree with coconuts standing on a sandy beach.",
+    [
+     "palm tree",
+     "coconut",
+     "beach",
+     "tropical"
+    ]
+   ],
+   "ja": [
+    "ヤシの木",
+    "砂浜に立つ、ヤシの実がなったヤシの木のイラスト。",
+    [
+     "ヤシの木",
+     "ココナッツ",
+     "南国",
+     "ビーチ"
+    ]
+   ],
+   "es": [
+    "Palmera",
+    "Una palmera con cocos sobre la arena de la playa.",
+    [
+     "palmera",
+     "coco",
+     "playa",
+     "tropical"
+    ]
+   ],
+   "pt": [
+    "Coqueiro",
+    "Um coqueiro com cocos na areia da praia.",
+    [
+     "coqueiro",
+     "palmeira",
+     "praia",
+     "tropical"
+    ]
+   ],
+   "fr": [
+    "Palmier",
+    "Un palmier avec des noix de coco sur une plage de sable.",
+    [
+     "palmier",
+     "noix de coco",
+     "plage",
+     "tropical"
+    ]
+   ],
+   "de": [
+    "Palme",
+    "Eine Palme mit Kokosnüssen am Sandstrand.",
+    [
+     "Palme",
+     "Kokosnuss",
+     "Strand",
+     "tropisch"
+    ]
+   ],
+   "zh": [
+    "椰子树",
+    "沙滩上结着椰子的椰子树。",
+    [
+     "椰子树",
+     "棕榈树",
+     "海滩",
+     "热带"
+    ]
+   ],
+   "ko": [
+    "야자수",
+    "모래사장에 서 있는 코코넛 열린 야자수.",
+    [
+     "야자수",
+     "코코넛",
+     "해변",
+     "열대"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pine-tree",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pine Tree",
+    "A tall green evergreen pine tree with layered branches.",
+    [
+     "pine tree",
+     "fir",
+     "evergreen",
+     "tree"
+    ]
+   ],
+   "ja": [
+    "もみの木",
+    "三段の枝が重なった緑の針葉樹のイラスト。",
+    [
+     "もみの木",
+     "針葉樹",
+     "松",
+     "木"
+    ]
+   ],
+   "es": [
+    "Pino",
+    "Un pino verde y alto con ramas en capas.",
+    [
+     "pino",
+     "abeto",
+     "árbol",
+     "conífera"
+    ]
+   ],
+   "pt": [
+    "Pinheiro",
+    "Um pinheiro verde e alto com galhos em camadas.",
+    [
+     "pinheiro",
+     "árvore",
+     "conífera",
+     "natureza"
+    ]
+   ],
+   "fr": [
+    "Sapin",
+    "Un grand sapin vert aux branches étagées.",
+    [
+     "sapin",
+     "pin",
+     "conifère",
+     "arbre"
+    ]
+   ],
+   "de": [
+    "Tanne",
+    "Eine hohe grüne Tanne mit Astetagen.",
+    [
+     "Tanne",
+     "Nadelbaum",
+     "Kiefer",
+     "Baum"
+    ]
+   ],
+   "zh": [
+    "松树",
+    "层层叠叠的绿色松树。",
+    [
+     "松树",
+     "杉树",
+     "针叶树",
+     "树"
+    ]
+   ],
+   "ko": [
+    "소나무",
+    "층층이 가지가 겹친 초록 침엽수.",
+    [
+     "소나무",
+     "전나무",
+     "침엽수",
+     "나무"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bamboo",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bamboo",
+    "Three green bamboo stalks with joints and slender leaves.",
+    [
+     "bamboo",
+     "bamboo grove",
+     "plant",
+     "asian"
+    ]
+   ],
+   "ja": [
+    "竹",
+    "節のある3本の竹と細い葉のイラスト。",
+    [
+     "竹",
+     "竹林",
+     "植物",
+     "和風"
+    ]
+   ],
+   "es": [
+    "Bambú",
+    "Tres tallos de bambú verde con nudos y hojas finas.",
+    [
+     "bambú",
+     "cañas",
+     "planta",
+     "asiático"
+    ]
+   ],
+   "pt": [
+    "Bambu",
+    "Três hastes de bambu verde com nós e folhas finas.",
+    [
+     "bambu",
+     "bambuzal",
+     "planta",
+     "oriental"
+    ]
+   ],
+   "fr": [
+    "Bambou",
+    "Trois tiges de bambou vert avec nœuds et feuilles fines.",
+    [
+     "bambou",
+     "bambouseraie",
+     "plante",
+     "asiatique"
+    ]
+   ],
+   "de": [
+    "Bambus",
+    "Drei grüne Bambusrohre mit Knoten und schmalen Blättern.",
+    [
+     "Bambus",
+     "Bambuswald",
+     "Pflanze",
+     "asiatisch"
+    ]
+   ],
+   "zh": [
+    "竹子",
+    "三根带竹节和细叶的绿色竹子。",
+    [
+     "竹子",
+     "竹林",
+     "植物",
+     "中国风"
+    ]
+   ],
+   "ko": [
+    "대나무",
+    "마디가 있는 초록 대나무 세 줄기와 가는 잎.",
+    [
+     "대나무",
+     "대나무숲",
+     "식물",
+     "동양"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "four-leaf-clover",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Four-Leaf Clover",
+    "A lucky green four-leaf clover with heart-shaped leaves.",
+    [
+     "four-leaf clover",
+     "lucky",
+     "clover",
+     "shamrock"
+    ]
+   ],
+   "ja": [
+    "四つ葉のクローバー",
+    "ハートの葉が4枚ついた幸運のクローバー。",
+    [
+     "四つ葉のクローバー",
+     "幸運",
+     "クローバー",
+     "ラッキー"
+    ]
+   ],
+   "es": [
+    "Trébol de cuatro hojas",
+    "Un trébol verde de cuatro hojas que trae buena suerte.",
+    [
+     "trébol de cuatro hojas",
+     "suerte",
+     "trébol",
+     "fortuna"
+    ]
+   ],
+   "pt": [
+    "Trevo de quatro folhas",
+    "Um trevo verde de quatro folhas que dá sorte.",
+    [
+     "trevo de quatro folhas",
+     "sorte",
+     "trevo",
+     "boa sorte"
+    ]
+   ],
+   "fr": [
+    "Trèfle à quatre feuilles",
+    "Un trèfle vert à quatre feuilles porte-bonheur.",
+    [
+     "trèfle à quatre feuilles",
+     "porte-bonheur",
+     "chance",
+     "trèfle"
+    ]
+   ],
+   "de": [
+    "Vierblättriges Kleeblatt",
+    "Ein grünes vierblättriges Kleeblatt als Glücksbringer.",
+    [
+     "Kleeblatt",
+     "Glück",
+     "Glücksbringer",
+     "vierblättrig"
+    ]
+   ],
+   "zh": [
+    "四叶草",
+    "象征幸运的绿色四叶草。",
+    [
+     "四叶草",
+     "幸运",
+     "三叶草",
+     "好运"
+    ]
+   ],
+   "ko": [
+    "네잎클로버",
+    "행운을 상징하는 초록 네잎클로버.",
+    [
+     "네잎클로버",
+     "행운",
+     "클로버",
+     "럭키"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "dandelion",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Dandelion",
+    "A dandelion seed head with fluff floating away and a yellow flower.",
+    [
+     "dandelion",
+     "dandelion fluff",
+     "spring",
+     "flower"
+    ]
+   ],
+   "ja": [
+    "たんぽぽと綿毛",
+    "綿毛が飛んでいくたんぽぽと黄色い花のイラスト。",
+    [
+     "たんぽぽ",
+     "綿毛",
+     "春",
+     "花"
+    ]
+   ],
+   "es": [
+    "Diente de león",
+    "Un diente de león con semillas volando y una flor amarilla.",
+    [
+     "diente de león",
+     "semillas",
+     "primavera",
+     "flor"
+    ]
+   ],
+   "pt": [
+    "Dente-de-leão",
+    "Um dente-de-leão com sementes voando e uma flor amarela.",
+    [
+     "dente-de-leão",
+     "sementes",
+     "primavera",
+     "flor"
+    ]
+   ],
+   "fr": [
+    "Pissenlit",
+    "Un pissenlit dont les aigrettes s’envolent, avec une fleur jaune.",
+    [
+     "pissenlit",
+     "aigrettes",
+     "printemps",
+     "fleur"
+    ]
+   ],
+   "de": [
+    "Pusteblume",
+    "Eine Pusteblume mit fliegenden Samen und einer gelben Löwenzahnblüte.",
+    [
+     "Pusteblume",
+     "Löwenzahn",
+     "Frühling",
+     "Blume"
+    ]
+   ],
+   "zh": [
+    "蒲公英",
+    "绒毛随风飘散的蒲公英和黄色小花。",
+    [
+     "蒲公英",
+     "绒毛",
+     "春天",
+     "花"
+    ]
+   ],
+   "ko": [
+    "민들레 홀씨",
+    "홀씨가 날아가는 민들레와 노란 꽃.",
+    [
+     "민들레",
+     "홀씨",
+     "봄",
+     "꽃"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hydrangea",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hydrangea",
+    "A round cluster of blue and purple hydrangea flowers.",
+    [
+     "hydrangea",
+     "rainy season",
+     "flower",
+     "june"
+    ]
+   ],
+   "ja": [
+    "あじさい",
+    "青と紫の小花が丸く集まったあじさいのイラスト。",
+    [
+     "あじさい",
+     "梅雨",
+     "花",
+     "6月"
+    ]
+   ],
+   "es": [
+    "Hortensia",
+    "Un ramillete redondo de flores de hortensia azules y moradas.",
+    [
+     "hortensia",
+     "flor",
+     "lluvia",
+     "jardín"
+    ]
+   ],
+   "pt": [
+    "Hortênsia",
+    "Um buquê redondo de flores de hortênsia azuis e roxas.",
+    [
+     "hortênsia",
+     "flor",
+     "chuva",
+     "jardim"
+    ]
+   ],
+   "fr": [
+    "Hortensia",
+    "Une boule de fleurs d’hortensia bleues et violettes.",
+    [
+     "hortensia",
+     "fleur",
+     "pluie",
+     "jardin"
+    ]
+   ],
+   "de": [
+    "Hortensie",
+    "Eine runde Dolde aus blauen und lila Hortensienblüten.",
+    [
+     "Hortensie",
+     "Blume",
+     "Regenzeit",
+     "Garten"
+    ]
+   ],
+   "zh": [
+    "绣球花",
+    "蓝紫色小花聚成一团的绣球花。",
+    [
+     "绣球花",
+     "紫阳花",
+     "花",
+     "雨季"
+    ]
+   ],
+   "ko": [
+    "수국",
+    "파랑과 보라 꽃이 동그랗게 모인 수국.",
+    [
+     "수국",
+     "장마",
+     "꽃",
+     "6월"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "lotus",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Lotus Flower",
+    "A pink lotus flower blooming on a lily pad in a pond.",
+    [
+     "lotus",
+     "water lily",
+     "pond",
+     "flower"
+    ]
+   ],
+   "ja": [
+    "蓮の花",
+    "池の葉の上に咲くピンクの蓮の花のイラスト。",
+    [
+     "蓮",
+     "ハス",
+     "池",
+     "花"
+    ]
+   ],
+   "es": [
+    "Flor de loto",
+    "Una flor de loto rosa abierta sobre una hoja en el estanque.",
+    [
+     "loto",
+     "nenúfar",
+     "estanque",
+     "flor"
+    ]
+   ],
+   "pt": [
+    "Flor de lótus",
+    "Uma flor de lótus rosa desabrochando sobre uma folha no lago.",
+    [
+     "lótus",
+     "vitória-régia",
+     "lago",
+     "flor"
+    ]
+   ],
+   "fr": [
+    "Fleur de lotus",
+    "Une fleur de lotus rose éclose sur une feuille dans un étang.",
+    [
+     "lotus",
+     "nénuphar",
+     "étang",
+     "fleur"
+    ]
+   ],
+   "de": [
+    "Lotusblüte",
+    "Eine rosa Lotusblüte auf einem Seerosenblatt im Teich.",
+    [
+     "Lotus",
+     "Seerose",
+     "Teich",
+     "Blume"
+    ]
+   ],
+   "zh": [
+    "莲花",
+    "池塘荷叶上盛开的粉色莲花。",
+    [
+     "莲花",
+     "荷花",
+     "池塘",
+     "花"
+    ]
+   ],
+   "ko": [
+    "연꽃",
+    "연못 잎 위에 핀 분홍 연꽃.",
+    [
+     "연꽃",
+     "연못",
+     "수련",
+     "꽃"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "morning-glory",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Morning Glory",
+    "A blue morning glory flower on a climbing vine with heart-shaped leaves.",
+    [
+     "morning glory",
+     "summer",
+     "flower",
+     "vine"
+    ]
+   ],
+   "ja": [
+    "朝顔",
+    "ハート形の葉とつるのある青い朝顔のイラスト。",
+    [
+     "朝顔",
+     "夏",
+     "花",
+     "つる"
+    ]
+   ],
+   "es": [
+    "Campanilla",
+    "Una flor de campanilla azul en una enredadera con hojas de corazón.",
+    [
+     "campanilla",
+     "enredadera",
+     "flor",
+     "verano"
+    ]
+   ],
+   "pt": [
+    "Ipomeia",
+    "Uma flor de ipomeia azul em uma trepadeira com folhas de coração.",
+    [
+     "ipomeia",
+     "trepadeira",
+     "flor",
+     "verão"
+    ]
+   ],
+   "fr": [
+    "Volubilis",
+    "Une fleur de volubilis bleue sur une liane aux feuilles en cœur.",
+    [
+     "volubilis",
+     "ipomée",
+     "fleur",
+     "été"
+    ]
+   ],
+   "de": [
+    "Prunkwinde",
+    "Eine blaue Prunkwinde an einer Ranke mit herzförmigen Blättern.",
+    [
+     "Prunkwinde",
+     "Winde",
+     "Blume",
+     "Sommer"
+    ]
+   ],
+   "zh": [
+    "牵牛花",
+    "藤蔓上开着蓝色牵牛花，叶子呈心形。",
+    [
+     "牵牛花",
+     "喇叭花",
+     "夏天",
+     "花"
+    ]
+   ],
+   "ko": [
+    "나팔꽃",
+    "하트 모양 잎과 덩굴에 핀 파란 나팔꽃.",
+    [
+     "나팔꽃",
+     "여름",
+     "꽃",
+     "덩굴"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ginkgo-leaf",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ginkgo Leaves",
+    "Two yellow fan-shaped ginkgo leaves, one with a smiling face.",
+    [
+     "ginkgo",
+     "autumn leaves",
+     "fall",
+     "yellow leaf"
+    ]
+   ],
+   "ja": [
+    "イチョウの葉",
+    "黄色い扇形のイチョウの葉が2枚。秋の素材に。",
+    [
+     "イチョウ",
+     "紅葉",
+     "秋",
+     "落ち葉"
+    ]
+   ],
+   "es": [
+    "Hojas de ginkgo",
+    "Dos hojas amarillas de ginkgo en forma de abanico.",
+    [
+     "ginkgo",
+     "hojas de otoño",
+     "otoño",
+     "hoja amarilla"
+    ]
+   ],
+   "pt": [
+    "Folhas de ginkgo",
+    "Duas folhas amarelas de ginkgo em forma de leque.",
+    [
+     "ginkgo",
+     "folhas de outono",
+     "outono",
+     "folha amarela"
+    ]
+   ],
+   "fr": [
+    "Feuilles de ginkgo",
+    "Deux feuilles de ginkgo jaunes en forme d’éventail.",
+    [
+     "ginkgo",
+     "feuilles d’automne",
+     "automne",
+     "feuille jaune"
+    ]
+   ],
+   "de": [
+    "Ginkgoblätter",
+    "Zwei gelbe fächerförmige Ginkgoblätter.",
+    [
+     "Ginkgo",
+     "Herbstlaub",
+     "Herbst",
+     "gelbes Blatt"
+    ]
+   ],
+   "zh": [
+    "银杏叶",
+    "两片黄色扇形银杏叶，秋天的素材。",
+    [
+     "银杏叶",
+     "落叶",
+     "秋天",
+     "黄叶"
+    ]
+   ],
+   "ko": [
+    "은행잎",
+    "노란 부채 모양 은행잎 두 장.",
+    [
+     "은행잎",
+     "단풍",
+     "가을",
+     "낙엽"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "acorns",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Acorns",
+    "Two cute smiling acorns with caps sitting on autumn leaves.",
+    [
+     "acorn",
+     "autumn",
+     "nut",
+     "fall"
+    ]
+   ],
+   "ja": [
+    "どんぐり",
+    "落ち葉の上で笑う2つのどんぐりのイラスト。",
+    [
+     "どんぐり",
+     "秋",
+     "木の実",
+     "落ち葉"
+    ]
+   ],
+   "es": [
+    "Bellotas",
+    "Dos bellotas sonrientes con sombrero sobre hojas de otoño.",
+    [
+     "bellota",
+     "otoño",
+     "fruto seco",
+     "hojas"
+    ]
+   ],
+   "pt": [
+    "Bolotas",
+    "Duas bolotas de carvalho sorridentes sobre folhas de outono.",
+    [
+     "bolota",
+     "outono",
+     "fruto do carvalho",
+     "folhas"
+    ]
+   ],
+   "fr": [
+    "Glands",
+    "Deux glands souriants avec leur chapeau sur des feuilles d’automne.",
+    [
+     "gland",
+     "automne",
+     "chêne",
+     "feuilles"
+    ]
+   ],
+   "de": [
+    "Eicheln",
+    "Zwei lächelnde Eicheln mit Hütchen auf Herbstblättern.",
+    [
+     "Eichel",
+     "Herbst",
+     "Eiche",
+     "Laub"
+    ]
+   ],
+   "zh": [
+    "橡子",
+    "秋叶上两颗笑眯眯的橡子。",
+    [
+     "橡子",
+     "秋天",
+     "坚果",
+     "落叶"
+    ]
+   ],
+   "ko": [
+    "도토리",
+    "낙엽 위에서 웃는 귀여운 도토리 두 개.",
+    [
+     "도토리",
+     "가을",
+     "열매",
+     "낙엽"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pinecone",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pinecone",
+    "A brown pinecone with layered scales and a pine needle sprig.",
+    [
+     "pinecone",
+     "autumn",
+     "winter",
+     "pine"
+    ]
+   ],
+   "ja": [
+    "松ぼっくり",
+    "うろこが重なった茶色い松ぼっくりのイラスト。",
+    [
+     "松ぼっくり",
+     "秋",
+     "冬",
+     "木の実"
+    ]
+   ],
+   "es": [
+    "Piña de pino",
+    "Una piña de pino marrón con escamas y una ramita.",
+    [
+     "piña de pino",
+     "otoño",
+     "invierno",
+     "pino"
+    ]
+   ],
+   "pt": [
+    "Pinha",
+    "Uma pinha marrom com escamas e um raminho verde.",
+    [
+     "pinha",
+     "outono",
+     "inverno",
+     "pinheiro"
+    ]
+   ],
+   "fr": [
+    "Pomme de pin",
+    "Une pomme de pin brune avec ses écailles et une brindille.",
+    [
+     "pomme de pin",
+     "automne",
+     "hiver",
+     "pin"
+    ]
+   ],
+   "de": [
+    "Tannenzapfen",
+    "Ein brauner Tannenzapfen mit Schuppen und grünem Zweig.",
+    [
+     "Tannenzapfen",
+     "Zapfen",
+     "Herbst",
+     "Winter"
+    ]
+   ],
+   "zh": [
+    "松果",
+    "层层鳞片的棕色松果。",
+    [
+     "松果",
+     "秋天",
+     "冬天",
+     "松树"
+    ]
+   ],
+   "ko": [
+    "솔방울",
+    "비늘이 겹겹이 있는 갈색 솔방울.",
+    [
+     "솔방울",
+     "가을",
+     "겨울",
+     "소나무"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "winter-tree",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Snowy Winter Tree",
+    "A bare tree with snow on its branches and falling snowflakes.",
+    [
+     "winter tree",
+     "snow",
+     "bare tree",
+     "winter"
+    ]
+   ],
+   "ja": [
+    "雪の積もった冬の木",
+    "枝に雪が積もった葉のない冬の木のイラスト。",
+    [
+     "冬の木",
+     "雪",
+     "枯れ木",
+     "冬"
+    ]
+   ],
+   "es": [
+    "Árbol nevado",
+    "Un árbol sin hojas con nieve en las ramas.",
+    [
+     "árbol de invierno",
+     "nieve",
+     "árbol desnudo",
+     "invierno"
+    ]
+   ],
+   "pt": [
+    "Árvore com neve",
+    "Uma árvore sem folhas com neve nos galhos.",
+    [
+     "árvore de inverno",
+     "neve",
+     "árvore seca",
+     "inverno"
+    ]
+   ],
+   "fr": [
+    "Arbre enneigé",
+    "Un arbre nu avec de la neige sur les branches.",
+    [
+     "arbre d’hiver",
+     "neige",
+     "arbre nu",
+     "hiver"
+    ]
+   ],
+   "de": [
+    "Verschneiter Baum",
+    "Ein kahler Baum mit Schnee auf den Ästen.",
+    [
+     "Winterbaum",
+     "Schnee",
+     "kahler Baum",
+     "Winter"
+    ]
+   ],
+   "zh": [
+    "积雪的冬树",
+    "树枝上积着雪的光秃秃冬树。",
+    [
+     "冬天的树",
+     "雪",
+     "枯树",
+     "冬天"
+    ]
+   ],
+   "ko": [
+    "눈 덮인 겨울나무",
+    "가지에 눈이 쌓인 잎 없는 겨울나무.",
+    [
+     "겨울나무",
+     "눈",
+     "앙상한 나무",
+     "겨울"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ocean-waves",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ocean Waves",
+    "A big curling blue ocean wave with white foam.",
+    [
+     "wave",
+     "ocean",
+     "sea",
+     "surf"
+    ]
+   ],
+   "ja": [
+    "海の波",
+    "白いしぶきを上げて大きくうねる青い波のイラスト。",
+    [
+     "波",
+     "海",
+     "大波",
+     "夏"
+    ]
+   ],
+   "es": [
+    "Olas del mar",
+    "Una gran ola azul que se curva con espuma blanca.",
+    [
+     "ola",
+     "océano",
+     "mar",
+     "surf"
+    ]
+   ],
+   "pt": [
+    "Ondas do mar",
+    "Uma grande onda azul se curvando com espuma branca.",
+    [
+     "onda",
+     "oceano",
+     "mar",
+     "surfe"
+    ]
+   ],
+   "fr": [
+    "Vagues",
+    "Une grande vague bleue qui s’enroule avec de l’écume blanche.",
+    [
+     "vague",
+     "océan",
+     "mer",
+     "surf"
+    ]
+   ],
+   "de": [
+    "Meereswellen",
+    "Eine große, sich brechende blaue Welle mit weißer Gischt.",
+    [
+     "Welle",
+     "Ozean",
+     "Meer",
+     "Surfen"
+    ]
+   ],
+   "zh": [
+    "海浪",
+    "卷起白色浪花的蓝色大海浪。",
+    [
+     "海浪",
+     "大海",
+     "波浪",
+     "冲浪"
+    ]
+   ],
+   "ko": [
+    "바다 파도",
+    "하얀 물보라를 일으키며 말려 오는 큰 파도.",
+    [
+     "파도",
+     "바다",
+     "물결",
+     "서핑"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "island",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Small Island",
+    "A tiny sandy island with a palm tree in the sea.",
+    [
+     "island",
+     "desert island",
+     "tropical",
+     "sea"
+    ]
+   ],
+   "ja": [
+    "小さな島",
+    "海に浮かぶヤシの木が1本生えた小さな島。",
+    [
+     "島",
+     "無人島",
+     "南国",
+     "海"
+    ]
+   ],
+   "es": [
+    "Isla pequeña",
+    "Una pequeña isla de arena con una palmera en el mar.",
+    [
+     "isla",
+     "isla desierta",
+     "tropical",
+     "mar"
+    ]
+   ],
+   "pt": [
+    "Ilha pequena",
+    "Uma pequena ilha de areia com um coqueiro no mar.",
+    [
+     "ilha",
+     "ilha deserta",
+     "tropical",
+     "mar"
+    ]
+   ],
+   "fr": [
+    "Petite île",
+    "Une petite île de sable avec un palmier au milieu de la mer.",
+    [
+     "île",
+     "île déserte",
+     "tropical",
+     "mer"
+    ]
+   ],
+   "de": [
+    "Kleine Insel",
+    "Eine winzige Sandinsel mit einer Palme im Meer.",
+    [
+     "Insel",
+     "einsame Insel",
+     "tropisch",
+     "Meer"
+    ]
+   ],
+   "zh": [
+    "小岛",
+    "海中长着一棵椰子树的小沙岛。",
+    [
+     "小岛",
+     "无人岛",
+     "热带",
+     "大海"
+    ]
+   ],
+   "ko": [
+    "작은 섬",
+    "바다 위 야자수 한 그루가 있는 작은 섬.",
+    [
+     "섬",
+     "무인도",
+     "열대",
+     "바다"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "river",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "River",
+    "A blue river winding through a green meadow with bushes.",
+    [
+     "river",
+     "stream",
+     "meadow",
+     "landscape"
+    ]
+   ],
+   "ja": [
+    "川",
+    "緑の草原を曲がりながら流れる青い川のイラスト。",
+    [
+     "川",
+     "小川",
+     "草原",
+     "風景"
+    ]
+   ],
+   "es": [
+    "Río",
+    "Un río azul que serpentea por un prado verde.",
+    [
+     "río",
+     "arroyo",
+     "prado",
+     "paisaje"
+    ]
+   ],
+   "pt": [
+    "Rio",
+    "Um rio azul serpenteando por um campo verde.",
+    [
+     "rio",
+     "riacho",
+     "campo",
+     "paisagem"
+    ]
+   ],
+   "fr": [
+    "Rivière",
+    "Une rivière bleue qui serpente dans une prairie verte.",
+    [
+     "rivière",
+     "ruisseau",
+     "prairie",
+     "paysage"
+    ]
+   ],
+   "de": [
+    "Fluss",
+    "Ein blauer Fluss, der sich durch eine grüne Wiese schlängelt.",
+    [
+     "Fluss",
+     "Bach",
+     "Wiese",
+     "Landschaft"
+    ]
+   ],
+   "zh": [
+    "河流",
+    "蜿蜒流过绿色草地的蓝色小河。",
+    [
+     "河流",
+     "小溪",
+     "草地",
+     "风景"
+    ]
+   ],
+   "ko": [
+    "강",
+    "초록 들판 사이로 굽이쳐 흐르는 파란 강.",
+    [
+     "강",
+     "시냇물",
+     "들판",
+     "풍경"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "waterfall",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Waterfall",
+    "A waterfall pouring between rocky cliffs into a splashing pool.",
+    [
+     "waterfall",
+     "falls",
+     "cliff",
+     "nature"
+    ]
+   ],
+   "ja": [
+    "滝",
+    "岩の崖の間から流れ落ち、しぶきを上げる滝のイラスト。",
+    [
+     "滝",
+     "崖",
+     "水しぶき",
+     "自然"
+    ]
+   ],
+   "es": [
+    "Cascada",
+    "Una cascada que cae entre acantilados de roca a un estanque.",
+    [
+     "cascada",
+     "catarata",
+     "acantilado",
+     "naturaleza"
+    ]
+   ],
+   "pt": [
+    "Cachoeira",
+    "Uma cachoeira caindo entre rochedos em um poço.",
+    [
+     "cachoeira",
+     "cascata",
+     "rochedo",
+     "natureza"
+    ]
+   ],
+   "fr": [
+    "Cascade",
+    "Une cascade qui tombe entre des falaises dans un bassin.",
+    [
+     "cascade",
+     "chute d’eau",
+     "falaise",
+     "nature"
+    ]
+   ],
+   "de": [
+    "Wasserfall",
+    "Ein Wasserfall, der zwischen Felsen in ein Becken stürzt.",
+    [
+     "Wasserfall",
+     "Felsen",
+     "Klippe",
+     "Natur"
+    ]
+   ],
+   "zh": [
+    "瀑布",
+    "从岩壁间倾泻而下、溅起水花的瀑布。",
+    [
+     "瀑布",
+     "悬崖",
+     "水花",
+     "大自然"
+    ]
+   ],
+   "ko": [
+    "폭포",
+    "바위 절벽 사이로 쏟아져 물보라를 일으키는 폭포.",
+    [
+     "폭포",
+     "절벽",
+     "물보라",
+     "자연"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "volcano",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Volcano",
+    "A brown volcano with red lava at the top and puffs of smoke.",
+    [
+     "volcano",
+     "eruption",
+     "lava",
+     "mountain"
+    ]
+   ],
+   "ja": [
+    "火山",
+    "山頂から溶岩があふれ、煙を上げる火山のイラスト。",
+    [
+     "火山",
+     "噴火",
+     "溶岩",
+     "山"
+    ]
+   ],
+   "es": [
+    "Volcán",
+    "Un volcán marrón con lava roja en la cima y nubes de humo.",
+    [
+     "volcán",
+     "erupción",
+     "lava",
+     "montaña"
+    ]
+   ],
+   "pt": [
+    "Vulcão",
+    "Um vulcão marrom com lava vermelha no topo e fumaça.",
+    [
+     "vulcão",
+     "erupção",
+     "lava",
+     "montanha"
+    ]
+   ],
+   "fr": [
+    "Volcan",
+    "Un volcan brun avec de la lave rouge au sommet et de la fumée.",
+    [
+     "volcan",
+     "éruption",
+     "lave",
+     "montagne"
+    ]
+   ],
+   "de": [
+    "Vulkan",
+    "Ein brauner Vulkan mit roter Lava am Gipfel und Rauchwolken.",
+    [
+     "Vulkan",
+     "Ausbruch",
+     "Lava",
+     "Berg"
+    ]
+   ],
+   "zh": [
+    "火山",
+    "山顶涌出红色熔岩、冒着烟的火山。",
+    [
+     "火山",
+     "火山喷发",
+     "熔岩",
+     "山"
+    ]
+   ],
+   "ko": [
+    "화산",
+    "꼭대기에서 용암이 흐르고 연기가 피어오르는 화산.",
+    [
+     "화산",
+     "분화",
+     "용암",
+     "산"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "desert",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Desert",
+    "Sand dunes with a cactus under a blazing sun.",
+    [
+     "desert",
+     "sand dunes",
+     "cactus",
+     "hot"
+    ]
+   ],
+   "ja": [
+    "砂漠",
+    "照りつける太陽の下、サボテンが立つ砂丘のイラスト。",
+    [
+     "砂漠",
+     "砂丘",
+     "サボテン",
+     "暑い"
+    ]
+   ],
+   "es": [
+    "Desierto",
+    "Dunas de arena con un cactus bajo un sol ardiente.",
+    [
+     "desierto",
+     "dunas",
+     "cactus",
+     "calor"
+    ]
+   ],
+   "pt": [
+    "Deserto",
+    "Dunas de areia com um cacto sob um sol forte.",
+    [
+     "deserto",
+     "dunas",
+     "cacto",
+     "calor"
+    ]
+   ],
+   "fr": [
+    "Désert",
+    "Des dunes de sable avec un cactus sous un soleil brûlant.",
+    [
+     "désert",
+     "dunes",
+     "cactus",
+     "chaleur"
+    ]
+   ],
+   "de": [
+    "Wüste",
+    "Sanddünen mit einem Kaktus unter brennender Sonne.",
+    [
+     "Wüste",
+     "Sanddünen",
+     "Kaktus",
+     "Hitze"
+    ]
+   ],
+   "zh": [
+    "沙漠",
+    "烈日下长着仙人掌的沙丘。",
+    [
+     "沙漠",
+     "沙丘",
+     "仙人掌",
+     "炎热"
+    ]
+   ],
+   "ko": [
+    "사막",
+    "뜨거운 태양 아래 선인장이 있는 모래 언덕.",
+    [
+     "사막",
+     "모래 언덕",
+     "선인장",
+     "더위"
+    ]
+   ]
+  }
+ }
+]

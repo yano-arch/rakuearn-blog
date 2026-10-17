@@ -63,4 +63,10 @@ SLUGS={'01_hello':'person-waving','02_idea':'person-idea','03_dog':'puppy-sittin
 def svg(body,size=1000):
     return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="{size}" height="{size}">'
             f'<g stroke="{OUT}" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">{body}</g></svg>')
-def drawings(): return {SLUGS[k]:v for k,v in I.items()}
+def drawings():
+    """既存10点＋art_items/ 以下の各バッチ（ITEMS = {slug: body}）をまとめて返す"""
+    import importlib, pkgutil, art_items
+    d = {SLUGS[k]: v for k, v in I.items()}
+    for m in sorted(pkgutil.iter_modules(art_items.__path__), key=lambda m: m.name):
+        d.update(importlib.import_module(f"art_items.{m.name}").ITEMS)
+    return d

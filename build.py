@@ -16,13 +16,16 @@ ADSENSE_CLIENT = ""                       # 例: "ca-pub-1234567890123456"（AdS
 ADSENSE_SLOTS = {"top": "", "side": "", "bottom": ""}  # 各広告ユニットの data-ad-slot
 LANGS = ["en", "ja", "es", "pt", "fr", "de", "zh", "ko"]
 DEFAULT_LANG = "en"
-CATS = ["people", "animals", "nature", "travel", "home", "tech", "events"]
+CATS = ["people", "work", "animals", "food", "nature", "home", "tech", "school", "travel", "events", "sports"]
 PREVIEW = "--preview" in sys.argv
 OUT = "dist"
 
 UI = json.load(open("data/ui.json", encoding="utf-8"))
-ITEMS = sorted(json.load(open("data/illustrations.json", encoding="utf-8")),
-               key=lambda x: x["date"], reverse=True)
+import glob
+_raw = json.load(open("data/illustrations.json", encoding="utf-8"))
+for _f in sorted(glob.glob("data/items/*.json")):
+    _raw += json.load(open(_f, encoding="utf-8"))
+ITEMS = sorted(_raw, key=lambda x: x["date"], reverse=True)
 e = lambda s: html.escape(str(s), quote=True)
 
 LOGO = ('<svg viewBox="0 0 40 40" width="34" height="34" aria-hidden="true"><g stroke="#3b2f2a" stroke-width="2.4" '

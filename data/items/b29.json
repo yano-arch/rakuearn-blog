@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "chocolate-bar",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Chocolate bar",
+    "A chocolate bar peeking out of its red wrapper.",
+    [
+     "chocolate",
+     "sweets",
+     "snack",
+     "dessert"
+    ]
+   ],
+   "ja": [
+    "板チョコ",
+    "赤い包み紙から顔を出した板チョコレート。",
+    [
+     "チョコレート",
+     "板チョコ",
+     "お菓子",
+     "スイーツ"
+    ]
+   ],
+   "es": [
+    "Tableta de chocolate",
+    "Una tableta de chocolate asomando de su envoltorio rojo.",
+    [
+     "chocolate",
+     "dulces",
+     "golosina",
+     "postre"
+    ]
+   ],
+   "pt": [
+    "Barra de chocolate",
+    "Uma barra de chocolate saindo da embalagem vermelha.",
+    [
+     "chocolate",
+     "doce",
+     "guloseima",
+     "sobremesa"
+    ]
+   ],
+   "fr": [
+    "Tablette de chocolat",
+    "Une tablette de chocolat qui dépasse de son emballage rouge.",
+    [
+     "chocolat",
+     "friandise",
+     "confiserie",
+     "dessert"
+    ]
+   ],
+   "de": [
+    "Tafel Schokolade",
+    "Eine Tafel Schokolade, die aus ihrer roten Verpackung schaut.",
+    [
+     "Schokolade",
+     "Süßigkeiten",
+     "Snack",
+     "Dessert"
+    ]
+   ],
+   "zh": [
+    "巧克力板",
+    "从红色包装纸里露出来的巧克力板。",
+    [
+     "巧克力",
+     "甜食",
+     "零食",
+     "甜点"
+    ]
+   ],
+   "ko": [
+    "판 초콜릿",
+    "빨간 포장지에서 살짝 나온 판 초콜릿.",
+    [
+     "초콜릿",
+     "과자",
+     "간식",
+     "디저트"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "candy",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Wrapped candies",
+    "Two cute candies in twisted pink and yellow wrappers.",
+    [
+     "candy",
+     "sweets",
+     "treat",
+     "wrapper"
+    ]
+   ],
+   "ja": [
+    "包み紙のキャンディ",
+    "ねじった包み紙に入ったピンクと黄色のかわいいアメ。",
+    [
+     "キャンディ",
+     "アメ",
+     "飴",
+     "お菓子"
+    ]
+   ],
+   "es": [
+    "Caramelos envueltos",
+    "Dos caramelos tiernos en envoltorios rosa y amarillo.",
+    [
+     "caramelo",
+     "dulces",
+     "golosina",
+     "chuche"
+    ]
+   ],
+   "pt": [
+    "Balas embrulhadas",
+    "Duas balas fofinhas em papéis rosa e amarelo torcidos.",
+    [
+     "bala",
+     "doce",
+     "guloseima",
+     "doces"
+    ]
+   ],
+   "fr": [
+    "Bonbons emballés",
+    "Deux jolis bonbons dans des papiers rose et jaune torsadés.",
+    [
+     "bonbon",
+     "friandise",
+     "confiserie",
+     "sucrerie"
+    ]
+   ],
+   "de": [
+    "Eingewickelte Bonbons",
+    "Zwei süße Bonbons in rosa und gelbem Papier.",
+    [
+     "Bonbon",
+     "Süßigkeiten",
+     "Naschen",
+     "Zuckerl"
+    ]
+   ],
+   "zh": [
+    "糖果",
+    "包在粉色和黄色糖纸里的可爱糖果。",
+    [
+     "糖果",
+     "糖",
+     "零食",
+     "甜食"
+    ]
+   ],
+   "ko": [
+    "사탕",
+    "분홍색과 노란색 포장지에 싸인 귀여운 사탕.",
+    [
+     "사탕",
+     "캔디",
+     "과자",
+     "간식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "lollipop",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Swirl lollipop",
+    "A big pink swirl lollipop tied with a blue ribbon.",
+    [
+     "lollipop",
+     "candy",
+     "sweets",
+     "swirl"
+    ]
+   ],
+   "ja": [
+    "うずまきキャンディ",
+    "青いリボンを結んだ、大きなピンクのペロペロキャンディ。",
+    [
+     "ペロペロキャンディ",
+     "ロリポップ",
+     "キャンディ",
+     "お菓子"
+    ]
+   ],
+   "es": [
+    "Piruleta en espiral",
+    "Una gran piruleta rosa en espiral con un lazo azul.",
+    [
+     "piruleta",
+     "chupachups",
+     "caramelo",
+     "dulces"
+    ]
+   ],
+   "pt": [
+    "Pirulito espiral",
+    "Um grande pirulito rosa em espiral com laço azul.",
+    [
+     "pirulito",
+     "bala",
+     "doce",
+     "guloseima"
+    ]
+   ],
+   "fr": [
+    "Sucette spirale",
+    "Une grosse sucette rose en spirale avec un ruban bleu.",
+    [
+     "sucette",
+     "bonbon",
+     "friandise",
+     "spirale"
+    ]
+   ],
+   "de": [
+    "Spirallutscher",
+    "Ein großer rosa Spirallutscher mit blauer Schleife.",
+    [
+     "Lutscher",
+     "Lolli",
+     "Süßigkeiten",
+     "Bonbon"
+    ]
+   ],
+   "zh": [
+    "棒棒糖",
+    "系着蓝色蝴蝶结的粉色漩涡棒棒糖。",
+    [
+     "棒棒糖",
+     "糖果",
+     "甜食",
+     "零食"
+    ]
+   ],
+   "ko": [
+    "막대사탕",
+    "파란 리본을 묶은 큰 분홍색 소용돌이 막대사탕.",
+    [
+     "막대사탕",
+     "롤리팝",
+     "사탕",
+     "과자"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "popcorn",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Popcorn",
+    "A striped box overflowing with fluffy popcorn.",
+    [
+     "popcorn",
+     "movie snack",
+     "cinema",
+     "snack"
+    ]
+   ],
+   "ja": [
+    "ポップコーン",
+    "ふわふわのポップコーンがあふれるしましまの箱。",
+    [
+     "ポップコーン",
+     "映画",
+     "映画館",
+     "おやつ"
+    ]
+   ],
+   "es": [
+    "Palomitas",
+    "Una caja de rayas llena de palomitas esponjosas.",
+    [
+     "palomitas",
+     "cine",
+     "película",
+     "snack"
+    ]
+   ],
+   "pt": [
+    "Pipoca",
+    "Um pacote listrado transbordando de pipoca fofinha.",
+    [
+     "pipoca",
+     "cinema",
+     "filme",
+     "lanche"
+    ]
+   ],
+   "fr": [
+    "Pop-corn",
+    "Une boîte rayée débordant de pop-corn moelleux.",
+    [
+     "pop-corn",
+     "cinéma",
+     "film",
+     "snack"
+    ]
+   ],
+   "de": [
+    "Popcorn",
+    "Eine gestreifte Tüte voller lockerem Popcorn.",
+    [
+     "Popcorn",
+     "Kino",
+     "Film",
+     "Snack"
+    ]
+   ],
+   "zh": [
+    "爆米花",
+    "装满蓬松爆米花的条纹纸盒。",
+    [
+     "爆米花",
+     "电影",
+     "电影院",
+     "零食"
+    ]
+   ],
+   "ko": [
+    "팝콘",
+    "폭신한 팝콘이 가득 담긴 줄무늬 상자.",
+    [
+     "팝콘",
+     "영화",
+     "영화관",
+     "간식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "dango",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Three-color dango",
+    "Pink, white and green dango rice dumplings on a skewer.",
+    [
+     "dango",
+     "Japanese sweets",
+     "wagashi",
+     "hanami"
+    ]
+   ],
+   "ja": [
+    "三色だんご",
+    "串にささったピンク・白・緑の三色だんご。",
+    [
+     "団子",
+     "三色団子",
+     "和菓子",
+     "お花見"
+    ]
+   ],
+   "es": [
+    "Dango de tres colores",
+    "Bolitas de arroz dango rosa, blanca y verde en un palito.",
+    [
+     "dango",
+     "dulce japonés",
+     "wagashi",
+     "hanami"
+    ]
+   ],
+   "pt": [
+    "Dango de três cores",
+    "Bolinhos de arroz dango rosa, branco e verde no espeto.",
+    [
+     "dango",
+     "doce japonês",
+     "wagashi",
+     "hanami"
+    ]
+   ],
+   "fr": [
+    "Dango tricolore",
+    "Des boulettes de riz dango rose, blanche et verte sur une brochette.",
+    [
+     "dango",
+     "pâtisserie japonaise",
+     "wagashi",
+     "hanami"
+    ]
+   ],
+   "de": [
+    "Dreifarbiges Dango",
+    "Rosa, weiße und grüne Reisklößchen am Spieß.",
+    [
+     "Dango",
+     "japanische Süßigkeit",
+     "Wagashi",
+     "Hanami"
+    ]
+   ],
+   "zh": [
+    "三色团子",
+    "串在竹签上的粉、白、绿三色团子。",
+    [
+     "团子",
+     "三色团子",
+     "日式点心",
+     "赏樱"
+    ]
+   ],
+   "ko": [
+    "삼색 당고",
+    "꼬치에 꽂힌 분홍·하양·초록 삼색 당고.",
+    [
+     "당고",
+     "삼색 당고",
+     "화과자",
+     "꽃놀이"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "taiyaki",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Taiyaki",
+    "A golden fish-shaped Japanese taiyaki cake.",
+    [
+     "taiyaki",
+     "Japanese sweets",
+     "street food",
+     "fish cake"
+    ]
+   ],
+   "ja": [
+    "たい焼き",
+    "こんがり焼けた魚の形のたい焼き。",
+    [
+     "たい焼き",
+     "和菓子",
+     "屋台",
+     "おやつ"
+    ]
+   ],
+   "es": [
+    "Taiyaki",
+    "Un dorado pastelito japonés con forma de pez.",
+    [
+     "taiyaki",
+     "dulce japonés",
+     "comida callejera",
+     "pez"
+    ]
+   ],
+   "pt": [
+    "Taiyaki",
+    "Um bolinho japonês dourado em formato de peixe.",
+    [
+     "taiyaki",
+     "doce japonês",
+     "comida de rua",
+     "peixe"
+    ]
+   ],
+   "fr": [
+    "Taiyaki",
+    "Un gâteau japonais doré en forme de poisson.",
+    [
+     "taiyaki",
+     "pâtisserie japonaise",
+     "street food",
+     "poisson"
+    ]
+   ],
+   "de": [
+    "Taiyaki",
+    "Ein goldbraunes japanisches Gebäck in Fischform.",
+    [
+     "Taiyaki",
+     "japanische Süßigkeit",
+     "Streetfood",
+     "Fisch"
+    ]
+   ],
+   "zh": [
+    "鲷鱼烧",
+    "烤得金黄的鱼形日式鲷鱼烧。",
+    [
+     "鲷鱼烧",
+     "日式点心",
+     "小吃",
+     "零食"
+    ]
+   ],
+   "ko": [
+    "붕어빵",
+    "노릇하게 구운 물고기 모양의 붕어빵.",
+    [
+     "붕어빵",
+     "타이야키",
+     "길거리 음식",
+     "간식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mochi",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Mochi rice cakes",
+    "Soft round mochi in white, pink and green on a plate.",
+    [
+     "mochi",
+     "rice cake",
+     "Japanese sweets",
+     "wagashi"
+    ]
+   ],
+   "ja": [
+    "おもち",
+    "お皿にのった白・ピンク・緑のまんまるおもち。",
+    [
+     "もち",
+     "お餅",
+     "和菓子",
+     "お正月"
+    ]
+   ],
+   "es": [
+    "Mochis",
+    "Mochis suaves y redondos en blanco, rosa y verde sobre un plato.",
+    [
+     "mochi",
+     "pastel de arroz",
+     "dulce japonés",
+     "wagashi"
+    ]
+   ],
+   "pt": [
+    "Mochis",
+    "Mochis macios e redondos em branco, rosa e verde no prato.",
+    [
+     "mochi",
+     "bolinho de arroz",
+     "doce japonês",
+     "wagashi"
+    ]
+   ],
+   "fr": [
+    "Mochis",
+    "Des mochis tout ronds blanc, rose et vert sur une assiette.",
+    [
+     "mochi",
+     "gâteau de riz",
+     "pâtisserie japonaise",
+     "wagashi"
+    ]
+   ],
+   "de": [
+    "Mochi",
+    "Weiche, runde Mochi in Weiß, Rosa und Grün auf einem Teller.",
+    [
+     "Mochi",
+     "Reiskuchen",
+     "japanische Süßigkeit",
+     "Wagashi"
+    ]
+   ],
+   "zh": [
+    "麻薯",
+    "盘子里白色、粉色和绿色的圆圆麻薯。",
+    [
+     "麻薯",
+     "年糕",
+     "日式点心",
+     "和果子"
+    ]
+   ],
+   "ko": [
+    "찹쌀떡",
+    "접시 위의 하얗고 분홍, 초록색 동글동글한 모찌.",
+    [
+     "모찌",
+     "찹쌀떡",
+     "떡",
+     "화과자"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "shaved-ice",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Shaved ice",
+    "A glass bowl of shaved ice topped with strawberry syrup.",
+    [
+     "shaved ice",
+     "kakigori",
+     "summer",
+     "dessert"
+    ]
+   ],
+   "ja": [
+    "かき氷",
+    "いちごシロップをかけたガラスの器のかき氷。",
+    [
+     "かき氷",
+     "夏",
+     "いちご",
+     "スイーツ"
+    ]
+   ],
+   "es": [
+    "Raspado",
+    "Una copa de hielo raspado con jarabe de fresa.",
+    [
+     "raspado",
+     "granizado",
+     "verano",
+     "postre"
+    ]
+   ],
+   "pt": [
+    "Raspadinha",
+    "Uma taça de gelo raspado com xarope de morango.",
+    [
+     "raspadinha",
+     "gelo raspado",
+     "verão",
+     "sobremesa"
+    ]
+   ],
+   "fr": [
+    "Glace pilée",
+    "Une coupe de glace pilée nappée de sirop de fraise.",
+    [
+     "glace pilée",
+     "kakigori",
+     "été",
+     "dessert"
+    ]
+   ],
+   "de": [
+    "Wassereis",
+    "Eine Glasschale mit geschabtem Eis und Erdbeersirup.",
+    [
+     "geschabtes Eis",
+     "Kakigori",
+     "Sommer",
+     "Dessert"
+    ]
+   ],
+   "zh": [
+    "刨冰",
+    "淋着草莓糖浆的玻璃碗刨冰。",
+    [
+     "刨冰",
+     "夏天",
+     "草莓",
+     "甜品"
+    ]
+   ],
+   "ko": [
+    "빙수",
+    "딸기 시럽을 뿌린 유리그릇 빙수.",
+    [
+     "빙수",
+     "여름",
+     "딸기",
+     "디저트"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "parfait",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Parfait",
+    "A layered parfait glass with cream, a cherry and a wafer.",
+    [
+     "parfait",
+     "dessert",
+     "sundae",
+     "cafe"
+    ]
+   ],
+   "ja": [
+    "パフェ",
+    "クリームとさくらんぼ、ウエハースをのせた層になったパフェ。",
+    [
+     "パフェ",
+     "デザート",
+     "カフェ",
+     "スイーツ"
+    ]
+   ],
+   "es": [
+    "Copa de helado",
+    "Una copa por capas con nata, cereza y barquillo.",
+    [
+     "parfait",
+     "copa de helado",
+     "postre",
+     "cafetería"
+    ]
+   ],
+   "pt": [
+    "Taça de sorvete",
+    "Uma taça em camadas com chantili, cereja e wafer.",
+    [
+     "parfait",
+     "taça de sorvete",
+     "sobremesa",
+     "café"
+    ]
+   ],
+   "fr": [
+    "Coupe glacée",
+    "Une coupe en couches avec chantilly, cerise et gaufrette.",
+    [
+     "parfait",
+     "coupe glacée",
+     "dessert",
+     "café"
+    ]
+   ],
+   "de": [
+    "Eisbecher",
+    "Ein geschichteter Eisbecher mit Sahne, Kirsche und Waffel.",
+    [
+     "Parfait",
+     "Eisbecher",
+     "Dessert",
+     "Café"
+    ]
+   ],
+   "zh": [
+    "芭菲",
+    "加了奶油、樱桃和威化的分层芭菲杯。",
+    [
+     "芭菲",
+     "冰淇淋杯",
+     "甜品",
+     "咖啡厅"
+    ]
+   ],
+   "ko": [
+    "파르페",
+    "생크림과 체리, 웨하스를 올린 층층이 파르페.",
+    [
+     "파르페",
+     "디저트",
+     "카페",
+     "아이스크림"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "crepe",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Crepe",
+    "A rolled crepe filled with cream, strawberry and banana.",
+    [
+     "crepe",
+     "dessert",
+     "street food",
+     "sweets"
+    ]
+   ],
+   "ja": [
+    "クレープ",
+    "生クリームといちご、バナナを包んだクレープ。",
+    [
+     "クレープ",
+     "スイーツ",
+     "食べ歩き",
+     "デザート"
+    ]
+   ],
+   "es": [
+    "Crepe",
+    "Un crepe enrollado con nata, fresa y plátano.",
+    [
+     "crepe",
+     "postre",
+     "comida callejera",
+     "dulces"
+    ]
+   ],
+   "pt": [
+    "Crepe",
+    "Um crepe enrolado com chantili, morango e banana.",
+    [
+     "crepe",
+     "sobremesa",
+     "comida de rua",
+     "doce"
+    ]
+   ],
+   "fr": [
+    "Crêpe",
+    "Une crêpe roulée garnie de chantilly, fraise et banane.",
+    [
+     "crêpe",
+     "dessert",
+     "street food",
+     "gourmandise"
+    ]
+   ],
+   "de": [
+    "Crêpe",
+    "Ein gerollter Crêpe mit Sahne, Erdbeere und Banane.",
+    [
+     "Crêpe",
+     "Dessert",
+     "Streetfood",
+     "Süßes"
+    ]
+   ],
+   "zh": [
+    "可丽饼",
+    "卷着奶油、草莓和香蕉的可丽饼。",
+    [
+     "可丽饼",
+     "甜品",
+     "街头小吃",
+     "甜食"
+    ]
+   ],
+   "ko": [
+    "크레이프",
+    "생크림과 딸기, 바나나를 넣은 크레이프.",
+    [
+     "크레이프",
+     "크레페",
+     "디저트",
+     "길거리 음식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "green-tea",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cup of green tea",
+    "A steaming Japanese teacup of green tea on a wooden saucer.",
+    [
+     "green tea",
+     "tea",
+     "Japanese tea",
+     "drink"
+    ]
+   ],
+   "ja": [
+    "緑茶",
+    "木の茶托にのった湯気の立つ湯のみの緑茶。",
+    [
+     "緑茶",
+     "お茶",
+     "日本茶",
+     "湯のみ"
+    ]
+   ],
+   "es": [
+    "Taza de té verde",
+    "Una taza japonesa de té verde humeante sobre un platillo de madera.",
+    [
+     "té verde",
+     "té",
+     "té japonés",
+     "bebida"
+    ]
+   ],
+   "pt": [
+    "Xícara de chá verde",
+    "Um copo japonês de chá verde quentinho sobre um pires de madeira.",
+    [
+     "chá verde",
+     "chá",
+     "chá japonês",
+     "bebida"
+    ]
+   ],
+   "fr": [
+    "Tasse de thé vert",
+    "Une tasse japonaise de thé vert fumant sur une soucoupe en bois.",
+    [
+     "thé vert",
+     "thé",
+     "thé japonais",
+     "boisson"
+    ]
+   ],
+   "de": [
+    "Tasse Grüntee",
+    "Eine dampfende japanische Teeschale mit Grüntee auf Holzuntersetzer.",
+    [
+     "Grüntee",
+     "Tee",
+     "japanischer Tee",
+     "Getränk"
+    ]
+   ],
+   "zh": [
+    "绿茶",
+    "放在木茶托上的热气腾腾的日式绿茶。",
+    [
+     "绿茶",
+     "茶",
+     "日本茶",
+     "饮品"
+    ]
+   ],
+   "ko": [
+    "녹차",
+    "나무 받침 위에 김이 나는 녹차 찻잔.",
+    [
+     "녹차",
+     "차",
+     "일본차",
+     "음료"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "milk",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Milk carton",
+    "A cute carton of milk with a little face.",
+    [
+     "milk",
+     "milk carton",
+     "dairy",
+     "drink"
+    ]
+   ],
+   "ja": [
+    "牛乳パック",
+    "顔のついたかわいい牛乳パック。",
+    [
+     "牛乳",
+     "ミルク",
+     "牛乳パック",
+     "飲み物"
+    ]
+   ],
+   "es": [
+    "Cartón de leche",
+    "Un tierno cartón de leche con carita.",
+    [
+     "leche",
+     "cartón de leche",
+     "lácteos",
+     "bebida"
+    ]
+   ],
+   "pt": [
+    "Caixinha de leite",
+    "Uma caixinha de leite fofinha com rostinho.",
+    [
+     "leite",
+     "caixa de leite",
+     "laticínios",
+     "bebida"
+    ]
+   ],
+   "fr": [
+    "Brique de lait",
+    "Une jolie brique de lait avec un petit visage.",
+    [
+     "lait",
+     "brique de lait",
+     "produit laitier",
+     "boisson"
+    ]
+   ],
+   "de": [
+    "Milchtüte",
+    "Eine niedliche Milchtüte mit Gesicht.",
+    [
+     "Milch",
+     "Milchtüte",
+     "Milchprodukt",
+     "Getränk"
+    ]
+   ],
+   "zh": [
+    "牛奶盒",
+    "带着笑脸的可爱牛奶盒。",
+    [
+     "牛奶",
+     "牛奶盒",
+     "乳制品",
+     "饮品"
+    ]
+   ],
+   "ko": [
+    "우유팩",
+    "얼굴이 있는 귀여운 우유팩.",
+    [
+     "우유",
+     "우유팩",
+     "유제품",
+     "음료"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "orange-juice",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Glass of orange juice",
+    "A glass of orange juice with a straw and an orange slice.",
+    [
+     "orange juice",
+     "juice",
+     "drink",
+     "breakfast"
+    ]
+   ],
+   "ja": [
+    "オレンジジュース",
+    "ストローとオレンジの輪切りを添えたオレンジジュース。",
+    [
+     "オレンジジュース",
+     "ジュース",
+     "飲み物",
+     "朝食"
+    ]
+   ],
+   "es": [
+    "Vaso de zumo de naranja",
+    "Un vaso de zumo de naranja con pajita y rodaja de naranja.",
+    [
+     "zumo de naranja",
+     "jugo",
+     "bebida",
+     "desayuno"
+    ]
+   ],
+   "pt": [
+    "Copo de suco de laranja",
+    "Um copo de suco de laranja com canudo e rodela de laranja.",
+    [
+     "suco de laranja",
+     "suco",
+     "bebida",
+     "café da manhã"
+    ]
+   ],
+   "fr": [
+    "Verre de jus d'orange",
+    "Un verre de jus d'orange avec une paille et une rondelle d'orange.",
+    [
+     "jus d'orange",
+     "jus",
+     "boisson",
+     "petit-déjeuner"
+    ]
+   ],
+   "de": [
+    "Glas Orangensaft",
+    "Ein Glas Orangensaft mit Strohhalm und Orangenscheibe.",
+    [
+     "Orangensaft",
+     "Saft",
+     "Getränk",
+     "Frühstück"
+    ]
+   ],
+   "zh": [
+    "橙汁",
+    "插着吸管、配着橙子片的一杯橙汁。",
+    [
+     "橙汁",
+     "果汁",
+     "饮料",
+     "早餐"
+    ]
+   ],
+   "ko": [
+    "오렌지주스",
+    "빨대와 오렌지 조각을 곁들인 오렌지주스 한 잔.",
+    [
+     "오렌지주스",
+     "주스",
+     "음료",
+     "아침 식사"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "soda",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bottle of soda",
+    "A fizzy soda bottle with bubbles and a red cap.",
+    [
+     "soda",
+     "soft drink",
+     "bottle",
+     "fizzy drink"
+    ]
+   ],
+   "ja": [
+    "ソーダのびん",
+    "泡がはじける赤いふたのソーダのびん。",
+    [
+     "ソーダ",
+     "炭酸飲料",
+     "ジュース",
+     "びん"
+    ]
+   ],
+   "es": [
+    "Botella de refresco",
+    "Una botella de refresco con burbujas y tapón rojo.",
+    [
+     "refresco",
+     "gaseosa",
+     "botella",
+     "bebida"
+    ]
+   ],
+   "pt": [
+    "Garrafa de refrigerante",
+    "Uma garrafa de refrigerante com bolhinhas e tampa vermelha.",
+    [
+     "refrigerante",
+     "bebida",
+     "garrafa",
+     "gás"
+    ]
+   ],
+   "fr": [
+    "Bouteille de soda",
+    "Une bouteille de soda pétillant avec un bouchon rouge.",
+    [
+     "soda",
+     "boisson gazeuse",
+     "bouteille",
+     "limonade"
+    ]
+   ],
+   "de": [
+    "Limonadenflasche",
+    "Eine Flasche Limonade mit Bläschen und rotem Deckel.",
+    [
+     "Limonade",
+     "Softdrink",
+     "Flasche",
+     "Brause"
+    ]
+   ],
+   "zh": [
+    "汽水瓶",
+    "冒着气泡、红色瓶盖的汽水瓶。",
+    [
+     "汽水",
+     "碳酸饮料",
+     "瓶子",
+     "饮料"
+    ]
+   ],
+   "ko": [
+    "탄산음료 병",
+    "기포가 보글보글한 빨간 뚜껑의 탄산음료 병.",
+    [
+     "탄산음료",
+     "사이다",
+     "음료수",
+     "병"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bubble-tea",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bubble tea",
+    "A cup of milk tea with tapioca pearls and a wide straw.",
+    [
+     "bubble tea",
+     "tapioca",
+     "milk tea",
+     "boba"
+    ]
+   ],
+   "ja": [
+    "タピオカミルクティー",
+    "タピオカ入りのミルクティーと太いストロー。",
+    [
+     "タピオカ",
+     "ミルクティー",
+     "タピオカドリンク",
+     "飲み物"
+    ]
+   ],
+   "es": [
+    "Té de burbujas",
+    "Un vaso de té con leche y perlas de tapioca con pajita ancha.",
+    [
+     "bubble tea",
+     "tapioca",
+     "té con leche",
+     "boba"
+    ]
+   ],
+   "pt": [
+    "Bubble tea",
+    "Um copo de chá com leite e bolinhas de tapioca com canudo largo.",
+    [
+     "bubble tea",
+     "tapioca",
+     "chá com leite",
+     "boba"
+    ]
+   ],
+   "fr": [
+    "Bubble tea",
+    "Un gobelet de thé au lait avec perles de tapioca et grosse paille.",
+    [
+     "bubble tea",
+     "tapioca",
+     "thé au lait",
+     "boba"
+    ]
+   ],
+   "de": [
+    "Bubble Tea",
+    "Ein Becher Milchtee mit Tapiokaperlen und dickem Strohhalm.",
+    [
+     "Bubble Tea",
+     "Tapioka",
+     "Milchtee",
+     "Boba"
+    ]
+   ],
+   "zh": [
+    "珍珠奶茶",
+    "加了珍珠和粗吸管的一杯奶茶。",
+    [
+     "珍珠奶茶",
+     "奶茶",
+     "波霸",
+     "饮品"
+    ]
+   ],
+   "ko": [
+    "버블티",
+    "타피오카 펄이 든 밀크티와 굵은 빨대.",
+    [
+     "버블티",
+     "타피오카",
+     "밀크티",
+     "음료"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "beer",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Mug of beer",
+    "A frothy mug of beer with foam spilling over the top.",
+    [
+     "beer",
+     "beer mug",
+     "cheers",
+     "party"
+    ]
+   ],
+   "ja": [
+    "ジョッキのビール",
+    "泡があふれるジョッキの生ビール。",
+    [
+     "ビール",
+     "生ビール",
+     "乾杯",
+     "飲み会"
+    ]
+   ],
+   "es": [
+    "Jarra de cerveza",
+    "Una jarra de cerveza con espuma desbordante.",
+    [
+     "cerveza",
+     "jarra",
+     "brindis",
+     "fiesta"
+    ]
+   ],
+   "pt": [
+    "Caneca de chope",
+    "Uma caneca de chope com espuma transbordando.",
+    [
+     "cerveja",
+     "chope",
+     "brinde",
+     "festa"
+    ]
+   ],
+   "fr": [
+    "Chope de bière",
+    "Une chope de bière avec de la mousse qui déborde.",
+    [
+     "bière",
+     "chope",
+     "santé",
+     "apéro"
+    ]
+   ],
+   "de": [
+    "Bierkrug",
+    "Ein Krug Bier mit überlaufendem Schaum.",
+    [
+     "Bier",
+     "Bierkrug",
+     "Prost",
+     "Party"
+    ]
+   ],
+   "zh": [
+    "一杯啤酒",
+    "泡沫满溢的扎啤杯。",
+    [
+     "啤酒",
+     "扎啤",
+     "干杯",
+     "聚会"
+    ]
+   ],
+   "ko": [
+    "맥주잔",
+    "거품이 넘치는 맥주 한 잔.",
+    [
+     "맥주",
+     "생맥주",
+     "건배",
+     "회식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "wine",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Glass of wine",
+    "A glass of red wine next to a bunch of grapes.",
+    [
+     "wine",
+     "red wine",
+     "wine glass",
+     "grapes"
+    ]
+   ],
+   "ja": [
+    "ワイングラス",
+    "ぶどうの房を添えた赤ワインのグラス。",
+    [
+     "ワイン",
+     "赤ワイン",
+     "ワイングラス",
+     "ぶどう"
+    ]
+   ],
+   "es": [
+    "Copa de vino",
+    "Una copa de vino tinto junto a un racimo de uvas.",
+    [
+     "vino",
+     "vino tinto",
+     "copa",
+     "uvas"
+    ]
+   ],
+   "pt": [
+    "Taça de vinho",
+    "Uma taça de vinho tinto ao lado de um cacho de uvas.",
+    [
+     "vinho",
+     "vinho tinto",
+     "taça",
+     "uvas"
+    ]
+   ],
+   "fr": [
+    "Verre de vin",
+    "Un verre de vin rouge à côté d'une grappe de raisin.",
+    [
+     "vin",
+     "vin rouge",
+     "verre à vin",
+     "raisin"
+    ]
+   ],
+   "de": [
+    "Glas Wein",
+    "Ein Glas Rotwein neben einer Weintraube.",
+    [
+     "Wein",
+     "Rotwein",
+     "Weinglas",
+     "Trauben"
+    ]
+   ],
+   "zh": [
+    "葡萄酒杯",
+    "一杯红酒和一串葡萄。",
+    [
+     "葡萄酒",
+     "红酒",
+     "酒杯",
+     "葡萄"
+    ]
+   ],
+   "ko": [
+    "와인잔",
+    "포도송이를 곁들인 레드 와인 한 잔.",
+    [
+     "와인",
+     "레드 와인",
+     "와인잔",
+     "포도"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "water-bottle",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Water bottle",
+    "A plastic bottle of fresh water with water drops.",
+    [
+     "water",
+     "water bottle",
+     "drink",
+     "hydration"
+    ]
+   ],
+   "ja": [
+    "ペットボトルの水",
+    "水しずくが飛ぶペットボトルのお水。",
+    [
+     "水",
+     "ペットボトル",
+     "ミネラルウォーター",
+     "水分補給"
+    ]
+   ],
+   "es": [
+    "Botella de agua",
+    "Una botella de plástico de agua fresca con gotas.",
+    [
+     "agua",
+     "botella de agua",
+     "bebida",
+     "hidratación"
+    ]
+   ],
+   "pt": [
+    "Garrafa de água",
+    "Uma garrafinha de água fresca com gotinhas.",
+    [
+     "água",
+     "garrafa de água",
+     "bebida",
+     "hidratação"
+    ]
+   ],
+   "fr": [
+    "Bouteille d'eau",
+    "Une bouteille d'eau fraîche en plastique avec des gouttes.",
+    [
+     "eau",
+     "bouteille d'eau",
+     "boisson",
+     "hydratation"
+    ]
+   ],
+   "de": [
+    "Wasserflasche",
+    "Eine Plastikflasche mit frischem Wasser und Tropfen.",
+    [
+     "Wasser",
+     "Wasserflasche",
+     "Getränk",
+     "Trinken"
+    ]
+   ],
+   "zh": [
+    "瓶装水",
+    "带着水滴的一瓶矿泉水。",
+    [
+     "矿泉水",
+     "瓶装水",
+     "饮用水",
+     "补水"
+    ]
+   ],
+   "ko": [
+    "생수병",
+    "물방울이 튀는 페트병 생수.",
+    [
+     "물",
+     "생수",
+     "페트병",
+     "수분 보충"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "smoothie",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Strawberry smoothie",
+    "A pink smoothie with a straw, strawberry and kiwi slice.",
+    [
+     "smoothie",
+     "strawberry",
+     "healthy drink",
+     "juice"
+    ]
+   ],
+   "ja": [
+    "スムージー",
+    "ストローといちご、キウイを添えたピンクのスムージー。",
+    [
+     "スムージー",
+     "いちご",
+     "ヘルシー",
+     "ドリンク"
+    ]
+   ],
+   "es": [
+    "Batido de fresa",
+    "Un batido rosa con pajita, fresa y rodaja de kiwi.",
+    [
+     "batido",
+     "smoothie",
+     "fresa",
+     "bebida saludable"
+    ]
+   ],
+   "pt": [
+    "Vitamina de morango",
+    "Uma vitamina rosa com canudo, morango e rodela de kiwi.",
+    [
+     "vitamina",
+     "smoothie",
+     "morango",
+     "bebida saudável"
+    ]
+   ],
+   "fr": [
+    "Smoothie à la fraise",
+    "Un smoothie rose avec paille, fraise et rondelle de kiwi.",
+    [
+     "smoothie",
+     "fraise",
+     "boisson saine",
+     "jus"
+    ]
+   ],
+   "de": [
+    "Erdbeer-Smoothie",
+    "Ein rosa Smoothie mit Strohhalm, Erdbeere und Kiwischeibe.",
+    [
+     "Smoothie",
+     "Erdbeere",
+     "gesundes Getränk",
+     "Saft"
+    ]
+   ],
+   "zh": [
+    "草莓奶昔",
+    "插着吸管、配着草莓和猕猴桃片的粉色奶昔。",
+    [
+     "思慕雪",
+     "奶昔",
+     "草莓",
+     "健康饮品"
+    ]
+   ],
+   "ko": [
+    "딸기 스무디",
+    "빨대와 딸기, 키위를 곁들인 분홍색 스무디.",
+    [
+     "스무디",
+     "딸기",
+     "건강 음료",
+     "주스"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hot-chocolate",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hot chocolate",
+    "A steaming mug of hot chocolate topped with marshmallows.",
+    [
+     "hot chocolate",
+     "cocoa",
+     "marshmallow",
+     "winter"
+    ]
+   ],
+   "ja": [
+    "ホットココア",
+    "マシュマロをのせた湯気の立つホットココア。",
+    [
+     "ココア",
+     "ホットチョコレート",
+     "マシュマロ",
+     "冬"
+    ]
+   ],
+   "es": [
+    "Chocolate caliente",
+    "Una taza humeante de chocolate caliente con malvaviscos.",
+    [
+     "chocolate caliente",
+     "cacao",
+     "malvaviscos",
+     "invierno"
+    ]
+   ],
+   "pt": [
+    "Chocolate quente",
+    "Uma caneca de chocolate quente com marshmallows.",
+    [
+     "chocolate quente",
+     "cacau",
+     "marshmallow",
+     "inverno"
+    ]
+   ],
+   "fr": [
+    "Chocolat chaud",
+    "Une tasse fumante de chocolat chaud garnie de guimauves.",
+    [
+     "chocolat chaud",
+     "cacao",
+     "guimauve",
+     "hiver"
+    ]
+   ],
+   "de": [
+    "Heiße Schokolade",
+    "Eine dampfende Tasse Kakao mit Marshmallows.",
+    [
+     "heiße Schokolade",
+     "Kakao",
+     "Marshmallow",
+     "Winter"
+    ]
+   ],
+   "zh": [
+    "热可可",
+    "放着棉花糖、热气腾腾的一杯热可可。",
+    [
+     "热可可",
+     "热巧克力",
+     "棉花糖",
+     "冬天"
+    ]
+   ],
+   "ko": [
+    "핫초코",
+    "마시멜로를 올린 김이 나는 핫초코.",
+    [
+     "핫초코",
+     "코코아",
+     "마시멜로",
+     "겨울"
+    ]
+   ]
+  }
+ }
+]

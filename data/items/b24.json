@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "seahorse",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Seahorse",
+    "A cute orange seahorse with a curled tail and little bubbles.",
+    [
+     "seahorse",
+     "sea creature",
+     "ocean",
+     "marine life"
+    ]
+   ],
+   "ja": [
+    "タツノオトシゴ",
+    "しっぽをくるんと巻いたかわいいタツノオトシゴ。",
+    [
+     "タツノオトシゴ",
+     "海の生き物",
+     "海",
+     "魚"
+    ]
+   ],
+   "es": [
+    "Caballito de mar",
+    "Un caballito de mar naranja con la cola enrollada y burbujas.",
+    [
+     "caballito de mar",
+     "animal marino",
+     "mar",
+     "océano"
+    ]
+   ],
+   "pt": [
+    "Cavalo-marinho",
+    "Um cavalo-marinho laranja fofo com o rabo enrolado e bolhinhas.",
+    [
+     "cavalo-marinho",
+     "animal marinho",
+     "mar",
+     "oceano"
+    ]
+   ],
+   "fr": [
+    "Hippocampe",
+    "Un adorable hippocampe orange à la queue enroulée, avec des bulles.",
+    [
+     "hippocampe",
+     "animal marin",
+     "mer",
+     "océan"
+    ]
+   ],
+   "de": [
+    "Seepferdchen",
+    "Ein niedliches orangefarbenes Seepferdchen mit eingerolltem Schwanz.",
+    [
+     "Seepferdchen",
+     "Meerestier",
+     "Meer",
+     "Ozean"
+    ]
+   ],
+   "zh": [
+    "海马",
+    "卷着尾巴、吐着泡泡的可爱橙色海马。",
+    [
+     "海马",
+     "海洋生物",
+     "大海",
+     "海洋动物"
+    ]
+   ],
+   "ko": [
+    "해마",
+    "꼬리를 돌돌 만 귀여운 주황색 해마.",
+    [
+     "해마",
+     "바다 생물",
+     "바다",
+     "해양 동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sparrow",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sparrow",
+    "A round little sparrow standing on the ground.",
+    [
+     "sparrow",
+     "bird",
+     "small bird",
+     "wild bird"
+    ]
+   ],
+   "ja": [
+    "スズメ",
+    "ちょこんと立つまんまるなスズメ。",
+    [
+     "スズメ",
+     "雀",
+     "小鳥",
+     "野鳥"
+    ]
+   ],
+   "es": [
+    "Gorrión",
+    "Un gorrión redondito parado en el suelo.",
+    [
+     "gorrión",
+     "pájaro",
+     "ave",
+     "pajarito"
+    ]
+   ],
+   "pt": [
+    "Pardal",
+    "Um pardal gordinho parado no chão.",
+    [
+     "pardal",
+     "pássaro",
+     "passarinho",
+     "ave"
+    ]
+   ],
+   "fr": [
+    "Moineau",
+    "Un petit moineau tout rond posé au sol.",
+    [
+     "moineau",
+     "oiseau",
+     "petit oiseau",
+     "oiseau sauvage"
+    ]
+   ],
+   "de": [
+    "Spatz",
+    "Ein kugelrunder kleiner Spatz, der auf dem Boden steht.",
+    [
+     "Spatz",
+     "Sperling",
+     "Vogel",
+     "Wildvogel"
+    ]
+   ],
+   "zh": [
+    "麻雀",
+    "圆滚滚、站在地上的小麻雀。",
+    [
+     "麻雀",
+     "小鸟",
+     "鸟",
+     "野鸟"
+    ]
+   ],
+   "ko": [
+    "참새",
+    "땅 위에 콕 서 있는 동글동글한 참새.",
+    [
+     "참새",
+     "새",
+     "작은 새",
+     "야생 조류"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "crow",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Crow",
+    "A friendly crow with a big beak standing on the ground.",
+    [
+     "crow",
+     "raven",
+     "bird",
+     "black bird"
+    ]
+   ],
+   "ja": [
+    "カラス",
+    "大きなくちばしの、どこか愛嬌のあるカラス。",
+    [
+     "カラス",
+     "烏",
+     "鳥",
+     "野鳥"
+    ]
+   ],
+   "es": [
+    "Cuervo",
+    "Un cuervo simpático de pico grande parado en el suelo.",
+    [
+     "cuervo",
+     "pájaro",
+     "ave",
+     "pájaro negro"
+    ]
+   ],
+   "pt": [
+    "Corvo",
+    "Um corvo simpático de bico grande parado no chão.",
+    [
+     "corvo",
+     "pássaro",
+     "ave",
+     "pássaro preto"
+    ]
+   ],
+   "fr": [
+    "Corbeau",
+    "Un sympathique corbeau au grand bec, debout au sol.",
+    [
+     "corbeau",
+     "corneille",
+     "oiseau",
+     "oiseau noir"
+    ]
+   ],
+   "de": [
+    "Krähe",
+    "Eine freundliche Krähe mit großem Schnabel.",
+    [
+     "Krähe",
+     "Rabe",
+     "Vogel",
+     "schwarzer Vogel"
+    ]
+   ],
+   "zh": [
+    "乌鸦",
+    "长着大嘴巴、憨态可掬的乌鸦。",
+    [
+     "乌鸦",
+     "鸟",
+     "黑色的鸟",
+     "野鸟"
+    ]
+   ],
+   "ko": [
+    "까마귀",
+    "큰 부리를 가진 친근한 까마귀.",
+    [
+     "까마귀",
+     "새",
+     "검은 새",
+     "조류"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pigeon",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pigeon",
+    "A plump gray pigeon with a shiny green neck.",
+    [
+     "pigeon",
+     "dove",
+     "bird",
+     "city bird"
+    ]
+   ],
+   "ja": [
+    "ハト",
+    "首がつやつやしたまるっこいハト。",
+    [
+     "ハト",
+     "鳩",
+     "鳥",
+     "公園"
+    ]
+   ],
+   "es": [
+    "Paloma",
+    "Una paloma gris regordeta con el cuello verde brillante.",
+    [
+     "paloma",
+     "pájaro",
+     "ave",
+     "ciudad"
+    ]
+   ],
+   "pt": [
+    "Pombo",
+    "Um pombo cinza gordinho com o pescoço verde brilhante.",
+    [
+     "pombo",
+     "pomba",
+     "pássaro",
+     "ave"
+    ]
+   ],
+   "fr": [
+    "Pigeon",
+    "Un pigeon gris tout rond au cou vert brillant.",
+    [
+     "pigeon",
+     "colombe",
+     "oiseau",
+     "ville"
+    ]
+   ],
+   "de": [
+    "Taube",
+    "Eine rundliche graue Taube mit grün schimmerndem Hals.",
+    [
+     "Taube",
+     "Stadttaube",
+     "Vogel",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "鸽子",
+    "脖子闪着绿光、胖乎乎的灰鸽子。",
+    [
+     "鸽子",
+     "鸟",
+     "白鸽",
+     "公园"
+    ]
+   ],
+   "ko": [
+    "비둘기",
+    "목이 반짝이는 통통한 회색 비둘기.",
+    [
+     "비둘기",
+     "새",
+     "조류",
+     "공원"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "eagle",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Eagle",
+    "A white-headed eagle spreading its wings wide.",
+    [
+     "eagle",
+     "bird of prey",
+     "wings",
+     "bird"
+    ]
+   ],
+   "ja": [
+    "ワシ",
+    "大きく翼を広げた頭の白いワシ。",
+    [
+     "ワシ",
+     "鷲",
+     "猛禽類",
+     "鳥"
+    ]
+   ],
+   "es": [
+    "Águila",
+    "Un águila de cabeza blanca con las alas extendidas.",
+    [
+     "águila",
+     "ave rapaz",
+     "alas",
+     "pájaro"
+    ]
+   ],
+   "pt": [
+    "Águia",
+    "Uma águia de cabeça branca com as asas abertas.",
+    [
+     "águia",
+     "ave de rapina",
+     "asas",
+     "pássaro"
+    ]
+   ],
+   "fr": [
+    "Aigle",
+    "Un aigle à tête blanche déployant ses ailes.",
+    [
+     "aigle",
+     "rapace",
+     "ailes",
+     "oiseau"
+    ]
+   ],
+   "de": [
+    "Adler",
+    "Ein Adler mit weißem Kopf, der seine Flügel weit ausbreitet.",
+    [
+     "Adler",
+     "Greifvogel",
+     "Flügel",
+     "Vogel"
+    ]
+   ],
+   "zh": [
+    "老鹰",
+    "展开翅膀的白头鹰。",
+    [
+     "老鹰",
+     "鹰",
+     "猛禽",
+     "鸟"
+    ]
+   ],
+   "ko": [
+    "독수리",
+    "날개를 활짝 편 흰머리 독수리.",
+    [
+     "독수리",
+     "맹금류",
+     "날개",
+     "새"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "flamingo",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Flamingo",
+    "A pink flamingo standing on one leg in the water.",
+    [
+     "flamingo",
+     "pink bird",
+     "tropical",
+     "bird"
+    ]
+   ],
+   "ja": [
+    "フラミンゴ",
+    "水辺で片足立ちするピンクのフラミンゴ。",
+    [
+     "フラミンゴ",
+     "ピンク",
+     "鳥",
+     "南国"
+    ]
+   ],
+   "es": [
+    "Flamenco",
+    "Un flamenco rosado parado en una pata en el agua.",
+    [
+     "flamenco",
+     "pájaro rosa",
+     "tropical",
+     "ave"
+    ]
+   ],
+   "pt": [
+    "Flamingo",
+    "Um flamingo rosa em uma perna só dentro da água.",
+    [
+     "flamingo",
+     "pássaro rosa",
+     "tropical",
+     "ave"
+    ]
+   ],
+   "fr": [
+    "Flamant rose",
+    "Un flamant rose debout sur une patte dans l'eau.",
+    [
+     "flamant rose",
+     "oiseau rose",
+     "tropical",
+     "oiseau"
+    ]
+   ],
+   "de": [
+    "Flamingo",
+    "Ein rosa Flamingo, der auf einem Bein im Wasser steht.",
+    [
+     "Flamingo",
+     "rosa Vogel",
+     "tropisch",
+     "Vogel"
+    ]
+   ],
+   "zh": [
+    "火烈鸟",
+    "单脚站在水中的粉色火烈鸟。",
+    [
+     "火烈鸟",
+     "粉色",
+     "鸟",
+     "热带"
+    ]
+   ],
+   "ko": [
+    "플라밍고",
+    "물가에서 한 발로 서 있는 분홍 플라밍고.",
+    [
+     "플라밍고",
+     "홍학",
+     "분홍색",
+     "새"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "parrot",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Parrot",
+    "A colorful red parrot perched on a branch.",
+    [
+     "parrot",
+     "macaw",
+     "tropical bird",
+     "bird"
+    ]
+   ],
+   "ja": [
+    "オウム",
+    "枝にとまるカラフルな赤いオウム。",
+    [
+     "オウム",
+     "インコ",
+     "南国の鳥",
+     "鳥"
+    ]
+   ],
+   "es": [
+    "Loro",
+    "Un loro rojo y colorido posado en una rama.",
+    [
+     "loro",
+     "guacamayo",
+     "ave tropical",
+     "pájaro"
+    ]
+   ],
+   "pt": [
+    "Papagaio",
+    "Um papagaio vermelho colorido pousado num galho.",
+    [
+     "papagaio",
+     "arara",
+     "ave tropical",
+     "pássaro"
+    ]
+   ],
+   "fr": [
+    "Perroquet",
+    "Un perroquet rouge et coloré perché sur une branche.",
+    [
+     "perroquet",
+     "ara",
+     "oiseau tropical",
+     "oiseau"
+    ]
+   ],
+   "de": [
+    "Papagei",
+    "Ein bunter roter Papagei, der auf einem Ast sitzt.",
+    [
+     "Papagei",
+     "Ara",
+     "tropischer Vogel",
+     "Vogel"
+    ]
+   ],
+   "zh": [
+    "鹦鹉",
+    "停在树枝上的彩色红鹦鹉。",
+    [
+     "鹦鹉",
+     "金刚鹦鹉",
+     "热带鸟",
+     "鸟"
+    ]
+   ],
+   "ko": [
+    "앵무새",
+    "나뭇가지에 앉은 알록달록한 빨간 앵무새.",
+    [
+     "앵무새",
+     "마코앵무",
+     "열대 새",
+     "새"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "peacock",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Peacock",
+    "A blue peacock proudly showing off its open tail feathers.",
+    [
+     "peacock",
+     "peafowl",
+     "feathers",
+     "bird"
+    ]
+   ],
+   "ja": [
+    "クジャク",
+    "羽を大きく広げて自慢げな青いクジャク。",
+    [
+     "クジャク",
+     "孔雀",
+     "羽",
+     "鳥"
+    ]
+   ],
+   "es": [
+    "Pavo real",
+    "Un pavo real azul luciendo su cola abierta.",
+    [
+     "pavo real",
+     "plumas",
+     "ave",
+     "pájaro"
+    ]
+   ],
+   "pt": [
+    "Pavão",
+    "Um pavão azul exibindo a cauda aberta.",
+    [
+     "pavão",
+     "penas",
+     "ave",
+     "pássaro"
+    ]
+   ],
+   "fr": [
+    "Paon",
+    "Un paon bleu qui fait la roue avec fierté.",
+    [
+     "paon",
+     "plumes",
+     "oiseau",
+     "roue"
+    ]
+   ],
+   "de": [
+    "Pfau",
+    "Ein blauer Pfau, der stolz sein Rad schlägt.",
+    [
+     "Pfau",
+     "Federn",
+     "Vogel",
+     "Pfauenrad"
+    ]
+   ],
+   "zh": [
+    "孔雀",
+    "骄傲地开屏的蓝孔雀。",
+    [
+     "孔雀",
+     "开屏",
+     "羽毛",
+     "鸟"
+    ]
+   ],
+   "ko": [
+    "공작새",
+    "꼬리깃을 활짝 펼친 파란 공작새.",
+    [
+     "공작새",
+     "공작",
+     "깃털",
+     "새"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "swan",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Swan",
+    "A graceful white swan floating on the water.",
+    [
+     "swan",
+     "white bird",
+     "lake",
+     "bird"
+    ]
+   ],
+   "ja": [
+    "白鳥",
+    "水面にゆったり浮かぶ白鳥。",
+    [
+     "白鳥",
+     "ハクチョウ",
+     "湖",
+     "鳥"
+    ]
+   ],
+   "es": [
+    "Cisne",
+    "Un elegante cisne blanco flotando en el agua.",
+    [
+     "cisne",
+     "ave blanca",
+     "lago",
+     "pájaro"
+    ]
+   ],
+   "pt": [
+    "Cisne",
+    "Um cisne branco elegante boiando na água.",
+    [
+     "cisne",
+     "ave branca",
+     "lago",
+     "pássaro"
+    ]
+   ],
+   "fr": [
+    "Cygne",
+    "Un élégant cygne blanc qui flotte sur l'eau.",
+    [
+     "cygne",
+     "oiseau blanc",
+     "lac",
+     "oiseau"
+    ]
+   ],
+   "de": [
+    "Schwan",
+    "Ein anmutiger weißer Schwan, der auf dem Wasser schwimmt.",
+    [
+     "Schwan",
+     "weißer Vogel",
+     "See",
+     "Vogel"
+    ]
+   ],
+   "zh": [
+    "天鹅",
+    "优雅地浮在水面上的白天鹅。",
+    [
+     "天鹅",
+     "白天鹅",
+     "湖",
+     "鸟"
+    ]
+   ],
+   "ko": [
+    "백조",
+    "물 위에 우아하게 떠 있는 하얀 백조.",
+    [
+     "백조",
+     "고니",
+     "호수",
+     "새"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hummingbird",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hummingbird",
+    "A tiny hummingbird hovering to sip nectar from a flower.",
+    [
+     "hummingbird",
+     "bird",
+     "flower",
+     "nectar"
+    ]
+   ],
+   "ja": [
+    "ハチドリ",
+    "花の蜜を吸おうと空中でとまるハチドリ。",
+    [
+     "ハチドリ",
+     "小鳥",
+     "花",
+     "蜜"
+    ]
+   ],
+   "es": [
+    "Colibrí",
+    "Un pequeño colibrí suspendido en el aire bebiendo néctar de una flor.",
+    [
+     "colibrí",
+     "pájaro",
+     "flor",
+     "néctar"
+    ]
+   ],
+   "pt": [
+    "Beija-flor",
+    "Um beija-flor pairando no ar para tomar o néctar de uma flor.",
+    [
+     "beija-flor",
+     "passarinho",
+     "flor",
+     "néctar"
+    ]
+   ],
+   "fr": [
+    "Colibri",
+    "Un petit colibri en vol stationnaire qui butine une fleur.",
+    [
+     "colibri",
+     "oiseau",
+     "fleur",
+     "nectar"
+    ]
+   ],
+   "de": [
+    "Kolibri",
+    "Ein kleiner Kolibri, der schwebend Nektar aus einer Blume trinkt.",
+    [
+     "Kolibri",
+     "Vogel",
+     "Blume",
+     "Nektar"
+    ]
+   ],
+   "zh": [
+    "蜂鸟",
+    "悬停在空中吸食花蜜的小蜂鸟。",
+    [
+     "蜂鸟",
+     "小鸟",
+     "花",
+     "花蜜"
+    ]
+   ],
+   "ko": [
+    "벌새",
+    "공중에 멈춰 꽃꿀을 먹는 작은 벌새.",
+    [
+     "벌새",
+     "새",
+     "꽃",
+     "꿀"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "woodpecker",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Woodpecker",
+    "A woodpecker with a red cap pecking at a tree trunk.",
+    [
+     "woodpecker",
+     "bird",
+     "tree",
+     "forest"
+    ]
+   ],
+   "ja": [
+    "キツツキ",
+    "木の幹をコツコツつつく赤い頭のキツツキ。",
+    [
+     "キツツキ",
+     "鳥",
+     "木",
+     "森"
+    ]
+   ],
+   "es": [
+    "Pájaro carpintero",
+    "Un pájaro carpintero de cabeza roja picoteando un tronco.",
+    [
+     "pájaro carpintero",
+     "pájaro",
+     "árbol",
+     "bosque"
+    ]
+   ],
+   "pt": [
+    "Pica-pau",
+    "Um pica-pau de cabeça vermelha bicando um tronco de árvore.",
+    [
+     "pica-pau",
+     "pássaro",
+     "árvore",
+     "floresta"
+    ]
+   ],
+   "fr": [
+    "Pic",
+    "Un pic à calotte rouge qui tape sur un tronc d'arbre.",
+    [
+     "pic",
+     "pivert",
+     "oiseau",
+     "forêt"
+    ]
+   ],
+   "de": [
+    "Specht",
+    "Ein Specht mit roter Kappe, der an einen Baumstamm klopft.",
+    [
+     "Specht",
+     "Vogel",
+     "Baum",
+     "Wald"
+    ]
+   ],
+   "zh": [
+    "啄木鸟",
+    "正在啄树干的红头啄木鸟。",
+    [
+     "啄木鸟",
+     "鸟",
+     "树",
+     "森林"
+    ]
+   ],
+   "ko": [
+    "딱따구리",
+    "나무 줄기를 콕콕 쪼는 빨간 머리 딱따구리.",
+    [
+     "딱따구리",
+     "새",
+     "나무",
+     "숲"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "butterfly",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Butterfly",
+    "A cheerful butterfly with orange and pink wings.",
+    [
+     "butterfly",
+     "insect",
+     "spring",
+     "wings"
+    ]
+   ],
+   "ja": [
+    "ちょうちょ",
+    "オレンジとピンクの羽のかわいいちょうちょ。",
+    [
+     "ちょうちょ",
+     "蝶",
+     "虫",
+     "春"
+    ]
+   ],
+   "es": [
+    "Mariposa",
+    "Una mariposa alegre con alas naranjas y rosas.",
+    [
+     "mariposa",
+     "insecto",
+     "primavera",
+     "alas"
+    ]
+   ],
+   "pt": [
+    "Borboleta",
+    "Uma borboleta alegre de asas laranja e rosa.",
+    [
+     "borboleta",
+     "inseto",
+     "primavera",
+     "asas"
+    ]
+   ],
+   "fr": [
+    "Papillon",
+    "Un joyeux papillon aux ailes orange et roses.",
+    [
+     "papillon",
+     "insecte",
+     "printemps",
+     "ailes"
+    ]
+   ],
+   "de": [
+    "Schmetterling",
+    "Ein fröhlicher Schmetterling mit orangen und rosa Flügeln.",
+    [
+     "Schmetterling",
+     "Insekt",
+     "Frühling",
+     "Flügel"
+    ]
+   ],
+   "zh": [
+    "蝴蝶",
+    "长着橙色和粉色翅膀的可爱蝴蝶。",
+    [
+     "蝴蝶",
+     "昆虫",
+     "春天",
+     "翅膀"
+    ]
+   ],
+   "ko": [
+    "나비",
+    "주황색과 분홍색 날개를 가진 귀여운 나비.",
+    [
+     "나비",
+     "곤충",
+     "봄",
+     "날개"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ladybug",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ladybug",
+    "A red ladybug with black spots, seen from above.",
+    [
+     "ladybug",
+     "ladybird",
+     "insect",
+     "bug"
+    ]
+   ],
+   "ja": [
+    "てんとう虫",
+    "黒い水玉もようの赤いてんとう虫。",
+    [
+     "てんとう虫",
+     "テントウムシ",
+     "虫",
+     "昆虫"
+    ]
+   ],
+   "es": [
+    "Mariquita",
+    "Una mariquita roja con puntos negros vista desde arriba.",
+    [
+     "mariquita",
+     "catarina",
+     "insecto",
+     "bicho"
+    ]
+   ],
+   "pt": [
+    "Joaninha",
+    "Uma joaninha vermelha de bolinhas pretas vista de cima.",
+    [
+     "joaninha",
+     "inseto",
+     "bichinho",
+     "jardim"
+    ]
+   ],
+   "fr": [
+    "Coccinelle",
+    "Une coccinelle rouge à pois noirs vue de dessus.",
+    [
+     "coccinelle",
+     "insecte",
+     "bête à bon Dieu",
+     "jardin"
+    ]
+   ],
+   "de": [
+    "Marienkäfer",
+    "Ein roter Marienkäfer mit schwarzen Punkten von oben.",
+    [
+     "Marienkäfer",
+     "Käfer",
+     "Insekt",
+     "Glücksbringer"
+    ]
+   ],
+   "zh": [
+    "瓢虫",
+    "背上有黑色圆点的红色瓢虫。",
+    [
+     "瓢虫",
+     "昆虫",
+     "虫子",
+     "花园"
+    ]
+   ],
+   "ko": [
+    "무당벌레",
+    "검은 점무늬가 있는 빨간 무당벌레.",
+    [
+     "무당벌레",
+     "곤충",
+     "벌레",
+     "정원"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bee",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Honey bee",
+    "A round, striped honey bee buzzing with little wings.",
+    [
+     "bee",
+     "honey bee",
+     "insect",
+     "honey"
+    ]
+   ],
+   "ja": [
+    "ミツバチ",
+    "しましまでまんまるなミツバチ。",
+    [
+     "ミツバチ",
+     "ハチ",
+     "虫",
+     "はちみつ"
+    ]
+   ],
+   "es": [
+    "Abeja",
+    "Una abeja redondita con rayas y alas pequeñas.",
+    [
+     "abeja",
+     "abeja de miel",
+     "insecto",
+     "miel"
+    ]
+   ],
+   "pt": [
+    "Abelha",
+    "Uma abelha redondinha e listrada com asinhas.",
+    [
+     "abelha",
+     "inseto",
+     "mel",
+     "abelhinha"
+    ]
+   ],
+   "fr": [
+    "Abeille",
+    "Une abeille toute ronde et rayée aux petites ailes.",
+    [
+     "abeille",
+     "insecte",
+     "miel",
+     "butinage"
+    ]
+   ],
+   "de": [
+    "Biene",
+    "Eine runde, gestreifte Honigbiene mit kleinen Flügeln.",
+    [
+     "Biene",
+     "Honigbiene",
+     "Insekt",
+     "Honig"
+    ]
+   ],
+   "zh": [
+    "蜜蜂",
+    "圆滚滚、身上有条纹的小蜜蜂。",
+    [
+     "蜜蜂",
+     "昆虫",
+     "蜂蜜",
+     "小蜜蜂"
+    ]
+   ],
+   "ko": [
+    "꿀벌",
+    "줄무늬가 있는 동글동글한 꿀벌.",
+    [
+     "꿀벌",
+     "벌",
+     "곤충",
+     "꿀"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ant",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ant carrying a crumb",
+    "A hardworking ant carrying a big bread crumb.",
+    [
+     "ant",
+     "insect",
+     "hardworking",
+     "teamwork"
+    ]
+   ],
+   "ja": [
+    "パンくずを運ぶアリ",
+    "大きなパンくずを運ぶがんばり屋のアリ。",
+    [
+     "アリ",
+     "蟻",
+     "虫",
+     "働き者"
+    ]
+   ],
+   "es": [
+    "Hormiga con una miga",
+    "Una hormiga trabajadora cargando una gran miga de pan.",
+    [
+     "hormiga",
+     "insecto",
+     "trabajadora",
+     "esfuerzo"
+    ]
+   ],
+   "pt": [
+    "Formiga carregando migalha",
+    "Uma formiga trabalhadora carregando uma migalha de pão grande.",
+    [
+     "formiga",
+     "inseto",
+     "trabalhadora",
+     "esforço"
+    ]
+   ],
+   "fr": [
+    "Fourmi qui porte une miette",
+    "Une fourmi travailleuse qui porte une grosse miette de pain.",
+    [
+     "fourmi",
+     "insecte",
+     "travailleuse",
+     "effort"
+    ]
+   ],
+   "de": [
+    "Ameise mit Krümel",
+    "Eine fleißige Ameise, die einen großen Brotkrümel trägt.",
+    [
+     "Ameise",
+     "Insekt",
+     "fleißig",
+     "Arbeit"
+    ]
+   ],
+   "zh": [
+    "搬面包屑的蚂蚁",
+    "扛着大块面包屑的勤劳蚂蚁。",
+    [
+     "蚂蚁",
+     "昆虫",
+     "勤劳",
+     "努力"
+    ]
+   ],
+   "ko": [
+    "빵 부스러기를 나르는 개미",
+    "커다란 빵 부스러기를 나르는 부지런한 개미.",
+    [
+     "개미",
+     "곤충",
+     "부지런함",
+     "노력"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "dragonfly",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Dragonfly",
+    "A teal dragonfly with four clear wings, seen from above.",
+    [
+     "dragonfly",
+     "insect",
+     "summer",
+     "wings"
+    ]
+   ],
+   "ja": [
+    "トンボ",
+    "4枚の羽を広げたトンボ。",
+    [
+     "トンボ",
+     "蜻蛉",
+     "虫",
+     "夏"
+    ]
+   ],
+   "es": [
+    "Libélula",
+    "Una libélula verde azulada con cuatro alas transparentes.",
+    [
+     "libélula",
+     "insecto",
+     "verano",
+     "alas"
+    ]
+   ],
+   "pt": [
+    "Libélula",
+    "Uma libélula verde-azulada com quatro asas transparentes.",
+    [
+     "libélula",
+     "inseto",
+     "verão",
+     "asas"
+    ]
+   ],
+   "fr": [
+    "Libellule",
+    "Une libellule turquoise aux quatre ailes transparentes.",
+    [
+     "libellule",
+     "insecte",
+     "été",
+     "ailes"
+    ]
+   ],
+   "de": [
+    "Libelle",
+    "Eine türkisfarbene Libelle mit vier durchsichtigen Flügeln.",
+    [
+     "Libelle",
+     "Insekt",
+     "Sommer",
+     "Flügel"
+    ]
+   ],
+   "zh": [
+    "蜻蜓",
+    "张开四片透明翅膀的蜻蜓。",
+    [
+     "蜻蜓",
+     "昆虫",
+     "夏天",
+     "翅膀"
+    ]
+   ],
+   "ko": [
+    "잠자리",
+    "네 장의 투명한 날개를 편 잠자리.",
+    [
+     "잠자리",
+     "곤충",
+     "여름",
+     "날개"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rhinoceros-beetle",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Rhinoceros beetle",
+    "A brown rhinoceros beetle with a big curved horn.",
+    [
+     "rhinoceros beetle",
+     "beetle",
+     "insect",
+     "summer"
+    ]
+   ],
+   "ja": [
+    "カブトムシ",
+    "大きなツノがかっこいいカブトムシ。",
+    [
+     "カブトムシ",
+     "甲虫",
+     "虫",
+     "夏休み"
+    ]
+   ],
+   "es": [
+    "Escarabajo rinoceronte",
+    "Un escarabajo rinoceronte marrón con un gran cuerno curvo.",
+    [
+     "escarabajo rinoceronte",
+     "escarabajo",
+     "insecto",
+     "verano"
+    ]
+   ],
+   "pt": [
+    "Besouro-rinoceronte",
+    "Um besouro-rinoceronte marrom com um grande chifre curvo.",
+    [
+     "besouro-rinoceronte",
+     "besouro",
+     "inseto",
+     "verão"
+    ]
+   ],
+   "fr": [
+    "Scarabée rhinocéros",
+    "Un scarabée rhinocéros brun avec une grande corne recourbée.",
+    [
+     "scarabée rhinocéros",
+     "scarabée",
+     "insecte",
+     "été"
+    ]
+   ],
+   "de": [
+    "Nashornkäfer",
+    "Ein brauner Nashornkäfer mit großem gebogenem Horn.",
+    [
+     "Nashornkäfer",
+     "Käfer",
+     "Insekt",
+     "Sommer"
+    ]
+   ],
+   "zh": [
+    "独角仙",
+    "长着大角的棕色独角仙。",
+    [
+     "独角仙",
+     "甲虫",
+     "昆虫",
+     "夏天"
+    ]
+   ],
+   "ko": [
+    "장수풍뎅이",
+    "크고 휘어진 뿔을 가진 갈색 장수풍뎅이.",
+    [
+     "장수풍뎅이",
+     "딱정벌레",
+     "곤충",
+     "여름"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "stag-beetle",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Stag beetle",
+    "A stag beetle with big pincer-like jaws, seen from above.",
+    [
+     "stag beetle",
+     "beetle",
+     "insect",
+     "summer"
+    ]
+   ],
+   "ja": [
+    "クワガタ",
+    "大きなアゴがかっこいいクワガタ。",
+    [
+     "クワガタ",
+     "クワガタムシ",
+     "甲虫",
+     "虫"
+    ]
+   ],
+   "es": [
+    "Ciervo volante",
+    "Un ciervo volante con grandes mandíbulas, visto desde arriba.",
+    [
+     "ciervo volante",
+     "escarabajo",
+     "insecto",
+     "verano"
+    ]
+   ],
+   "pt": [
+    "Besouro-veado",
+    "Um besouro-veado com grandes mandíbulas em forma de pinça.",
+    [
+     "besouro-veado",
+     "besouro",
+     "inseto",
+     "verão"
+    ]
+   ],
+   "fr": [
+    "Lucane cerf-volant",
+    "Un lucane cerf-volant aux grandes mandibules, vu de dessus.",
+    [
+     "lucane",
+     "cerf-volant",
+     "scarabée",
+     "insecte"
+    ]
+   ],
+   "de": [
+    "Hirschkäfer",
+    "Ein Hirschkäfer mit großen Zangen, von oben gesehen.",
+    [
+     "Hirschkäfer",
+     "Käfer",
+     "Insekt",
+     "Sommer"
+    ]
+   ],
+   "zh": [
+    "锹形虫",
+    "长着大钳子的锹形虫。",
+    [
+     "锹形虫",
+     "锹甲",
+     "甲虫",
+     "昆虫"
+    ]
+   ],
+   "ko": [
+    "사슴벌레",
+    "큰 집게 턱을 가진 사슴벌레.",
+    [
+     "사슴벌레",
+     "딱정벌레",
+     "곤충",
+     "여름"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "caterpillar",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Caterpillar on a leaf",
+    "A little caterpillar crawling along a green leaf.",
+    [
+     "caterpillar",
+     "insect",
+     "leaf",
+     "bug"
+    ]
+   ],
+   "ja": [
+    "葉っぱの上のいもむし",
+    "緑の葉っぱの上をはういもむし。",
+    [
+     "いもむし",
+     "青虫",
+     "虫",
+     "葉っぱ"
+    ]
+   ],
+   "es": [
+    "Oruga en una hoja",
+    "Una pequeña oruga arrastrándose sobre una hoja verde.",
+    [
+     "oruga",
+     "gusano",
+     "insecto",
+     "hoja"
+    ]
+   ],
+   "pt": [
+    "Lagarta na folha",
+    "Uma lagartinha andando sobre uma folha verde.",
+    [
+     "lagarta",
+     "taturana",
+     "inseto",
+     "folha"
+    ]
+   ],
+   "fr": [
+    "Chenille sur une feuille",
+    "Une petite chenille qui rampe sur une feuille verte.",
+    [
+     "chenille",
+     "insecte",
+     "feuille",
+     "nature"
+    ]
+   ],
+   "de": [
+    "Raupe auf einem Blatt",
+    "Eine kleine Raupe, die über ein grünes Blatt krabbelt.",
+    [
+     "Raupe",
+     "Insekt",
+     "Blatt",
+     "Natur"
+    ]
+   ],
+   "zh": [
+    "叶子上的毛毛虫",
+    "在绿叶上爬行的小毛毛虫。",
+    [
+     "毛毛虫",
+     "青虫",
+     "昆虫",
+     "叶子"
+    ]
+   ],
+   "ko": [
+    "나뭇잎 위의 애벌레",
+    "초록 잎 위를 기어가는 작은 애벌레.",
+    [
+     "애벌레",
+     "곤충",
+     "나뭇잎",
+     "벌레"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "snail",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Snail",
+    "A slow and cute snail with a swirly shell.",
+    [
+     "snail",
+     "slow",
+     "rainy season",
+     "garden"
+    ]
+   ],
+   "ja": [
+    "かたつむり",
+    "うずまきの殻を背負ったのんびりかたつむり。",
+    [
+     "かたつむり",
+     "カタツムリ",
+     "梅雨",
+     "虫"
+    ]
+   ],
+   "es": [
+    "Caracol",
+    "Un caracol lento y tierno con concha en espiral.",
+    [
+     "caracol",
+     "lento",
+     "lluvia",
+     "jardín"
+    ]
+   ],
+   "pt": [
+    "Caracol",
+    "Um caracol fofo e lento com a concha em espiral.",
+    [
+     "caracol",
+     "lesma",
+     "lento",
+     "jardim"
+    ]
+   ],
+   "fr": [
+    "Escargot",
+    "Un escargot tout mignon avec une coquille en spirale.",
+    [
+     "escargot",
+     "lent",
+     "pluie",
+     "jardin"
+    ]
+   ],
+   "de": [
+    "Schnecke",
+    "Eine niedliche, gemütliche Schnecke mit Spiralhaus.",
+    [
+     "Schnecke",
+     "langsam",
+     "Regen",
+     "Garten"
+    ]
+   ],
+   "zh": [
+    "蜗牛",
+    "背着螺旋壳、慢吞吞的可爱蜗牛。",
+    [
+     "蜗牛",
+     "慢",
+     "雨季",
+     "花园"
+    ]
+   ],
+   "ko": [
+    "달팽이",
+    "소용돌이 껍데기를 진 느긋한 달팽이.",
+    [
+     "달팽이",
+     "느림",
+     "장마",
+     "정원"
+    ]
+   ]
+  }
+ }
+]

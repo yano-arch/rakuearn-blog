@@ -1,0 +1,1730 @@
+[
+ {
+  "slug": "link-chain",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Chain link",
+    "Two interlocking chain links, an icon for URLs and connections.",
+    [
+     "link",
+     "chain",
+     "URL",
+     "connection"
+    ]
+   ],
+   "ja": [
+    "リンク（くさり）",
+    "2つの輪がつながった、リンクやつながりを表すアイコン。",
+    [
+     "リンク",
+     "URL",
+     "つながり",
+     "くさり"
+    ]
+   ],
+   "es": [
+    "Eslabones de enlace",
+    "Dos eslabones de cadena unidos, un icono para enlaces y conexiones.",
+    [
+     "enlace",
+     "cadena",
+     "URL",
+     "conexión"
+    ]
+   ],
+   "pt": [
+    "Elos de corrente",
+    "Dois elos de corrente encaixados, um ícone de link e conexão.",
+    [
+     "link",
+     "corrente",
+     "URL",
+     "conexão"
+    ]
+   ],
+   "fr": [
+    "Maillons de chaîne",
+    "Deux maillons de chaîne entrelacés, une icône de lien et de connexion.",
+    [
+     "lien",
+     "chaîne",
+     "URL",
+     "connexion"
+    ]
+   ],
+   "de": [
+    "Kettenglieder",
+    "Zwei ineinandergreifende Kettenglieder als Symbol für Links und Verbindungen.",
+    [
+     "Link",
+     "Kette",
+     "URL",
+     "Verbindung"
+    ]
+   ],
+   "zh": [
+    "链接图标",
+    "两个相扣的链环，表示链接和连接。",
+    [
+     "链接",
+     "网址",
+     "连接",
+     "锁链"
+    ]
+   ],
+   "ko": [
+    "링크 체인",
+    "두 개의 고리가 연결된 링크·연결 아이콘.",
+    [
+     "링크",
+     "URL",
+     "연결",
+     "체인"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "qr-code",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "QR code",
+    "A square QR code pattern on a white card.",
+    [
+     "QR code",
+     "scan",
+     "code",
+     "cashless"
+    ]
+   ],
+   "ja": [
+    "QRコード",
+    "白いカードに描かれた四角いQRコード。",
+    [
+     "QRコード",
+     "読み取り",
+     "キャッシュレス"
+    ]
+   ],
+   "es": [
+    "Código QR",
+    "Un código QR cuadrado sobre una tarjeta blanca.",
+    [
+     "código QR",
+     "escanear",
+     "pago móvil"
+    ]
+   ],
+   "pt": [
+    "QR code",
+    "Um QR code quadrado em um cartão branco.",
+    [
+     "QR code",
+     "escanear",
+     "pagamento",
+     "Pix"
+    ]
+   ],
+   "fr": [
+    "QR code",
+    "Un QR code carré sur une carte blanche.",
+    [
+     "QR code",
+     "scanner",
+     "code",
+     "paiement"
+    ]
+   ],
+   "de": [
+    "QR-Code",
+    "Ein quadratischer QR-Code auf einer weißen Karte.",
+    [
+     "QR-Code",
+     "scannen",
+     "Code",
+     "bargeldlos"
+    ]
+   ],
+   "zh": [
+    "二维码",
+    "白色卡片上的方形二维码。",
+    [
+     "二维码",
+     "扫码",
+     "支付"
+    ]
+   ],
+   "ko": [
+    "QR코드",
+    "하얀 카드 위의 네모난 QR코드.",
+    [
+     "QR코드",
+     "스캔",
+     "간편결제"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "barcode",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Barcode",
+    "A barcode label with a red scanning line across it.",
+    [
+     "barcode",
+     "scan",
+     "label",
+     "shopping"
+    ]
+   ],
+   "ja": [
+    "バーコード",
+    "赤い読み取り線が入ったバーコードのラベル。",
+    [
+     "バーコード",
+     "スキャン",
+     "レジ",
+     "商品"
+    ]
+   ],
+   "es": [
+    "Código de barras",
+    "Una etiqueta con código de barras y una línea roja de escaneo.",
+    [
+     "código de barras",
+     "escanear",
+     "etiqueta",
+     "compras"
+    ]
+   ],
+   "pt": [
+    "Código de barras",
+    "Uma etiqueta com código de barras e uma linha vermelha de leitura.",
+    [
+     "código de barras",
+     "leitura",
+     "etiqueta",
+     "compras"
+    ]
+   ],
+   "fr": [
+    "Code-barres",
+    "Une étiquette code-barres traversée d'une ligne rouge de lecture.",
+    [
+     "code-barres",
+     "scanner",
+     "étiquette",
+     "achats"
+    ]
+   ],
+   "de": [
+    "Strichcode",
+    "Ein Strichcode-Etikett mit einer roten Scanlinie.",
+    [
+     "Barcode",
+     "Strichcode",
+     "scannen",
+     "Etikett"
+    ]
+   ],
+   "zh": [
+    "条形码",
+    "带有红色扫描线的条形码标签。",
+    [
+     "条形码",
+     "扫描",
+     "标签",
+     "购物"
+    ]
+   ],
+   "ko": [
+    "바코드",
+    "빨간 스캔 선이 지나가는 바코드 라벨.",
+    [
+     "바코드",
+     "스캔",
+     "라벨",
+     "계산"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "password-key",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Password and key",
+    "A golden key above a password field filled with hidden dots.",
+    [
+     "password",
+     "key",
+     "login",
+     "security"
+    ]
+   ],
+   "ja": [
+    "パスワードと鍵",
+    "金色の鍵と、伏せ字の点が並んだパスワード入力欄。",
+    [
+     "パスワード",
+     "鍵",
+     "ログイン",
+     "セキュリティ"
+    ]
+   ],
+   "es": [
+    "Contraseña y llave",
+    "Una llave dorada sobre un campo de contraseña con puntos ocultos.",
+    [
+     "contraseña",
+     "llave",
+     "iniciar sesión",
+     "seguridad"
+    ]
+   ],
+   "pt": [
+    "Senha e chave",
+    "Uma chave dourada acima de um campo de senha com pontinhos.",
+    [
+     "senha",
+     "chave",
+     "login",
+     "segurança"
+    ]
+   ],
+   "fr": [
+    "Mot de passe et clé",
+    "Une clé dorée au-dessus d'un champ de mot de passe masqué.",
+    [
+     "mot de passe",
+     "clé",
+     "connexion",
+     "sécurité"
+    ]
+   ],
+   "de": [
+    "Passwort und Schlüssel",
+    "Ein goldener Schlüssel über einem Passwortfeld mit Punkten.",
+    [
+     "Passwort",
+     "Schlüssel",
+     "Login",
+     "Sicherheit"
+    ]
+   ],
+   "zh": [
+    "密码与钥匙",
+    "金色钥匙和显示圆点的密码输入框。",
+    [
+     "密码",
+     "钥匙",
+     "登录",
+     "安全"
+    ]
+   ],
+   "ko": [
+    "비밀번호와 열쇠",
+    "금색 열쇠와 점으로 가려진 비밀번호 입력란.",
+    [
+     "비밀번호",
+     "열쇠",
+     "로그인",
+     "보안"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "fingerprint",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Fingerprint",
+    "A fingerprint pattern on a round blue badge.",
+    [
+     "fingerprint",
+     "biometrics",
+     "authentication",
+     "security"
+    ]
+   ],
+   "ja": [
+    "指紋",
+    "丸い青いバッジに描かれた指紋の模様。",
+    [
+     "指紋",
+     "指紋認証",
+     "生体認証",
+     "セキュリティ"
+    ]
+   ],
+   "es": [
+    "Huella dactilar",
+    "Una huella dactilar sobre una insignia redonda azul.",
+    [
+     "huella dactilar",
+     "biometría",
+     "autenticación",
+     "seguridad"
+    ]
+   ],
+   "pt": [
+    "Impressão digital",
+    "Uma impressão digital em um selo redondo azul.",
+    [
+     "impressão digital",
+     "biometria",
+     "autenticação",
+     "segurança"
+    ]
+   ],
+   "fr": [
+    "Empreinte digitale",
+    "Une empreinte digitale sur un badge rond bleu.",
+    [
+     "empreinte digitale",
+     "biométrie",
+     "authentification",
+     "sécurité"
+    ]
+   ],
+   "de": [
+    "Fingerabdruck",
+    "Ein Fingerabdruck auf einem runden blauen Abzeichen.",
+    [
+     "Fingerabdruck",
+     "Biometrie",
+     "Authentifizierung",
+     "Sicherheit"
+    ]
+   ],
+   "zh": [
+    "指纹",
+    "蓝色圆形徽章上的指纹图案。",
+    [
+     "指纹",
+     "指纹识别",
+     "生物识别",
+     "安全"
+    ]
+   ],
+   "ko": [
+    "지문",
+    "둥근 파란 배지 위의 지문 무늬.",
+    [
+     "지문",
+     "지문인식",
+     "생체인증",
+     "보안"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "face-scan",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Face recognition",
+    "A smiling person framed by face-scan corner brackets.",
+    [
+     "face recognition",
+     "face ID",
+     "scan",
+     "authentication"
+    ]
+   ],
+   "ja": [
+    "顔認証",
+    "読み取り枠に囲まれた、にっこり笑う人の顔。",
+    [
+     "顔認証",
+     "顔認識",
+     "スキャン",
+     "生体認証"
+    ]
+   ],
+   "es": [
+    "Reconocimiento facial",
+    "Una persona sonriente dentro de un marco de escaneo facial.",
+    [
+     "reconocimiento facial",
+     "escaneo",
+     "autenticación"
+    ]
+   ],
+   "pt": [
+    "Reconhecimento facial",
+    "Uma pessoa sorrindo dentro de uma moldura de leitura facial.",
+    [
+     "reconhecimento facial",
+     "biometria",
+     "autenticação"
+    ]
+   ],
+   "fr": [
+    "Reconnaissance faciale",
+    "Une personne souriante dans un cadre de scan du visage.",
+    [
+     "reconnaissance faciale",
+     "scan",
+     "authentification"
+    ]
+   ],
+   "de": [
+    "Gesichtserkennung",
+    "Eine lächelnde Person in einem Scan-Rahmen zur Gesichtserkennung.",
+    [
+     "Gesichtserkennung",
+     "Scan",
+     "Authentifizierung"
+    ]
+   ],
+   "zh": [
+    "人脸识别",
+    "被扫描框围住的微笑人脸。",
+    [
+     "人脸识别",
+     "刷脸",
+     "扫描",
+     "认证"
+    ]
+   ],
+   "ko": [
+    "얼굴 인식",
+    "스캔 프레임 안에서 웃고 있는 사람 얼굴.",
+    [
+     "얼굴인식",
+     "페이스ID",
+     "스캔",
+     "인증"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "shield",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Security shield",
+    "A blue shield with a white check mark for safety and protection.",
+    [
+     "shield",
+     "security",
+     "protection",
+     "safe"
+    ]
+   ],
+   "ja": [
+    "セキュリティの盾",
+    "白いチェックマークが入った、安全・保護を表す青い盾。",
+    [
+     "盾",
+     "セキュリティ",
+     "安全",
+     "保護"
+    ]
+   ],
+   "es": [
+    "Escudo de seguridad",
+    "Un escudo azul con una marca de verificación blanca.",
+    [
+     "escudo",
+     "seguridad",
+     "protección",
+     "seguro"
+    ]
+   ],
+   "pt": [
+    "Escudo de segurança",
+    "Um escudo azul com um sinal de check branco.",
+    [
+     "escudo",
+     "segurança",
+     "proteção",
+     "seguro"
+    ]
+   ],
+   "fr": [
+    "Bouclier de sécurité",
+    "Un bouclier bleu avec une coche blanche, symbole de protection.",
+    [
+     "bouclier",
+     "sécurité",
+     "protection"
+    ]
+   ],
+   "de": [
+    "Sicherheitsschild",
+    "Ein blaues Schild mit weißem Häkchen für Schutz und Sicherheit.",
+    [
+     "Schild",
+     "Sicherheit",
+     "Schutz",
+     "Virenschutz"
+    ]
+   ],
+   "zh": [
+    "安全盾牌",
+    "带白色对勾的蓝色盾牌，表示安全防护。",
+    [
+     "盾牌",
+     "安全",
+     "防护",
+     "保护"
+    ]
+   ],
+   "ko": [
+    "보안 방패",
+    "하얀 체크 표시가 있는 파란 방패.",
+    [
+     "방패",
+     "보안",
+     "안전",
+     "보호"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "virus-alert",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Virus warning",
+    "A yellow warning sign with a little green virus inside.",
+    [
+     "virus",
+     "warning",
+     "malware",
+     "alert"
+    ]
+   ],
+   "ja": [
+    "ウイルス警告",
+    "小さな緑のウイルスが入った黄色い警告マーク。",
+    [
+     "ウイルス",
+     "警告",
+     "マルウェア",
+     "注意"
+    ]
+   ],
+   "es": [
+    "Alerta de virus",
+    "Una señal de advertencia amarilla con un pequeño virus verde.",
+    [
+     "virus",
+     "advertencia",
+     "malware",
+     "alerta"
+    ]
+   ],
+   "pt": [
+    "Alerta de vírus",
+    "Uma placa de aviso amarela com um pequeno vírus verde.",
+    [
+     "vírus",
+     "alerta",
+     "malware",
+     "aviso"
+    ]
+   ],
+   "fr": [
+    "Alerte virus",
+    "Un panneau d'avertissement jaune avec un petit virus vert.",
+    [
+     "virus",
+     "alerte",
+     "malware",
+     "danger"
+    ]
+   ],
+   "de": [
+    "Viruswarnung",
+    "Ein gelbes Warnschild mit einem kleinen grünen Virus.",
+    [
+     "Virus",
+     "Warnung",
+     "Malware",
+     "Achtung"
+    ]
+   ],
+   "zh": [
+    "病毒警告",
+    "黄色警告标志里有一只绿色小病毒。",
+    [
+     "病毒",
+     "警告",
+     "恶意软件",
+     "注意"
+    ]
+   ],
+   "ko": [
+    "바이러스 경고",
+    "작은 초록 바이러스가 들어간 노란 경고 표지.",
+    [
+     "바이러스",
+     "경고",
+     "악성코드",
+     "주의"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "spam-mail",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Spam email warning",
+    "An envelope with a red warning badge for suspicious mail.",
+    [
+     "spam",
+     "email",
+     "phishing",
+     "warning"
+    ]
+   ],
+   "ja": [
+    "迷惑メール",
+    "赤い注意マークが付いた、あやしいメールの封筒。",
+    [
+     "迷惑メール",
+     "スパム",
+     "フィッシング",
+     "注意"
+    ]
+   ],
+   "es": [
+    "Correo spam",
+    "Un sobre con una insignia roja de advertencia por correo sospechoso.",
+    [
+     "spam",
+     "correo",
+     "phishing",
+     "advertencia"
+    ]
+   ],
+   "pt": [
+    "E-mail de spam",
+    "Um envelope com um alerta vermelho de mensagem suspeita.",
+    [
+     "spam",
+     "e-mail",
+     "golpe",
+     "phishing"
+    ]
+   ],
+   "fr": [
+    "Courriel indésirable",
+    "Une enveloppe avec un badge rouge d'avertissement.",
+    [
+     "spam",
+     "courriel",
+     "hameçonnage",
+     "alerte"
+    ]
+   ],
+   "de": [
+    "Spam-Mail",
+    "Ein Briefumschlag mit rotem Warnhinweis für verdächtige Post.",
+    [
+     "Spam",
+     "E-Mail",
+     "Phishing",
+     "Warnung"
+    ]
+   ],
+   "zh": [
+    "垃圾邮件",
+    "带红色警告标记的可疑邮件信封。",
+    [
+     "垃圾邮件",
+     "钓鱼邮件",
+     "警告",
+     "邮件"
+    ]
+   ],
+   "ko": [
+    "스팸 메일",
+    "빨간 경고 표시가 붙은 수상한 메일 봉투.",
+    [
+     "스팸",
+     "메일",
+     "피싱",
+     "경고"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "notification-bell",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Notification bell",
+    "A cute yellow bell with a red dot for new notifications.",
+    [
+     "notification",
+     "bell",
+     "alert",
+     "new"
+    ]
+   ],
+   "ja": [
+    "通知ベル",
+    "赤い点が付いた、新着通知を知らせるかわいいベル。",
+    [
+     "通知",
+     "ベル",
+     "お知らせ",
+     "新着"
+    ]
+   ],
+   "es": [
+    "Campana de notificación",
+    "Una campana amarilla con un punto rojo de nuevas notificaciones.",
+    [
+     "notificación",
+     "campana",
+     "aviso",
+     "alerta"
+    ]
+   ],
+   "pt": [
+    "Sino de notificação",
+    "Um sininho amarelo com um ponto vermelho de nova notificação.",
+    [
+     "notificação",
+     "sino",
+     "alerta",
+     "aviso"
+    ]
+   ],
+   "fr": [
+    "Cloche de notification",
+    "Une cloche jaune avec un point rouge pour les nouvelles notifications.",
+    [
+     "notification",
+     "cloche",
+     "alerte"
+    ]
+   ],
+   "de": [
+    "Benachrichtigungsglocke",
+    "Eine gelbe Glocke mit rotem Punkt für neue Benachrichtigungen.",
+    [
+     "Benachrichtigung",
+     "Glocke",
+     "Hinweis"
+    ]
+   ],
+   "zh": [
+    "通知铃铛",
+    "带红点的可爱黄色铃铛，表示新通知。",
+    [
+     "通知",
+     "铃铛",
+     "提醒",
+     "消息"
+    ]
+   ],
+   "ko": [
+    "알림 벨",
+    "빨간 점이 달린 귀여운 노란 알림 종.",
+    [
+     "알림",
+     "벨",
+     "새 소식",
+     "푸시"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "chat-bubbles",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Chat bubbles",
+    "Two overlapping speech bubbles for chat and messaging.",
+    [
+     "chat",
+     "message",
+     "speech bubble",
+     "conversation"
+    ]
+   ],
+   "ja": [
+    "チャットの吹き出し",
+    "重なった2つの吹き出し。チャットやメッセージに。",
+    [
+     "チャット",
+     "吹き出し",
+     "メッセージ",
+     "会話"
+    ]
+   ],
+   "es": [
+    "Burbujas de chat",
+    "Dos burbujas de diálogo superpuestas para chat y mensajes.",
+    [
+     "chat",
+     "mensaje",
+     "bocadillo",
+     "conversación"
+    ]
+   ],
+   "pt": [
+    "Balões de conversa",
+    "Dois balões de fala sobrepostos para chat e mensagens.",
+    [
+     "chat",
+     "mensagem",
+     "balão de fala",
+     "conversa"
+    ]
+   ],
+   "fr": [
+    "Bulles de discussion",
+    "Deux bulles de dialogue superposées pour le chat et les messages.",
+    [
+     "chat",
+     "message",
+     "bulle",
+     "discussion"
+    ]
+   ],
+   "de": [
+    "Chat-Sprechblasen",
+    "Zwei überlappende Sprechblasen für Chat und Nachrichten.",
+    [
+     "Chat",
+     "Nachricht",
+     "Sprechblase",
+     "Gespräch"
+    ]
+   ],
+   "zh": [
+    "聊天气泡",
+    "两个重叠的对话气泡，用于聊天和消息。",
+    [
+     "聊天",
+     "对话框",
+     "消息",
+     "沟通"
+    ]
+   ],
+   "ko": [
+    "채팅 말풍선",
+    "겹쳐진 두 개의 말풍선, 채팅과 메시지 아이콘.",
+    [
+     "채팅",
+     "말풍선",
+     "메시지",
+     "대화"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "play-button",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Video play button",
+    "A video player screen with a play button and a progress bar.",
+    [
+     "video",
+     "play",
+     "streaming",
+     "movie"
+    ]
+   ],
+   "ja": [
+    "動画の再生ボタン",
+    "再生ボタンとシークバーがある動画プレーヤー。",
+    [
+     "動画",
+     "再生",
+     "配信",
+     "ムービー"
+    ]
+   ],
+   "es": [
+    "Botón de reproducir vídeo",
+    "Un reproductor de vídeo con botón de play y barra de progreso.",
+    [
+     "video",
+     "reproducir",
+     "streaming",
+     "película"
+    ]
+   ],
+   "pt": [
+    "Botão de play de vídeo",
+    "Um player de vídeo com botão de play e barra de progresso.",
+    [
+     "vídeo",
+     "play",
+     "streaming",
+     "filme"
+    ]
+   ],
+   "fr": [
+    "Bouton lecture vidéo",
+    "Un lecteur vidéo avec un bouton lecture et une barre de progression.",
+    [
+     "vidéo",
+     "lecture",
+     "streaming",
+     "film"
+    ]
+   ],
+   "de": [
+    "Video-Play-Taste",
+    "Ein Videoplayer mit Play-Taste und Fortschrittsbalken.",
+    [
+     "Video",
+     "abspielen",
+     "Streaming",
+     "Film"
+    ]
+   ],
+   "zh": [
+    "视频播放按钮",
+    "带播放按钮和进度条的视频播放器。",
+    [
+     "视频",
+     "播放",
+     "直播",
+     "影片"
+    ]
+   ],
+   "ko": [
+    "동영상 재생 버튼",
+    "재생 버튼과 진행 바가 있는 동영상 플레이어.",
+    [
+     "동영상",
+     "재생",
+     "스트리밍",
+     "영상"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "live-stream",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Live streaming camera",
+    "A video camera with a red recording light and signal waves.",
+    [
+     "live stream",
+     "camera",
+     "recording",
+     "broadcast"
+    ]
+   ],
+   "ja": [
+    "ライブ配信カメラ",
+    "赤い録画ランプと電波が出ているビデオカメラ。",
+    [
+     "ライブ配信",
+     "カメラ",
+     "録画",
+     "生放送"
+    ]
+   ],
+   "es": [
+    "Cámara en directo",
+    "Una videocámara con luz roja de grabación y ondas de señal.",
+    [
+     "en directo",
+     "cámara",
+     "grabación",
+     "transmisión"
+    ]
+   ],
+   "pt": [
+    "Câmera de live",
+    "Uma câmera de vídeo com luz vermelha de gravação e ondas de sinal.",
+    [
+     "live",
+     "câmera",
+     "gravação",
+     "transmissão"
+    ]
+   ],
+   "fr": [
+    "Caméra de direct",
+    "Une caméra vidéo avec un voyant rouge d'enregistrement.",
+    [
+     "direct",
+     "caméra",
+     "enregistrement",
+     "diffusion"
+    ]
+   ],
+   "de": [
+    "Livestream-Kamera",
+    "Eine Videokamera mit rotem Aufnahmelicht und Signalwellen.",
+    [
+     "Livestream",
+     "Kamera",
+     "Aufnahme",
+     "Übertragung"
+    ]
+   ],
+   "zh": [
+    "直播摄像机",
+    "亮着红色录制灯并发出信号的摄像机。",
+    [
+     "直播",
+     "摄像机",
+     "录像",
+     "视频"
+    ]
+   ],
+   "ko": [
+    "라이브 방송 카메라",
+    "빨간 녹화 램프와 신호가 나오는 비디오카메라.",
+    [
+     "라이브 방송",
+     "카메라",
+     "녹화",
+     "스트리밍"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "thumbs-up-like",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Thumbs up like",
+    "A hand giving a thumbs up, like a social media like.",
+    [
+     "like",
+     "thumbs up",
+     "good",
+     "social media"
+    ]
+   ],
+   "ja": [
+    "いいね（グッド）",
+    "親指を立てた手。SNSの「いいね」に。",
+    [
+     "いいね",
+     "グッド",
+     "親指",
+     "SNS"
+    ]
+   ],
+   "es": [
+    "Pulgar arriba",
+    "Una mano con el pulgar hacia arriba, como un me gusta.",
+    [
+     "me gusta",
+     "pulgar arriba",
+     "bien",
+     "redes sociales"
+    ]
+   ],
+   "pt": [
+    "Joinha",
+    "Uma mão fazendo joinha, como uma curtida nas redes sociais.",
+    [
+     "curtir",
+     "joinha",
+     "like",
+     "redes sociais"
+    ]
+   ],
+   "fr": [
+    "Pouce levé",
+    "Une main qui lève le pouce, comme un j'aime sur les réseaux.",
+    [
+     "j'aime",
+     "pouce levé",
+     "like",
+     "réseaux sociaux"
+    ]
+   ],
+   "de": [
+    "Daumen hoch",
+    "Eine Hand mit erhobenem Daumen wie ein Like.",
+    [
+     "Like",
+     "Daumen hoch",
+     "gut",
+     "soziale Medien"
+    ]
+   ],
+   "zh": [
+    "点赞",
+    "竖起大拇指的手，像社交媒体上的点赞。",
+    [
+     "点赞",
+     "大拇指",
+     "好评",
+     "社交媒体"
+    ]
+   ],
+   "ko": [
+    "좋아요 엄지척",
+    "엄지를 치켜든 손, SNS 좋아요 아이콘.",
+    [
+     "좋아요",
+     "엄지척",
+     "최고",
+     "SNS"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "comment",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Comment bubble",
+    "A yellow speech bubble with three dots for comments.",
+    [
+     "comment",
+     "speech bubble",
+     "reply",
+     "typing"
+    ]
+   ],
+   "ja": [
+    "コメントの吹き出し",
+    "点が3つ並んだ黄色いコメントの吹き出し。",
+    [
+     "コメント",
+     "吹き出し",
+     "返信",
+     "入力中"
+    ]
+   ],
+   "es": [
+    "Burbuja de comentario",
+    "Un bocadillo amarillo con tres puntos para comentarios.",
+    [
+     "comentario",
+     "bocadillo",
+     "respuesta",
+     "escribiendo"
+    ]
+   ],
+   "pt": [
+    "Balão de comentário",
+    "Um balão amarelo com três pontinhos para comentários.",
+    [
+     "comentário",
+     "balão",
+     "resposta",
+     "digitando"
+    ]
+   ],
+   "fr": [
+    "Bulle de commentaire",
+    "Une bulle jaune avec trois points pour les commentaires.",
+    [
+     "commentaire",
+     "bulle",
+     "réponse"
+    ]
+   ],
+   "de": [
+    "Kommentar-Sprechblase",
+    "Eine gelbe Sprechblase mit drei Punkten für Kommentare.",
+    [
+     "Kommentar",
+     "Sprechblase",
+     "Antwort",
+     "tippt"
+    ]
+   ],
+   "zh": [
+    "评论气泡",
+    "带三个点的黄色评论气泡。",
+    [
+     "评论",
+     "对话框",
+     "回复",
+     "留言"
+    ]
+   ],
+   "ko": [
+    "댓글 말풍선",
+    "점 세 개가 있는 노란 댓글 말풍선.",
+    [
+     "댓글",
+     "말풍선",
+     "답글",
+     "입력 중"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "database",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Database",
+    "A stacked cylinder database icon with small status lights.",
+    [
+     "database",
+     "server",
+     "data",
+     "storage"
+    ]
+   ],
+   "ja": [
+    "データベース",
+    "小さなランプが付いた、円柱を重ねたデータベースのアイコン。",
+    [
+     "データベース",
+     "サーバー",
+     "データ",
+     "ストレージ"
+    ]
+   ],
+   "es": [
+    "Base de datos",
+    "Un icono de base de datos de cilindros apilados con luces.",
+    [
+     "base de datos",
+     "servidor",
+     "datos",
+     "almacenamiento"
+    ]
+   ],
+   "pt": [
+    "Banco de dados",
+    "Um ícone de banco de dados em cilindros empilhados com luzes.",
+    [
+     "banco de dados",
+     "servidor",
+     "dados",
+     "armazenamento"
+    ]
+   ],
+   "fr": [
+    "Base de données",
+    "Une icône de base de données en cylindres empilés.",
+    [
+     "base de données",
+     "serveur",
+     "données",
+     "stockage"
+    ]
+   ],
+   "de": [
+    "Datenbank",
+    "Ein Datenbank-Symbol aus gestapelten Zylindern mit kleinen Lämpchen.",
+    [
+     "Datenbank",
+     "Server",
+     "Daten",
+     "Speicher"
+    ]
+   ],
+   "zh": [
+    "数据库",
+    "叠起的圆柱形数据库图标，带小指示灯。",
+    [
+     "数据库",
+     "服务器",
+     "数据",
+     "存储"
+    ]
+   ],
+   "ko": [
+    "데이터베이스",
+    "작은 표시등이 달린 원통형 데이터베이스 아이콘.",
+    [
+     "데이터베이스",
+     "서버",
+     "데이터",
+     "저장소"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "satellite",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Satellite",
+    "A cute satellite with solar panels and a dish floating in space.",
+    [
+     "satellite",
+     "space",
+     "communication",
+     "GPS"
+    ]
+   ],
+   "ja": [
+    "人工衛星",
+    "太陽光パネルとアンテナを広げて宇宙に浮かぶかわいい人工衛星。",
+    [
+     "人工衛星",
+     "宇宙",
+     "通信",
+     "GPS"
+    ]
+   ],
+   "es": [
+    "Satélite",
+    "Un satélite simpático con paneles solares y antena en el espacio.",
+    [
+     "satélite",
+     "espacio",
+     "comunicación",
+     "GPS"
+    ]
+   ],
+   "pt": [
+    "Satélite",
+    "Um satélite fofo com painéis solares e antena no espaço.",
+    [
+     "satélite",
+     "espaço",
+     "comunicação",
+     "GPS"
+    ]
+   ],
+   "fr": [
+    "Satellite",
+    "Un satellite mignon avec panneaux solaires et antenne dans l'espace.",
+    [
+     "satellite",
+     "espace",
+     "communication",
+     "GPS"
+    ]
+   ],
+   "de": [
+    "Satellit",
+    "Ein niedlicher Satellit mit Solarpaneelen und Antenne im All.",
+    [
+     "Satellit",
+     "Weltraum",
+     "Kommunikation",
+     "GPS"
+    ]
+   ],
+   "zh": [
+    "人造卫星",
+    "展开太阳能板和天线、漂浮在太空中的可爱卫星。",
+    [
+     "卫星",
+     "太空",
+     "通信",
+     "GPS"
+    ]
+   ],
+   "ko": [
+    "인공위성",
+    "태양광 패널과 안테나를 단 귀여운 인공위성.",
+    [
+     "인공위성",
+     "우주",
+     "통신",
+     "GPS"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "antenna-tower",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Antenna tower",
+    "A radio tower sending out signal waves from the top.",
+    [
+     "antenna",
+     "signal",
+     "radio tower",
+     "network"
+    ]
+   ],
+   "ja": [
+    "電波塔",
+    "てっぺんから電波を出しているアンテナの塔。",
+    [
+     "電波塔",
+     "アンテナ",
+     "電波",
+     "通信"
+    ]
+   ],
+   "es": [
+    "Torre de antena",
+    "Una torre de radio que emite ondas de señal desde la punta.",
+    [
+     "antena",
+     "señal",
+     "torre",
+     "red"
+    ]
+   ],
+   "pt": [
+    "Torre de antena",
+    "Uma torre de transmissão emitindo ondas de sinal no topo.",
+    [
+     "antena",
+     "sinal",
+     "torre",
+     "rede"
+    ]
+   ],
+   "fr": [
+    "Antenne relais",
+    "Une tour radio qui émet des ondes depuis son sommet.",
+    [
+     "antenne",
+     "signal",
+     "réseau",
+     "émetteur"
+    ]
+   ],
+   "de": [
+    "Funkturm",
+    "Ein Funkturm, der oben Signalwellen aussendet.",
+    [
+     "Antenne",
+     "Signal",
+     "Funkturm",
+     "Netz"
+    ]
+   ],
+   "zh": [
+    "信号塔",
+    "塔顶发出信号波的天线塔。",
+    [
+     "信号塔",
+     "天线",
+     "信号",
+     "通信"
+    ]
+   ],
+   "ko": [
+    "안테나 탑",
+    "꼭대기에서 전파를 보내는 송신탑.",
+    [
+     "안테나",
+     "전파",
+     "송신탑",
+     "통신"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "charging-cable",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Charging cable",
+    "A charging cable with a lightning bolt on the connector.",
+    [
+     "charging cable",
+     "charger",
+     "USB",
+     "battery"
+    ]
+   ],
+   "ja": [
+    "充電ケーブル",
+    "コネクタに稲妻マークが付いた充電ケーブル。",
+    [
+     "充電ケーブル",
+     "充電",
+     "USB",
+     "バッテリー"
+    ]
+   ],
+   "es": [
+    "Cable de carga",
+    "Un cable de carga con un rayo en el conector.",
+    [
+     "cable de carga",
+     "cargador",
+     "USB",
+     "batería"
+    ]
+   ],
+   "pt": [
+    "Cabo carregador",
+    "Um cabo de carregador com um raio no conector.",
+    [
+     "cabo carregador",
+     "carregador",
+     "USB",
+     "bateria"
+    ]
+   ],
+   "fr": [
+    "Câble de recharge",
+    "Un câble de recharge avec un éclair sur le connecteur.",
+    [
+     "câble de recharge",
+     "chargeur",
+     "USB",
+     "batterie"
+    ]
+   ],
+   "de": [
+    "Ladekabel",
+    "Ein Ladekabel mit Blitzsymbol am Stecker.",
+    [
+     "Ladekabel",
+     "Ladegerät",
+     "USB",
+     "Akku"
+    ]
+   ],
+   "zh": [
+    "充电线",
+    "接头上带闪电图案的充电线。",
+    [
+     "充电线",
+     "充电",
+     "USB",
+     "电池"
+    ]
+   ],
+   "ko": [
+    "충전 케이블",
+    "커넥터에 번개 모양이 있는 충전 케이블.",
+    [
+     "충전 케이블",
+     "충전기",
+     "USB",
+     "배터리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "power-plug",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Power plug and outlet",
+    "A plug about to go into a smiling wall outlet.",
+    [
+     "plug",
+     "outlet",
+     "electricity",
+     "power"
+    ]
+   ],
+   "ja": [
+    "コンセントとプラグ",
+    "にっこり顔のコンセントに差し込もうとしているプラグ。",
+    [
+     "コンセント",
+     "プラグ",
+     "電気",
+     "電源"
+    ]
+   ],
+   "es": [
+    "Enchufe y toma de corriente",
+    "Un enchufe a punto de conectarse a una toma sonriente.",
+    [
+     "enchufe",
+     "toma de corriente",
+     "electricidad",
+     "energía"
+    ]
+   ],
+   "pt": [
+    "Plugue e tomada",
+    "Um plugue prestes a entrar em uma tomada sorridente.",
+    [
+     "plugue",
+     "tomada",
+     "eletricidade",
+     "energia"
+    ]
+   ],
+   "fr": [
+    "Prise et fiche",
+    "Une fiche électrique sur le point d'entrer dans une prise souriante.",
+    [
+     "prise",
+     "fiche",
+     "électricité",
+     "courant"
+    ]
+   ],
+   "de": [
+    "Stecker und Steckdose",
+    "Ein Stecker kurz vor einer lächelnden Steckdose.",
+    [
+     "Stecker",
+     "Steckdose",
+     "Strom",
+     "Elektrizität"
+    ]
+   ],
+   "zh": [
+    "插头和插座",
+    "即将插进笑脸插座的插头。",
+    [
+     "插头",
+     "插座",
+     "电",
+     "电源"
+    ]
+   ],
+   "ko": [
+    "플러그와 콘센트",
+    "웃는 얼굴 콘센트에 꽂으려는 플러그.",
+    [
+     "플러그",
+     "콘센트",
+     "전기",
+     "전원"
+    ]
+   ]
+  }
+ }
+]

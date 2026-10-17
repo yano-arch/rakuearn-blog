@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "solar-panel",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Solar panel and sun",
+    "A solar panel soaking up light from a smiling sun.",
+    [
+     "solar panel",
+     "solar energy",
+     "renewable energy",
+     "eco"
+    ]
+   ],
+   "ja": [
+    "太陽光パネルと太陽",
+    "にっこり笑う太陽の光を受ける太陽光パネル。",
+    [
+     "太陽光発電",
+     "ソーラーパネル",
+     "再生可能エネルギー",
+     "エコ"
+    ]
+   ],
+   "es": [
+    "Panel solar y sol",
+    "Un panel solar que recibe la luz de un sol sonriente.",
+    [
+     "panel solar",
+     "energía solar",
+     "energía renovable",
+     "ecología"
+    ]
+   ],
+   "pt": [
+    "Painel solar e sol",
+    "Um painel solar recebendo a luz de um sol sorridente.",
+    [
+     "painel solar",
+     "energia solar",
+     "energia renovável",
+     "sustentabilidade"
+    ]
+   ],
+   "fr": [
+    "Panneau solaire et soleil",
+    "Un panneau solaire qui capte la lumière d'un soleil souriant.",
+    [
+     "panneau solaire",
+     "énergie solaire",
+     "énergie renouvelable",
+     "écologie"
+    ]
+   ],
+   "de": [
+    "Solarmodul und Sonne",
+    "Ein Solarmodul, das das Licht einer lächelnden Sonne einfängt.",
+    [
+     "Solaranlage",
+     "Solarenergie",
+     "erneuerbare Energie",
+     "Umwelt"
+    ]
+   ],
+   "zh": [
+    "太阳能板和太阳",
+    "接收微笑太阳光芒的太阳能电池板。",
+    [
+     "太阳能板",
+     "太阳能发电",
+     "可再生能源",
+     "环保"
+    ]
+   ],
+   "ko": [
+    "태양광 패널과 해",
+    "웃는 해의 빛을 받는 태양광 패널.",
+    [
+     "태양광 패널",
+     "태양광 발전",
+     "재생 에너지",
+     "친환경"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ev-charging",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Electric car charging",
+    "An electric car plugged into a charging station.",
+    [
+     "electric car",
+     "EV charging",
+     "charging station",
+     "eco"
+    ]
+   ],
+   "ja": [
+    "充電中の電気自動車",
+    "充電スタンドにつながれた電気自動車。",
+    [
+     "電気自動車",
+     "EV",
+     "充電スタンド",
+     "エコ"
+    ]
+   ],
+   "es": [
+    "Coche eléctrico cargando",
+    "Un coche eléctrico conectado a una estación de carga.",
+    [
+     "coche eléctrico",
+     "carga",
+     "estación de carga",
+     "ecológico"
+    ]
+   ],
+   "pt": [
+    "Carro elétrico carregando",
+    "Um carro elétrico conectado a um eletroposto.",
+    [
+     "carro elétrico",
+     "eletroposto",
+     "recarga",
+     "sustentável"
+    ]
+   ],
+   "fr": [
+    "Voiture électrique en charge",
+    "Une voiture électrique branchée à une borne de recharge.",
+    [
+     "voiture électrique",
+     "borne de recharge",
+     "recharge",
+     "écologie"
+    ]
+   ],
+   "de": [
+    "E-Auto an der Ladesäule",
+    "Ein Elektroauto, das an einer Ladesäule geladen wird.",
+    [
+     "E-Auto",
+     "Ladesäule",
+     "Elektromobilität",
+     "Umwelt"
+    ]
+   ],
+   "zh": [
+    "电动汽车充电",
+    "连接在充电桩上充电的电动汽车。",
+    [
+     "电动汽车",
+     "充电桩",
+     "新能源车",
+     "环保"
+    ]
+   ],
+   "ko": [
+    "충전 중인 전기차",
+    "충전기에 연결된 전기 자동차.",
+    [
+     "전기차",
+     "충전소",
+     "전기차 충전",
+     "친환경"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "online-shopping",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Online shopping on a phone",
+    "A smartphone showing a shopping cart, next to a shopping bag.",
+    [
+     "online shopping",
+     "e-commerce",
+     "shopping cart",
+     "smartphone"
+    ]
+   ],
+   "ja": [
+    "スマホでネットショッピング",
+    "買い物カートが映ったスマホと買い物袋。",
+    [
+     "ネットショッピング",
+     "通販",
+     "EC",
+     "スマホ"
+    ]
+   ],
+   "es": [
+    "Compras en línea con el móvil",
+    "Un móvil con un carrito de compras en pantalla y una bolsa al lado.",
+    [
+     "compras en línea",
+     "comercio electrónico",
+     "carrito",
+     "móvil"
+    ]
+   ],
+   "pt": [
+    "Compras online no celular",
+    "Um celular com um carrinho de compras na tela e uma sacola ao lado.",
+    [
+     "compras online",
+     "e-commerce",
+     "carrinho",
+     "celular"
+    ]
+   ],
+   "fr": [
+    "Achats en ligne sur mobile",
+    "Un smartphone affichant un panier, à côté d'un sac de courses.",
+    [
+     "achats en ligne",
+     "e-commerce",
+     "panier",
+     "smartphone"
+    ]
+   ],
+   "de": [
+    "Online-Shopping mit dem Handy",
+    "Ein Smartphone mit Einkaufswagen auf dem Bildschirm und eine Einkaufstüte.",
+    [
+     "Online-Shopping",
+     "Onlineshop",
+     "Warenkorb",
+     "Smartphone"
+    ]
+   ],
+   "zh": [
+    "手机网购",
+    "屏幕上显示购物车的手机和购物袋。",
+    [
+     "网购",
+     "电商",
+     "购物车",
+     "手机"
+    ]
+   ],
+   "ko": [
+    "스마트폰 온라인 쇼핑",
+    "장바구니가 뜬 스마트폰과 쇼핑백.",
+    [
+     "온라인 쇼핑",
+     "인터넷 쇼핑",
+     "장바구니",
+     "스마트폰"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mobile-payment",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Paying with a smartphone",
+    "A smartphone tapping a payment terminal for contactless payment.",
+    [
+     "mobile payment",
+     "contactless",
+     "cashless",
+     "payment terminal"
+    ]
+   ],
+   "ja": [
+    "スマホ決済",
+    "スマホを決済端末にかざしてタッチ決済。",
+    [
+     "スマホ決済",
+     "キャッシュレス",
+     "タッチ決済",
+     "電子マネー"
+    ]
+   ],
+   "es": [
+    "Pago con el móvil",
+    "Un móvil acercándose a un datáfono para pagar sin contacto.",
+    [
+     "pago móvil",
+     "sin contacto",
+     "pago sin efectivo",
+     "datáfono"
+    ]
+   ],
+   "pt": [
+    "Pagamento por aproximação",
+    "Um celular encostando na maquininha para pagar por aproximação.",
+    [
+     "pagamento por aproximação",
+     "pagamento digital",
+     "maquininha",
+     "celular"
+    ]
+   ],
+   "fr": [
+    "Paiement mobile",
+    "Un smartphone approché d'un terminal pour un paiement sans contact.",
+    [
+     "paiement mobile",
+     "sans contact",
+     "terminal de paiement",
+     "cashless"
+    ]
+   ],
+   "de": [
+    "Mit dem Handy bezahlen",
+    "Ein Smartphone wird zum kontaktlosen Bezahlen an ein Kartenterminal gehalten.",
+    [
+     "mobiles Bezahlen",
+     "kontaktlos",
+     "bargeldlos",
+     "Kartenterminal"
+    ]
+   ],
+   "zh": [
+    "手机支付",
+    "把手机靠近收款机进行感应支付。",
+    [
+     "手机支付",
+     "移动支付",
+     "无现金",
+     "收款机"
+    ]
+   ],
+   "ko": [
+    "스마트폰 결제",
+    "스마트폰을 결제 단말기에 대어 비접촉 결제하는 모습.",
+    [
+     "모바일 결제",
+     "간편결제",
+     "비접촉 결제",
+     "캐시리스"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "gps-phone",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Map app with location pin",
+    "A smartphone showing a map with a big location pin.",
+    [
+     "map",
+     "GPS",
+     "location",
+     "navigation"
+    ]
+   ],
+   "ja": [
+    "スマホの地図アプリ",
+    "大きな位置ピンが立った地図を表示するスマホ。",
+    [
+     "地図アプリ",
+     "GPS",
+     "位置情報",
+     "ナビ"
+    ]
+   ],
+   "es": [
+    "Mapa en el móvil",
+    "Un móvil con un mapa y un gran marcador de ubicación.",
+    [
+     "mapa",
+     "GPS",
+     "ubicación",
+     "navegación"
+    ]
+   ],
+   "pt": [
+    "Mapa no celular",
+    "Um celular mostrando um mapa com um grande pino de localização.",
+    [
+     "mapa",
+     "GPS",
+     "localização",
+     "navegação"
+    ]
+   ],
+   "fr": [
+    "Carte sur smartphone",
+    "Un smartphone affichant une carte avec un gros repère de localisation.",
+    [
+     "carte",
+     "GPS",
+     "localisation",
+     "navigation"
+    ]
+   ],
+   "de": [
+    "Karten-App mit Standort",
+    "Ein Smartphone mit einer Karte und einer großen Standortnadel.",
+    [
+     "Karte",
+     "GPS",
+     "Standort",
+     "Navigation"
+    ]
+   ],
+   "zh": [
+    "手机地图定位",
+    "显示地图和大大的定位图标的手机。",
+    [
+     "地图",
+     "GPS",
+     "定位",
+     "导航"
+    ]
+   ],
+   "ko": [
+    "스마트폰 지도 앱",
+    "큰 위치 핀이 꽂힌 지도를 보여주는 스마트폰.",
+    [
+     "지도",
+     "GPS",
+     "위치",
+     "내비게이션"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "smart-home",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smart home",
+    "A house connected to Wi-Fi, controlled from a smartphone.",
+    [
+     "smart home",
+     "IoT",
+     "Wi-Fi",
+     "home automation"
+    ]
+   ],
+   "ja": [
+    "スマートホーム",
+    "Wi-Fiにつながり、スマホで操作できる家。",
+    [
+     "スマートホーム",
+     "IoT",
+     "Wi-Fi",
+     "スマート家電"
+    ]
+   ],
+   "es": [
+    "Casa inteligente",
+    "Una casa conectada al wifi y controlada desde el móvil.",
+    [
+     "casa inteligente",
+     "domótica",
+     "IoT",
+     "wifi"
+    ]
+   ],
+   "pt": [
+    "Casa inteligente",
+    "Uma casa conectada ao Wi-Fi e controlada pelo celular.",
+    [
+     "casa inteligente",
+     "automação residencial",
+     "IoT",
+     "Wi-Fi"
+    ]
+   ],
+   "fr": [
+    "Maison connectée",
+    "Une maison reliée au Wi-Fi et pilotée depuis un smartphone.",
+    [
+     "maison connectée",
+     "domotique",
+     "IoT",
+     "Wi-Fi"
+    ]
+   ],
+   "de": [
+    "Smart Home",
+    "Ein Haus mit WLAN, das per Smartphone gesteuert wird.",
+    [
+     "Smart Home",
+     "Hausautomation",
+     "IoT",
+     "WLAN"
+    ]
+   ],
+   "zh": [
+    "智能家居",
+    "连接Wi-Fi、可用手机控制的房子。",
+    [
+     "智能家居",
+     "物联网",
+     "Wi-Fi",
+     "智能家电"
+    ]
+   ],
+   "ko": [
+    "스마트홈",
+    "와이파이에 연결되어 스마트폰으로 제어하는 집.",
+    [
+     "스마트홈",
+     "IoT",
+     "와이파이",
+     "홈 오토메이션"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sd-card",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "SD card",
+    "A cute memory card with gold contacts.",
+    [
+     "SD card",
+     "memory card",
+     "storage",
+     "data"
+    ]
+   ],
+   "ja": [
+    "SDカード",
+    "金色の端子がついたかわいいメモリーカード。",
+    [
+     "SDカード",
+     "メモリーカード",
+     "記録メディア",
+     "データ"
+    ]
+   ],
+   "es": [
+    "Tarjeta SD",
+    "Una tarjeta de memoria simpática con contactos dorados.",
+    [
+     "tarjeta SD",
+     "tarjeta de memoria",
+     "almacenamiento",
+     "datos"
+    ]
+   ],
+   "pt": [
+    "Cartão SD",
+    "Um cartão de memória fofo com contatos dourados.",
+    [
+     "cartão SD",
+     "cartão de memória",
+     "armazenamento",
+     "dados"
+    ]
+   ],
+   "fr": [
+    "Carte SD",
+    "Une jolie carte mémoire avec des contacts dorés.",
+    [
+     "carte SD",
+     "carte mémoire",
+     "stockage",
+     "données"
+    ]
+   ],
+   "de": [
+    "SD-Karte",
+    "Eine niedliche Speicherkarte mit goldenen Kontakten.",
+    [
+     "SD-Karte",
+     "Speicherkarte",
+     "Speicher",
+     "Daten"
+    ]
+   ],
+   "zh": [
+    "SD卡",
+    "带金色触点的可爱存储卡。",
+    [
+     "SD卡",
+     "存储卡",
+     "内存卡",
+     "数据"
+    ]
+   ],
+   "ko": [
+    "SD 카드",
+    "금색 단자가 달린 귀여운 메모리 카드.",
+    [
+     "SD카드",
+     "메모리 카드",
+     "저장장치",
+     "데이터"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "save-disk",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Floppy disk save icon",
+    "A floppy disk, the classic symbol for saving a file.",
+    [
+     "save",
+     "floppy disk",
+     "icon",
+     "file"
+    ]
+   ],
+   "ja": [
+    "保存アイコンのフロッピー",
+    "ファイル保存のおなじみの目印、フロッピーディスク。",
+    [
+     "保存",
+     "フロッピーディスク",
+     "アイコン",
+     "ファイル"
+    ]
+   ],
+   "es": [
+    "Disquete de guardar",
+    "Un disquete, el símbolo clásico de guardar un archivo.",
+    [
+     "guardar",
+     "disquete",
+     "icono",
+     "archivo"
+    ]
+   ],
+   "pt": [
+    "Disquete de salvar",
+    "Um disquete, o símbolo clássico de salvar arquivo.",
+    [
+     "salvar",
+     "disquete",
+     "ícone",
+     "arquivo"
+    ]
+   ],
+   "fr": [
+    "Disquette d'enregistrement",
+    "Une disquette, le symbole classique pour enregistrer un fichier.",
+    [
+     "enregistrer",
+     "disquette",
+     "icône",
+     "fichier"
+    ]
+   ],
+   "de": [
+    "Diskette zum Speichern",
+    "Eine Diskette, das klassische Symbol fürs Speichern.",
+    [
+     "Speichern",
+     "Diskette",
+     "Icon",
+     "Datei"
+    ]
+   ],
+   "zh": [
+    "保存图标软盘",
+    "代表保存文件的经典图标——软盘。",
+    [
+     "保存",
+     "软盘",
+     "图标",
+     "文件"
+    ]
+   ],
+   "ko": [
+    "저장 아이콘 플로피 디스크",
+    "파일 저장을 뜻하는 친숙한 플로피 디스크.",
+    [
+     "저장",
+     "플로피 디스크",
+     "아이콘",
+     "파일"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cursor-click",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cursor clicking a button",
+    "A mouse cursor clicking a round button.",
+    [
+     "click",
+     "cursor",
+     "button",
+     "web"
+    ]
+   ],
+   "ja": [
+    "ボタンをクリックするカーソル",
+    "丸いボタンをクリックするマウスカーソル。",
+    [
+     "クリック",
+     "カーソル",
+     "ボタン",
+     "ウェブ"
+    ]
+   ],
+   "es": [
+    "Cursor haciendo clic",
+    "Un cursor del ratón haciendo clic en un botón redondo.",
+    [
+     "clic",
+     "cursor",
+     "botón",
+     "web"
+    ]
+   ],
+   "pt": [
+    "Cursor clicando",
+    "Um cursor do mouse clicando em um botão arredondado.",
+    [
+     "clique",
+     "cursor",
+     "botão",
+     "site"
+    ]
+   ],
+   "fr": [
+    "Curseur qui clique",
+    "Un curseur de souris qui clique sur un bouton arrondi.",
+    [
+     "clic",
+     "curseur",
+     "bouton",
+     "web"
+    ]
+   ],
+   "de": [
+    "Mauszeiger klickt",
+    "Ein Mauszeiger klickt auf einen runden Button.",
+    [
+     "Klick",
+     "Mauszeiger",
+     "Button",
+     "Web"
+    ]
+   ],
+   "zh": [
+    "鼠标点击按钮",
+    "鼠标光标点击圆角按钮。",
+    [
+     "点击",
+     "鼠标光标",
+     "按钮",
+     "网页"
+    ]
+   ],
+   "ko": [
+    "버튼을 클릭하는 커서",
+    "둥근 버튼을 클릭하는 마우스 커서.",
+    [
+     "클릭",
+     "커서",
+     "버튼",
+     "웹"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "loading",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Loading spinner",
+    "A spinning loading circle above a progress bar.",
+    [
+     "loading",
+     "progress bar",
+     "waiting",
+     "spinner"
+    ]
+   ],
+   "ja": [
+    "読み込み中",
+    "くるくる回る読み込みマークとプログレスバー。",
+    [
+     "読み込み中",
+     "ローディング",
+     "プログレスバー",
+     "待機"
+    ]
+   ],
+   "es": [
+    "Cargando",
+    "Un círculo de carga girando sobre una barra de progreso.",
+    [
+     "cargando",
+     "barra de progreso",
+     "espera",
+     "carga"
+    ]
+   ],
+   "pt": [
+    "Carregando",
+    "Um ícone de carregamento girando sobre uma barra de progresso.",
+    [
+     "carregando",
+     "barra de progresso",
+     "aguarde",
+     "loading"
+    ]
+   ],
+   "fr": [
+    "Chargement en cours",
+    "Un cercle de chargement qui tourne au-dessus d'une barre de progression.",
+    [
+     "chargement",
+     "barre de progression",
+     "attente",
+     "patienter"
+    ]
+   ],
+   "de": [
+    "Ladeanzeige",
+    "Ein drehender Ladekreis über einem Fortschrittsbalken.",
+    [
+     "Laden",
+     "Ladeanzeige",
+     "Fortschrittsbalken",
+     "Warten"
+    ]
+   ],
+   "zh": [
+    "加载中",
+    "旋转的加载图标和进度条。",
+    [
+     "加载中",
+     "进度条",
+     "等待",
+     "加载"
+    ]
+   ],
+   "ko": [
+    "로딩 중",
+    "빙글빙글 도는 로딩 아이콘과 진행 바.",
+    [
+     "로딩",
+     "진행 바",
+     "대기",
+     "로딩 중"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "error-warning",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Warning sign",
+    "A yellow warning triangle with an exclamation mark.",
+    [
+     "warning",
+     "error",
+     "caution",
+     "alert"
+    ]
+   ],
+   "ja": [
+    "警告マーク",
+    "びっくりマークの入った黄色い警告の三角形。",
+    [
+     "警告",
+     "エラー",
+     "注意",
+     "アラート"
+    ]
+   ],
+   "es": [
+    "Señal de advertencia",
+    "Un triángulo amarillo de advertencia con signo de exclamación.",
+    [
+     "advertencia",
+     "error",
+     "precaución",
+     "alerta"
+    ]
+   ],
+   "pt": [
+    "Sinal de alerta",
+    "Um triângulo amarelo de alerta com ponto de exclamação.",
+    [
+     "alerta",
+     "erro",
+     "atenção",
+     "aviso"
+    ]
+   ],
+   "fr": [
+    "Panneau d'avertissement",
+    "Un triangle jaune d'avertissement avec un point d'exclamation.",
+    [
+     "avertissement",
+     "erreur",
+     "attention",
+     "alerte"
+    ]
+   ],
+   "de": [
+    "Warnsymbol",
+    "Ein gelbes Warndreieck mit Ausrufezeichen.",
+    [
+     "Warnung",
+     "Fehler",
+     "Achtung",
+     "Hinweis"
+    ]
+   ],
+   "zh": [
+    "警告标志",
+    "带感叹号的黄色警告三角形。",
+    [
+     "警告",
+     "错误",
+     "注意",
+     "提醒"
+    ]
+   ],
+   "ko": [
+    "경고 표시",
+    "느낌표가 들어간 노란 경고 삼각형.",
+    [
+     "경고",
+     "오류",
+     "주의",
+     "알림"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "folder",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Folder with documents",
+    "A yellow folder with papers sticking out.",
+    [
+     "folder",
+     "documents",
+     "files",
+     "organize"
+    ]
+   ],
+   "ja": [
+    "書類の入ったフォルダ",
+    "書類がはみ出した黄色いフォルダ。",
+    [
+     "フォルダ",
+     "書類",
+     "ファイル",
+     "整理"
+    ]
+   ],
+   "es": [
+    "Carpeta con documentos",
+    "Una carpeta amarilla con papeles asomando.",
+    [
+     "carpeta",
+     "documentos",
+     "archivos",
+     "organizar"
+    ]
+   ],
+   "pt": [
+    "Pasta com documentos",
+    "Uma pasta amarela com papéis saindo.",
+    [
+     "pasta",
+     "documentos",
+     "arquivos",
+     "organização"
+    ]
+   ],
+   "fr": [
+    "Dossier avec documents",
+    "Un dossier jaune d'où dépassent des feuilles.",
+    [
+     "dossier",
+     "documents",
+     "fichiers",
+     "classement"
+    ]
+   ],
+   "de": [
+    "Ordner mit Dokumenten",
+    "Ein gelber Ordner, aus dem Blätter herausschauen.",
+    [
+     "Ordner",
+     "Dokumente",
+     "Dateien",
+     "Ablage"
+    ]
+   ],
+   "zh": [
+    "装着文件的文件夹",
+    "露出纸张的黄色文件夹。",
+    [
+     "文件夹",
+     "文件",
+     "资料",
+     "整理"
+    ]
+   ],
+   "ko": [
+    "서류가 든 폴더",
+    "종이가 삐져나온 노란 폴더.",
+    [
+     "폴더",
+     "서류",
+     "파일",
+     "정리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "trash-delete",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Trash can icon",
+    "A trash can with a lid, the icon for deleting.",
+    [
+     "trash",
+     "delete",
+     "garbage can",
+     "icon"
+    ]
+   ],
+   "ja": [
+    "ゴミ箱アイコン",
+    "削除を表す、ふた付きのゴミ箱。",
+    [
+     "ゴミ箱",
+     "削除",
+     "アイコン",
+     "ごみ"
+    ]
+   ],
+   "es": [
+    "Papelera",
+    "Una papelera con tapa, el icono de eliminar.",
+    [
+     "papelera",
+     "eliminar",
+     "borrar",
+     "icono"
+    ]
+   ],
+   "pt": [
+    "Lixeira",
+    "Uma lixeira com tampa, o ícone de excluir.",
+    [
+     "lixeira",
+     "excluir",
+     "apagar",
+     "ícone"
+    ]
+   ],
+   "fr": [
+    "Corbeille",
+    "Une poubelle avec couvercle, l'icône pour supprimer.",
+    [
+     "corbeille",
+     "supprimer",
+     "poubelle",
+     "icône"
+    ]
+   ],
+   "de": [
+    "Papierkorb",
+    "Ein Mülleimer mit Deckel, das Symbol fürs Löschen.",
+    [
+     "Papierkorb",
+     "Löschen",
+     "Mülleimer",
+     "Icon"
+    ]
+   ],
+   "zh": [
+    "垃圾桶图标",
+    "代表删除的带盖垃圾桶。",
+    [
+     "垃圾桶",
+     "删除",
+     "回收站",
+     "图标"
+    ]
+   ],
+   "ko": [
+    "휴지통 아이콘",
+    "삭제를 뜻하는 뚜껑 달린 휴지통.",
+    [
+     "휴지통",
+     "삭제",
+     "쓰레기통",
+     "아이콘"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "photo-gallery",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Photo gallery",
+    "Photos with mountains and a sun, stacked like a gallery.",
+    [
+     "photo",
+     "image",
+     "gallery",
+     "picture"
+    ]
+   ],
+   "ja": [
+    "写真ギャラリー",
+    "山と太陽が写った写真が重なったギャラリー。",
+    [
+     "写真",
+     "画像",
+     "ギャラリー",
+     "アルバム"
+    ]
+   ],
+   "es": [
+    "Galería de fotos",
+    "Fotos de montañas y sol apiladas como una galería.",
+    [
+     "foto",
+     "imagen",
+     "galería",
+     "álbum"
+    ]
+   ],
+   "pt": [
+    "Galeria de fotos",
+    "Fotos de montanhas e sol empilhadas como uma galeria.",
+    [
+     "foto",
+     "imagem",
+     "galeria",
+     "álbum"
+    ]
+   ],
+   "fr": [
+    "Galerie photo",
+    "Des photos de montagnes et de soleil empilées comme une galerie.",
+    [
+     "photo",
+     "image",
+     "galerie",
+     "album"
+    ]
+   ],
+   "de": [
+    "Fotogalerie",
+    "Gestapelte Fotos mit Bergen und Sonne.",
+    [
+     "Foto",
+     "Bild",
+     "Galerie",
+     "Album"
+    ]
+   ],
+   "zh": [
+    "相册图库",
+    "叠在一起的山和太阳的照片。",
+    [
+     "照片",
+     "图片",
+     "相册",
+     "图库"
+    ]
+   ],
+   "ko": [
+    "사진 갤러리",
+    "산과 해가 담긴 사진이 겹쳐진 갤러리.",
+    [
+     "사진",
+     "이미지",
+     "갤러리",
+     "앨범"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "microphone",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Podcast microphone",
+    "A friendly studio microphone on a stand.",
+    [
+     "microphone",
+     "podcast",
+     "recording",
+     "streaming"
+    ]
+   ],
+   "ja": [
+    "ポッドキャストのマイク",
+    "スタンドに立ったにっこり顔のマイク。",
+    [
+     "マイク",
+     "ポッドキャスト",
+     "録音",
+     "配信"
+    ]
+   ],
+   "es": [
+    "Micrófono de pódcast",
+    "Un simpático micrófono de estudio en su soporte.",
+    [
+     "micrófono",
+     "pódcast",
+     "grabación",
+     "streaming"
+    ]
+   ],
+   "pt": [
+    "Microfone de podcast",
+    "Um microfone de estúdio simpático no suporte.",
+    [
+     "microfone",
+     "podcast",
+     "gravação",
+     "live"
+    ]
+   ],
+   "fr": [
+    "Micro de podcast",
+    "Un joli micro de studio sur son pied.",
+    [
+     "micro",
+     "podcast",
+     "enregistrement",
+     "streaming"
+    ]
+   ],
+   "de": [
+    "Podcast-Mikrofon",
+    "Ein freundliches Studiomikrofon auf einem Ständer.",
+    [
+     "Mikrofon",
+     "Podcast",
+     "Aufnahme",
+     "Streaming"
+    ]
+   ],
+   "zh": [
+    "播客麦克风",
+    "立在支架上的可爱录音麦克风。",
+    [
+     "麦克风",
+     "播客",
+     "录音",
+     "直播"
+    ]
+   ],
+   "ko": [
+    "팟캐스트 마이크",
+    "스탠드에 놓인 귀여운 스튜디오 마이크.",
+    [
+     "마이크",
+     "팟캐스트",
+     "녹음",
+     "방송"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "game-console",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Handheld game console",
+    "A portable game console with buttons and a game on the screen.",
+    [
+     "game console",
+     "video game",
+     "handheld",
+     "gaming"
+    ]
+   ],
+   "ja": [
+    "携帯ゲーム機",
+    "ボタンがついて画面にゲームが映った携帯ゲーム機。",
+    [
+     "ゲーム機",
+     "ゲーム",
+     "携帯ゲーム",
+     "テレビゲーム"
+    ]
+   ],
+   "es": [
+    "Consola portátil",
+    "Una consola de videojuegos portátil con botones y un juego en pantalla.",
+    [
+     "consola",
+     "videojuegos",
+     "portátil",
+     "gamer"
+    ]
+   ],
+   "pt": [
+    "Videogame portátil",
+    "Um videogame portátil com botões e um jogo na tela.",
+    [
+     "videogame",
+     "console",
+     "portátil",
+     "games"
+    ]
+   ],
+   "fr": [
+    "Console portable",
+    "Une console de jeu portable avec des boutons et un jeu à l'écran.",
+    [
+     "console",
+     "jeu vidéo",
+     "portable",
+     "gaming"
+    ]
+   ],
+   "de": [
+    "Handheld-Konsole",
+    "Eine tragbare Spielkonsole mit Tasten und einem Spiel auf dem Bildschirm.",
+    [
+     "Spielkonsole",
+     "Videospiel",
+     "Handheld",
+     "Gaming"
+    ]
+   ],
+   "zh": [
+    "掌上游戏机",
+    "带按键、屏幕上显示游戏的掌机。",
+    [
+     "游戏机",
+     "掌机",
+     "电子游戏",
+     "游戏"
+    ]
+   ],
+   "ko": [
+    "휴대용 게임기",
+    "버튼이 달리고 화면에 게임이 나오는 휴대용 게임기.",
+    [
+     "게임기",
+     "비디오 게임",
+     "휴대용 게임기",
+     "게임"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "webcam",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Webcam",
+    "A round webcam on a small stand for video calls.",
+    [
+     "webcam",
+     "camera",
+     "video call",
+     "online meeting"
+    ]
+   ],
+   "ja": [
+    "ウェブカメラ",
+    "ビデオ通話に使う、スタンド付きの丸いウェブカメラ。",
+    [
+     "ウェブカメラ",
+     "カメラ",
+     "ビデオ通話",
+     "オンライン会議"
+    ]
+   ],
+   "es": [
+    "Cámara web",
+    "Una cámara web redonda sobre un soporte para videollamadas.",
+    [
+     "cámara web",
+     "webcam",
+     "videollamada",
+     "reunión online"
+    ]
+   ],
+   "pt": [
+    "Webcam",
+    "Uma webcam redonda em um suporte para chamadas de vídeo.",
+    [
+     "webcam",
+     "câmera",
+     "chamada de vídeo",
+     "reunião online"
+    ]
+   ],
+   "fr": [
+    "Webcam",
+    "Une webcam arrondie sur un petit pied pour les appels vidéo.",
+    [
+     "webcam",
+     "caméra",
+     "appel vidéo",
+     "visioconférence"
+    ]
+   ],
+   "de": [
+    "Webcam",
+    "Eine runde Webcam auf einem kleinen Standfuß für Videocalls.",
+    [
+     "Webcam",
+     "Kamera",
+     "Videoanruf",
+     "Videokonferenz"
+    ]
+   ],
+   "zh": [
+    "网络摄像头",
+    "用于视频通话的带支架的圆形摄像头。",
+    [
+     "摄像头",
+     "网络摄像头",
+     "视频通话",
+     "线上会议"
+    ]
+   ],
+   "ko": [
+    "웹캠",
+    "화상 통화용 받침대가 달린 둥근 웹캠.",
+    [
+     "웹캠",
+     "카메라",
+     "화상 통화",
+     "온라인 회의"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cloud-computing",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cloud network",
+    "A smiling cloud connected to several devices.",
+    [
+     "cloud",
+     "cloud computing",
+     "network",
+     "server"
+    ]
+   ],
+   "ja": [
+    "クラウドとネットワーク",
+    "いくつもの端末とつながるにっこり顔の雲。",
+    [
+     "クラウド",
+     "ネットワーク",
+     "サーバー",
+     "IT"
+    ]
+   ],
+   "es": [
+    "Red en la nube",
+    "Una nube sonriente conectada a varios dispositivos.",
+    [
+     "nube",
+     "computación en la nube",
+     "red",
+     "servidor"
+    ]
+   ],
+   "pt": [
+    "Rede na nuvem",
+    "Uma nuvem sorridente conectada a vários dispositivos.",
+    [
+     "nuvem",
+     "computação em nuvem",
+     "rede",
+     "servidor"
+    ]
+   ],
+   "fr": [
+    "Réseau cloud",
+    "Un nuage souriant relié à plusieurs appareils.",
+    [
+     "cloud",
+     "informatique en nuage",
+     "réseau",
+     "serveur"
+    ]
+   ],
+   "de": [
+    "Cloud-Netzwerk",
+    "Eine lächelnde Wolke, die mit mehreren Geräten verbunden ist.",
+    [
+     "Cloud",
+     "Cloud Computing",
+     "Netzwerk",
+     "Server"
+    ]
+   ],
+   "zh": [
+    "云计算网络",
+    "与多个设备相连的微笑云朵。",
+    [
+     "云计算",
+     "云端",
+     "网络",
+     "服务器"
+    ]
+   ],
+   "ko": [
+    "클라우드 네트워크",
+    "여러 기기와 연결된 웃는 구름.",
+    [
+     "클라우드",
+     "클라우드 컴퓨팅",
+     "네트워크",
+     "서버"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "robot-arm",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Industrial robot arm",
+    "A yellow robot arm picking up a box in a factory.",
+    [
+     "robot arm",
+     "industrial robot",
+     "automation",
+     "factory"
+    ]
+   ],
+   "ja": [
+    "産業用ロボットアーム",
+    "箱をつかもうとする黄色いロボットアーム。",
+    [
+     "ロボットアーム",
+     "産業用ロボット",
+     "自動化",
+     "工場"
+    ]
+   ],
+   "es": [
+    "Brazo robótico industrial",
+    "Un brazo robótico amarillo tomando una caja en una fábrica.",
+    [
+     "brazo robótico",
+     "robot industrial",
+     "automatización",
+     "fábrica"
+    ]
+   ],
+   "pt": [
+    "Braço robótico industrial",
+    "Um braço robótico amarelo pegando uma caixa na fábrica.",
+    [
+     "braço robótico",
+     "robô industrial",
+     "automação",
+     "fábrica"
+    ]
+   ],
+   "fr": [
+    "Bras robotique industriel",
+    "Un bras robotisé jaune qui attrape une boîte à l'usine.",
+    [
+     "bras robotique",
+     "robot industriel",
+     "automatisation",
+     "usine"
+    ]
+   ],
+   "de": [
+    "Industrieroboter-Arm",
+    "Ein gelber Roboterarm greift in der Fabrik nach einer Kiste.",
+    [
+     "Roboterarm",
+     "Industrieroboter",
+     "Automatisierung",
+     "Fabrik"
+    ]
+   ],
+   "zh": [
+    "工业机械臂",
+    "在工厂里抓取箱子的黄色机械臂。",
+    [
+     "机械臂",
+     "工业机器人",
+     "自动化",
+     "工厂"
+    ]
+   ],
+   "ko": [
+    "산업용 로봇 팔",
+    "공장에서 상자를 집으려는 노란 로봇 팔.",
+    [
+     "로봇 팔",
+     "산업용 로봇",
+     "자동화",
+     "공장"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "smartphone",
+  "cat": "tech",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smartphone",
+    "A simple smartphone with colorful app icons.",
+    [
+     "smartphone",
+     "mobile phone",
+     "apps",
+     "phone"
+    ]
+   ],
+   "ja": [
+    "スマートフォン",
+    "カラフルなアプリが並んだシンプルなスマホ。",
+    [
+     "スマホ",
+     "スマートフォン",
+     "アプリ",
+     "携帯電話"
+    ]
+   ],
+   "es": [
+    "Teléfono inteligente",
+    "Un móvil sencillo con iconos de apps de colores.",
+    [
+     "móvil",
+     "celular",
+     "smartphone",
+     "apps"
+    ]
+   ],
+   "pt": [
+    "Celular",
+    "Um celular simples com ícones de aplicativos coloridos.",
+    [
+     "celular",
+     "smartphone",
+     "aplicativos",
+     "telefone"
+    ]
+   ],
+   "fr": [
+    "Smartphone",
+    "Un smartphone simple avec des icônes d'applis colorées.",
+    [
+     "smartphone",
+     "téléphone portable",
+     "applis",
+     "mobile"
+    ]
+   ],
+   "de": [
+    "Smartphone",
+    "Ein schlichtes Smartphone mit bunten App-Symbolen.",
+    [
+     "Smartphone",
+     "Handy",
+     "Apps",
+     "Mobiltelefon"
+    ]
+   ],
+   "zh": [
+    "智能手机",
+    "排列着彩色应用图标的简洁手机。",
+    [
+     "手机",
+     "智能手机",
+     "应用",
+     "移动设备"
+    ]
+   ],
+   "ko": [
+    "스마트폰",
+    "알록달록한 앱 아이콘이 있는 심플한 스마트폰.",
+    [
+     "스마트폰",
+     "휴대폰",
+     "앱",
+     "핸드폰"
+    ]
+   ]
+  }
+ }
+]

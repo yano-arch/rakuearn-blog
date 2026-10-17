@@ -226,7 +226,6 @@ def page_illust(lang, item):
   <div class="detail-info">
     <h1>{e(title)}</h1>
     <p class="desc">{e(desc)}</p>
-    {badges(u)}
     <div class="dl">
       <a class="btn primary" data-dl="png" href="/images/png/{s}.png" download="{SITE_NAME.lower()}-{s}.png">{e(u['download_png'])} <small>1000×1000</small></a>
       <a class="btn" data-dl="svg" href="/images/svg/{s}.svg" download="{SITE_NAME.lower()}-{s}.svg">{e(u['download_svg'])}</a>

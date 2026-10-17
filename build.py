@@ -12,7 +12,7 @@ from datetime import date
 SITE_URL = "https://rakuearn.com"
 SITE_NAME = "FuwaFuwa"
 CONTACT_EMAIL = "support@studyshort.co.jp"
-ADSENSE_CLIENT = ""                       # 例: "ca-pub-1234567890123456"（AdSense承認後に設定）
+ADSENSE_CLIENT = "ca-pub-6815652261319315"  # AdSense サイト運営者ID（審査用の読み込みタグと ads.txt を出力）
 ADSENSE_SLOTS = {"top": "", "feed": "", "side": "", "bottom": ""}  # 各広告ユニットの data-ad-slot
 # ダウンロード時のリワード広告（Google Ad Manager の広告ユニットパス。例: "/1234567/fuwafuwa_rewarded"）
 # 未設定・広告が出ない・広告ブロック時は、そのままダウンロードできる
@@ -61,7 +61,7 @@ def url(lang, kind="home", arg=None):
 
 def ad(slot, lang):
     label = f'<span class="ad-label">{e(UI[lang]["ad_label"])}</span>'
-    if ADSENSE_CLIENT:
+    if ADSENSE_CLIENT and ADSENSE_SLOTS.get(slot):
         return (f'<div class="ad ad-{slot}">{label}<ins class="adsbygoogle" style="display:block" '
                 f'data-ad-client="{ADSENSE_CLIENT}" data-ad-slot="{ADSENSE_SLOTS.get(slot, "")}" '
                 f'data-ad-format="auto" data-full-width-responsive="true"></ins>'

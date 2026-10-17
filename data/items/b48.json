@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "map-route",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Map with Route",
+    "A folded travel map with a dotted route leading to a red pin.",
+    [
+     "map",
+     "route",
+     "travel",
+     "directions"
+    ]
+   ],
+   "ja": [
+    "ルートが描かれた地図",
+    "点線のルートと赤いピンが描かれた折りたたみ地図のイラスト。",
+    [
+     "地図",
+     "ルート",
+     "旅行",
+     "道順"
+    ]
+   ],
+   "es": [
+    "Mapa con ruta",
+    "Un mapa plegable con una ruta punteada que lleva a un marcador rojo.",
+    [
+     "mapa",
+     "ruta",
+     "viaje",
+     "ubicación"
+    ]
+   ],
+   "pt": [
+    "Mapa com rota",
+    "Um mapa dobrável com uma rota pontilhada até um marcador vermelho.",
+    [
+     "mapa",
+     "rota",
+     "viagem",
+     "localização"
+    ]
+   ],
+   "fr": [
+    "Carte avec itinéraire",
+    "Une carte pliée avec un itinéraire en pointillés menant à un repère rouge.",
+    [
+     "carte",
+     "itinéraire",
+     "voyage",
+     "trajet"
+    ]
+   ],
+   "de": [
+    "Karte mit Route",
+    "Eine gefaltete Landkarte mit gepunkteter Route zu einer roten Markierung.",
+    [
+     "karte",
+     "route",
+     "reise",
+     "wegbeschreibung"
+    ]
+   ],
+   "zh": [
+    "路线地图",
+    "画有虚线路线和红色定位标记的折叠地图。",
+    [
+     "地图",
+     "路线",
+     "旅行",
+     "导航"
+    ]
+   ],
+   "ko": [
+    "경로가 표시된 지도",
+    "점선 경로와 빨간 핀이 그려진 접이식 지도.",
+    [
+     "지도",
+     "경로",
+     "여행",
+     "길찾기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tent-stars",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tent Under the Stars",
+    "A cozy tent pitched under a starry night sky with a crescent moon.",
+    [
+     "camping",
+     "tent",
+     "night",
+     "stars"
+    ]
+   ],
+   "ja": [
+    "星空の下のテント",
+    "三日月と星が輝く夜空の下に張られたテントのイラスト。",
+    [
+     "キャンプ",
+     "テント",
+     "星空",
+     "夜"
+    ]
+   ],
+   "es": [
+    "Tienda bajo las estrellas",
+    "Una tienda de campaña bajo un cielo nocturno estrellado con luna creciente.",
+    [
+     "camping",
+     "tienda de campaña",
+     "noche",
+     "estrellas"
+    ]
+   ],
+   "pt": [
+    "Barraca sob as estrelas",
+    "Uma barraca de acampamento sob um céu noturno estrelado com lua crescente.",
+    [
+     "acampamento",
+     "barraca",
+     "noite",
+     "estrelas"
+    ]
+   ],
+   "fr": [
+    "Tente sous les étoiles",
+    "Une tente plantée sous un ciel nocturne étoilé avec un croissant de lune.",
+    [
+     "camping",
+     "tente",
+     "nuit",
+     "étoiles"
+    ]
+   ],
+   "de": [
+    "Zelt unter Sternen",
+    "Ein Zelt unter einem Sternenhimmel mit Mondsichel.",
+    [
+     "camping",
+     "zelt",
+     "nacht",
+     "sterne"
+    ]
+   ],
+   "zh": [
+    "星空下的帐篷",
+    "弯月和星星闪烁的夜空下搭起的帐篷。",
+    [
+     "露营",
+     "帐篷",
+     "星空",
+     "夜晚"
+    ]
+   ],
+   "ko": [
+    "별빛 아래 텐트",
+    "초승달과 별이 빛나는 밤하늘 아래의 텐트.",
+    [
+     "캠핑",
+     "텐트",
+     "별",
+     "밤"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mountain-cabin",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Mountain Cabin",
+    "A small log cabin with glowing windows in front of snowy mountains.",
+    [
+     "cabin",
+     "mountain",
+     "cottage",
+     "vacation"
+    ]
+   ],
+   "ja": [
+    "山小屋",
+    "雪山を背景に建つ、窓が明るいログハウスのイラスト。",
+    [
+     "山小屋",
+     "ログハウス",
+     "山",
+     "別荘"
+    ]
+   ],
+   "es": [
+    "Cabaña en la montaña",
+    "Una pequeña cabaña de madera con ventanas iluminadas frente a montañas nevadas.",
+    [
+     "cabaña",
+     "montaña",
+     "refugio",
+     "vacaciones"
+    ]
+   ],
+   "pt": [
+    "Chalé na montanha",
+    "Um pequeno chalé de madeira com janelas iluminadas diante de montanhas nevadas.",
+    [
+     "chalé",
+     "montanha",
+     "cabana",
+     "férias"
+    ]
+   ],
+   "fr": [
+    "Chalet de montagne",
+    "Un petit chalet en rondins aux fenêtres éclairées devant des montagnes enneigées.",
+    [
+     "chalet",
+     "montagne",
+     "refuge",
+     "vacances"
+    ]
+   ],
+   "de": [
+    "Berghütte",
+    "Eine kleine Blockhütte mit leuchtenden Fenstern vor verschneiten Bergen.",
+    [
+     "berghütte",
+     "berge",
+     "blockhaus",
+     "urlaub"
+    ]
+   ],
+   "zh": [
+    "山间小木屋",
+    "雪山前窗户透着暖光的小木屋。",
+    [
+     "小木屋",
+     "山",
+     "度假",
+     "山间"
+    ]
+   ],
+   "ko": [
+    "산장",
+    "눈 덮인 산 앞에 창문이 환한 통나무 산장.",
+    [
+     "산장",
+     "통나무집",
+     "산",
+     "휴가"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "airplane-window",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Airplane Window View",
+    "Clouds and a wing seen through an oval airplane window.",
+    [
+     "airplane",
+     "window",
+     "flight",
+     "sky"
+    ]
+   ],
+   "ja": [
+    "飛行機の窓からの景色",
+    "飛行機の丸い窓から見える雲と主翼のイラスト。",
+    [
+     "飛行機",
+     "窓",
+     "空",
+     "フライト"
+    ]
+   ],
+   "es": [
+    "Vista desde la ventanilla del avión",
+    "Nubes y un ala vistas a través de la ventanilla ovalada de un avión.",
+    [
+     "avión",
+     "ventanilla",
+     "vuelo",
+     "cielo"
+    ]
+   ],
+   "pt": [
+    "Vista da janela do avião",
+    "Nuvens e a asa vistas pela janela oval de um avião.",
+    [
+     "avião",
+     "janela",
+     "voo",
+     "céu"
+    ]
+   ],
+   "fr": [
+    "Vue depuis le hublot",
+    "Des nuages et une aile vus à travers le hublot d'un avion.",
+    [
+     "avion",
+     "hublot",
+     "vol",
+     "ciel"
+    ]
+   ],
+   "de": [
+    "Blick aus dem Flugzeugfenster",
+    "Wolken und ein Flügel, gesehen durch ein ovales Flugzeugfenster.",
+    [
+     "flugzeug",
+     "fenster",
+     "flug",
+     "himmel"
+    ]
+   ],
+   "zh": [
+    "飞机窗外的风景",
+    "从椭圆形飞机舷窗看到的云朵和机翼。",
+    [
+     "飞机",
+     "舷窗",
+     "飞行",
+     "天空"
+    ]
+   ],
+   "ko": [
+    "비행기 창밖 풍경",
+    "타원형 비행기 창문으로 보이는 구름과 날개.",
+    [
+     "비행기",
+     "창문",
+     "비행",
+     "하늘"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "check-in-counter",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Airport Check-in Counter",
+    "A smiling airline staff member at the check-in counter with a suitcase on the scale.",
+    [
+     "airport",
+     "check-in",
+     "airline",
+     "luggage"
+    ]
+   ],
+   "ja": [
+    "空港のチェックインカウンター",
+    "スーツケースを預けるチェックインカウンターと笑顔の係員のイラスト。",
+    [
+     "空港",
+     "チェックイン",
+     "カウンター",
+     "手荷物"
+    ]
+   ],
+   "es": [
+    "Mostrador de facturación",
+    "Una empleada sonriente en el mostrador de facturación del aeropuerto con una maleta en la báscula.",
+    [
+     "aeropuerto",
+     "facturación",
+     "aerolínea",
+     "equipaje"
+    ]
+   ],
+   "pt": [
+    "Balcão de check-in",
+    "Uma atendente sorridente no balcão de check-in do aeroporto com uma mala na balança.",
+    [
+     "aeroporto",
+     "check-in",
+     "companhia aérea",
+     "bagagem"
+    ]
+   ],
+   "fr": [
+    "Comptoir d'enregistrement",
+    "Une employée souriante au comptoir d'enregistrement de l'aéroport avec une valise sur la balance.",
+    [
+     "aéroport",
+     "enregistrement",
+     "compagnie aérienne",
+     "bagages"
+    ]
+   ],
+   "de": [
+    "Check-in-Schalter",
+    "Eine lächelnde Mitarbeiterin am Check-in-Schalter mit einem Koffer auf der Waage.",
+    [
+     "flughafen",
+     "check-in",
+     "fluggesellschaft",
+     "gepäck"
+    ]
+   ],
+   "zh": [
+    "机场值机柜台",
+    "值机柜台前微笑的工作人员和放在秤上的行李箱。",
+    [
+     "机场",
+     "值机",
+     "航空公司",
+     "行李"
+    ]
+   ],
+   "ko": [
+    "공항 체크인 카운터",
+    "미소 짓는 직원과 저울 위 여행 가방이 있는 체크인 카운터.",
+    [
+     "공항",
+     "체크인",
+     "항공사",
+     "수하물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "travel-pillow",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Travel Neck Pillow",
+    "A soft U-shaped neck pillow with a cute little face.",
+    [
+     "neck pillow",
+     "travel",
+     "flight",
+     "sleep"
+    ]
+   ],
+   "ja": [
+    "ネックピロー",
+    "かわいい顔のついたU字型のネックピローのイラスト。",
+    [
+     "ネックピロー",
+     "旅行",
+     "飛行機",
+     "睡眠"
+    ]
+   ],
+   "es": [
+    "Almohada de viaje",
+    "Una almohada cervical en forma de U con una carita tierna.",
+    [
+     "almohada de viaje",
+     "viaje",
+     "vuelo",
+     "dormir"
+    ]
+   ],
+   "pt": [
+    "Travesseiro de pescoço",
+    "Um travesseiro de pescoço em formato de U com uma carinha fofa.",
+    [
+     "travesseiro de pescoço",
+     "viagem",
+     "voo",
+     "dormir"
+    ]
+   ],
+   "fr": [
+    "Coussin de voyage",
+    "Un coussin de nuque en U avec un petit visage mignon.",
+    [
+     "coussin de voyage",
+     "voyage",
+     "vol",
+     "sommeil"
+    ]
+   ],
+   "de": [
+    "Nackenkissen",
+    "Ein weiches U-förmiges Nackenkissen mit niedlichem Gesicht.",
+    [
+     "nackenkissen",
+     "reise",
+     "flug",
+     "schlafen"
+    ]
+   ],
+   "zh": [
+    "U型颈枕",
+    "带有可爱小脸的柔软U型旅行颈枕。",
+    [
+     "颈枕",
+     "旅行",
+     "飞机",
+     "睡觉"
+    ]
+   ],
+   "ko": [
+    "목베개",
+    "귀여운 얼굴이 있는 U자형 여행용 목베개.",
+    [
+     "목베개",
+     "여행",
+     "비행기",
+     "수면"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "camping-chair",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Camping Chair and Lantern",
+    "A folding camping chair with a small lantern beside it.",
+    [
+     "camping chair",
+     "outdoor",
+     "camping",
+     "lantern"
+    ]
+   ],
+   "ja": [
+    "キャンプチェアとランタン",
+    "折りたたみ式のキャンプチェアと小さなランタンのイラスト。",
+    [
+     "キャンプ",
+     "チェア",
+     "アウトドア",
+     "ランタン"
+    ]
+   ],
+   "es": [
+    "Silla de camping y farol",
+    "Una silla plegable de camping con un pequeño farol al lado.",
+    [
+     "silla de camping",
+     "aire libre",
+     "camping",
+     "farol"
+    ]
+   ],
+   "pt": [
+    "Cadeira de camping e lampião",
+    "Uma cadeira dobrável de camping com um pequeno lampião ao lado.",
+    [
+     "cadeira de camping",
+     "ao ar livre",
+     "acampamento",
+     "lampião"
+    ]
+   ],
+   "fr": [
+    "Chaise de camping et lanterne",
+    "Une chaise de camping pliante avec une petite lanterne à côté.",
+    [
+     "chaise de camping",
+     "plein air",
+     "camping",
+     "lanterne"
+    ]
+   ],
+   "de": [
+    "Campingstuhl und Laterne",
+    "Ein klappbarer Campingstuhl mit einer kleinen Laterne daneben.",
+    [
+     "campingstuhl",
+     "outdoor",
+     "camping",
+     "laterne"
+    ]
+   ],
+   "zh": [
+    "露营椅和营灯",
+    "折叠露营椅和旁边的小营灯。",
+    [
+     "露营椅",
+     "户外",
+     "露营",
+     "营灯"
+    ]
+   ],
+   "ko": [
+    "캠핑 의자와 랜턴",
+    "접이식 캠핑 의자와 옆에 놓인 작은 랜턴.",
+    [
+     "캠핑 의자",
+     "아웃도어",
+     "캠핑",
+     "랜턴"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "lantern",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Camping Lantern",
+    "A glowing camping lantern with a handle and a warm flame.",
+    [
+     "lantern",
+     "camping",
+     "light",
+     "outdoor"
+    ]
+   ],
+   "ja": [
+    "キャンプランタン",
+    "やさしく灯るハンドル付きのキャンプ用ランタンのイラスト。",
+    [
+     "ランタン",
+     "キャンプ",
+     "明かり",
+     "アウトドア"
+    ]
+   ],
+   "es": [
+    "Farol de camping",
+    "Un farol de camping encendido con asa y una llama cálida.",
+    [
+     "farol",
+     "camping",
+     "luz",
+     "aire libre"
+    ]
+   ],
+   "pt": [
+    "Lampião de camping",
+    "Um lampião de camping aceso com alça e uma chama quentinha.",
+    [
+     "lampião",
+     "acampamento",
+     "luz",
+     "ao ar livre"
+    ]
+   ],
+   "fr": [
+    "Lanterne de camping",
+    "Une lanterne de camping allumée avec une anse et une flamme chaleureuse.",
+    [
+     "lanterne",
+     "camping",
+     "lumière",
+     "plein air"
+    ]
+   ],
+   "de": [
+    "Campinglaterne",
+    "Eine leuchtende Campinglaterne mit Henkel und warmer Flamme.",
+    [
+     "laterne",
+     "camping",
+     "licht",
+     "outdoor"
+    ]
+   ],
+   "zh": [
+    "露营灯",
+    "带提手、散发温暖光芒的露营灯。",
+    [
+     "露营灯",
+     "露营",
+     "灯光",
+     "户外"
+    ]
+   ],
+   "ko": [
+    "캠핑 랜턴",
+    "손잡이가 달린 따뜻하게 빛나는 캠핑 랜턴.",
+    [
+     "랜턴",
+     "캠핑",
+     "조명",
+     "아웃도어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "canoe-lake",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Canoe on a Lake",
+    "A smiling person paddling a canoe on a calm lake surrounded by trees.",
+    [
+     "canoe",
+     "lake",
+     "paddling",
+     "outdoor"
+    ]
+   ],
+   "ja": [
+    "湖でカヌー",
+    "木々に囲まれた静かな湖でカヌーをこぐ人のイラスト。",
+    [
+     "カヌー",
+     "湖",
+     "アウトドア",
+     "川遊び"
+    ]
+   ],
+   "es": [
+    "Canoa en el lago",
+    "Una persona sonriente remando en canoa en un lago tranquilo rodeado de árboles.",
+    [
+     "canoa",
+     "lago",
+     "remar",
+     "aire libre"
+    ]
+   ],
+   "pt": [
+    "Canoa no lago",
+    "Uma pessoa sorridente remando de canoa em um lago calmo cercado de árvores.",
+    [
+     "canoa",
+     "lago",
+     "remar",
+     "ao ar livre"
+    ]
+   ],
+   "fr": [
+    "Canoë sur le lac",
+    "Une personne souriante pagaie en canoë sur un lac calme entouré d'arbres.",
+    [
+     "canoë",
+     "lac",
+     "pagayer",
+     "plein air"
+    ]
+   ],
+   "de": [
+    "Kanu auf dem See",
+    "Eine lächelnde Person paddelt im Kanu auf einem ruhigen See zwischen Bäumen.",
+    [
+     "kanu",
+     "see",
+     "paddeln",
+     "outdoor"
+    ]
+   ],
+   "zh": [
+    "湖上划独木舟",
+    "在树林环绕的平静湖面上划独木舟的人。",
+    [
+     "独木舟",
+     "湖",
+     "划船",
+     "户外"
+    ]
+   ],
+   "ko": [
+    "호수에서 카누",
+    "나무로 둘러싸인 잔잔한 호수에서 카누를 타는 사람.",
+    [
+     "카누",
+     "호수",
+     "노 젓기",
+     "아웃도어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ski-resort",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ski Lift",
+    "A happy skier riding a chairlift above snowy slopes.",
+    [
+     "ski",
+     "ski lift",
+     "ski resort",
+     "winter"
+    ]
+   ],
+   "ja": [
+    "スキー場のリフト",
+    "雪山の上をリフトに乗って進むスキーヤーのイラスト。",
+    [
+     "スキー",
+     "リフト",
+     "スキー場",
+     "冬"
+    ]
+   ],
+   "es": [
+    "Telesilla de esquí",
+    "Una esquiadora feliz en un telesilla sobre pistas nevadas.",
+    [
+     "esquí",
+     "telesilla",
+     "estación de esquí",
+     "invierno"
+    ]
+   ],
+   "pt": [
+    "Teleférico de esqui",
+    "Uma esquiadora feliz no teleférico sobre as pistas de neve.",
+    [
+     "esqui",
+     "teleférico",
+     "estação de esqui",
+     "inverno"
+    ]
+   ],
+   "fr": [
+    "Télésiège",
+    "Une skieuse joyeuse sur un télésiège au-dessus des pistes enneigées.",
+    [
+     "ski",
+     "télésiège",
+     "station de ski",
+     "hiver"
+    ]
+   ],
+   "de": [
+    "Sessellift",
+    "Eine fröhliche Skifahrerin im Sessellift über verschneiten Pisten.",
+    [
+     "ski",
+     "sessellift",
+     "skigebiet",
+     "winter"
+    ]
+   ],
+   "zh": [
+    "滑雪缆车",
+    "坐在缆车上、俯瞰雪坡的开心滑雪者。",
+    [
+     "滑雪",
+     "缆车",
+     "滑雪场",
+     "冬天"
+    ]
+   ],
+   "ko": [
+    "스키 리프트",
+    "눈 덮인 슬로프 위로 리프트를 탄 즐거운 스키어.",
+    [
+     "스키",
+     "리프트",
+     "스키장",
+     "겨울"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "train-ticket-gate",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ticket Gates",
+    "Station ticket gates with a hand tapping a transit card on the reader.",
+    [
+     "ticket gate",
+     "station",
+     "train",
+     "transit card"
+    ]
+   ],
+   "ja": [
+    "駅の改札",
+    "ICカードを改札機にタッチする手と自動改札のイラスト。",
+    [
+     "改札",
+     "駅",
+     "電車",
+     "ICカード"
+    ]
+   ],
+   "es": [
+    "Torniquetes de estación",
+    "Torniquetes de una estación con una mano pasando una tarjeta de transporte.",
+    [
+     "torniquete",
+     "estación",
+     "tren",
+     "tarjeta de transporte"
+    ]
+   ],
+   "pt": [
+    "Catracas da estação",
+    "Catracas de estação com uma mão aproximando o cartão de transporte do leitor.",
+    [
+     "catraca",
+     "estação",
+     "metrô",
+     "cartão de transporte"
+    ]
+   ],
+   "fr": [
+    "Portiques de gare",
+    "Des portiques de gare avec une main qui valide une carte de transport.",
+    [
+     "portique",
+     "gare",
+     "train",
+     "carte de transport"
+    ]
+   ],
+   "de": [
+    "Fahrkartensperre",
+    "Bahnhofssperren mit einer Hand, die eine Fahrkarte an das Lesegerät hält.",
+    [
+     "fahrkartensperre",
+     "bahnhof",
+     "zug",
+     "fahrkarte"
+    ]
+   ],
+   "zh": [
+    "车站检票闸机",
+    "手拿交通卡刷卡通过的车站检票闸机。",
+    [
+     "检票口",
+     "车站",
+     "地铁",
+     "交通卡"
+    ]
+   ],
+   "ko": [
+    "역 개찰구",
+    "교통카드를 단말기에 찍는 손과 역 개찰구.",
+    [
+     "개찰구",
+     "역",
+     "지하철",
+     "교통카드"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sightseeing-bus",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Double-Decker Sightseeing Bus",
+    "A red open-top double-decker bus with happy tourists waving.",
+    [
+     "sightseeing bus",
+     "double decker",
+     "tour",
+     "tourism"
+    ]
+   ],
+   "ja": [
+    "2階建て観光バス",
+    "屋根のない2階席で観光客が手を振る赤い観光バスのイラスト。",
+    [
+     "観光バス",
+     "2階建てバス",
+     "観光",
+     "ツアー"
+    ]
+   ],
+   "es": [
+    "Autobús turístico de dos pisos",
+    "Un autobús rojo de dos pisos sin techo con turistas felices saludando.",
+    [
+     "autobús turístico",
+     "dos pisos",
+     "tour",
+     "turismo"
+    ]
+   ],
+   "pt": [
+    "Ônibus turístico de dois andares",
+    "Um ônibus vermelho de dois andares sem teto com turistas felizes acenando.",
+    [
+     "ônibus turístico",
+     "dois andares",
+     "passeio",
+     "turismo"
+    ]
+   ],
+   "fr": [
+    "Bus touristique à impériale",
+    "Un bus rouge à impériale décapotable avec des touristes qui saluent.",
+    [
+     "bus touristique",
+     "impériale",
+     "visite",
+     "tourisme"
+    ]
+   ],
+   "de": [
+    "Doppeldecker-Sightseeingbus",
+    "Ein roter offener Doppeldeckerbus mit fröhlich winkenden Touristen.",
+    [
+     "sightseeingbus",
+     "doppeldecker",
+     "stadtrundfahrt",
+     "tourismus"
+    ]
+   ],
+   "zh": [
+    "双层观光巴士",
+    "敞篷上层坐着挥手游客的红色双层观光巴士。",
+    [
+     "观光巴士",
+     "双层巴士",
+     "旅游",
+     "观光"
+    ]
+   ],
+   "ko": [
+    "2층 관광버스",
+    "지붕 없는 2층에서 관광객이 손을 흔드는 빨간 관광버스.",
+    [
+     "관광버스",
+     "2층 버스",
+     "투어",
+     "관광"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hot-air-balloons",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hot Air Balloons",
+    "Three colorful hot air balloons floating above the clouds.",
+    [
+     "hot air balloon",
+     "sky",
+     "travel",
+     "adventure"
+    ]
+   ],
+   "ja": [
+    "熱気球",
+    "雲の上をふわふわ浮かぶカラフルな3つの熱気球のイラスト。",
+    [
+     "熱気球",
+     "空",
+     "旅行",
+     "バルーン"
+    ]
+   ],
+   "es": [
+    "Globos aerostáticos",
+    "Tres globos aerostáticos de colores flotando sobre las nubes.",
+    [
+     "globo aerostático",
+     "cielo",
+     "viaje",
+     "aventura"
+    ]
+   ],
+   "pt": [
+    "Balões de ar quente",
+    "Três balões de ar quente coloridos flutuando acima das nuvens.",
+    [
+     "balão de ar quente",
+     "céu",
+     "viagem",
+     "aventura"
+    ]
+   ],
+   "fr": [
+    "Montgolfières",
+    "Trois montgolfières colorées flottant au-dessus des nuages.",
+    [
+     "montgolfière",
+     "ciel",
+     "voyage",
+     "aventure"
+    ]
+   ],
+   "de": [
+    "Heißluftballons",
+    "Drei bunte Heißluftballons schweben über den Wolken.",
+    [
+     "heißluftballon",
+     "himmel",
+     "reise",
+     "abenteuer"
+    ]
+   ],
+   "zh": [
+    "热气球",
+    "在云朵上空飘浮的三个彩色热气球。",
+    [
+     "热气球",
+     "天空",
+     "旅行",
+     "冒险"
+    ]
+   ],
+   "ko": [
+    "열기구",
+    "구름 위를 떠다니는 알록달록한 열기구 세 개.",
+    [
+     "열기구",
+     "하늘",
+     "여행",
+     "모험"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "amusement-park",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ferris Wheel",
+    "A big ferris wheel with colorful gondolas at an amusement park.",
+    [
+     "ferris wheel",
+     "amusement park",
+     "theme park",
+     "date"
+    ]
+   ],
+   "ja": [
+    "遊園地の観覧車",
+    "カラフルなゴンドラがついた大きな観覧車のイラスト。",
+    [
+     "観覧車",
+     "遊園地",
+     "テーマパーク",
+     "デート"
+    ]
+   ],
+   "es": [
+    "Noria",
+    "Una gran noria con cabinas de colores en un parque de atracciones.",
+    [
+     "noria",
+     "parque de atracciones",
+     "parque temático",
+     "paseo"
+    ]
+   ],
+   "pt": [
+    "Roda-gigante",
+    "Uma grande roda-gigante com cabines coloridas em um parque de diversões.",
+    [
+     "roda-gigante",
+     "parque de diversões",
+     "parque temático",
+     "passeio"
+    ]
+   ],
+   "fr": [
+    "Grande roue",
+    "Une grande roue avec des nacelles colorées dans un parc d'attractions.",
+    [
+     "grande roue",
+     "parc d'attractions",
+     "fête foraine",
+     "sortie"
+    ]
+   ],
+   "de": [
+    "Riesenrad",
+    "Ein großes Riesenrad mit bunten Gondeln im Freizeitpark.",
+    [
+     "riesenrad",
+     "freizeitpark",
+     "jahrmarkt",
+     "ausflug"
+    ]
+   ],
+   "zh": [
+    "摩天轮",
+    "游乐园里挂着彩色车厢的大摩天轮。",
+    [
+     "摩天轮",
+     "游乐园",
+     "主题公园",
+     "约会"
+    ]
+   ],
+   "ko": [
+    "대관람차",
+    "알록달록한 곤돌라가 달린 놀이공원의 대관람차.",
+    [
+     "대관람차",
+     "놀이공원",
+     "테마파크",
+     "데이트"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "roller-coaster",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Roller Coaster",
+    "Riders throwing their hands up at the top of a roller coaster hill.",
+    [
+     "roller coaster",
+     "amusement park",
+     "thrill ride",
+     "fun"
+    ]
+   ],
+   "ja": [
+    "ジェットコースター",
+    "ジェットコースターの頂上で両手を上げる乗客のイラスト。",
+    [
+     "ジェットコースター",
+     "遊園地",
+     "絶叫マシン",
+     "アトラクション"
+    ]
+   ],
+   "es": [
+    "Montaña rusa",
+    "Pasajeros con las manos arriba en la cima de una montaña rusa.",
+    [
+     "montaña rusa",
+     "parque de atracciones",
+     "atracción",
+     "diversión"
+    ]
+   ],
+   "pt": [
+    "Montanha-russa",
+    "Passageiros com as mãos para cima no alto de uma montanha-russa.",
+    [
+     "montanha-russa",
+     "parque de diversões",
+     "brinquedo",
+     "diversão"
+    ]
+   ],
+   "fr": [
+    "Montagnes russes",
+    "Des passagers lèvent les bras au sommet des montagnes russes.",
+    [
+     "montagnes russes",
+     "parc d'attractions",
+     "manège",
+     "sensations"
+    ]
+   ],
+   "de": [
+    "Achterbahn",
+    "Fahrgäste reißen auf dem Gipfel der Achterbahn die Arme hoch.",
+    [
+     "achterbahn",
+     "freizeitpark",
+     "fahrgeschäft",
+     "spaß"
+    ]
+   ],
+   "zh": [
+    "过山车",
+    "在过山车最高点举起双手的乘客。",
+    [
+     "过山车",
+     "游乐园",
+     "刺激",
+     "游乐设施"
+    ]
+   ],
+   "ko": [
+    "롤러코스터",
+    "롤러코스터 꼭대기에서 두 손을 번쩍 든 탑승객.",
+    [
+     "롤러코스터",
+     "놀이공원",
+     "놀이기구",
+     "스릴"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "aquarium",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Aquarium Tunnel",
+    "An underwater aquarium tunnel with colorful fish swimming overhead.",
+    [
+     "aquarium",
+     "fish",
+     "tunnel",
+     "sea"
+    ]
+   ],
+   "ja": [
+    "水族館のトンネル",
+    "頭上をカラフルな魚が泳ぐ水族館の水中トンネルのイラスト。",
+    [
+     "水族館",
+     "魚",
+     "トンネル",
+     "海"
+    ]
+   ],
+   "es": [
+    "Túnel de acuario",
+    "Un túnel submarino de acuario con peces de colores nadando por encima.",
+    [
+     "acuario",
+     "peces",
+     "túnel",
+     "mar"
+    ]
+   ],
+   "pt": [
+    "Túnel do aquário",
+    "Um túnel subaquático de aquário com peixes coloridos nadando por cima.",
+    [
+     "aquário",
+     "peixes",
+     "túnel",
+     "mar"
+    ]
+   ],
+   "fr": [
+    "Tunnel d'aquarium",
+    "Un tunnel sous-marin d'aquarium avec des poissons colorés qui nagent au-dessus.",
+    [
+     "aquarium",
+     "poissons",
+     "tunnel",
+     "mer"
+    ]
+   ],
+   "de": [
+    "Aquariumtunnel",
+    "Ein Unterwassertunnel im Aquarium mit bunten Fischen über den Köpfen.",
+    [
+     "aquarium",
+     "fische",
+     "tunnel",
+     "meer"
+    ]
+   ],
+   "zh": [
+    "海洋馆隧道",
+    "头顶游过彩色鱼儿的海洋馆水下隧道。",
+    [
+     "海洋馆",
+     "鱼",
+     "隧道",
+     "海洋"
+    ]
+   ],
+   "ko": [
+    "아쿠아리움 터널",
+    "머리 위로 알록달록한 물고기가 헤엄치는 수족관 터널.",
+    [
+     "아쿠아리움",
+     "물고기",
+     "터널",
+     "바다"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "zoo-gate",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Zoo Entrance",
+    "A zoo entrance gate with paw prints on the arch and a giraffe peeking out.",
+    [
+     "zoo",
+     "entrance",
+     "animals",
+     "outing"
+    ]
+   ],
+   "ja": [
+    "動物園の入口",
+    "足あと模様のアーチとキリンがのぞく動物園の入口のイラスト。",
+    [
+     "動物園",
+     "入口",
+     "動物",
+     "おでかけ"
+    ]
+   ],
+   "es": [
+    "Entrada del zoológico",
+    "La puerta de un zoológico con huellas en el arco y una jirafa asomándose.",
+    [
+     "zoológico",
+     "entrada",
+     "animales",
+     "paseo"
+    ]
+   ],
+   "pt": [
+    "Entrada do zoológico",
+    "O portão de um zoológico com pegadas no arco e uma girafa espiando.",
+    [
+     "zoológico",
+     "entrada",
+     "animais",
+     "passeio"
+    ]
+   ],
+   "fr": [
+    "Entrée du zoo",
+    "Le portail d'un zoo avec des empreintes sur l'arche et une girafe qui dépasse.",
+    [
+     "zoo",
+     "entrée",
+     "animaux",
+     "sortie"
+    ]
+   ],
+   "de": [
+    "Zoo-Eingang",
+    "Ein Zootor mit Pfotenabdrücken auf dem Bogen und einer neugierigen Giraffe.",
+    [
+     "zoo",
+     "eingang",
+     "tiere",
+     "ausflug"
+    ]
+   ],
+   "zh": [
+    "动物园大门",
+    "拱门上印着爪印、长颈鹿探出头来的动物园入口。",
+    [
+     "动物园",
+     "入口",
+     "动物",
+     "出游"
+    ]
+   ],
+   "ko": [
+    "동물원 입구",
+    "아치에 발자국 무늬가 있고 기린이 빼꼼 내다보는 동물원 입구.",
+    [
+     "동물원",
+     "입구",
+     "동물",
+     "나들이"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "museum",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Museum Building",
+    "A classical museum building with white columns and wide steps.",
+    [
+     "museum",
+     "building",
+     "art",
+     "culture"
+    ]
+   ],
+   "ja": [
+    "博物館",
+    "白い柱と階段のあるクラシックな博物館の建物のイラスト。",
+    [
+     "博物館",
+     "美術館",
+     "建物",
+     "文化"
+    ]
+   ],
+   "es": [
+    "Edificio de museo",
+    "Un edificio de museo clásico con columnas blancas y amplias escaleras.",
+    [
+     "museo",
+     "edificio",
+     "arte",
+     "cultura"
+    ]
+   ],
+   "pt": [
+    "Prédio de museu",
+    "Um prédio de museu clássico com colunas brancas e escadaria.",
+    [
+     "museu",
+     "prédio",
+     "arte",
+     "cultura"
+    ]
+   ],
+   "fr": [
+    "Musée",
+    "Un bâtiment de musée classique avec des colonnes blanches et de larges marches.",
+    [
+     "musée",
+     "bâtiment",
+     "art",
+     "culture"
+    ]
+   ],
+   "de": [
+    "Museumsgebäude",
+    "Ein klassisches Museumsgebäude mit weißen Säulen und breiten Stufen.",
+    [
+     "museum",
+     "gebäude",
+     "kunst",
+     "kultur"
+    ]
+   ],
+   "zh": [
+    "博物馆",
+    "有白色立柱和台阶的古典博物馆建筑。",
+    [
+     "博物馆",
+     "美术馆",
+     "建筑",
+     "文化"
+    ]
+   ],
+   "ko": [
+    "박물관",
+    "하얀 기둥과 넓은 계단이 있는 클래식한 박물관 건물.",
+    [
+     "박물관",
+     "미술관",
+     "건물",
+     "문화"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tower",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "City Tower",
+    "A tall observation tower rising above the city buildings.",
+    [
+     "tower",
+     "observation deck",
+     "city",
+     "landmark"
+    ]
+   ],
+   "ja": [
+    "街のタワー",
+    "ビルの間にそびえる展望台つきのタワーのイラスト。",
+    [
+     "タワー",
+     "展望台",
+     "街",
+     "観光名所"
+    ]
+   ],
+   "es": [
+    "Torre de la ciudad",
+    "Una alta torre mirador que se eleva sobre los edificios de la ciudad.",
+    [
+     "torre",
+     "mirador",
+     "ciudad",
+     "monumento"
+    ]
+   ],
+   "pt": [
+    "Torre da cidade",
+    "Uma torre com mirante que se ergue sobre os prédios da cidade.",
+    [
+     "torre",
+     "mirante",
+     "cidade",
+     "ponto turístico"
+    ]
+   ],
+   "fr": [
+    "Tour de la ville",
+    "Une haute tour panoramique qui domine les immeubles de la ville.",
+    [
+     "tour",
+     "observatoire",
+     "ville",
+     "monument"
+    ]
+   ],
+   "de": [
+    "Stadtturm",
+    "Ein hoher Aussichtsturm, der über die Gebäude der Stadt ragt.",
+    [
+     "turm",
+     "aussichtsplattform",
+     "stadt",
+     "wahrzeichen"
+    ]
+   ],
+   "zh": [
+    "城市观光塔",
+    "高耸于城市楼群之上的观光塔。",
+    [
+     "塔",
+     "观景台",
+     "城市",
+     "地标"
+    ]
+   ],
+   "ko": [
+    "도시 타워",
+    "도시 건물들 사이로 우뚝 솟은 전망 타워.",
+    [
+     "타워",
+     "전망대",
+     "도시",
+     "랜드마크"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "skyline",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "City Skyline",
+    "A colorful city skyline with tall buildings under a sunny sky.",
+    [
+     "skyline",
+     "city",
+     "buildings",
+     "downtown"
+    ]
+   ],
+   "ja": [
+    "街並みのスカイライン",
+    "晴れた空の下に高層ビルが並ぶカラフルな街並みのイラスト。",
+    [
+     "街並み",
+     "ビル",
+     "都市",
+     "都会"
+    ]
+   ],
+   "es": [
+    "Horizonte de la ciudad",
+    "El horizonte colorido de una ciudad con rascacielos bajo un cielo soleado.",
+    [
+     "horizonte",
+     "ciudad",
+     "edificios",
+     "rascacielos"
+    ]
+   ],
+   "pt": [
+    "Paisagem urbana",
+    "Uma paisagem urbana colorida com prédios altos sob um céu ensolarado.",
+    [
+     "paisagem urbana",
+     "cidade",
+     "prédios",
+     "centro"
+    ]
+   ],
+   "fr": [
+    "Panorama urbain",
+    "Un panorama urbain coloré avec de grands immeubles sous le soleil.",
+    [
+     "skyline",
+     "ville",
+     "immeubles",
+     "gratte-ciel"
+    ]
+   ],
+   "de": [
+    "Stadtsilhouette",
+    "Eine bunte Stadtsilhouette mit Hochhäusern unter sonnigem Himmel.",
+    [
+     "skyline",
+     "stadt",
+     "hochhäuser",
+     "innenstadt"
+    ]
+   ],
+   "zh": [
+    "城市天际线",
+    "阳光下高楼林立的彩色城市天际线。",
+    [
+     "天际线",
+     "城市",
+     "高楼",
+     "都市"
+    ]
+   ],
+   "ko": [
+    "도시 스카이라인",
+    "맑은 하늘 아래 고층 빌딩이 늘어선 알록달록한 도시 풍경.",
+    [
+     "스카이라인",
+     "도시",
+     "빌딩",
+     "도심"
+    ]
+   ]
+  }
+ }
+]

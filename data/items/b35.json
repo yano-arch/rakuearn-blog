@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "dining-table",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Dining table with chairs",
+    "A wooden dining table with two chairs and a small flower vase.",
+    [
+     "dining table",
+     "chairs",
+     "dining room",
+     "furniture"
+    ]
+   ],
+   "ja": [
+    "ダイニングテーブルと椅子",
+    "花瓶がのった木のダイニングテーブルと2脚の椅子。",
+    [
+     "ダイニングテーブル",
+     "椅子",
+     "食卓",
+     "家具"
+    ]
+   ],
+   "es": [
+    "Mesa de comedor con sillas",
+    "Una mesa de comedor de madera con dos sillas y un pequeño florero.",
+    [
+     "mesa de comedor",
+     "sillas",
+     "comedor",
+     "muebles"
+    ]
+   ],
+   "pt": [
+    "Mesa de jantar com cadeiras",
+    "Uma mesa de jantar de madeira com duas cadeiras e um vasinho de flor.",
+    [
+     "mesa de jantar",
+     "cadeiras",
+     "sala de jantar",
+     "móveis"
+    ]
+   ],
+   "fr": [
+    "Table à manger et chaises",
+    "Une table à manger en bois avec deux chaises et un petit vase fleuri.",
+    [
+     "table à manger",
+     "chaises",
+     "salle à manger",
+     "meuble"
+    ]
+   ],
+   "de": [
+    "Esstisch mit Stühlen",
+    "Ein Esstisch aus Holz mit zwei Stühlen und einer kleinen Blumenvase.",
+    [
+     "Esstisch",
+     "Stühle",
+     "Esszimmer",
+     "Möbel"
+    ]
+   ],
+   "zh": [
+    "餐桌和椅子",
+    "摆着小花瓶的木制餐桌和两把椅子。",
+    [
+     "餐桌",
+     "椅子",
+     "餐厅",
+     "家具"
+    ]
+   ],
+   "ko": [
+    "식탁과 의자",
+    "작은 꽃병이 놓인 나무 식탁과 의자 두 개.",
+    [
+     "식탁",
+     "의자",
+     "다이닝룸",
+     "가구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "chair",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Wooden chair",
+    "A simple wooden chair with a slatted backrest.",
+    [
+     "chair",
+     "wooden chair",
+     "seat",
+     "furniture"
+    ]
+   ],
+   "ja": [
+    "木の椅子",
+    "背もたれのあるシンプルな木の椅子。",
+    [
+     "椅子",
+     "木の椅子",
+     "いす",
+     "家具"
+    ]
+   ],
+   "es": [
+    "Silla de madera",
+    "Una sencilla silla de madera con respaldo de listones.",
+    [
+     "silla",
+     "silla de madera",
+     "asiento",
+     "muebles"
+    ]
+   ],
+   "pt": [
+    "Cadeira de madeira",
+    "Uma cadeira de madeira simples com encosto de ripas.",
+    [
+     "cadeira",
+     "cadeira de madeira",
+     "assento",
+     "móveis"
+    ]
+   ],
+   "fr": [
+    "Chaise en bois",
+    "Une chaise en bois toute simple avec un dossier à barreaux.",
+    [
+     "chaise",
+     "chaise en bois",
+     "siège",
+     "meuble"
+    ]
+   ],
+   "de": [
+    "Holzstuhl",
+    "Ein schlichter Holzstuhl mit Sprossenlehne.",
+    [
+     "Stuhl",
+     "Holzstuhl",
+     "Sitz",
+     "Möbel"
+    ]
+   ],
+   "zh": [
+    "木椅子",
+    "带靠背的简单木椅子。",
+    [
+     "椅子",
+     "木椅",
+     "座椅",
+     "家具"
+    ]
+   ],
+   "ko": [
+    "나무 의자",
+    "등받이가 있는 심플한 나무 의자.",
+    [
+     "의자",
+     "나무 의자",
+     "좌석",
+     "가구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bookshelf",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bookshelf with books",
+    "A wooden bookshelf filled with colorful books.",
+    [
+     "bookshelf",
+     "books",
+     "reading",
+     "furniture"
+    ]
+   ],
+   "ja": [
+    "本がならぶ本棚",
+    "カラフルな本がたくさん並んだ木の本棚。",
+    [
+     "本棚",
+     "本",
+     "書斎",
+     "家具"
+    ]
+   ],
+   "es": [
+    "Estantería con libros",
+    "Una estantería de madera llena de libros de colores.",
+    [
+     "estantería",
+     "libros",
+     "lectura",
+     "muebles"
+    ]
+   ],
+   "pt": [
+    "Estante com livros",
+    "Uma estante de madeira cheia de livros coloridos.",
+    [
+     "estante",
+     "livros",
+     "leitura",
+     "móveis"
+    ]
+   ],
+   "fr": [
+    "Bibliothèque avec livres",
+    "Une bibliothèque en bois remplie de livres colorés.",
+    [
+     "bibliothèque",
+     "livres",
+     "étagère",
+     "meuble"
+    ]
+   ],
+   "de": [
+    "Bücherregal mit Büchern",
+    "Ein Holzregal voller bunter Bücher.",
+    [
+     "Bücherregal",
+     "Bücher",
+     "Lesen",
+     "Möbel"
+    ]
+   ],
+   "zh": [
+    "摆满书的书架",
+    "摆满彩色书本的木制书架。",
+    [
+     "书架",
+     "书",
+     "书房",
+     "家具"
+    ]
+   ],
+   "ko": [
+    "책이 꽂힌 책장",
+    "알록달록한 책이 가득 꽂힌 나무 책장.",
+    [
+     "책장",
+     "책",
+     "서재",
+     "가구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "wardrobe",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Wardrobe",
+    "A wooden two-door wardrobe for storing clothes.",
+    [
+     "wardrobe",
+     "closet",
+     "clothes storage",
+     "furniture"
+    ]
+   ],
+   "ja": [
+    "洋服ダンス",
+    "両開きの扉がついた木のクローゼット。",
+    [
+     "洋服ダンス",
+     "クローゼット",
+     "収納",
+     "家具"
+    ]
+   ],
+   "es": [
+    "Armario ropero",
+    "Un armario de madera de dos puertas para guardar la ropa.",
+    [
+     "armario",
+     "ropero",
+     "guardarropa",
+     "muebles"
+    ]
+   ],
+   "pt": [
+    "Guarda-roupa",
+    "Um guarda-roupa de madeira com duas portas para guardar roupas.",
+    [
+     "guarda-roupa",
+     "armário",
+     "roupas",
+     "móveis"
+    ]
+   ],
+   "fr": [
+    "Armoire",
+    "Une armoire en bois à deux portes pour ranger les vêtements.",
+    [
+     "armoire",
+     "penderie",
+     "rangement",
+     "meuble"
+    ]
+   ],
+   "de": [
+    "Kleiderschrank",
+    "Ein zweitüriger Kleiderschrank aus Holz.",
+    [
+     "Kleiderschrank",
+     "Schrank",
+     "Aufbewahrung",
+     "Möbel"
+    ]
+   ],
+   "zh": [
+    "衣柜",
+    "双开门的木制衣柜，用来收纳衣服。",
+    [
+     "衣柜",
+     "衣橱",
+     "收纳",
+     "家具"
+    ]
+   ],
+   "ko": [
+    "옷장",
+    "옷을 보관하는 양문형 나무 옷장.",
+    [
+     "옷장",
+     "장롱",
+     "수납",
+     "가구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "drawers",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Chest of drawers",
+    "A wooden chest of drawers with a small plant and photo frame on top.",
+    [
+     "chest of drawers",
+     "dresser",
+     "storage",
+     "furniture"
+    ]
+   ],
+   "ja": [
+    "引き出しのタンス",
+    "観葉植物と写真立てをのせた3段のチェスト。",
+    [
+     "タンス",
+     "チェスト",
+     "引き出し",
+     "収納家具"
+    ]
+   ],
+   "es": [
+    "Cómoda con cajones",
+    "Una cómoda de madera con una plantita y un portarretratos encima.",
+    [
+     "cómoda",
+     "cajonera",
+     "cajones",
+     "muebles"
+    ]
+   ],
+   "pt": [
+    "Cômoda com gavetas",
+    "Uma cômoda de madeira com uma plantinha e um porta-retrato em cima.",
+    [
+     "cômoda",
+     "gaveteiro",
+     "gavetas",
+     "móveis"
+    ]
+   ],
+   "fr": [
+    "Commode",
+    "Une commode en bois avec une petite plante et un cadre photo dessus.",
+    [
+     "commode",
+     "tiroirs",
+     "rangement",
+     "meuble"
+    ]
+   ],
+   "de": [
+    "Kommode",
+    "Eine Holzkommode mit Schubladen, darauf eine kleine Pflanze und ein Bilderrahmen.",
+    [
+     "Kommode",
+     "Schubladen",
+     "Aufbewahrung",
+     "Möbel"
+    ]
+   ],
+   "zh": [
+    "抽屉柜",
+    "上面放着小盆栽和相框的三层木制抽屉柜。",
+    [
+     "抽屉柜",
+     "斗柜",
+     "收纳",
+     "家具"
+    ]
+   ],
+   "ko": [
+    "서랍장",
+    "작은 화분과 액자가 올려진 나무 서랍장.",
+    [
+     "서랍장",
+     "서랍",
+     "수납",
+     "가구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mirror",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Standing mirror",
+    "A tall oval mirror on a wooden stand.",
+    [
+     "mirror",
+     "standing mirror",
+     "full-length mirror",
+     "furniture"
+    ]
+   ],
+   "ja": [
+    "スタンドミラー",
+    "木のスタンドがついた大きな楕円形の鏡。",
+    [
+     "鏡",
+     "スタンドミラー",
+     "姿見",
+     "家具"
+    ]
+   ],
+   "es": [
+    "Espejo de pie",
+    "Un espejo ovalado grande sobre un soporte de madera.",
+    [
+     "espejo",
+     "espejo de pie",
+     "espejo de cuerpo entero",
+     "muebles"
+    ]
+   ],
+   "pt": [
+    "Espelho de chão",
+    "Um espelho oval grande apoiado em um suporte de madeira.",
+    [
+     "espelho",
+     "espelho de chão",
+     "espelho de corpo inteiro",
+     "móveis"
+    ]
+   ],
+   "fr": [
+    "Miroir sur pied",
+    "Un grand miroir ovale posé sur un support en bois.",
+    [
+     "miroir",
+     "miroir sur pied",
+     "psyché",
+     "meuble"
+    ]
+   ],
+   "de": [
+    "Standspiegel",
+    "Ein großer ovaler Spiegel auf einem Holzgestell.",
+    [
+     "Spiegel",
+     "Standspiegel",
+     "Ganzkörperspiegel",
+     "Möbel"
+    ]
+   ],
+   "zh": [
+    "落地镜",
+    "木制支架上的大椭圆形镜子。",
+    [
+     "镜子",
+     "落地镜",
+     "穿衣镜",
+     "家具"
+    ]
+   ],
+   "ko": [
+    "스탠드 거울",
+    "나무 받침대에 세워진 커다란 타원형 거울.",
+    [
+     "거울",
+     "스탠드 거울",
+     "전신 거울",
+     "가구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "window-curtains",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Window with curtains",
+    "A window showing blue sky, framed by pink curtains tied back on both sides.",
+    [
+     "window",
+     "curtains",
+     "room",
+     "interior"
+    ]
+   ],
+   "ja": [
+    "カーテンのある窓",
+    "両側にピンクのカーテンを束ねた、青空が見える窓。",
+    [
+     "窓",
+     "カーテン",
+     "部屋",
+     "インテリア"
+    ]
+   ],
+   "es": [
+    "Ventana con cortinas",
+    "Una ventana con cielo azul y cortinas rosas recogidas a los lados.",
+    [
+     "ventana",
+     "cortinas",
+     "habitación",
+     "decoración"
+    ]
+   ],
+   "pt": [
+    "Janela com cortinas",
+    "Uma janela com céu azul e cortinas cor-de-rosa presas dos dois lados.",
+    [
+     "janela",
+     "cortinas",
+     "quarto",
+     "decoração"
+    ]
+   ],
+   "fr": [
+    "Fenêtre avec rideaux",
+    "Une fenêtre sur un ciel bleu, encadrée de rideaux roses attachés.",
+    [
+     "fenêtre",
+     "rideaux",
+     "chambre",
+     "décoration"
+    ]
+   ],
+   "de": [
+    "Fenster mit Vorhängen",
+    "Ein Fenster mit blauem Himmel und rosa Vorhängen, die seitlich zusammengebunden sind.",
+    [
+     "Fenster",
+     "Vorhänge",
+     "Zimmer",
+     "Einrichtung"
+    ]
+   ],
+   "zh": [
+    "带窗帘的窗户",
+    "两侧系着粉色窗帘、能看到蓝天的窗户。",
+    [
+     "窗户",
+     "窗帘",
+     "房间",
+     "室内"
+    ]
+   ],
+   "ko": [
+    "커튼이 있는 창문",
+    "양쪽에 분홍 커튼을 묶어 둔 파란 하늘이 보이는 창문.",
+    [
+     "창문",
+     "커튼",
+     "방",
+     "인테리어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "kotatsu",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Kotatsu heated table",
+    "A Japanese kotatsu table with a cozy quilt and mandarin oranges on top.",
+    [
+     "kotatsu",
+     "mandarin oranges",
+     "winter",
+     "Japanese home"
+    ]
+   ],
+   "ja": [
+    "みかんとこたつ",
+    "ふとんをかけたこたつと、上にのったみかん。",
+    [
+     "こたつ",
+     "みかん",
+     "冬",
+     "和室"
+    ]
+   ],
+   "es": [
+    "Kotatsu con mandarinas",
+    "Una mesa kotatsu japonesa con manta y mandarinas encima.",
+    [
+     "kotatsu",
+     "mandarinas",
+     "invierno",
+     "Japón"
+    ]
+   ],
+   "pt": [
+    "Kotatsu com tangerinas",
+    "Uma mesa kotatsu japonesa com cobertor e tangerinas em cima.",
+    [
+     "kotatsu",
+     "tangerinas",
+     "inverno",
+     "Japão"
+    ]
+   ],
+   "fr": [
+    "Kotatsu et mandarines",
+    "Une table chauffante japonaise kotatsu avec sa couette et des mandarines.",
+    [
+     "kotatsu",
+     "mandarines",
+     "hiver",
+     "Japon"
+    ]
+   ],
+   "de": [
+    "Kotatsu mit Mandarinen",
+    "Ein japanischer Heiztisch mit Steppdecke und Mandarinen darauf.",
+    [
+     "Kotatsu",
+     "Mandarinen",
+     "Winter",
+     "Japan"
+    ]
+   ],
+   "zh": [
+    "被炉和橘子",
+    "盖着被子的日式被炉，上面放着橘子。",
+    [
+     "被炉",
+     "橘子",
+     "冬天",
+     "日式"
+    ]
+   ],
+   "ko": [
+    "코타츠와 귤",
+    "이불을 덮은 일본식 코타츠와 그 위에 놓인 귤.",
+    [
+     "코타츠",
+     "귤",
+     "겨울",
+     "일본"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "futon",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Futon bedding",
+    "A Japanese futon laid out with a pillow and a cozy patterned quilt.",
+    [
+     "futon",
+     "bedding",
+     "sleep",
+     "Japanese home"
+    ]
+   ],
+   "ja": [
+    "布団",
+    "枕と掛け布団をしいた、和室の布団。",
+    [
+     "布団",
+     "寝具",
+     "睡眠",
+     "和室"
+    ]
+   ],
+   "es": [
+    "Futón japonés",
+    "Un futón japonés extendido con almohada y edredón estampado.",
+    [
+     "futón",
+     "ropa de cama",
+     "dormir",
+     "Japón"
+    ]
+   ],
+   "pt": [
+    "Futon japonês",
+    "Um futon japonês estendido com travesseiro e edredom estampado.",
+    [
+     "futon",
+     "roupa de cama",
+     "dormir",
+     "Japão"
+    ]
+   ],
+   "fr": [
+    "Futon japonais",
+    "Un futon japonais déplié avec un oreiller et une couette à motifs.",
+    [
+     "futon",
+     "literie",
+     "dormir",
+     "Japon"
+    ]
+   ],
+   "de": [
+    "Japanischer Futon",
+    "Ein ausgebreiteter japanischer Futon mit Kissen und gemusterter Decke.",
+    [
+     "Futon",
+     "Bettzeug",
+     "Schlafen",
+     "Japan"
+    ]
+   ],
+   "zh": [
+    "日式被褥",
+    "铺好的日式被褥，带枕头和花纹被子。",
+    [
+     "被褥",
+     "铺盖",
+     "睡觉",
+     "日式"
+    ]
+   ],
+   "ko": [
+    "이불과 요",
+    "베개와 무늬 이불을 깔아 둔 일본식 요.",
+    [
+     "이불",
+     "요",
+     "잠",
+     "침구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cushion",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cute cushion",
+    "A soft pink square cushion with a smiling face.",
+    [
+     "cushion",
+     "pillow",
+     "sofa cushion",
+     "interior"
+    ]
+   ],
+   "ja": [
+    "クッション",
+    "笑顔のついたふかふかのピンクのクッション。",
+    [
+     "クッション",
+     "ざぶとん",
+     "インテリア",
+     "かわいい"
+    ]
+   ],
+   "es": [
+    "Cojín",
+    "Un cojín cuadrado rosa y suave con carita sonriente.",
+    [
+     "cojín",
+     "almohadón",
+     "decoración",
+     "tierno"
+    ]
+   ],
+   "pt": [
+    "Almofada",
+    "Uma almofada quadrada rosa e fofinha com carinha sorridente.",
+    [
+     "almofada",
+     "almofada de sofá",
+     "decoração",
+     "fofo"
+    ]
+   ],
+   "fr": [
+    "Coussin",
+    "Un coussin carré rose tout doux avec un visage souriant.",
+    [
+     "coussin",
+     "coussin de canapé",
+     "décoration",
+     "mignon"
+    ]
+   ],
+   "de": [
+    "Kissen",
+    "Ein weiches rosa Sofakissen mit lächelndem Gesicht.",
+    [
+     "Kissen",
+     "Sofakissen",
+     "Deko",
+     "süß"
+    ]
+   ],
+   "zh": [
+    "靠垫",
+    "带着笑脸的柔软粉色方形靠垫。",
+    [
+     "靠垫",
+     "抱枕",
+     "坐垫",
+     "可爱"
+    ]
+   ],
+   "ko": [
+    "쿠션",
+    "웃는 얼굴이 있는 폭신한 분홍색 쿠션.",
+    [
+     "쿠션",
+     "방석",
+     "인테리어",
+     "귀여운"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "refrigerator",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Refrigerator",
+    "A friendly two-door refrigerator with magnets on the freezer door.",
+    [
+     "refrigerator",
+     "fridge",
+     "kitchen",
+     "appliance"
+    ]
+   ],
+   "ja": [
+    "冷蔵庫",
+    "マグネットがついた、笑顔の2ドア冷蔵庫。",
+    [
+     "冷蔵庫",
+     "キッチン",
+     "家電",
+     "台所"
+    ]
+   ],
+   "es": [
+    "Refrigerador",
+    "Un refrigerador de dos puertas sonriente con imanes en la puerta.",
+    [
+     "refrigerador",
+     "nevera",
+     "cocina",
+     "electrodomésticos"
+    ]
+   ],
+   "pt": [
+    "Geladeira",
+    "Uma geladeira de duas portas sorridente com ímãs na porta.",
+    [
+     "geladeira",
+     "refrigerador",
+     "cozinha",
+     "eletrodomésticos"
+    ]
+   ],
+   "fr": [
+    "Réfrigérateur",
+    "Un frigo à deux portes souriant avec des aimants sur la porte.",
+    [
+     "réfrigérateur",
+     "frigo",
+     "cuisine",
+     "électroménager"
+    ]
+   ],
+   "de": [
+    "Kühlschrank",
+    "Ein lächelnder Kühlschrank mit zwei Türen und Magneten.",
+    [
+     "Kühlschrank",
+     "Küche",
+     "Haushaltsgerät",
+     "Gefrierfach"
+    ]
+   ],
+   "zh": [
+    "冰箱",
+    "门上贴着磁贴、笑眯眯的双门冰箱。",
+    [
+     "冰箱",
+     "厨房",
+     "家电",
+     "冷藏"
+    ]
+   ],
+   "ko": [
+    "냉장고",
+    "자석이 붙은 웃는 얼굴의 2도어 냉장고.",
+    [
+     "냉장고",
+     "주방",
+     "가전",
+     "부엌"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "microwave",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Microwave oven",
+    "A microwave oven warming up a bowl of food.",
+    [
+     "microwave",
+     "microwave oven",
+     "kitchen",
+     "appliance"
+    ]
+   ],
+   "ja": [
+    "電子レンジ",
+    "ごはんを温めている電子レンジ。",
+    [
+     "電子レンジ",
+     "レンジ",
+     "キッチン",
+     "家電"
+    ]
+   ],
+   "es": [
+    "Microondas",
+    "Un microondas calentando un tazón de comida.",
+    [
+     "microondas",
+     "horno microondas",
+     "cocina",
+     "electrodomésticos"
+    ]
+   ],
+   "pt": [
+    "Micro-ondas",
+    "Um micro-ondas esquentando uma tigela de comida.",
+    [
+     "micro-ondas",
+     "forno micro-ondas",
+     "cozinha",
+     "eletrodomésticos"
+    ]
+   ],
+   "fr": [
+    "Micro-ondes",
+    "Un four à micro-ondes qui réchauffe un bol de nourriture.",
+    [
+     "micro-ondes",
+     "four",
+     "cuisine",
+     "électroménager"
+    ]
+   ],
+   "de": [
+    "Mikrowelle",
+    "Eine Mikrowelle, die eine Schüssel Essen aufwärmt.",
+    [
+     "Mikrowelle",
+     "Küche",
+     "Haushaltsgerät",
+     "aufwärmen"
+    ]
+   ],
+   "zh": [
+    "微波炉",
+    "正在加热饭菜的微波炉。",
+    [
+     "微波炉",
+     "厨房",
+     "家电",
+     "加热"
+    ]
+   ],
+   "ko": [
+    "전자레인지",
+    "음식을 데우고 있는 전자레인지.",
+    [
+     "전자레인지",
+     "주방",
+     "가전",
+     "데우기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rice-cooker",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Rice cooker",
+    "A cute rice cooker with steam coming from the lid.",
+    [
+     "rice cooker",
+     "rice",
+     "kitchen",
+     "appliance"
+    ]
+   ],
+   "ja": [
+    "炊飯器",
+    "ふたから湯気が出ている、かわいい炊飯器。",
+    [
+     "炊飯器",
+     "ごはん",
+     "キッチン",
+     "家電"
+    ]
+   ],
+   "es": [
+    "Olla arrocera",
+    "Una olla arrocera tierna con vapor saliendo de la tapa.",
+    [
+     "olla arrocera",
+     "arroz",
+     "cocina",
+     "electrodomésticos"
+    ]
+   ],
+   "pt": [
+    "Panela de arroz elétrica",
+    "Uma panela de arroz elétrica fofa soltando vapor pela tampa.",
+    [
+     "panela de arroz",
+     "arroz",
+     "cozinha",
+     "eletrodomésticos"
+    ]
+   ],
+   "fr": [
+    "Cuiseur à riz",
+    "Un joli cuiseur à riz dont le couvercle laisse échapper de la vapeur.",
+    [
+     "cuiseur à riz",
+     "riz",
+     "cuisine",
+     "électroménager"
+    ]
+   ],
+   "de": [
+    "Reiskocher",
+    "Ein niedlicher Reiskocher, aus dessen Deckel Dampf steigt.",
+    [
+     "Reiskocher",
+     "Reis",
+     "Küche",
+     "Haushaltsgerät"
+    ]
+   ],
+   "zh": [
+    "电饭煲",
+    "盖子冒着热气的可爱电饭煲。",
+    [
+     "电饭煲",
+     "米饭",
+     "厨房",
+     "家电"
+    ]
+   ],
+   "ko": [
+    "전기밥솥",
+    "뚜껑에서 김이 나는 귀여운 전기밥솥.",
+    [
+     "전기밥솥",
+     "밥",
+     "주방",
+     "가전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "toaster",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Toaster with toast",
+    "A smiling toaster with two slices of toast popping up.",
+    [
+     "toaster",
+     "toast",
+     "breakfast",
+     "kitchen"
+    ]
+   ],
+   "ja": [
+    "トースターとパン",
+    "食パンが2枚ポンと飛び出したトースター。",
+    [
+     "トースター",
+     "トースト",
+     "朝ごはん",
+     "家電"
+    ]
+   ],
+   "es": [
+    "Tostadora con pan",
+    "Una tostadora sonriente con dos rebanadas de pan saltando.",
+    [
+     "tostadora",
+     "pan tostado",
+     "desayuno",
+     "cocina"
+    ]
+   ],
+   "pt": [
+    "Torradeira com pão",
+    "Uma torradeira sorridente com duas fatias de pão pulando.",
+    [
+     "torradeira",
+     "torrada",
+     "café da manhã",
+     "cozinha"
+    ]
+   ],
+   "fr": [
+    "Grille-pain",
+    "Un grille-pain souriant d'où sautent deux tranches de pain.",
+    [
+     "grille-pain",
+     "toast",
+     "petit-déjeuner",
+     "cuisine"
+    ]
+   ],
+   "de": [
+    "Toaster mit Toast",
+    "Ein lächelnder Toaster, aus dem zwei Toastscheiben springen.",
+    [
+     "Toaster",
+     "Toast",
+     "Frühstück",
+     "Küche"
+    ]
+   ],
+   "zh": [
+    "烤面包机",
+    "弹出两片吐司的笑脸烤面包机。",
+    [
+     "烤面包机",
+     "吐司",
+     "早餐",
+     "厨房"
+    ]
+   ],
+   "ko": [
+    "토스터",
+    "식빵 두 장이 톡 튀어나온 웃는 토스터.",
+    [
+     "토스터",
+     "토스트",
+     "아침 식사",
+     "주방"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "kettle",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Kettle with steam",
+    "A smiling kettle with steam rising from its spout.",
+    [
+     "kettle",
+     "steam",
+     "boiling water",
+     "kitchen"
+    ]
+   ],
+   "ja": [
+    "湯気の出るやかん",
+    "注ぎ口から湯気が出ている、笑顔のやかん。",
+    [
+     "やかん",
+     "湯気",
+     "お湯",
+     "キッチン"
+    ]
+   ],
+   "es": [
+    "Hervidor con vapor",
+    "Una tetera sonriente con vapor saliendo del pico.",
+    [
+     "hervidor",
+     "tetera",
+     "agua caliente",
+     "cocina"
+    ]
+   ],
+   "pt": [
+    "Chaleira com vapor",
+    "Uma chaleira sorridente soltando vapor pelo bico.",
+    [
+     "chaleira",
+     "vapor",
+     "água quente",
+     "cozinha"
+    ]
+   ],
+   "fr": [
+    "Bouilloire fumante",
+    "Une bouilloire souriante dont le bec laisse échapper de la vapeur.",
+    [
+     "bouilloire",
+     "vapeur",
+     "eau chaude",
+     "cuisine"
+    ]
+   ],
+   "de": [
+    "Wasserkessel mit Dampf",
+    "Ein lächelnder Wasserkessel, aus dessen Tülle Dampf aufsteigt.",
+    [
+     "Wasserkessel",
+     "Dampf",
+     "heißes Wasser",
+     "Küche"
+    ]
+   ],
+   "zh": [
+    "冒热气的水壶",
+    "壶嘴冒着热气的笑脸水壶。",
+    [
+     "水壶",
+     "热气",
+     "烧水",
+     "厨房"
+    ]
+   ],
+   "ko": [
+    "김이 나는 주전자",
+    "주둥이에서 김이 나는 웃는 주전자.",
+    [
+     "주전자",
+     "김",
+     "뜨거운 물",
+     "주방"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "vacuum-cleaner",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Vacuum cleaner",
+    "A canister vacuum cleaner with a hose and floor nozzle.",
+    [
+     "vacuum cleaner",
+     "cleaning",
+     "housework",
+     "appliance"
+    ]
+   ],
+   "ja": [
+    "掃除機",
+    "ホースとヘッドがついたキャニスター型の掃除機。",
+    [
+     "掃除機",
+     "そうじ",
+     "家事",
+     "家電"
+    ]
+   ],
+   "es": [
+    "Aspiradora",
+    "Una aspiradora de trineo con manguera y cepillo para el piso.",
+    [
+     "aspiradora",
+     "limpieza",
+     "tareas del hogar",
+     "electrodomésticos"
+    ]
+   ],
+   "pt": [
+    "Aspirador de pó",
+    "Um aspirador de pó com mangueira e bocal para o chão.",
+    [
+     "aspirador de pó",
+     "limpeza",
+     "faxina",
+     "eletrodomésticos"
+    ]
+   ],
+   "fr": [
+    "Aspirateur",
+    "Un aspirateur traîneau avec son tuyau et sa brosse.",
+    [
+     "aspirateur",
+     "ménage",
+     "nettoyage",
+     "électroménager"
+    ]
+   ],
+   "de": [
+    "Staubsauger",
+    "Ein Bodenstaubsauger mit Schlauch und Bodendüse.",
+    [
+     "Staubsauger",
+     "Putzen",
+     "Hausarbeit",
+     "Haushaltsgerät"
+    ]
+   ],
+   "zh": [
+    "吸尘器",
+    "带软管和吸头的卧式吸尘器。",
+    [
+     "吸尘器",
+     "打扫",
+     "家务",
+     "家电"
+    ]
+   ],
+   "ko": [
+    "청소기",
+    "호스와 헤드가 달린 진공청소기.",
+    [
+     "청소기",
+     "청소",
+     "집안일",
+     "가전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "robot-vacuum",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Robot vacuum",
+    "A round robot vacuum cleaner busily cleaning the floor.",
+    [
+     "robot vacuum",
+     "cleaning robot",
+     "housework",
+     "smart home"
+    ]
+   ],
+   "ja": [
+    "ロボット掃除機",
+    "床をせっせと掃除する丸いロボット掃除機。",
+    [
+     "ロボット掃除機",
+     "掃除",
+     "家事",
+     "家電"
+    ]
+   ],
+   "es": [
+    "Robot aspirador",
+    "Un robot aspirador redondo limpiando el piso.",
+    [
+     "robot aspirador",
+     "aspiradora robot",
+     "limpieza",
+     "hogar inteligente"
+    ]
+   ],
+   "pt": [
+    "Robô aspirador",
+    "Um robô aspirador redondo limpando o chão.",
+    [
+     "robô aspirador",
+     "aspirador robô",
+     "limpeza",
+     "casa inteligente"
+    ]
+   ],
+   "fr": [
+    "Aspirateur robot",
+    "Un aspirateur robot rond qui nettoie le sol.",
+    [
+     "aspirateur robot",
+     "robot ménager",
+     "ménage",
+     "maison connectée"
+    ]
+   ],
+   "de": [
+    "Saugroboter",
+    "Ein runder Saugroboter, der fleißig den Boden reinigt.",
+    [
+     "Saugroboter",
+     "Staubsaugerroboter",
+     "Putzen",
+     "Smart Home"
+    ]
+   ],
+   "zh": [
+    "扫地机器人",
+    "正在认真打扫地板的圆形扫地机器人。",
+    [
+     "扫地机器人",
+     "打扫",
+     "家务",
+     "智能家居"
+    ]
+   ],
+   "ko": [
+    "로봇청소기",
+    "바닥을 열심히 청소하는 동그란 로봇청소기.",
+    [
+     "로봇청소기",
+     "청소",
+     "집안일",
+     "스마트홈"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "air-conditioner",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Air conditioner",
+    "A wall-mounted air conditioner blowing cool air.",
+    [
+     "air conditioner",
+     "AC",
+     "cooling",
+     "summer"
+    ]
+   ],
+   "ja": [
+    "エアコン",
+    "涼しい風を出している壁かけエアコン。",
+    [
+     "エアコン",
+     "冷房",
+     "夏",
+     "家電"
+    ]
+   ],
+   "es": [
+    "Aire acondicionado",
+    "Un aire acondicionado de pared soplando aire fresco.",
+    [
+     "aire acondicionado",
+     "clima",
+     "frío",
+     "verano"
+    ]
+   ],
+   "pt": [
+    "Ar-condicionado",
+    "Um ar-condicionado de parede soltando ar gelado.",
+    [
+     "ar-condicionado",
+     "ar condicionado",
+     "refrigeração",
+     "verão"
+    ]
+   ],
+   "fr": [
+    "Climatiseur",
+    "Un climatiseur mural qui souffle de l'air frais.",
+    [
+     "climatiseur",
+     "clim",
+     "fraîcheur",
+     "été"
+    ]
+   ],
+   "de": [
+    "Klimaanlage",
+    "Eine Wandklimaanlage, die kühle Luft ausbläst.",
+    [
+     "Klimaanlage",
+     "Kühlung",
+     "Sommer",
+     "Haushaltsgerät"
+    ]
+   ],
+   "zh": [
+    "空调",
+    "吹出凉风的壁挂式空调。",
+    [
+     "空调",
+     "冷气",
+     "夏天",
+     "家电"
+    ]
+   ],
+   "ko": [
+    "에어컨",
+    "시원한 바람이 나오는 벽걸이 에어컨.",
+    [
+     "에어컨",
+     "냉방",
+     "여름",
+     "가전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "electric-fan",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Electric fan",
+    "A classic electric fan with a round guard and three blades.",
+    [
+     "electric fan",
+     "fan",
+     "summer",
+     "cooling"
+    ]
+   ],
+   "ja": [
+    "扇風機",
+    "丸いガードと3枚羽根の扇風機。",
+    [
+     "扇風機",
+     "夏",
+     "涼しい",
+     "家電"
+    ]
+   ],
+   "es": [
+    "Ventilador",
+    "Un ventilador eléctrico clásico con rejilla redonda y tres aspas.",
+    [
+     "ventilador",
+     "verano",
+     "fresco",
+     "electrodomésticos"
+    ]
+   ],
+   "pt": [
+    "Ventilador",
+    "Um ventilador clássico com grade redonda e três pás.",
+    [
+     "ventilador",
+     "verão",
+     "refrescar",
+     "eletrodomésticos"
+    ]
+   ],
+   "fr": [
+    "Ventilateur",
+    "Un ventilateur électrique classique avec grille ronde et trois pales.",
+    [
+     "ventilateur",
+     "été",
+     "fraîcheur",
+     "électroménager"
+    ]
+   ],
+   "de": [
+    "Ventilator",
+    "Ein klassischer Standventilator mit rundem Gitter und drei Flügeln.",
+    [
+     "Ventilator",
+     "Sommer",
+     "Abkühlung",
+     "Haushaltsgerät"
+    ]
+   ],
+   "zh": [
+    "电风扇",
+    "圆形网罩、三片扇叶的电风扇。",
+    [
+     "电风扇",
+     "风扇",
+     "夏天",
+     "家电"
+    ]
+   ],
+   "ko": [
+    "선풍기",
+    "둥근 커버와 날개 세 개가 달린 선풍기.",
+    [
+     "선풍기",
+     "여름",
+     "시원함",
+     "가전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "heater",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Space heater",
+    "An electric heater with glowing coils giving off warmth.",
+    [
+     "heater",
+     "space heater",
+     "winter",
+     "warm"
+    ]
+   ],
+   "ja": [
+    "電気ストーブ",
+    "ヒーター部分が赤く光り、ぽかぽか暖かい電気ストーブ。",
+    [
+     "ストーブ",
+     "ヒーター",
+     "冬",
+     "暖房"
+    ]
+   ],
+   "es": [
+    "Calefactor",
+    "Un calefactor eléctrico con resistencias encendidas que dan calor.",
+    [
+     "calefactor",
+     "estufa",
+     "invierno",
+     "calefacción"
+    ]
+   ],
+   "pt": [
+    "Aquecedor",
+    "Um aquecedor elétrico com resistências acesas esquentando o ambiente.",
+    [
+     "aquecedor",
+     "aquecedor elétrico",
+     "inverno",
+     "calor"
+    ]
+   ],
+   "fr": [
+    "Radiateur d'appoint",
+    "Un radiateur électrique aux résistances rougeoyantes qui réchauffe.",
+    [
+     "radiateur",
+     "chauffage",
+     "hiver",
+     "chaleur"
+    ]
+   ],
+   "de": [
+    "Heizlüfter",
+    "Ein Elektroheizer mit glühenden Heizstäben, der Wärme abgibt.",
+    [
+     "Heizung",
+     "Heizlüfter",
+     "Winter",
+     "warm"
+    ]
+   ],
+   "zh": [
+    "电暖器",
+    "发热管通红、暖洋洋的电暖器。",
+    [
+     "电暖器",
+     "取暖器",
+     "冬天",
+     "暖气"
+    ]
+   ],
+   "ko": [
+    "전기난로",
+    "열선이 빨갛게 빛나는 따뜻한 전기난로.",
+    [
+     "난로",
+     "히터",
+     "겨울",
+     "난방"
+    ]
+   ]
+  }
+ }
+]

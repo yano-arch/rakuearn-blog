@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "person-drinking-water",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person drinking water",
+    "A person happily drinking a glass of water.",
+    [
+     "drinking water",
+     "hydration",
+     "glass of water",
+     "health"
+    ]
+   ],
+   "ja": [
+    "水を飲む人",
+    "コップの水をおいしそうに飲む人。",
+    [
+     "水を飲む",
+     "水分補給",
+     "コップ",
+     "健康"
+    ]
+   ],
+   "es": [
+    "Persona bebiendo agua",
+    "Una persona bebiendo un vaso de agua con gusto.",
+    [
+     "beber agua",
+     "hidratación",
+     "vaso de agua",
+     "salud"
+    ]
+   ],
+   "pt": [
+    "Pessoa bebendo água",
+    "Uma pessoa bebendo um copo de água com alegria.",
+    [
+     "beber água",
+     "hidratação",
+     "copo de água",
+     "saúde"
+    ]
+   ],
+   "fr": [
+    "Personne qui boit de l'eau",
+    "Une personne qui boit un verre d'eau avec plaisir.",
+    [
+     "boire de l'eau",
+     "hydratation",
+     "verre d'eau",
+     "santé"
+    ]
+   ],
+   "de": [
+    "Person trinkt Wasser",
+    "Eine Person trinkt genüsslich ein Glas Wasser.",
+    [
+     "Wasser trinken",
+     "Flüssigkeit",
+     "Wasserglas",
+     "Gesundheit"
+    ]
+   ],
+   "zh": [
+    "喝水的人",
+    "开心地喝着一杯水的人。",
+    [
+     "喝水",
+     "补水",
+     "水杯",
+     "健康"
+    ]
+   ],
+   "ko": [
+    "물 마시는 사람",
+    "컵에 담긴 물을 맛있게 마시는 사람.",
+    [
+     "물 마시기",
+     "수분 보충",
+     "물컵",
+     "건강"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-brushing-teeth",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person brushing teeth",
+    "A person brushing their teeth with a toothbrush and foamy bubbles.",
+    [
+     "brushing teeth",
+     "toothbrush",
+     "dental care",
+     "morning routine"
+    ]
+   ],
+   "ja": [
+    "歯みがきする人",
+    "歯ブラシで泡をたてながら歯をみがく人。",
+    [
+     "歯みがき",
+     "歯ブラシ",
+     "デンタルケア",
+     "朝の習慣"
+    ]
+   ],
+   "es": [
+    "Persona cepillándose los dientes",
+    "Una persona cepillándose los dientes con espuma.",
+    [
+     "cepillarse los dientes",
+     "cepillo de dientes",
+     "higiene dental",
+     "rutina"
+    ]
+   ],
+   "pt": [
+    "Pessoa escovando os dentes",
+    "Uma pessoa escovando os dentes com escova e espuma.",
+    [
+     "escovar os dentes",
+     "escova de dente",
+     "higiene bucal",
+     "rotina"
+    ]
+   ],
+   "fr": [
+    "Personne qui se brosse les dents",
+    "Une personne qui se brosse les dents avec de la mousse.",
+    [
+     "brossage des dents",
+     "brosse à dents",
+     "hygiène dentaire",
+     "routine"
+    ]
+   ],
+   "de": [
+    "Person beim Zähneputzen",
+    "Eine Person putzt sich mit der Zahnbürste die Zähne.",
+    [
+     "Zähneputzen",
+     "Zahnbürste",
+     "Zahnpflege",
+     "Morgenroutine"
+    ]
+   ],
+   "zh": [
+    "刷牙的人",
+    "拿着牙刷、满嘴泡泡刷牙的人。",
+    [
+     "刷牙",
+     "牙刷",
+     "口腔护理",
+     "早晨习惯"
+    ]
+   ],
+   "ko": [
+    "양치하는 사람",
+    "칫솔로 거품을 내며 이를 닦는 사람.",
+    [
+     "양치",
+     "칫솔",
+     "치아 관리",
+     "아침 습관"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-washing-face",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person washing face",
+    "A person splashing water on their face over a sink.",
+    [
+     "washing face",
+     "face wash",
+     "skincare",
+     "morning routine"
+    ]
+   ],
+   "ja": [
+    "顔を洗う人",
+    "洗面台で水をパシャパシャかけて顔を洗う人。",
+    [
+     "洗顔",
+     "顔を洗う",
+     "スキンケア",
+     "朝の習慣"
+    ]
+   ],
+   "es": [
+    "Persona lavándose la cara",
+    "Una persona echándose agua en la cara sobre el lavabo.",
+    [
+     "lavarse la cara",
+     "limpieza facial",
+     "cuidado de la piel",
+     "rutina"
+    ]
+   ],
+   "pt": [
+    "Pessoa lavando o rosto",
+    "Uma pessoa jogando água no rosto na pia.",
+    [
+     "lavar o rosto",
+     "limpeza de pele",
+     "skincare",
+     "rotina"
+    ]
+   ],
+   "fr": [
+    "Personne qui se lave le visage",
+    "Une personne qui s'asperge le visage d'eau au-dessus du lavabo.",
+    [
+     "se laver le visage",
+     "toilette",
+     "soin de la peau",
+     "routine"
+    ]
+   ],
+   "de": [
+    "Person wäscht sich das Gesicht",
+    "Eine Person spritzt sich am Waschbecken Wasser ins Gesicht.",
+    [
+     "Gesicht waschen",
+     "Waschbecken",
+     "Hautpflege",
+     "Morgenroutine"
+    ]
+   ],
+   "zh": [
+    "洗脸的人",
+    "在洗脸池前用水洗脸的人。",
+    [
+     "洗脸",
+     "洁面",
+     "护肤",
+     "早晨习惯"
+    ]
+   ],
+   "ko": [
+    "세수하는 사람",
+    "세면대에서 물을 끼얹으며 세수하는 사람.",
+    [
+     "세수",
+     "세안",
+     "스킨케어",
+     "아침 습관"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-getting-dressed",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person getting dressed",
+    "A person pulling a sweater on over their head.",
+    [
+     "getting dressed",
+     "sweater",
+     "clothes",
+     "changing"
+    ]
+   ],
+   "ja": [
+    "服を着る人",
+    "セーターを頭からかぶって着ている人。",
+    [
+     "着替え",
+     "セーター",
+     "服",
+     "身じたく"
+    ]
+   ],
+   "es": [
+    "Persona vistiéndose",
+    "Una persona poniéndose un suéter por la cabeza.",
+    [
+     "vestirse",
+     "suéter",
+     "ropa",
+     "cambiarse"
+    ]
+   ],
+   "pt": [
+    "Pessoa se vestindo",
+    "Uma pessoa vestindo um suéter pela cabeça.",
+    [
+     "se vestir",
+     "suéter",
+     "roupa",
+     "trocar de roupa"
+    ]
+   ],
+   "fr": [
+    "Personne qui s'habille",
+    "Une personne qui enfile un pull par la tête.",
+    [
+     "s'habiller",
+     "pull",
+     "vêtements",
+     "se changer"
+    ]
+   ],
+   "de": [
+    "Person zieht sich an",
+    "Eine Person zieht sich einen Pullover über den Kopf.",
+    [
+     "anziehen",
+     "Pullover",
+     "Kleidung",
+     "umziehen"
+    ]
+   ],
+   "zh": [
+    "穿衣服的人",
+    "从头上套毛衣的人。",
+    [
+     "穿衣服",
+     "毛衣",
+     "衣服",
+     "换衣服"
+    ]
+   ],
+   "ko": [
+    "옷 입는 사람",
+    "스웨터를 머리부터 입고 있는 사람.",
+    [
+     "옷 입기",
+     "스웨터",
+     "옷",
+     "옷 갈아입기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-morning-stretch",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Morning stretch",
+    "A person in pajamas stretching their arms up after waking.",
+    [
+     "stretching",
+     "waking up",
+     "morning",
+     "pajamas"
+    ]
+   ],
+   "ja": [
+    "朝のびをする人",
+    "起きてすぐ両手を上げてのびをするパジャマ姿の人。",
+    [
+     "のび",
+     "起床",
+     "朝",
+     "パジャマ"
+    ]
+   ],
+   "es": [
+    "Estiramiento matutino",
+    "Una persona en pijama estirando los brazos al despertar.",
+    [
+     "estirarse",
+     "despertar",
+     "mañana",
+     "pijama"
+    ]
+   ],
+   "pt": [
+    "Espreguiçando de manhã",
+    "Uma pessoa de pijama se espreguiçando ao acordar.",
+    [
+     "espreguiçar",
+     "acordar",
+     "manhã",
+     "pijama"
+    ]
+   ],
+   "fr": [
+    "Étirement du matin",
+    "Une personne en pyjama qui s'étire les bras en se réveillant.",
+    [
+     "s'étirer",
+     "réveil",
+     "matin",
+     "pyjama"
+    ]
+   ],
+   "de": [
+    "Morgendliches Strecken",
+    "Eine Person im Schlafanzug streckt nach dem Aufwachen die Arme hoch.",
+    [
+     "strecken",
+     "aufwachen",
+     "Morgen",
+     "Schlafanzug"
+    ]
+   ],
+   "zh": [
+    "早上伸懒腰",
+    "刚起床穿着睡衣举起双手伸懒腰的人。",
+    [
+     "伸懒腰",
+     "起床",
+     "早上",
+     "睡衣"
+    ]
+   ],
+   "ko": [
+    "아침 기지개",
+    "잠에서 깨어 두 팔을 올려 기지개를 켜는 잠옷 차림의 사람.",
+    [
+     "기지개",
+     "기상",
+     "아침",
+     "잠옷"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-train-strap",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Commuter holding a strap",
+    "A commuter holding onto a hand strap on a train.",
+    [
+     "commute",
+     "train",
+     "hand strap",
+     "office worker"
+    ]
+   ],
+   "ja": [
+    "つり革につかまる人",
+    "電車のつり革につかまって通勤する人。",
+    [
+     "通勤",
+     "電車",
+     "つり革",
+     "会社員"
+    ]
+   ],
+   "es": [
+    "Pasajero agarrado a la correa",
+    "Una persona que va al trabajo agarrada a la correa del tren.",
+    [
+     "viaje al trabajo",
+     "tren",
+     "agarradera",
+     "oficinista"
+    ]
+   ],
+   "pt": [
+    "Passageiro segurando a alça",
+    "Uma pessoa indo trabalhar segurando a alça do trem.",
+    [
+     "deslocamento",
+     "trem",
+     "alça",
+     "trabalhador"
+    ]
+   ],
+   "fr": [
+    "Passager tenant une poignée",
+    "Une personne qui se tient à une poignée dans le train pour aller au travail.",
+    [
+     "trajet domicile-travail",
+     "train",
+     "poignée",
+     "employé"
+    ]
+   ],
+   "de": [
+    "Pendler am Haltegriff",
+    "Ein Pendler hält sich im Zug an einer Halteschlaufe fest.",
+    [
+     "Pendeln",
+     "Zug",
+     "Haltegriff",
+     "Angestellter"
+    ]
+   ],
+   "zh": [
+    "抓着吊环的人",
+    "在电车上抓着吊环通勤的人。",
+    [
+     "通勤",
+     "电车",
+     "吊环",
+     "上班族"
+    ]
+   ],
+   "ko": [
+    "손잡이를 잡은 사람",
+    "전철에서 손잡이를 잡고 출근하는 사람.",
+    [
+     "출근",
+     "전철",
+     "손잡이",
+     "직장인"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-riding-bicycle",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person riding a bicycle",
+    "A person cheerfully riding a bicycle.",
+    [
+     "bicycle",
+     "cycling",
+     "bike",
+     "commute"
+    ]
+   ],
+   "ja": [
+    "自転車に乗る人",
+    "楽しそうに自転車をこぐ人。",
+    [
+     "自転車",
+     "サイクリング",
+     "乗り物",
+     "通学"
+    ]
+   ],
+   "es": [
+    "Persona en bicicleta",
+    "Una persona montando en bicicleta alegremente.",
+    [
+     "bicicleta",
+     "ciclismo",
+     "bici",
+     "transporte"
+    ]
+   ],
+   "pt": [
+    "Pessoa andando de bicicleta",
+    "Uma pessoa pedalando de bicicleta com alegria.",
+    [
+     "bicicleta",
+     "ciclismo",
+     "bike",
+     "pedalar"
+    ]
+   ],
+   "fr": [
+    "Personne à vélo",
+    "Une personne qui fait du vélo avec joie.",
+    [
+     "vélo",
+     "cyclisme",
+     "bicyclette",
+     "déplacement"
+    ]
+   ],
+   "de": [
+    "Person fährt Fahrrad",
+    "Eine Person fährt fröhlich Fahrrad.",
+    [
+     "Fahrrad",
+     "Radfahren",
+     "Rad",
+     "Pendeln"
+    ]
+   ],
+   "zh": [
+    "骑自行车的人",
+    "开心地骑着自行车的人。",
+    [
+     "自行车",
+     "骑行",
+     "单车",
+     "出行"
+    ]
+   ],
+   "ko": [
+    "자전거 타는 사람",
+    "즐겁게 자전거를 타는 사람.",
+    [
+     "자전거",
+     "사이클링",
+     "라이딩",
+     "이동"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-wearing-mask",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person wearing a mask",
+    "A smiling person wearing a white face mask.",
+    [
+     "face mask",
+     "mask",
+     "cold",
+     "hygiene"
+    ]
+   ],
+   "ja": [
+    "マスクをした人",
+    "白いマスクをつけてにっこりする人。",
+    [
+     "マスク",
+     "風邪",
+     "予防",
+     "衛生"
+    ]
+   ],
+   "es": [
+    "Persona con mascarilla",
+    "Una persona sonriente con una mascarilla blanca.",
+    [
+     "mascarilla",
+     "cubrebocas",
+     "resfriado",
+     "higiene"
+    ]
+   ],
+   "pt": [
+    "Pessoa de máscara",
+    "Uma pessoa sorridente usando uma máscara branca.",
+    [
+     "máscara",
+     "resfriado",
+     "prevenção",
+     "higiene"
+    ]
+   ],
+   "fr": [
+    "Personne avec un masque",
+    "Une personne souriante qui porte un masque blanc.",
+    [
+     "masque",
+     "rhume",
+     "prévention",
+     "hygiène"
+    ]
+   ],
+   "de": [
+    "Person mit Maske",
+    "Eine lächelnde Person mit weißer Mund-Nasen-Maske.",
+    [
+     "Maske",
+     "Mundschutz",
+     "Erkältung",
+     "Hygiene"
+    ]
+   ],
+   "zh": [
+    "戴口罩的人",
+    "戴着白色口罩、笑眯眯的人。",
+    [
+     "口罩",
+     "感冒",
+     "预防",
+     "卫生"
+    ]
+   ],
+   "ko": [
+    "마스크 쓴 사람",
+    "하얀 마스크를 쓰고 웃는 사람.",
+    [
+     "마스크",
+     "감기",
+     "예방",
+     "위생"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-wheelchair",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person in a wheelchair",
+    "A smiling person in a wheelchair waving hello.",
+    [
+     "wheelchair",
+     "accessibility",
+     "disability",
+     "barrier-free"
+    ]
+   ],
+   "ja": [
+    "車いすの人",
+    "車いすに乗って笑顔で手をふる人。",
+    [
+     "車いす",
+     "バリアフリー",
+     "障がい",
+     "福祉"
+    ]
+   ],
+   "es": [
+    "Persona en silla de ruedas",
+    "Una persona sonriente en silla de ruedas saludando.",
+    [
+     "silla de ruedas",
+     "accesibilidad",
+     "discapacidad",
+     "inclusión"
+    ]
+   ],
+   "pt": [
+    "Pessoa em cadeira de rodas",
+    "Uma pessoa sorridente em cadeira de rodas acenando.",
+    [
+     "cadeira de rodas",
+     "acessibilidade",
+     "deficiência",
+     "inclusão"
+    ]
+   ],
+   "fr": [
+    "Personne en fauteuil roulant",
+    "Une personne souriante en fauteuil roulant qui fait coucou.",
+    [
+     "fauteuil roulant",
+     "accessibilité",
+     "handicap",
+     "inclusion"
+    ]
+   ],
+   "de": [
+    "Person im Rollstuhl",
+    "Eine lächelnde Person im Rollstuhl winkt.",
+    [
+     "Rollstuhl",
+     "Barrierefreiheit",
+     "Behinderung",
+     "Inklusion"
+    ]
+   ],
+   "zh": [
+    "坐轮椅的人",
+    "坐在轮椅上笑着挥手的人。",
+    [
+     "轮椅",
+     "无障碍",
+     "残障",
+     "福祉"
+    ]
+   ],
+   "ko": [
+    "휠체어 탄 사람",
+    "휠체어를 타고 웃으며 손을 흔드는 사람.",
+    [
+     "휠체어",
+     "배리어프리",
+     "장애",
+     "복지"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-giving-flowers",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person giving flowers",
+    "A person holding out a bouquet of flowers.",
+    [
+     "bouquet",
+     "flowers",
+     "gift",
+     "thank you"
+    ]
+   ],
+   "ja": [
+    "花束をわたす人",
+    "花束を差し出してプレゼントする人。",
+    [
+     "花束",
+     "花",
+     "プレゼント",
+     "感謝"
+    ]
+   ],
+   "es": [
+    "Persona regalando flores",
+    "Una persona ofreciendo un ramo de flores.",
+    [
+     "ramo de flores",
+     "flores",
+     "regalo",
+     "gracias"
+    ]
+   ],
+   "pt": [
+    "Pessoa dando flores",
+    "Uma pessoa entregando um buquê de flores.",
+    [
+     "buquê",
+     "flores",
+     "presente",
+     "agradecimento"
+    ]
+   ],
+   "fr": [
+    "Personne qui offre des fleurs",
+    "Une personne qui tend un bouquet de fleurs.",
+    [
+     "bouquet",
+     "fleurs",
+     "cadeau",
+     "merci"
+    ]
+   ],
+   "de": [
+    "Person schenkt Blumen",
+    "Eine Person überreicht einen Blumenstrauß.",
+    [
+     "Blumenstrauß",
+     "Blumen",
+     "Geschenk",
+     "Dankeschön"
+    ]
+   ],
+   "zh": [
+    "送花的人",
+    "递出一束鲜花的人。",
+    [
+     "花束",
+     "鲜花",
+     "礼物",
+     "感谢"
+    ]
+   ],
+   "ko": [
+    "꽃다발을 건네는 사람",
+    "꽃다발을 내밀어 선물하는 사람.",
+    [
+     "꽃다발",
+     "꽃",
+     "선물",
+     "감사"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-receiving-gift",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person receiving a gift",
+    "A delighted person holding a gift box with a ribbon.",
+    [
+     "gift",
+     "present",
+     "happy",
+     "birthday"
+    ]
+   ],
+   "ja": [
+    "プレゼントをもらう人",
+    "リボンのついたプレゼントを受け取って喜ぶ人。",
+    [
+     "プレゼント",
+     "ギフト",
+     "うれしい",
+     "誕生日"
+    ]
+   ],
+   "es": [
+    "Persona recibiendo un regalo",
+    "Una persona feliz sosteniendo una caja de regalo con lazo.",
+    [
+     "regalo",
+     "obsequio",
+     "feliz",
+     "cumpleaños"
+    ]
+   ],
+   "pt": [
+    "Pessoa ganhando presente",
+    "Uma pessoa feliz segurando uma caixa de presente com laço.",
+    [
+     "presente",
+     "ganhar presente",
+     "feliz",
+     "aniversário"
+    ]
+   ],
+   "fr": [
+    "Personne qui reçoit un cadeau",
+    "Une personne ravie qui tient un paquet cadeau avec un ruban.",
+    [
+     "cadeau",
+     "présent",
+     "joie",
+     "anniversaire"
+    ]
+   ],
+   "de": [
+    "Person bekommt ein Geschenk",
+    "Eine strahlende Person hält ein Geschenk mit Schleife.",
+    [
+     "Geschenk",
+     "Überraschung",
+     "Freude",
+     "Geburtstag"
+    ]
+   ],
+   "zh": [
+    "收到礼物的人",
+    "收到系着丝带的礼物盒、非常开心的人。",
+    [
+     "礼物",
+     "收礼物",
+     "开心",
+     "生日"
+    ]
+   ],
+   "ko": [
+    "선물 받는 사람",
+    "리본 달린 선물 상자를 받고 기뻐하는 사람.",
+    [
+     "선물",
+     "기프트",
+     "기쁨",
+     "생일"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-apologizing",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person apologizing",
+    "A person apologizing with their hands pressed together.",
+    [
+     "apology",
+     "sorry",
+     "apologize",
+     "please"
+    ]
+   ],
+   "ja": [
+    "あやまる人",
+    "両手を合わせて「ごめんね」とあやまる人。",
+    [
+     "ごめんなさい",
+     "謝罪",
+     "おねがい",
+     "すみません"
+    ]
+   ],
+   "es": [
+    "Persona pidiendo perdón",
+    "Una persona disculpándose con las manos juntas.",
+    [
+     "perdón",
+     "disculpa",
+     "lo siento",
+     "por favor"
+    ]
+   ],
+   "pt": [
+    "Pessoa pedindo desculpas",
+    "Uma pessoa pedindo desculpas com as mãos juntas.",
+    [
+     "desculpa",
+     "perdão",
+     "foi mal",
+     "por favor"
+    ]
+   ],
+   "fr": [
+    "Personne qui s'excuse",
+    "Une personne qui s'excuse, les mains jointes.",
+    [
+     "excuses",
+     "pardon",
+     "désolé",
+     "s'il te plaît"
+    ]
+   ],
+   "de": [
+    "Person entschuldigt sich",
+    "Eine Person entschuldigt sich mit zusammengelegten Händen.",
+    [
+     "Entschuldigung",
+     "sorry",
+     "Verzeihung",
+     "bitte"
+    ]
+   ],
+   "zh": [
+    "道歉的人",
+    "双手合十说“对不起”的人。",
+    [
+     "道歉",
+     "对不起",
+     "抱歉",
+     "拜托"
+    ]
+   ],
+   "ko": [
+    "사과하는 사람",
+    "두 손을 모으고 미안하다고 사과하는 사람.",
+    [
+     "사과",
+     "미안해",
+     "죄송합니다",
+     "부탁"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "people-whispering",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "People whispering",
+    "One person whispering a secret into another person's ear.",
+    [
+     "whisper",
+     "secret",
+     "gossip",
+     "rumor"
+    ]
+   ],
+   "ja": [
+    "耳打ちする人たち",
+    "ひとりがもうひとりの耳にこっそり内緒話をする様子。",
+    [
+     "耳打ち",
+     "ないしょ話",
+     "ひそひそ話",
+     "うわさ"
+    ]
+   ],
+   "es": [
+    "Personas susurrando",
+    "Una persona le susurra un secreto al oído a otra.",
+    [
+     "susurrar",
+     "secreto",
+     "chisme",
+     "rumor"
+    ]
+   ],
+   "pt": [
+    "Pessoas cochichando",
+    "Uma pessoa cochichando um segredo no ouvido de outra.",
+    [
+     "cochichar",
+     "segredo",
+     "fofoca",
+     "boato"
+    ]
+   ],
+   "fr": [
+    "Personnes qui chuchotent",
+    "Une personne qui chuchote un secret à l'oreille d'une autre.",
+    [
+     "chuchoter",
+     "secret",
+     "potins",
+     "rumeur"
+    ]
+   ],
+   "de": [
+    "Flüsternde Personen",
+    "Eine Person flüstert einer anderen ein Geheimnis ins Ohr.",
+    [
+     "flüstern",
+     "Geheimnis",
+     "Klatsch",
+     "Gerücht"
+    ]
+   ],
+   "zh": [
+    "说悄悄话的人",
+    "一个人在另一个人耳边悄悄说秘密。",
+    [
+     "悄悄话",
+     "秘密",
+     "八卦",
+     "传闻"
+    ]
+   ],
+   "ko": [
+    "귓속말하는 사람들",
+    "한 사람이 다른 사람 귀에 비밀을 속삭이는 모습.",
+    [
+     "귓속말",
+     "비밀",
+     "소문",
+     "수군수군"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "people-arguing",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "People arguing",
+    "Two people having a quarrel with an angry scribble cloud.",
+    [
+     "argument",
+     "quarrel",
+     "fight",
+     "conflict"
+    ]
+   ],
+   "ja": [
+    "けんかする人たち",
+    "もくもくとしたイライラ雲の下で言い合うふたり。",
+    [
+     "けんか",
+     "口げんか",
+     "言い争い",
+     "対立"
+    ]
+   ],
+   "es": [
+    "Personas discutiendo",
+    "Dos personas peleándose con una nube de enfado.",
+    [
+     "discusión",
+     "pelea",
+     "enfado",
+     "conflicto"
+    ]
+   ],
+   "pt": [
+    "Pessoas discutindo",
+    "Duas pessoas brigando com uma nuvem de raiva.",
+    [
+     "discussão",
+     "briga",
+     "raiva",
+     "conflito"
+    ]
+   ],
+   "fr": [
+    "Personnes qui se disputent",
+    "Deux personnes qui se disputent sous un nuage de colère.",
+    [
+     "dispute",
+     "querelle",
+     "colère",
+     "conflit"
+    ]
+   ],
+   "de": [
+    "Streitende Personen",
+    "Zwei Personen streiten sich unter einer wütenden Kritzelwolke.",
+    [
+     "Streit",
+     "Zank",
+     "Wut",
+     "Konflikt"
+    ]
+   ],
+   "zh": [
+    "吵架的人",
+    "两个人在生气的乱线云下吵架。",
+    [
+     "吵架",
+     "争吵",
+     "生气",
+     "矛盾"
+    ]
+   ],
+   "ko": [
+    "싸우는 사람들",
+    "화난 구름 아래에서 말다툼하는 두 사람.",
+    [
+     "싸움",
+     "말다툼",
+     "화남",
+     "갈등"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "people-making-up",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "People making up",
+    "Two people shaking hands to make up after a fight.",
+    [
+     "make up",
+     "reconciliation",
+     "handshake",
+     "friendship"
+    ]
+   ],
+   "ja": [
+    "仲直りする人たち",
+    "握手をして仲直りするふたり。",
+    [
+     "仲直り",
+     "握手",
+     "友情",
+     "和解"
+    ]
+   ],
+   "es": [
+    "Personas haciendo las paces",
+    "Dos personas dándose la mano para hacer las paces.",
+    [
+     "hacer las paces",
+     "reconciliación",
+     "apretón de manos",
+     "amistad"
+    ]
+   ],
+   "pt": [
+    "Pessoas fazendo as pazes",
+    "Duas pessoas apertando as mãos para fazer as pazes.",
+    [
+     "fazer as pazes",
+     "reconciliação",
+     "aperto de mão",
+     "amizade"
+    ]
+   ],
+   "fr": [
+    "Personnes qui se réconcilient",
+    "Deux personnes qui se serrent la main pour se réconcilier.",
+    [
+     "réconciliation",
+     "poignée de main",
+     "amitié",
+     "paix"
+    ]
+   ],
+   "de": [
+    "Versöhnung",
+    "Zwei Personen geben sich die Hand und vertragen sich wieder.",
+    [
+     "Versöhnung",
+     "Händedruck",
+     "Freundschaft",
+     "sich vertragen"
+    ]
+   ],
+   "zh": [
+    "和好的人",
+    "握手言和的两个人。",
+    [
+     "和好",
+     "握手",
+     "友情",
+     "和解"
+    ]
+   ],
+   "ko": [
+    "화해하는 사람들",
+    "악수하며 화해하는 두 사람.",
+    [
+     "화해",
+     "악수",
+     "우정",
+     "사이좋게"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-volunteer-cleanup",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Volunteer cleanup",
+    "A volunteer picking up litter with tongs and a trash bag.",
+    [
+     "volunteer",
+     "litter pickup",
+     "cleanup",
+     "environment"
+    ]
+   ],
+   "ja": [
+    "ごみ拾いボランティア",
+    "トングとごみ袋を持ってごみを拾うボランティア。",
+    [
+     "ボランティア",
+     "ごみ拾い",
+     "清掃活動",
+     "環境"
+    ]
+   ],
+   "es": [
+    "Voluntario recogiendo basura",
+    "Un voluntario recogiendo basura con pinzas y una bolsa.",
+    [
+     "voluntariado",
+     "recoger basura",
+     "limpieza",
+     "medio ambiente"
+    ]
+   ],
+   "pt": [
+    "Voluntário recolhendo lixo",
+    "Um voluntário recolhendo lixo com pinça e saco.",
+    [
+     "voluntariado",
+     "recolher lixo",
+     "limpeza",
+     "meio ambiente"
+    ]
+   ],
+   "fr": [
+    "Bénévole qui ramasse les déchets",
+    "Un bénévole qui ramasse des déchets avec une pince et un sac.",
+    [
+     "bénévolat",
+     "ramassage des déchets",
+     "nettoyage",
+     "environnement"
+    ]
+   ],
+   "de": [
+    "Freiwillige Müllsammelaktion",
+    "Eine freiwillige Person sammelt mit Greifzange und Beutel Müll.",
+    [
+     "Ehrenamt",
+     "Müll sammeln",
+     "Aufräumaktion",
+     "Umwelt"
+    ]
+   ],
+   "zh": [
+    "捡垃圾的志愿者",
+    "拿着夹子和垃圾袋捡垃圾的志愿者。",
+    [
+     "志愿者",
+     "捡垃圾",
+     "清洁活动",
+     "环保"
+    ]
+   ],
+   "ko": [
+    "쓰레기 줍는 봉사자",
+    "집게와 쓰레기봉투로 쓰레기를 줍는 자원봉사자.",
+    [
+     "자원봉사",
+     "쓰레기 줍기",
+     "플로깅",
+     "환경"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-donation",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person making a donation",
+    "A person dropping a coin into a donation box.",
+    [
+     "donation",
+     "charity",
+     "fundraising",
+     "coin"
+    ]
+   ],
+   "ja": [
+    "募金する人",
+    "募金箱にコインを入れる人。",
+    [
+     "募金",
+     "寄付",
+     "チャリティー",
+     "コイン"
+    ]
+   ],
+   "es": [
+    "Persona donando",
+    "Una persona echando una moneda en una caja de donaciones.",
+    [
+     "donación",
+     "caridad",
+     "recaudación",
+     "moneda"
+    ]
+   ],
+   "pt": [
+    "Pessoa fazendo doação",
+    "Uma pessoa colocando uma moeda na caixa de doações.",
+    [
+     "doação",
+     "caridade",
+     "arrecadação",
+     "moeda"
+    ]
+   ],
+   "fr": [
+    "Personne qui fait un don",
+    "Une personne qui glisse une pièce dans une boîte de dons.",
+    [
+     "don",
+     "charité",
+     "collecte",
+     "pièce"
+    ]
+   ],
+   "de": [
+    "Person spendet",
+    "Eine Person wirft eine Münze in eine Spendenbox.",
+    [
+     "Spende",
+     "Wohltätigkeit",
+     "Spendenbox",
+     "Münze"
+    ]
+   ],
+   "zh": [
+    "捐款的人",
+    "往捐款箱里投硬币的人。",
+    [
+     "捐款",
+     "慈善",
+     "募捐",
+     "硬币"
+    ]
+   ],
+   "ko": [
+    "기부하는 사람",
+    "모금함에 동전을 넣는 사람.",
+    [
+     "기부",
+     "모금",
+     "자선",
+     "동전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-voting",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person voting",
+    "A person putting a ballot paper into a ballot box.",
+    [
+     "voting",
+     "election",
+     "ballot box",
+     "vote"
+    ]
+   ],
+   "ja": [
+    "投票する人",
+    "投票箱に投票用紙を入れる人。",
+    [
+     "投票",
+     "選挙",
+     "投票箱",
+     "一票"
+    ]
+   ],
+   "es": [
+    "Persona votando",
+    "Una persona depositando su papeleta en la urna.",
+    [
+     "votar",
+     "elecciones",
+     "urna",
+     "voto"
+    ]
+   ],
+   "pt": [
+    "Pessoa votando",
+    "Uma pessoa colocando a cédula na urna.",
+    [
+     "votar",
+     "eleição",
+     "urna",
+     "voto"
+    ]
+   ],
+   "fr": [
+    "Personne qui vote",
+    "Une personne qui glisse son bulletin dans l'urne.",
+    [
+     "vote",
+     "élection",
+     "urne",
+     "bulletin"
+    ]
+   ],
+   "de": [
+    "Person wählt",
+    "Eine Person wirft ihren Stimmzettel in die Wahlurne.",
+    [
+     "Wahl",
+     "wählen",
+     "Wahlurne",
+     "Stimmzettel"
+    ]
+   ],
+   "zh": [
+    "投票的人",
+    "把选票投进投票箱的人。",
+    [
+     "投票",
+     "选举",
+     "投票箱",
+     "选票"
+    ]
+   ],
+   "ko": [
+    "투표하는 사람",
+    "투표함에 투표용지를 넣는 사람.",
+    [
+     "투표",
+     "선거",
+     "투표함",
+     "한 표"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "people-queue",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "People waiting in line",
+    "Three people standing in a line and waiting their turn.",
+    [
+     "queue",
+     "waiting in line",
+     "line",
+     "waiting"
+    ]
+   ],
+   "ja": [
+    "列にならぶ人たち",
+    "順番を待って一列にならぶ3人。",
+    [
+     "行列",
+     "順番待ち",
+     "列",
+     "待つ"
+    ]
+   ],
+   "es": [
+    "Personas haciendo fila",
+    "Tres personas haciendo fila y esperando su turno.",
+    [
+     "fila",
+     "hacer cola",
+     "esperar",
+     "turno"
+    ]
+   ],
+   "pt": [
+    "Pessoas na fila",
+    "Três pessoas em fila esperando a vez.",
+    [
+     "fila",
+     "esperar na fila",
+     "aguardar",
+     "vez"
+    ]
+   ],
+   "fr": [
+    "Personnes qui font la queue",
+    "Trois personnes qui font la queue en attendant leur tour.",
+    [
+     "file d'attente",
+     "faire la queue",
+     "attendre",
+     "tour"
+    ]
+   ],
+   "de": [
+    "Menschen in der Schlange",
+    "Drei Personen stehen in einer Reihe und warten.",
+    [
+     "Warteschlange",
+     "anstehen",
+     "warten",
+     "Schlange"
+    ]
+   ],
+   "zh": [
+    "排队的人",
+    "排成一列等待的三个人。",
+    [
+     "排队",
+     "等待",
+     "队伍",
+     "轮候"
+    ]
+   ],
+   "ko": [
+    "줄 서 있는 사람들",
+    "한 줄로 서서 차례를 기다리는 세 사람.",
+    [
+     "줄서기",
+     "대기",
+     "줄",
+     "기다림"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-lost-map",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Lost person with a map",
+    "A confused person holding an open map, not sure where to go.",
+    [
+     "lost",
+     "map",
+     "directions",
+     "confused"
+    ]
+   ],
+   "ja": [
+    "地図を見て迷う人",
+    "地図を広げて道に迷い困っている人。",
+    [
+     "迷子",
+     "地図",
+     "道に迷う",
+     "困る"
+    ]
+   ],
+   "es": [
+    "Persona perdida con un mapa",
+    "Una persona confundida con un mapa abierto sin saber adónde ir.",
+    [
+     "perdido",
+     "mapa",
+     "direcciones",
+     "confundido"
+    ]
+   ],
+   "pt": [
+    "Pessoa perdida com mapa",
+    "Uma pessoa confusa segurando um mapa aberto sem saber para onde ir.",
+    [
+     "perdido",
+     "mapa",
+     "direção",
+     "confuso"
+    ]
+   ],
+   "fr": [
+    "Personne perdue avec une carte",
+    "Une personne perplexe qui tient une carte ouverte sans savoir où aller.",
+    [
+     "perdu",
+     "carte",
+     "itinéraire",
+     "perplexe"
+    ]
+   ],
+   "de": [
+    "Verirrte Person mit Karte",
+    "Eine ratlose Person hält eine aufgefaltete Karte und sucht den Weg.",
+    [
+     "verlaufen",
+     "Karte",
+     "Wegbeschreibung",
+     "ratlos"
+    ]
+   ],
+   "zh": [
+    "看地图迷路的人",
+    "拿着摊开的地图、不知道往哪走的人。",
+    [
+     "迷路",
+     "地图",
+     "问路",
+     "困惑"
+    ]
+   ],
+   "ko": [
+    "지도를 보며 길 잃은 사람",
+    "지도를 펼쳐 들고 길을 몰라 곤란해하는 사람.",
+    [
+     "길 잃음",
+     "지도",
+     "길 찾기",
+     "당황"
+    ]
+   ]
+  }
+ }
+]

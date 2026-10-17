@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "storefront",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Small shop front",
+    "A small shop with a striped awning, a display window and a door.",
+    [
+     "shop",
+     "store",
+     "small business",
+     "retail"
+    ]
+   ],
+   "ja": [
+    "お店の外観",
+    "しましまのひさしとショーウィンドウがある小さなお店。",
+    [
+     "お店",
+     "店舗",
+     "個人商店",
+     "開業"
+    ]
+   ],
+   "es": [
+    "Fachada de tienda",
+    "Una pequeña tienda con toldo de rayas, escaparate y puerta.",
+    [
+     "tienda",
+     "negocio",
+     "comercio",
+     "emprendimiento"
+    ]
+   ],
+   "pt": [
+    "Fachada de loja",
+    "Uma lojinha com toldo listrado, vitrine e porta.",
+    [
+     "loja",
+     "comércio",
+     "pequeno negócio",
+     "varejo"
+    ]
+   ],
+   "fr": [
+    "Devanture de boutique",
+    "Une petite boutique avec un store rayé, une vitrine et une porte.",
+    [
+     "boutique",
+     "magasin",
+     "commerce",
+     "petit commerce"
+    ]
+   ],
+   "de": [
+    "Kleiner Laden",
+    "Ein kleiner Laden mit gestreifter Markise, Schaufenster und Tür.",
+    [
+     "Laden",
+     "Geschäft",
+     "Einzelhandel",
+     "Selbstständigkeit"
+    ]
+   ],
+   "zh": [
+    "小店门面",
+    "带条纹遮阳篷和橱窗的小商店。",
+    [
+     "商店",
+     "店铺",
+     "门店",
+     "创业"
+    ]
+   ],
+   "ko": [
+    "가게 외관",
+    "줄무늬 차양과 쇼윈도가 있는 작은 가게.",
+    [
+     "가게",
+     "상점",
+     "자영업",
+     "창업"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "startup-rocket",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Startup rocket",
+    "A rocket blasting off from a laptop screen.",
+    [
+     "startup",
+     "launch",
+     "business",
+     "rocket"
+    ]
+   ],
+   "ja": [
+    "スタートアップのロケット",
+    "ノートパソコンから飛び立つロケット。",
+    [
+     "スタートアップ",
+     "起業",
+     "ロケット",
+     "ローンチ"
+    ]
+   ],
+   "es": [
+    "Cohete de startup",
+    "Un cohete despegando desde la pantalla de un portátil.",
+    [
+     "startup",
+     "emprendimiento",
+     "lanzamiento",
+     "cohete"
+    ]
+   ],
+   "pt": [
+    "Foguete de startup",
+    "Um foguete decolando da tela de um notebook.",
+    [
+     "startup",
+     "empreendedorismo",
+     "lançamento",
+     "foguete"
+    ]
+   ],
+   "fr": [
+    "Fusée de startup",
+    "Une fusée qui décolle depuis l'écran d'un ordinateur portable.",
+    [
+     "startup",
+     "lancement",
+     "entrepreneuriat",
+     "fusée"
+    ]
+   ],
+   "de": [
+    "Startup-Rakete",
+    "Eine Rakete, die aus einem Laptop-Bildschirm startet.",
+    [
+     "Startup",
+     "Gründung",
+     "Launch",
+     "Rakete"
+    ]
+   ],
+   "zh": [
+    "创业火箭",
+    "从笔记本电脑屏幕中发射的火箭。",
+    [
+     "创业",
+     "初创公司",
+     "发布",
+     "火箭"
+    ]
+   ],
+   "ko": [
+    "스타트업 로켓",
+    "노트북 화면에서 발사되는 로켓.",
+    [
+     "스타트업",
+     "창업",
+     "런칭",
+     "로켓"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "target-goal",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Target and arrow",
+    "An arrow hitting the center of a red and white target.",
+    [
+     "goal",
+     "target",
+     "bullseye",
+     "objective"
+    ]
+   ],
+   "ja": [
+    "的と矢",
+    "的のど真ん中に命中した矢。",
+    [
+     "目標",
+     "ターゲット",
+     "的中",
+     "目標達成"
+    ]
+   ],
+   "es": [
+    "Diana con flecha",
+    "Una flecha clavada en el centro de una diana.",
+    [
+     "meta",
+     "objetivo",
+     "diana",
+     "éxito"
+    ]
+   ],
+   "pt": [
+    "Alvo com flecha",
+    "Uma flecha acertando o centro do alvo.",
+    [
+     "meta",
+     "objetivo",
+     "alvo",
+     "foco"
+    ]
+   ],
+   "fr": [
+    "Cible et flèche",
+    "Une flèche plantée en plein centre d'une cible.",
+    [
+     "objectif",
+     "cible",
+     "but",
+     "réussite"
+    ]
+   ],
+   "de": [
+    "Zielscheibe mit Pfeil",
+    "Ein Pfeil, der genau in der Mitte einer Zielscheibe steckt.",
+    [
+     "Ziel",
+     "Zielscheibe",
+     "Volltreffer",
+     "Erfolg"
+    ]
+   ],
+   "zh": [
+    "靶心和箭",
+    "正中靶心的箭。",
+    [
+     "目标",
+     "靶子",
+     "命中",
+     "达成目标"
+    ]
+   ],
+   "ko": [
+    "과녁과 화살",
+    "과녁 한가운데에 꽂힌 화살.",
+    [
+     "목표",
+     "과녁",
+     "명중",
+     "목표 달성"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "strategy-chess",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Chess strategy",
+    "A rook and a pawn standing on a chessboard.",
+    [
+     "strategy",
+     "chess",
+     "planning",
+     "tactics"
+    ]
+   ],
+   "ja": [
+    "チェスの戦略",
+    "チェス盤の上に立つルークとポーン。",
+    [
+     "戦略",
+     "チェス",
+     "作戦",
+     "ビジネス戦略"
+    ]
+   ],
+   "es": [
+    "Estrategia de ajedrez",
+    "Una torre y un peón sobre un tablero de ajedrez.",
+    [
+     "estrategia",
+     "ajedrez",
+     "planificación",
+     "táctica"
+    ]
+   ],
+   "pt": [
+    "Estratégia de xadrez",
+    "Uma torre e um peão em um tabuleiro de xadrez.",
+    [
+     "estratégia",
+     "xadrez",
+     "planejamento",
+     "tática"
+    ]
+   ],
+   "fr": [
+    "Stratégie aux échecs",
+    "Une tour et un pion sur un échiquier.",
+    [
+     "stratégie",
+     "échecs",
+     "planification",
+     "tactique"
+    ]
+   ],
+   "de": [
+    "Schachstrategie",
+    "Ein Turm und ein Bauer auf einem Schachbrett.",
+    [
+     "Strategie",
+     "Schach",
+     "Planung",
+     "Taktik"
+    ]
+   ],
+   "zh": [
+    "国际象棋战略",
+    "棋盘上的车和兵。",
+    [
+     "战略",
+     "国际象棋",
+     "策略",
+     "规划"
+    ]
+   ],
+   "ko": [
+    "체스 전략",
+    "체스판 위에 선 룩과 폰.",
+    [
+     "전략",
+     "체스",
+     "전술",
+     "기획"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "falling-chart",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Falling chart",
+    "A bar chart going down with a downward arrow and a sad face.",
+    [
+     "decline",
+     "loss",
+     "chart",
+     "recession"
+    ]
+   ],
+   "ja": [
+    "下がるグラフ",
+    "右肩下がりの棒グラフと下向きの矢印。",
+    [
+     "業績悪化",
+     "下落",
+     "グラフ",
+     "赤字"
+    ]
+   ],
+   "es": [
+    "Gráfico en caída",
+    "Un gráfico de barras en descenso con una flecha hacia abajo.",
+    [
+     "caída",
+     "pérdidas",
+     "gráfico",
+     "crisis"
+    ]
+   ],
+   "pt": [
+    "Gráfico em queda",
+    "Um gráfico de barras caindo com uma seta para baixo.",
+    [
+     "queda",
+     "prejuízo",
+     "gráfico",
+     "crise"
+    ]
+   ],
+   "fr": [
+    "Graphique en baisse",
+    "Un graphique en barres qui chute avec une flèche vers le bas.",
+    [
+     "baisse",
+     "perte",
+     "graphique",
+     "crise"
+    ]
+   ],
+   "de": [
+    "Fallendes Diagramm",
+    "Ein sinkendes Balkendiagramm mit einem Pfeil nach unten.",
+    [
+     "Rückgang",
+     "Verlust",
+     "Diagramm",
+     "Krise"
+    ]
+   ],
+   "zh": [
+    "下降图表",
+    "持续下降的柱状图和向下的箭头。",
+    [
+     "下降",
+     "亏损",
+     "图表",
+     "业绩下滑"
+    ]
+   ],
+   "ko": [
+    "하락 그래프",
+    "내려가는 막대그래프와 아래쪽 화살표.",
+    [
+     "하락",
+     "손실",
+     "그래프",
+     "실적 악화"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pie-chart",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pie chart",
+    "A smiling pie chart with colorful slices.",
+    [
+     "pie chart",
+     "data",
+     "share",
+     "analysis"
+    ]
+   ],
+   "ja": [
+    "円グラフ",
+    "カラフルに色分けされた、にっこり顔の円グラフ。",
+    [
+     "円グラフ",
+     "データ",
+     "割合",
+     "分析"
+    ]
+   ],
+   "es": [
+    "Gráfico circular",
+    "Un gráfico circular sonriente con porciones de colores.",
+    [
+     "gráfico circular",
+     "datos",
+     "porcentaje",
+     "análisis"
+    ]
+   ],
+   "pt": [
+    "Gráfico de pizza",
+    "Um gráfico de pizza sorridente com fatias coloridas.",
+    [
+     "gráfico de pizza",
+     "dados",
+     "porcentagem",
+     "análise"
+    ]
+   ],
+   "fr": [
+    "Diagramme circulaire",
+    "Un camembert souriant aux parts colorées.",
+    [
+     "camembert",
+     "diagramme circulaire",
+     "données",
+     "statistiques"
+    ]
+   ],
+   "de": [
+    "Kreisdiagramm",
+    "Ein lächelndes Kreisdiagramm mit bunten Segmenten.",
+    [
+     "Kreisdiagramm",
+     "Tortendiagramm",
+     "Daten",
+     "Anteil"
+    ]
+   ],
+   "zh": [
+    "饼图",
+    "带笑脸的彩色饼图。",
+    [
+     "饼图",
+     "数据",
+     "比例",
+     "分析"
+    ]
+   ],
+   "ko": [
+    "원그래프",
+    "알록달록한 조각으로 나뉜 웃는 원그래프.",
+    [
+     "원그래프",
+     "파이 차트",
+     "데이터",
+     "비율"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "megaphone",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Megaphone",
+    "A megaphone with sound waves for announcements.",
+    [
+     "megaphone",
+     "announcement",
+     "marketing",
+     "promotion"
+    ]
+   ],
+   "ja": [
+    "メガホン",
+    "音が広がるメガホン。お知らせや宣伝に。",
+    [
+     "メガホン",
+     "お知らせ",
+     "宣伝",
+     "告知"
+    ]
+   ],
+   "es": [
+    "Megáfono",
+    "Un megáfono con ondas de sonido para anuncios.",
+    [
+     "megáfono",
+     "anuncio",
+     "marketing",
+     "promoción"
+    ]
+   ],
+   "pt": [
+    "Megafone",
+    "Um megafone com ondas sonoras para anúncios.",
+    [
+     "megafone",
+     "anúncio",
+     "marketing",
+     "divulgação"
+    ]
+   ],
+   "fr": [
+    "Mégaphone",
+    "Un mégaphone avec des ondes sonores pour les annonces.",
+    [
+     "mégaphone",
+     "annonce",
+     "marketing",
+     "promotion"
+    ]
+   ],
+   "de": [
+    "Megafon",
+    "Ein Megafon mit Schallwellen für Ankündigungen.",
+    [
+     "Megafon",
+     "Ankündigung",
+     "Marketing",
+     "Werbung"
+    ]
+   ],
+   "zh": [
+    "扩音器",
+    "发出声波的扩音器，用于公告和宣传。",
+    [
+     "扩音器",
+     "公告",
+     "宣传",
+     "营销"
+    ]
+   ],
+   "ko": [
+    "메가폰",
+    "소리가 퍼지는 메가폰. 공지나 홍보에.",
+    [
+     "메가폰",
+     "공지",
+     "홍보",
+     "마케팅"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "customer-support",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Customer support",
+    "A headset with chat bubbles for customer service.",
+    [
+     "customer support",
+     "call center",
+     "help desk",
+     "inquiry"
+    ]
+   ],
+   "ja": [
+    "カスタマーサポート",
+    "ヘッドセットと吹き出し。お問い合わせ窓口に。",
+    [
+     "カスタマーサポート",
+     "お問い合わせ",
+     "コールセンター",
+     "サポート"
+    ]
+   ],
+   "es": [
+    "Atención al cliente",
+    "Unos auriculares con micrófono y burbujas de chat.",
+    [
+     "atención al cliente",
+     "soporte",
+     "centro de llamadas",
+     "contacto"
+    ]
+   ],
+   "pt": [
+    "Atendimento ao cliente",
+    "Um headset com balões de conversa.",
+    [
+     "atendimento",
+     "suporte",
+     "SAC",
+     "fale conosco"
+    ]
+   ],
+   "fr": [
+    "Service client",
+    "Un casque-micro avec des bulles de discussion.",
+    [
+     "service client",
+     "support",
+     "centre d'appels",
+     "contact"
+    ]
+   ],
+   "de": [
+    "Kundenservice",
+    "Ein Headset mit Sprechblasen für den Kundensupport.",
+    [
+     "Kundenservice",
+     "Support",
+     "Callcenter",
+     "Kontakt"
+    ]
+   ],
+   "zh": [
+    "客户服务",
+    "耳机麦克风和聊天气泡。",
+    [
+     "客服",
+     "客户支持",
+     "呼叫中心",
+     "咨询"
+    ]
+   ],
+   "ko": [
+    "고객 지원",
+    "헤드셋과 말풍선. 고객센터에.",
+    [
+     "고객센터",
+     "고객 지원",
+     "콜센터",
+     "문의"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "delivery-truck",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Delivery truck",
+    "A delivery truck loaded with cardboard boxes.",
+    [
+     "delivery",
+     "truck",
+     "shipping",
+     "logistics"
+    ]
+   ],
+   "ja": [
+    "配送トラック",
+    "段ボール箱を積んだ配送トラック。",
+    [
+     "配送",
+     "トラック",
+     "宅配",
+     "物流"
+    ]
+   ],
+   "es": [
+    "Camión de reparto",
+    "Un camión de reparto cargado de cajas de cartón.",
+    [
+     "reparto",
+     "camión",
+     "envío",
+     "logística"
+    ]
+   ],
+   "pt": [
+    "Caminhão de entrega",
+    "Um caminhão de entrega cheio de caixas de papelão.",
+    [
+     "entrega",
+     "caminhão",
+     "frete",
+     "logística"
+    ]
+   ],
+   "fr": [
+    "Camion de livraison",
+    "Un camion de livraison chargé de cartons.",
+    [
+     "livraison",
+     "camion",
+     "expédition",
+     "logistique"
+    ]
+   ],
+   "de": [
+    "Lieferwagen",
+    "Ein Lieferwagen voller Pakete.",
+    [
+     "Lieferung",
+     "Lkw",
+     "Versand",
+     "Logistik"
+    ]
+   ],
+   "zh": [
+    "送货卡车",
+    "装满纸箱的送货卡车。",
+    [
+     "送货",
+     "卡车",
+     "快递",
+     "物流"
+    ]
+   ],
+   "ko": [
+    "배송 트럭",
+    "상자를 가득 실은 배송 트럭.",
+    [
+     "배송",
+     "트럭",
+     "택배",
+     "물류"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "warehouse-boxes",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Warehouse shelves",
+    "Warehouse shelves stacked with cardboard boxes.",
+    [
+     "warehouse",
+     "inventory",
+     "storage",
+     "logistics"
+    ]
+   ],
+   "ja": [
+    "倉庫の棚",
+    "段ボール箱が並ぶ倉庫の棚。",
+    [
+     "倉庫",
+     "在庫",
+     "保管",
+     "物流"
+    ]
+   ],
+   "es": [
+    "Estantes de almacén",
+    "Estanterías de almacén llenas de cajas de cartón.",
+    [
+     "almacén",
+     "inventario",
+     "stock",
+     "logística"
+    ]
+   ],
+   "pt": [
+    "Prateleiras de depósito",
+    "Prateleiras de depósito cheias de caixas de papelão.",
+    [
+     "depósito",
+     "estoque",
+     "armazém",
+     "logística"
+    ]
+   ],
+   "fr": [
+    "Étagères d'entrepôt",
+    "Des étagères d'entrepôt remplies de cartons.",
+    [
+     "entrepôt",
+     "stock",
+     "inventaire",
+     "logistique"
+    ]
+   ],
+   "de": [
+    "Lagerregal",
+    "Ein Lagerregal voller Kartons.",
+    [
+     "Lager",
+     "Lagerbestand",
+     "Inventar",
+     "Logistik"
+    ]
+   ],
+   "zh": [
+    "仓库货架",
+    "摆满纸箱的仓库货架。",
+    [
+     "仓库",
+     "库存",
+     "仓储",
+     "物流"
+    ]
+   ],
+   "ko": [
+    "창고 선반",
+    "상자가 가득 놓인 창고 선반.",
+    [
+     "창고",
+     "재고",
+     "보관",
+     "물류"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "factory-conveyor",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Factory conveyor belt",
+    "Boxes moving along a conveyor belt under a machine.",
+    [
+     "factory",
+     "conveyor belt",
+     "production",
+     "manufacturing"
+    ]
+   ],
+   "ja": [
+    "工場のベルトコンベア",
+    "機械の下をベルトコンベアで運ばれる箱。",
+    [
+     "工場",
+     "ベルトコンベア",
+     "製造",
+     "生産ライン"
+    ]
+   ],
+   "es": [
+    "Cinta transportadora",
+    "Cajas avanzando por una cinta transportadora en la fábrica.",
+    [
+     "fábrica",
+     "cinta transportadora",
+     "producción",
+     "manufactura"
+    ]
+   ],
+   "pt": [
+    "Esteira de fábrica",
+    "Caixas passando por uma esteira na fábrica.",
+    [
+     "fábrica",
+     "esteira",
+     "produção",
+     "indústria"
+    ]
+   ],
+   "fr": [
+    "Tapis roulant d'usine",
+    "Des cartons qui avancent sur un tapis roulant d'usine.",
+    [
+     "usine",
+     "tapis roulant",
+     "production",
+     "industrie"
+    ]
+   ],
+   "de": [
+    "Förderband",
+    "Kartons fahren auf einem Förderband durch die Fabrik.",
+    [
+     "Fabrik",
+     "Förderband",
+     "Produktion",
+     "Fertigung"
+    ]
+   ],
+   "zh": [
+    "工厂传送带",
+    "在传送带上运送的箱子。",
+    [
+     "工厂",
+     "传送带",
+     "生产线",
+     "制造"
+    ]
+   ],
+   "ko": [
+    "공장 컨베이어 벨트",
+    "컨베이어 벨트 위로 옮겨지는 상자들.",
+    [
+     "공장",
+     "컨베이어 벨트",
+     "생산",
+     "제조"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "office-building",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Office building",
+    "A tall office building with many windows.",
+    [
+     "office building",
+     "company",
+     "business",
+     "city"
+    ]
+   ],
+   "ja": [
+    "オフィスビル",
+    "窓がたくさん並ぶ高いオフィスビル。",
+    [
+     "オフィスビル",
+     "会社",
+     "ビル",
+     "企業"
+    ]
+   ],
+   "es": [
+    "Edificio de oficinas",
+    "Un edificio de oficinas alto con muchas ventanas.",
+    [
+     "edificio de oficinas",
+     "empresa",
+     "negocios",
+     "ciudad"
+    ]
+   ],
+   "pt": [
+    "Prédio comercial",
+    "Um prédio comercial alto com muitas janelas.",
+    [
+     "prédio",
+     "empresa",
+     "escritório",
+     "cidade"
+    ]
+   ],
+   "fr": [
+    "Immeuble de bureaux",
+    "Un grand immeuble de bureaux aux nombreuses fenêtres.",
+    [
+     "immeuble",
+     "bureaux",
+     "entreprise",
+     "ville"
+    ]
+   ],
+   "de": [
+    "Bürogebäude",
+    "Ein hohes Bürogebäude mit vielen Fenstern.",
+    [
+     "Bürogebäude",
+     "Firma",
+     "Unternehmen",
+     "Stadt"
+    ]
+   ],
+   "zh": [
+    "办公大楼",
+    "有许多窗户的高层办公大楼。",
+    [
+     "办公楼",
+     "公司",
+     "企业",
+     "大厦"
+    ]
+   ],
+   "ko": [
+    "오피스 빌딩",
+    "창문이 많은 높은 오피스 빌딩.",
+    [
+     "빌딩",
+     "회사",
+     "오피스",
+     "기업"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "office-desk",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Office desk",
+    "An office desk with a monitor, papers and a potted plant.",
+    [
+     "desk",
+     "office",
+     "workspace",
+     "workplace"
+    ]
+   ],
+   "ja": [
+    "オフィスのデスク",
+    "モニターと観葉植物が置かれた仕事机。",
+    [
+     "デスク",
+     "オフィス",
+     "職場",
+     "仕事"
+    ]
+   ],
+   "es": [
+    "Escritorio de oficina",
+    "Un escritorio con monitor, papeles y una planta.",
+    [
+     "escritorio",
+     "oficina",
+     "espacio de trabajo",
+     "trabajo"
+    ]
+   ],
+   "pt": [
+    "Mesa de escritório",
+    "Uma mesa com monitor, papéis e um vasinho de planta.",
+    [
+     "mesa",
+     "escritório",
+     "trabalho",
+     "home office"
+    ]
+   ],
+   "fr": [
+    "Bureau de travail",
+    "Un bureau avec un écran, des papiers et une plante.",
+    [
+     "bureau",
+     "poste de travail",
+     "travail",
+     "espace de travail"
+    ]
+   ],
+   "de": [
+    "Schreibtisch im Büro",
+    "Ein Schreibtisch mit Monitor, Papieren und Topfpflanze.",
+    [
+     "Schreibtisch",
+     "Büro",
+     "Arbeitsplatz",
+     "Arbeit"
+    ]
+   ],
+   "zh": [
+    "办公桌",
+    "放着显示器和绿植的办公桌。",
+    [
+     "办公桌",
+     "办公室",
+     "工位",
+     "工作"
+    ]
+   ],
+   "ko": [
+    "사무실 책상",
+    "모니터와 화분이 놓인 사무실 책상.",
+    [
+     "책상",
+     "사무실",
+     "업무",
+     "직장"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "office-chair",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Office chair",
+    "A blue swivel office chair with casters.",
+    [
+     "office chair",
+     "chair",
+     "office",
+     "furniture"
+    ]
+   ],
+   "ja": [
+    "オフィスチェア",
+    "キャスター付きの青い回転いす。",
+    [
+     "オフィスチェア",
+     "いす",
+     "オフィス",
+     "家具"
+    ]
+   ],
+   "es": [
+    "Silla de oficina",
+    "Una silla giratoria azul con ruedas.",
+    [
+     "silla de oficina",
+     "silla",
+     "oficina",
+     "mueble"
+    ]
+   ],
+   "pt": [
+    "Cadeira de escritório",
+    "Uma cadeira giratória azul com rodinhas.",
+    [
+     "cadeira de escritório",
+     "cadeira",
+     "escritório",
+     "móvel"
+    ]
+   ],
+   "fr": [
+    "Chaise de bureau",
+    "Une chaise de bureau pivotante bleue à roulettes.",
+    [
+     "chaise de bureau",
+     "fauteuil",
+     "bureau",
+     "mobilier"
+    ]
+   ],
+   "de": [
+    "Bürostuhl",
+    "Ein blauer Drehstuhl mit Rollen.",
+    [
+     "Bürostuhl",
+     "Stuhl",
+     "Büro",
+     "Möbel"
+    ]
+   ],
+   "zh": [
+    "办公椅",
+    "带滚轮的蓝色旋转办公椅。",
+    [
+     "办公椅",
+     "椅子",
+     "办公室",
+     "家具"
+    ]
+   ],
+   "ko": [
+    "사무용 의자",
+    "바퀴 달린 파란 회전의자.",
+    [
+     "사무용 의자",
+     "의자",
+     "사무실",
+     "가구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "time-card",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Time clock",
+    "A time clock machine with a time card inserted.",
+    [
+     "time card",
+     "time clock",
+     "attendance",
+     "clock in"
+    ]
+   ],
+   "ja": [
+    "タイムカード",
+    "タイムカードを差し込んだ打刻機。",
+    [
+     "タイムカード",
+     "出勤",
+     "勤怠管理",
+     "打刻"
+    ]
+   ],
+   "es": [
+    "Reloj de fichar",
+    "Una máquina de fichar con la tarjeta insertada.",
+    [
+     "fichar",
+     "control horario",
+     "asistencia",
+     "reloj checador"
+    ]
+   ],
+   "pt": [
+    "Relógio de ponto",
+    "Um relógio de ponto com o cartão inserido.",
+    [
+     "cartão de ponto",
+     "bater ponto",
+     "jornada",
+     "frequência"
+    ]
+   ],
+   "fr": [
+    "Pointeuse",
+    "Une pointeuse avec une carte de pointage insérée.",
+    [
+     "pointeuse",
+     "pointage",
+     "horaires",
+     "présence"
+    ]
+   ],
+   "de": [
+    "Stempeluhr",
+    "Eine Stempeluhr mit eingesteckter Stempelkarte.",
+    [
+     "Stempeluhr",
+     "Arbeitszeit",
+     "Zeiterfassung",
+     "einstempeln"
+    ]
+   ],
+   "zh": [
+    "打卡机",
+    "插着考勤卡的打卡机。",
+    [
+     "打卡",
+     "考勤",
+     "上班",
+     "打卡机"
+    ]
+   ],
+   "ko": [
+    "출퇴근 기록기",
+    "타임카드가 꽂힌 출퇴근 기록기.",
+    [
+     "타임카드",
+     "출근",
+     "근태 관리",
+     "출퇴근"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "payday-envelope",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pay envelope",
+    "A smiling pay envelope with cash and gold coins.",
+    [
+     "payday",
+     "salary",
+     "wages",
+     "money"
+    ]
+   ],
+   "ja": [
+    "給料袋",
+    "お札がのぞく、にっこり顔の給料袋とコイン。",
+    [
+     "給料日",
+     "給料",
+     "給与",
+     "お金"
+    ]
+   ],
+   "es": [
+    "Sobre de sueldo",
+    "Un sobre de sueldo sonriente con billetes y monedas.",
+    [
+     "día de pago",
+     "sueldo",
+     "salario",
+     "dinero"
+    ]
+   ],
+   "pt": [
+    "Envelope de salário",
+    "Um envelope de salário sorridente com notas e moedas.",
+    [
+     "dia do pagamento",
+     "salário",
+     "pagamento",
+     "dinheiro"
+    ]
+   ],
+   "fr": [
+    "Enveloppe de paie",
+    "Une enveloppe de paie souriante avec des billets et des pièces.",
+    [
+     "jour de paie",
+     "salaire",
+     "paie",
+     "argent"
+    ]
+   ],
+   "de": [
+    "Lohntüte",
+    "Eine lächelnde Lohntüte mit Geldschein und Münzen.",
+    [
+     "Zahltag",
+     "Gehalt",
+     "Lohn",
+     "Geld"
+    ]
+   ],
+   "zh": [
+    "工资袋",
+    "露出钞票、旁边有金币的笑脸工资袋。",
+    [
+     "发工资",
+     "工资",
+     "薪水",
+     "钱"
+    ]
+   ],
+   "ko": [
+    "월급 봉투",
+    "지폐와 동전이 함께 있는 웃는 월급 봉투.",
+    [
+     "월급날",
+     "월급",
+     "급여",
+     "돈"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "retirement-bouquet",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Retirement bouquet",
+    "A smiling gray-haired worker holding a bouquet of flowers.",
+    [
+     "retirement",
+     "farewell",
+     "bouquet",
+     "thank you"
+    ]
+   ],
+   "ja": [
+    "定年退職の花束",
+    "花束を受け取ってにっこりする白髪の社員。",
+    [
+     "定年退職",
+     "退職",
+     "花束",
+     "送別会"
+    ]
+   ],
+   "es": [
+    "Ramo de jubilación",
+    "Un trabajador canoso y sonriente con un ramo de flores.",
+    [
+     "jubilación",
+     "despedida",
+     "ramo de flores",
+     "agradecimiento"
+    ]
+   ],
+   "pt": [
+    "Buquê de aposentadoria",
+    "Um funcionário grisalho e sorridente segurando um buquê.",
+    [
+     "aposentadoria",
+     "despedida",
+     "buquê",
+     "homenagem"
+    ]
+   ],
+   "fr": [
+    "Bouquet de départ à la retraite",
+    "Un employé aux cheveux blancs souriant avec un bouquet de fleurs.",
+    [
+     "retraite",
+     "départ",
+     "bouquet",
+     "remerciements"
+    ]
+   ],
+   "de": [
+    "Blumenstrauß zum Ruhestand",
+    "Ein lächelnder grauhaariger Mitarbeiter mit einem Blumenstrauß.",
+    [
+     "Ruhestand",
+     "Abschied",
+     "Blumenstrauß",
+     "Rente"
+    ]
+   ],
+   "zh": [
+    "退休献花",
+    "手捧花束、面带微笑的白发员工。",
+    [
+     "退休",
+     "欢送",
+     "花束",
+     "感谢"
+    ]
+   ],
+   "ko": [
+    "정년퇴직 꽃다발",
+    "꽃다발을 받고 웃는 흰머리 직원.",
+    [
+     "정년퇴직",
+     "퇴직",
+     "꽃다발",
+     "송별회"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "award-certificate",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Award certificate",
+    "A framed certificate with a gold ribbon seal.",
+    [
+     "certificate",
+     "award",
+     "diploma",
+     "achievement"
+    ]
+   ],
+   "ja": [
+    "賞状",
+    "金色のリボン付きメダルが付いた額入りの賞状。",
+    [
+     "賞状",
+     "表彰",
+     "資格",
+     "受賞"
+    ]
+   ],
+   "es": [
+    "Certificado de reconocimiento",
+    "Un certificado enmarcado con un sello dorado y cintas.",
+    [
+     "certificado",
+     "diploma",
+     "premio",
+     "reconocimiento"
+    ]
+   ],
+   "pt": [
+    "Certificado",
+    "Um certificado emoldurado com selo dourado e fitas.",
+    [
+     "certificado",
+     "diploma",
+     "prêmio",
+     "conquista"
+    ]
+   ],
+   "fr": [
+    "Certificat encadré",
+    "Un certificat encadré avec un sceau doré à rubans.",
+    [
+     "certificat",
+     "diplôme",
+     "récompense",
+     "distinction"
+    ]
+   ],
+   "de": [
+    "Urkunde",
+    "Eine gerahmte Urkunde mit goldenem Siegel und Bändern.",
+    [
+     "Urkunde",
+     "Auszeichnung",
+     "Zertifikat",
+     "Ehrung"
+    ]
+   ],
+   "zh": [
+    "奖状",
+    "带金色绶带徽章的裱框奖状。",
+    [
+     "奖状",
+     "证书",
+     "表彰",
+     "获奖"
+    ]
+   ],
+   "ko": [
+    "상장",
+    "금색 리본 메달이 달린 액자 속 상장.",
+    [
+     "상장",
+     "표창",
+     "자격증",
+     "수상"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "it-support",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "IT support",
+    "A technician fixing a broken computer with a wrench.",
+    [
+     "IT support",
+     "technician",
+     "computer repair",
+     "help desk"
+    ]
+   ],
+   "ja": [
+    "ITサポート",
+    "レンチでパソコンを直すITサポートの人。",
+    [
+     "ITサポート",
+     "情シス",
+     "パソコン修理",
+     "トラブル対応"
+    ]
+   ],
+   "es": [
+    "Soporte técnico",
+    "Un técnico arreglando un ordenador con una llave inglesa.",
+    [
+     "soporte técnico",
+     "informática",
+     "reparación",
+     "técnico"
+    ]
+   ],
+   "pt": [
+    "Suporte de TI",
+    "Um técnico consertando um computador com uma chave inglesa.",
+    [
+     "suporte de TI",
+     "técnico",
+     "conserto de computador",
+     "informática"
+    ]
+   ],
+   "fr": [
+    "Support informatique",
+    "Un technicien qui répare un ordinateur avec une clé.",
+    [
+     "support informatique",
+     "technicien",
+     "dépannage",
+     "informatique"
+    ]
+   ],
+   "de": [
+    "IT-Support",
+    "Ein Techniker repariert einen Computer mit einem Schraubenschlüssel.",
+    [
+     "IT-Support",
+     "Techniker",
+     "Computerreparatur",
+     "Helpdesk"
+    ]
+   ],
+   "zh": [
+    "IT技术支持",
+    "用扳手修理电脑的技术人员。",
+    [
+     "IT支持",
+     "技术员",
+     "电脑维修",
+     "运维"
+    ]
+   ],
+   "ko": [
+    "IT 지원",
+    "렌치로 컴퓨터를 고치는 IT 담당자.",
+    [
+     "IT 지원",
+     "전산팀",
+     "컴퓨터 수리",
+     "기술 지원"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "event-staff",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Event staff",
+    "A staff member in a cap holding a checklist clipboard.",
+    [
+     "event staff",
+     "staff",
+     "clipboard",
+     "volunteer"
+    ]
+   ],
+   "ja": [
+    "イベントスタッフ",
+    "帽子をかぶり、チェックリストのボードを持つスタッフ。",
+    [
+     "イベントスタッフ",
+     "スタッフ",
+     "運営",
+     "アルバイト"
+    ]
+   ],
+   "es": [
+    "Personal de eventos",
+    "Un miembro del staff con gorra y una tablilla con lista.",
+    [
+     "staff",
+     "personal de eventos",
+     "organización",
+     "voluntario"
+    ]
+   ],
+   "pt": [
+    "Equipe de evento",
+    "Um membro da equipe de boné segurando uma prancheta.",
+    [
+     "staff",
+     "equipe de evento",
+     "organização",
+     "voluntário"
+    ]
+   ],
+   "fr": [
+    "Staff d'événement",
+    "Un membre du staff en casquette tenant un porte-bloc.",
+    [
+     "staff",
+     "organisation",
+     "événement",
+     "bénévole"
+    ]
+   ],
+   "de": [
+    "Event-Personal",
+    "Ein Mitarbeiter mit Kappe und Klemmbrett mit Checkliste.",
+    [
+     "Eventpersonal",
+     "Staff",
+     "Klemmbrett",
+     "Helfer"
+    ]
+   ],
+   "zh": [
+    "活动工作人员",
+    "戴着帽子、拿着清单夹板的工作人员。",
+    [
+     "工作人员",
+     "活动",
+     "志愿者",
+     "会务"
+    ]
+   ],
+   "ko": [
+    "행사 스태프",
+    "모자를 쓰고 체크리스트 보드를 든 스태프.",
+    [
+     "행사 스태프",
+     "스태프",
+     "운영",
+     "아르바이트"
+    ]
+   ]
+  }
+ }
+]

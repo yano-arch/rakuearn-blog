@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "guitar",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Acoustic guitar",
+    "A wooden acoustic guitar with music notes floating around it.",
+    [
+     "guitar",
+     "music",
+     "instrument",
+     "acoustic"
+    ]
+   ],
+   "ja": [
+    "アコースティックギター",
+    "音符がただよう木製のアコースティックギター。",
+    [
+     "ギター",
+     "音楽",
+     "楽器",
+     "アコギ"
+    ]
+   ],
+   "es": [
+    "Guitarra acústica",
+    "Una guitarra acústica de madera con notas musicales alrededor.",
+    [
+     "guitarra",
+     "música",
+     "instrumento",
+     "acústica"
+    ]
+   ],
+   "pt": [
+    "Violão",
+    "Um violão de madeira com notas musicais flutuando ao redor.",
+    [
+     "violão",
+     "música",
+     "instrumento",
+     "acústico"
+    ]
+   ],
+   "fr": [
+    "Guitare acoustique",
+    "Une guitare acoustique en bois entourée de notes de musique.",
+    [
+     "guitare",
+     "musique",
+     "instrument",
+     "acoustique"
+    ]
+   ],
+   "de": [
+    "Akustikgitarre",
+    "Eine hölzerne Akustikgitarre mit schwebenden Musiknoten.",
+    [
+     "Gitarre",
+     "Musik",
+     "Instrument",
+     "Akustik"
+    ]
+   ],
+   "zh": [
+    "木吉他",
+    "周围飘着音符的木质原声吉他。",
+    [
+     "吉他",
+     "音乐",
+     "乐器",
+     "木吉他"
+    ]
+   ],
+   "ko": [
+    "어쿠스틱 기타",
+    "음표가 떠다니는 나무 어쿠스틱 기타.",
+    [
+     "기타",
+     "음악",
+     "악기",
+     "어쿠스틱"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "piano",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Upright piano",
+    "An upright piano with a sheet of music on the stand.",
+    [
+     "piano",
+     "music",
+     "instrument",
+     "keyboard"
+    ]
+   ],
+   "ja": [
+    "アップライトピアノ",
+    "譜面台に楽譜をのせたアップライトピアノ。",
+    [
+     "ピアノ",
+     "音楽",
+     "楽器",
+     "鍵盤"
+    ]
+   ],
+   "es": [
+    "Piano vertical",
+    "Un piano vertical con una partitura en el atril.",
+    [
+     "piano",
+     "música",
+     "instrumento",
+     "teclado"
+    ]
+   ],
+   "pt": [
+    "Piano vertical",
+    "Um piano vertical com uma partitura na estante.",
+    [
+     "piano",
+     "música",
+     "instrumento",
+     "teclado"
+    ]
+   ],
+   "fr": [
+    "Piano droit",
+    "Un piano droit avec une partition sur le pupitre.",
+    [
+     "piano",
+     "musique",
+     "instrument",
+     "clavier"
+    ]
+   ],
+   "de": [
+    "Klavier",
+    "Ein Klavier mit Notenblatt auf dem Notenpult.",
+    [
+     "Klavier",
+     "Musik",
+     "Instrument",
+     "Tasten"
+    ]
+   ],
+   "zh": [
+    "立式钢琴",
+    "谱架上放着乐谱的立式钢琴。",
+    [
+     "钢琴",
+     "音乐",
+     "乐器",
+     "琴键"
+    ]
+   ],
+   "ko": [
+    "업라이트 피아노",
+    "보면대에 악보를 올린 업라이트 피아노.",
+    [
+     "피아노",
+     "음악",
+     "악기",
+     "건반"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "violin",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Violin and bow",
+    "A wooden violin standing upright next to its bow.",
+    [
+     "violin",
+     "music",
+     "instrument",
+     "classical"
+    ]
+   ],
+   "ja": [
+    "バイオリンと弓",
+    "弓といっしょに立てた木製のバイオリン。",
+    [
+     "バイオリン",
+     "音楽",
+     "楽器",
+     "クラシック"
+    ]
+   ],
+   "es": [
+    "Violín y arco",
+    "Un violín de madera en vertical junto a su arco.",
+    [
+     "violín",
+     "música",
+     "instrumento",
+     "clásica"
+    ]
+   ],
+   "pt": [
+    "Violino e arco",
+    "Um violino de madeira em pé ao lado do arco.",
+    [
+     "violino",
+     "música",
+     "instrumento",
+     "clássica"
+    ]
+   ],
+   "fr": [
+    "Violon et archet",
+    "Un violon en bois posé debout à côté de son archet.",
+    [
+     "violon",
+     "musique",
+     "instrument",
+     "classique"
+    ]
+   ],
+   "de": [
+    "Geige mit Bogen",
+    "Eine hölzerne Geige, aufrecht neben ihrem Bogen.",
+    [
+     "Geige",
+     "Musik",
+     "Instrument",
+     "Klassik"
+    ]
+   ],
+   "zh": [
+    "小提琴和琴弓",
+    "竖立着的木质小提琴和一旁的琴弓。",
+    [
+     "小提琴",
+     "音乐",
+     "乐器",
+     "古典"
+    ]
+   ],
+   "ko": [
+    "바이올린과 활",
+    "활과 함께 세워 둔 나무 바이올린.",
+    [
+     "바이올린",
+     "음악",
+     "악기",
+     "클래식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "drums",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Drum set",
+    "A cheerful drum set with a bass drum, snare, tom, cymbal and sticks.",
+    [
+     "drums",
+     "drum kit",
+     "music",
+     "band"
+    ]
+   ],
+   "ja": [
+    "ドラムセット",
+    "バスドラム・スネア・タム・シンバルとスティックがそろったドラムセット。",
+    [
+     "ドラム",
+     "ドラムセット",
+     "音楽",
+     "バンド"
+    ]
+   ],
+   "es": [
+    "Batería",
+    "Una batería alegre con bombo, caja, tom, platillo y baquetas.",
+    [
+     "batería",
+     "tambores",
+     "música",
+     "banda"
+    ]
+   ],
+   "pt": [
+    "Bateria",
+    "Uma bateria alegre com bumbo, caixa, tom, prato e baquetas.",
+    [
+     "bateria",
+     "tambor",
+     "música",
+     "banda"
+    ]
+   ],
+   "fr": [
+    "Batterie",
+    "Une batterie joyeuse avec grosse caisse, caisse claire, tom, cymbale et baguettes.",
+    [
+     "batterie",
+     "percussions",
+     "musique",
+     "groupe"
+    ]
+   ],
+   "de": [
+    "Schlagzeug",
+    "Ein fröhliches Schlagzeug mit Bassdrum, Snare, Tom, Becken und Sticks.",
+    [
+     "Schlagzeug",
+     "Trommel",
+     "Musik",
+     "Band"
+    ]
+   ],
+   "zh": [
+    "架子鼓",
+    "有底鼓、军鼓、通鼓、镲片和鼓棒的可爱架子鼓。",
+    [
+     "架子鼓",
+     "鼓",
+     "音乐",
+     "乐队"
+    ]
+   ],
+   "ko": [
+    "드럼 세트",
+    "베이스 드럼, 스네어, 탐, 심벌과 스틱이 있는 드럼 세트.",
+    [
+     "드럼",
+     "드럼 세트",
+     "음악",
+     "밴드"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "trumpet",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Trumpet",
+    "A shiny golden trumpet playing a happy tune.",
+    [
+     "trumpet",
+     "brass",
+     "music",
+     "instrument"
+    ]
+   ],
+   "ja": [
+    "トランペット",
+    "楽しい音を奏でる金色のトランペット。",
+    [
+     "トランペット",
+     "金管楽器",
+     "音楽",
+     "楽器"
+    ]
+   ],
+   "es": [
+    "Trompeta",
+    "Una trompeta dorada y brillante tocando una melodía alegre.",
+    [
+     "trompeta",
+     "metales",
+     "música",
+     "instrumento"
+    ]
+   ],
+   "pt": [
+    "Trompete",
+    "Um trompete dourado e brilhante tocando uma melodia alegre.",
+    [
+     "trompete",
+     "metais",
+     "música",
+     "instrumento"
+    ]
+   ],
+   "fr": [
+    "Trompette",
+    "Une trompette dorée et brillante qui joue un air joyeux.",
+    [
+     "trompette",
+     "cuivres",
+     "musique",
+     "instrument"
+    ]
+   ],
+   "de": [
+    "Trompete",
+    "Eine glänzende goldene Trompete, die eine fröhliche Melodie spielt.",
+    [
+     "Trompete",
+     "Blechblasinstrument",
+     "Musik",
+     "Instrument"
+    ]
+   ],
+   "zh": [
+    "小号",
+    "吹奏欢快旋律的金色小号。",
+    [
+     "小号",
+     "铜管乐器",
+     "音乐",
+     "乐器"
+    ]
+   ],
+   "ko": [
+    "트럼펫",
+    "신나는 멜로디를 연주하는 금빛 트럼펫.",
+    [
+     "트럼펫",
+     "금관악기",
+     "음악",
+     "악기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "singing-mic",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person singing into a microphone",
+    "A happy person singing into a microphone with music notes around.",
+    [
+     "singing",
+     "microphone",
+     "singer",
+     "music"
+    ]
+   ],
+   "ja": [
+    "マイクで歌う人",
+    "音符に囲まれてマイクで楽しく歌う人。",
+    [
+     "歌う",
+     "マイク",
+     "歌手",
+     "音楽"
+    ]
+   ],
+   "es": [
+    "Persona cantando con micrófono",
+    "Una persona feliz cantando con un micrófono entre notas musicales.",
+    [
+     "cantar",
+     "micrófono",
+     "cantante",
+     "música"
+    ]
+   ],
+   "pt": [
+    "Pessoa cantando no microfone",
+    "Uma pessoa feliz cantando no microfone com notas musicais ao redor.",
+    [
+     "cantar",
+     "microfone",
+     "cantor",
+     "música"
+    ]
+   ],
+   "fr": [
+    "Personne qui chante au micro",
+    "Une personne joyeuse qui chante au micro, entourée de notes de musique.",
+    [
+     "chanter",
+     "micro",
+     "chanteur",
+     "musique"
+    ]
+   ],
+   "de": [
+    "Person singt ins Mikrofon",
+    "Eine fröhliche Person singt ins Mikrofon, umgeben von Musiknoten.",
+    [
+     "singen",
+     "Mikrofon",
+     "Sänger",
+     "Musik"
+    ]
+   ],
+   "zh": [
+    "拿着麦克风唱歌的人",
+    "被音符环绕、开心地拿着麦克风唱歌的人。",
+    [
+     "唱歌",
+     "麦克风",
+     "歌手",
+     "音乐"
+    ]
+   ],
+   "ko": [
+    "마이크로 노래하는 사람",
+    "음표에 둘러싸여 마이크로 즐겁게 노래하는 사람.",
+    [
+     "노래",
+     "마이크",
+     "가수",
+     "음악"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "karaoke",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Karaoke room",
+    "A karaoke room with a screen, a mic stand, a sofa and a mirror ball.",
+    [
+     "karaoke",
+     "singing",
+     "party",
+     "night out"
+    ]
+   ],
+   "ja": [
+    "カラオケルーム",
+    "画面・マイクスタンド・ソファ・ミラーボールのあるカラオケルーム。",
+    [
+     "カラオケ",
+     "歌",
+     "パーティー",
+     "遊び"
+    ]
+   ],
+   "es": [
+    "Sala de karaoke",
+    "Una sala de karaoke con pantalla, micrófono, sofá y bola de espejos.",
+    [
+     "karaoke",
+     "cantar",
+     "fiesta",
+     "diversión"
+    ]
+   ],
+   "pt": [
+    "Sala de karaokê",
+    "Uma sala de karaokê com tela, pedestal de microfone, sofá e globo espelhado.",
+    [
+     "karaokê",
+     "cantar",
+     "festa",
+     "diversão"
+    ]
+   ],
+   "fr": [
+    "Salle de karaoké",
+    "Une salle de karaoké avec écran, pied de micro, canapé et boule à facettes.",
+    [
+     "karaoké",
+     "chanter",
+     "fête",
+     "soirée"
+    ]
+   ],
+   "de": [
+    "Karaoke-Raum",
+    "Ein Karaoke-Raum mit Bildschirm, Mikrofonständer, Sofa und Discokugel.",
+    [
+     "Karaoke",
+     "singen",
+     "Party",
+     "Freizeit"
+    ]
+   ],
+   "zh": [
+    "卡拉OK包厢",
+    "有屏幕、麦克风架、沙发和镜面球的KTV包厢。",
+    [
+     "卡拉OK",
+     "KTV",
+     "唱歌",
+     "聚会"
+    ]
+   ],
+   "ko": [
+    "노래방",
+    "화면, 마이크 스탠드, 소파, 미러볼이 있는 노래방.",
+    [
+     "노래방",
+     "노래",
+     "파티",
+     "놀이"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "music-notes",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling music notes",
+    "Cute beamed eighth notes with smiling faces and sparkles.",
+    [
+     "music notes",
+     "music",
+     "melody",
+     "song"
+    ]
+   ],
+   "ja": [
+    "にこにこ音符",
+    "顔のついたかわいい連桁の八分音符とキラキラ。",
+    [
+     "音符",
+     "音楽",
+     "メロディー",
+     "歌"
+    ]
+   ],
+   "es": [
+    "Notas musicales sonrientes",
+    "Lindas corcheas unidas con caritas sonrientes y destellos.",
+    [
+     "notas musicales",
+     "música",
+     "melodía",
+     "canción"
+    ]
+   ],
+   "pt": [
+    "Notas musicais sorridentes",
+    "Colcheias fofas com carinhas sorridentes e brilhos.",
+    [
+     "notas musicais",
+     "música",
+     "melodia",
+     "canção"
+    ]
+   ],
+   "fr": [
+    "Notes de musique souriantes",
+    "De jolies croches reliées avec des visages souriants et des étincelles.",
+    [
+     "notes de musique",
+     "musique",
+     "mélodie",
+     "chanson"
+    ]
+   ],
+   "de": [
+    "Lächelnde Musiknoten",
+    "Niedliche verbundene Achtelnoten mit lächelnden Gesichtern und Funkeln.",
+    [
+     "Musiknoten",
+     "Musik",
+     "Melodie",
+     "Lied"
+    ]
+   ],
+   "zh": [
+    "微笑的音符",
+    "带着笑脸和闪光的可爱八分音符。",
+    [
+     "音符",
+     "音乐",
+     "旋律",
+     "歌曲"
+    ]
+   ],
+   "ko": [
+    "웃는 음표",
+    "웃는 얼굴과 반짝임이 있는 귀여운 8분음표.",
+    [
+     "음표",
+     "음악",
+     "멜로디",
+     "노래"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "painting-easel",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Painting on an easel",
+    "A landscape painting on a wooden easel with a palette and brush.",
+    [
+     "painting",
+     "easel",
+     "art",
+     "drawing"
+    ]
+   ],
+   "ja": [
+    "イーゼルと絵",
+    "木のイーゼルにのせた風景画と、パレットと筆。",
+    [
+     "絵画",
+     "イーゼル",
+     "アート",
+     "お絵かき"
+    ]
+   ],
+   "es": [
+    "Cuadro en un caballete",
+    "Un paisaje pintado en un caballete de madera con paleta y pincel.",
+    [
+     "pintura",
+     "caballete",
+     "arte",
+     "dibujo"
+    ]
+   ],
+   "pt": [
+    "Quadro no cavalete",
+    "Uma pintura de paisagem em um cavalete de madeira com paleta e pincel.",
+    [
+     "pintura",
+     "cavalete",
+     "arte",
+     "desenho"
+    ]
+   ],
+   "fr": [
+    "Tableau sur un chevalet",
+    "Un paysage peint sur un chevalet en bois avec palette et pinceau.",
+    [
+     "peinture",
+     "chevalet",
+     "art",
+     "dessin"
+    ]
+   ],
+   "de": [
+    "Gemälde auf der Staffelei",
+    "Ein Landschaftsbild auf einer Holzstaffelei mit Palette und Pinsel.",
+    [
+     "Malen",
+     "Staffelei",
+     "Kunst",
+     "Bild"
+    ]
+   ],
+   "zh": [
+    "画架上的画",
+    "木画架上的风景画，旁边有调色板和画笔。",
+    [
+     "绘画",
+     "画架",
+     "艺术",
+     "画画"
+    ]
+   ],
+   "ko": [
+    "이젤 위의 그림",
+    "나무 이젤에 올린 풍경화와 팔레트, 붓.",
+    [
+     "그림",
+     "이젤",
+     "미술",
+     "그리기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sewing-machine",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sewing machine",
+    "A cute sewing machine stitching fabric with a spool of thread on top.",
+    [
+     "sewing machine",
+     "sewing",
+     "handmade",
+     "craft"
+    ]
+   ],
+   "ja": [
+    "ミシン",
+    "糸巻きをのせて布をぬう、かわいいミシン。",
+    [
+     "ミシン",
+     "裁縫",
+     "手作り",
+     "ハンドメイド"
+    ]
+   ],
+   "es": [
+    "Máquina de coser",
+    "Una linda máquina de coser cosiendo tela con un carrete de hilo arriba.",
+    [
+     "máquina de coser",
+     "costura",
+     "hecho a mano",
+     "manualidades"
+    ]
+   ],
+   "pt": [
+    "Máquina de costura",
+    "Uma máquina de costura fofa costurando tecido com um carretel de linha.",
+    [
+     "máquina de costura",
+     "costura",
+     "artesanato",
+     "feito à mão"
+    ]
+   ],
+   "fr": [
+    "Machine à coudre",
+    "Une jolie machine à coudre qui pique du tissu, une bobine de fil dessus.",
+    [
+     "machine à coudre",
+     "couture",
+     "fait main",
+     "loisirs créatifs"
+    ]
+   ],
+   "de": [
+    "Nähmaschine",
+    "Eine niedliche Nähmaschine näht Stoff, oben eine Garnrolle.",
+    [
+     "Nähmaschine",
+     "Nähen",
+     "Handarbeit",
+     "DIY"
+    ]
+   ],
+   "zh": [
+    "缝纫机",
+    "顶上放着线轴、正在缝布的可爱缝纫机。",
+    [
+     "缝纫机",
+     "缝纫",
+     "手工",
+     "手作"
+    ]
+   ],
+   "ko": [
+    "재봉틀",
+    "실패를 올리고 천을 박는 귀여운 재봉틀.",
+    [
+     "재봉틀",
+     "바느질",
+     "핸드메이드",
+     "수공예"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pottery",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pottery wheel",
+    "Hands shaping a clay vase on a spinning pottery wheel.",
+    [
+     "pottery",
+     "ceramics",
+     "clay",
+     "craft"
+    ]
+   ],
+   "ja": [
+    "ろくろで陶芸",
+    "回るろくろの上で粘土の花びんを手で形づくる陶芸。",
+    [
+     "陶芸",
+     "ろくろ",
+     "粘土",
+     "焼き物"
+    ]
+   ],
+   "es": [
+    "Torno de alfarero",
+    "Unas manos moldeando un jarrón de barro en un torno.",
+    [
+     "cerámica",
+     "alfarería",
+     "barro",
+     "manualidades"
+    ]
+   ],
+   "pt": [
+    "Torno de cerâmica",
+    "Mãos modelando um vaso de argila no torno de cerâmica.",
+    [
+     "cerâmica",
+     "argila",
+     "torno",
+     "artesanato"
+    ]
+   ],
+   "fr": [
+    "Tour de potier",
+    "Des mains façonnent un vase en argile sur un tour de potier.",
+    [
+     "poterie",
+     "céramique",
+     "argile",
+     "tour"
+    ]
+   ],
+   "de": [
+    "Töpferscheibe",
+    "Hände formen eine Tonvase auf einer sich drehenden Töpferscheibe.",
+    [
+     "Töpfern",
+     "Keramik",
+     "Ton",
+     "Töpferscheibe"
+    ]
+   ],
+   "zh": [
+    "陶艺拉坯",
+    "双手在转动的拉坯机上塑造陶土花瓶。",
+    [
+     "陶艺",
+     "拉坯",
+     "陶土",
+     "手工"
+    ]
+   ],
+   "ko": [
+    "물레 도예",
+    "돌아가는 물레 위에서 손으로 흙 화병을 빚는 모습.",
+    [
+     "도예",
+     "물레",
+     "점토",
+     "도자기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "fishing",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Fishing rod and fish",
+    "A fishing rod with a happy fish caught on the line above the water.",
+    [
+     "fishing",
+     "fishing rod",
+     "fish",
+     "outdoor"
+    ]
+   ],
+   "ja": [
+    "釣りざおと魚",
+    "水面から釣り上げられたにこにこの魚と釣りざお。",
+    [
+     "釣り",
+     "釣りざお",
+     "魚",
+     "アウトドア"
+    ]
+   ],
+   "es": [
+    "Caña de pescar y pez",
+    "Una caña de pescar con un pez feliz enganchado sobre el agua.",
+    [
+     "pesca",
+     "caña de pescar",
+     "pez",
+     "aire libre"
+    ]
+   ],
+   "pt": [
+    "Vara de pescar e peixe",
+    "Uma vara de pescar com um peixe feliz fisgado acima da água.",
+    [
+     "pesca",
+     "vara de pescar",
+     "peixe",
+     "ao ar livre"
+    ]
+   ],
+   "fr": [
+    "Canne à pêche et poisson",
+    "Une canne à pêche avec un poisson joyeux attrapé au-dessus de l'eau.",
+    [
+     "pêche",
+     "canne à pêche",
+     "poisson",
+     "plein air"
+    ]
+   ],
+   "de": [
+    "Angel mit Fisch",
+    "Eine Angelrute mit einem fröhlichen Fisch an der Schnur über dem Wasser.",
+    [
+     "Angeln",
+     "Angelrute",
+     "Fisch",
+     "Outdoor"
+    ]
+   ],
+   "zh": [
+    "钓竿和鱼",
+    "钓竿钓起一条水面上开心的小鱼。",
+    [
+     "钓鱼",
+     "钓竿",
+     "鱼",
+     "户外"
+    ]
+   ],
+   "ko": [
+    "낚싯대와 물고기",
+    "물 위로 낚아 올린 웃는 물고기와 낚싯대.",
+    [
+     "낚시",
+     "낚싯대",
+     "물고기",
+     "아웃도어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "video-game",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Game controller",
+    "A colorful game controller with a d-pad, buttons and sticks.",
+    [
+     "video game",
+     "game controller",
+     "gaming",
+     "gamepad"
+    ]
+   ],
+   "ja": [
+    "ゲームコントローラー",
+    "十字キーとボタン、スティックのついたカラフルなゲームのコントローラー。",
+    [
+     "ゲーム",
+     "コントローラー",
+     "テレビゲーム",
+     "ゲーマー"
+    ]
+   ],
+   "es": [
+    "Mando de videojuegos",
+    "Un mando de videojuegos colorido con cruceta, botones y palancas.",
+    [
+     "videojuegos",
+     "mando",
+     "gaming",
+     "consola"
+    ]
+   ],
+   "pt": [
+    "Controle de videogame",
+    "Um controle de videogame colorido com direcional, botões e analógicos.",
+    [
+     "videogame",
+     "controle",
+     "games",
+     "jogo"
+    ]
+   ],
+   "fr": [
+    "Manette de jeu vidéo",
+    "Une manette de jeu colorée avec croix directionnelle, boutons et joysticks.",
+    [
+     "jeu vidéo",
+     "manette",
+     "gaming",
+     "console"
+    ]
+   ],
+   "de": [
+    "Gamecontroller",
+    "Ein bunter Gamecontroller mit Steuerkreuz, Tasten und Sticks.",
+    [
+     "Videospiel",
+     "Controller",
+     "Gaming",
+     "Gamepad"
+    ]
+   ],
+   "zh": [
+    "游戏手柄",
+    "带十字键、按钮和摇杆的彩色游戏手柄。",
+    [
+     "电子游戏",
+     "游戏手柄",
+     "游戏",
+     "手柄"
+    ]
+   ],
+   "ko": [
+    "게임 컨트롤러",
+    "십자키, 버튼, 스틱이 달린 알록달록한 게임 컨트롤러.",
+    [
+     "게임",
+     "컨트롤러",
+     "비디오 게임",
+     "게임패드"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "board-game",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Board game with dice",
+    "A colorful board game with game pieces and two dice.",
+    [
+     "board game",
+     "dice",
+     "tabletop game",
+     "family game"
+    ]
+   ],
+   "ja": [
+    "ボードゲームとサイコロ",
+    "コマとサイコロ2つがあるカラフルなすごろく風ボードゲーム。",
+    [
+     "ボードゲーム",
+     "サイコロ",
+     "すごろく",
+     "テーブルゲーム"
+    ]
+   ],
+   "es": [
+    "Juego de mesa con dados",
+    "Un colorido juego de mesa con fichas y dos dados.",
+    [
+     "juego de mesa",
+     "dados",
+     "fichas",
+     "juego en familia"
+    ]
+   ],
+   "pt": [
+    "Jogo de tabuleiro com dados",
+    "Um jogo de tabuleiro colorido com peões e dois dados.",
+    [
+     "jogo de tabuleiro",
+     "dados",
+     "peões",
+     "jogo em família"
+    ]
+   ],
+   "fr": [
+    "Jeu de société avec dés",
+    "Un jeu de plateau coloré avec des pions et deux dés.",
+    [
+     "jeu de société",
+     "dés",
+     "pions",
+     "jeu en famille"
+    ]
+   ],
+   "de": [
+    "Brettspiel mit Würfeln",
+    "Ein buntes Brettspiel mit Spielfiguren und zwei Würfeln.",
+    [
+     "Brettspiel",
+     "Würfel",
+     "Spielfiguren",
+     "Gesellschaftsspiel"
+    ]
+   ],
+   "zh": [
+    "桌游和骰子",
+    "有棋子和两颗骰子的彩色棋盘游戏。",
+    [
+     "桌游",
+     "骰子",
+     "棋盘游戏",
+     "飞行棋"
+    ]
+   ],
+   "ko": [
+    "보드게임과 주사위",
+    "말과 주사위 두 개가 있는 알록달록한 보드게임.",
+    [
+     "보드게임",
+     "주사위",
+     "테이블 게임",
+     "가족 게임"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "playing-cards",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Playing cards",
+    "A fan of three playing cards with heart, diamond and club symbols.",
+    [
+     "playing cards",
+     "cards",
+     "card game",
+     "poker"
+    ]
+   ],
+   "ja": [
+    "トランプ",
+    "ハート・ダイヤ・クラブの3枚を扇形に広げたトランプ。",
+    [
+     "トランプ",
+     "カード",
+     "カードゲーム",
+     "ゲーム"
+    ]
+   ],
+   "es": [
+    "Cartas de póker",
+    "Un abanico de tres cartas con corazón, diamante y trébol.",
+    [
+     "cartas",
+     "baraja",
+     "juego de cartas",
+     "póker"
+    ]
+   ],
+   "pt": [
+    "Cartas de baralho",
+    "Um leque de três cartas com copas, ouros e paus.",
+    [
+     "baralho",
+     "cartas",
+     "jogo de cartas",
+     "pôquer"
+    ]
+   ],
+   "fr": [
+    "Cartes à jouer",
+    "Un éventail de trois cartes avec cœur, carreau et trèfle.",
+    [
+     "cartes à jouer",
+     "cartes",
+     "jeu de cartes",
+     "poker"
+    ]
+   ],
+   "de": [
+    "Spielkarten",
+    "Drei aufgefächerte Spielkarten mit Herz, Karo und Kreuz.",
+    [
+     "Spielkarten",
+     "Karten",
+     "Kartenspiel",
+     "Poker"
+    ]
+   ],
+   "zh": [
+    "扑克牌",
+    "扇形展开的红心、方块、梅花三张扑克牌。",
+    [
+     "扑克牌",
+     "纸牌",
+     "卡牌游戏",
+     "扑克"
+    ]
+   ],
+   "ko": [
+    "트럼프 카드",
+    "하트, 다이아, 클로버 세 장을 부채꼴로 펼친 카드.",
+    [
+     "트럼프",
+     "카드",
+     "카드 게임",
+     "포커"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "shogi",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Shogi board",
+    "A Japanese shogi board with pentagon pieces and one smiling piece.",
+    [
+     "shogi",
+     "Japanese chess",
+     "board game",
+     "strategy game"
+    ]
+   ],
+   "ja": [
+    "将棋盤と駒",
+    "五角形の駒が並んだ将棋盤と、にこにこの駒。",
+    [
+     "将棋",
+     "将棋盤",
+     "駒",
+     "ボードゲーム"
+    ]
+   ],
+   "es": [
+    "Tablero de shogi",
+    "Un tablero de shogi japonés con piezas pentagonales y una pieza sonriente.",
+    [
+     "shogi",
+     "ajedrez japonés",
+     "juego de mesa",
+     "estrategia"
+    ]
+   ],
+   "pt": [
+    "Tabuleiro de shogi",
+    "Um tabuleiro de shogi japonês com peças pentagonais e uma peça sorridente.",
+    [
+     "shogi",
+     "xadrez japonês",
+     "jogo de tabuleiro",
+     "estratégia"
+    ]
+   ],
+   "fr": [
+    "Plateau de shogi",
+    "Un plateau de shogi japonais avec des pièces pentagonales et une pièce souriante.",
+    [
+     "shogi",
+     "échecs japonais",
+     "jeu de société",
+     "stratégie"
+    ]
+   ],
+   "de": [
+    "Shogi-Brett",
+    "Ein japanisches Shogi-Brett mit fünfeckigen Steinen und einem lächelnden Stein.",
+    [
+     "Shogi",
+     "japanisches Schach",
+     "Brettspiel",
+     "Strategie"
+    ]
+   ],
+   "zh": [
+    "日本将棋盘",
+    "摆着五角形棋子的日本将棋盘和一枚微笑的棋子。",
+    [
+     "将棋",
+     "日本象棋",
+     "棋盘",
+     "棋类游戏"
+    ]
+   ],
+   "ko": [
+    "쇼기판",
+    "오각형 말이 놓인 일본 장기판과 웃는 말.",
+    [
+     "쇼기",
+     "일본 장기",
+     "보드게임",
+     "전략 게임"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "jigsaw-puzzle",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Jigsaw puzzle",
+    "Colorful jigsaw puzzle pieces with the last smiling piece about to fit in.",
+    [
+     "jigsaw puzzle",
+     "puzzle",
+     "puzzle piece",
+     "teamwork"
+    ]
+   ],
+   "ja": [
+    "ジグソーパズル",
+    "最後のにこにこピースがはまる直前のカラフルなジグソーパズル。",
+    [
+     "ジグソーパズル",
+     "パズル",
+     "ピース",
+     "チームワーク"
+    ]
+   ],
+   "es": [
+    "Rompecabezas",
+    "Piezas de rompecabezas de colores con la última pieza sonriente a punto de encajar.",
+    [
+     "rompecabezas",
+     "puzle",
+     "pieza",
+     "trabajo en equipo"
+    ]
+   ],
+   "pt": [
+    "Quebra-cabeça",
+    "Peças coloridas de quebra-cabeça com a última peça sorridente prestes a encaixar.",
+    [
+     "quebra-cabeça",
+     "peça",
+     "encaixe",
+     "trabalho em equipe"
+    ]
+   ],
+   "fr": [
+    "Puzzle",
+    "Des pièces de puzzle colorées, la dernière pièce souriante prête à s'emboîter.",
+    [
+     "puzzle",
+     "pièce de puzzle",
+     "jeu",
+     "travail d'équipe"
+    ]
+   ],
+   "de": [
+    "Puzzle",
+    "Bunte Puzzleteile, das letzte lächelnde Teil passt gleich hinein.",
+    [
+     "Puzzle",
+     "Puzzleteil",
+     "Spiel",
+     "Teamwork"
+    ]
+   ],
+   "zh": [
+    "拼图",
+    "彩色拼图块，最后一块笑脸拼图正要放进去。",
+    [
+     "拼图",
+     "拼图块",
+     "益智游戏",
+     "团队合作"
+    ]
+   ],
+   "ko": [
+    "직소 퍼즐",
+    "마지막 웃는 조각이 막 끼워지려는 알록달록한 직소 퍼즐.",
+    [
+     "직소 퍼즐",
+     "퍼즐",
+     "퍼즐 조각",
+     "팀워크"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "comic-book",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Open comic book",
+    "An open comic book with colorful panels and speech bubbles.",
+    [
+     "comic book",
+     "manga",
+     "comics",
+     "reading"
+    ]
+   ],
+   "ja": [
+    "マンガ本",
+    "カラフルなコマと吹き出しのある開いたマンガ本。",
+    [
+     "マンガ",
+     "漫画",
+     "コミック",
+     "読書"
+    ]
+   ],
+   "es": [
+    "Cómic abierto",
+    "Un cómic abierto con viñetas de colores y bocadillos.",
+    [
+     "cómic",
+     "manga",
+     "historieta",
+     "lectura"
+    ]
+   ],
+   "pt": [
+    "Gibi aberto",
+    "Um gibi aberto com quadrinhos coloridos e balões de fala.",
+    [
+     "gibi",
+     "história em quadrinhos",
+     "mangá",
+     "leitura"
+    ]
+   ],
+   "fr": [
+    "Bande dessinée ouverte",
+    "Une bande dessinée ouverte avec des cases colorées et des bulles.",
+    [
+     "bande dessinée",
+     "BD",
+     "manga",
+     "lecture"
+    ]
+   ],
+   "de": [
+    "Offenes Comicheft",
+    "Ein aufgeschlagenes Comicheft mit bunten Panels und Sprechblasen.",
+    [
+     "Comic",
+     "Manga",
+     "Comicheft",
+     "Lesen"
+    ]
+   ],
+   "zh": [
+    "打开的漫画书",
+    "有彩色分格和对话框的打开的漫画书。",
+    [
+     "漫画",
+     "漫画书",
+     "连环画",
+     "阅读"
+    ]
+   ],
+   "ko": [
+    "펼친 만화책",
+    "알록달록한 칸과 말풍선이 있는 펼친 만화책.",
+    [
+     "만화",
+     "만화책",
+     "코믹스",
+     "독서"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "movie-theater",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Popcorn and movie ticket",
+    "A striped popcorn bucket with a smiling face and a movie ticket.",
+    [
+     "movie",
+     "popcorn",
+     "cinema",
+     "ticket"
+    ]
+   ],
+   "ja": [
+    "ポップコーンと映画チケット",
+    "にこにこ顔のしましまポップコーンと映画のチケット。",
+    [
+     "映画",
+     "ポップコーン",
+     "映画館",
+     "チケット"
+    ]
+   ],
+   "es": [
+    "Palomitas y entrada de cine",
+    "Un cubo de palomitas a rayas con carita sonriente y una entrada de cine.",
+    [
+     "cine",
+     "palomitas",
+     "película",
+     "entrada"
+    ]
+   ],
+   "pt": [
+    "Pipoca e ingresso de cinema",
+    "Um balde de pipoca listrado com carinha sorridente e um ingresso de cinema.",
+    [
+     "cinema",
+     "pipoca",
+     "filme",
+     "ingresso"
+    ]
+   ],
+   "fr": [
+    "Pop-corn et ticket de cinéma",
+    "Un pot de pop-corn rayé au visage souriant et un ticket de cinéma.",
+    [
+     "cinéma",
+     "pop-corn",
+     "film",
+     "ticket"
+    ]
+   ],
+   "de": [
+    "Popcorn und Kinokarte",
+    "Ein gestreifter Popcorneimer mit lächelndem Gesicht und eine Kinokarte.",
+    [
+     "Kino",
+     "Popcorn",
+     "Film",
+     "Eintrittskarte"
+    ]
+   ],
+   "zh": [
+    "爆米花和电影票",
+    "带笑脸的条纹爆米花桶和一张电影票。",
+    [
+     "电影",
+     "爆米花",
+     "电影院",
+     "电影票"
+    ]
+   ],
+   "ko": [
+    "팝콘과 영화 티켓",
+    "웃는 얼굴의 줄무늬 팝콘 통과 영화 티켓.",
+    [
+     "영화",
+     "팝콘",
+     "영화관",
+     "티켓"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "film-reel",
+  "cat": "hobby",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Film reel",
+    "A classic movie film reel with a strip of film unrolling.",
+    [
+     "film reel",
+     "movie",
+     "cinema",
+     "film"
+    ]
+   ],
+   "ja": [
+    "フィルムリール",
+    "フィルムがのびる昔ながらの映画のフィルムリール。",
+    [
+     "フィルム",
+     "映画",
+     "リール",
+     "シネマ"
+    ]
+   ],
+   "es": [
+    "Rollo de película",
+    "Un clásico rollo de película con la cinta desenrollándose.",
+    [
+     "rollo de película",
+     "cine",
+     "película",
+     "filme"
+    ]
+   ],
+   "pt": [
+    "Rolo de filme",
+    "Um rolo de filme clássico com a película se desenrolando.",
+    [
+     "rolo de filme",
+     "cinema",
+     "filme",
+     "película"
+    ]
+   ],
+   "fr": [
+    "Bobine de film",
+    "Une bobine de film classique avec la pellicule qui se déroule.",
+    [
+     "bobine de film",
+     "cinéma",
+     "film",
+     "pellicule"
+    ]
+   ],
+   "de": [
+    "Filmrolle",
+    "Eine klassische Filmrolle mit abgewickeltem Filmstreifen.",
+    [
+     "Filmrolle",
+     "Kino",
+     "Film",
+     "Filmstreifen"
+    ]
+   ],
+   "zh": [
+    "电影胶片盘",
+    "胶片正在展开的经典电影胶片盘。",
+    [
+     "胶片",
+     "电影",
+     "胶卷",
+     "影院"
+    ]
+   ],
+   "ko": [
+    "필름 릴",
+    "필름이 풀려 나오는 클래식한 영화 필름 릴.",
+    [
+     "필름 릴",
+     "영화",
+     "필름",
+     "시네마"
+    ]
+   ]
+  }
+ }
+]

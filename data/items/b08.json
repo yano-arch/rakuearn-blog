@@ -1,0 +1,872 @@
+[
+ {
+  "slug": "pencil",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling pencil",
+    "A cute yellow pencil with an eraser and a happy face.",
+    [
+     "pencil",
+     "stationery",
+     "school",
+     "writing"
+    ]
+   ],
+   "ja": [
+    "にっこり鉛筆",
+    "消しゴム付きの黄色い鉛筆に笑顔がついたかわいいイラスト。",
+    [
+     "鉛筆",
+     "文房具",
+     "学校",
+     "勉強"
+    ]
+   ],
+   "es": [
+    "Lápiz sonriente",
+    "Un lindo lápiz amarillo con goma de borrar y carita feliz.",
+    [
+     "lápiz",
+     "útiles escolares",
+     "escuela",
+     "escribir"
+    ]
+   ],
+   "pt": [
+    "Lápis sorridente",
+    "Um lápis amarelo fofo com borracha e rostinho feliz.",
+    [
+     "lápis",
+     "material escolar",
+     "escola",
+     "escrever"
+    ]
+   ],
+   "fr": [
+    "Crayon souriant",
+    "Un joli crayon jaune avec une gomme et un visage joyeux.",
+    [
+     "crayon",
+     "fournitures scolaires",
+     "école",
+     "écrire"
+    ]
+   ],
+   "de": [
+    "Lächelnder Bleistift",
+    "Ein niedlicher gelber Bleistift mit Radiergummi und fröhlichem Gesicht.",
+    [
+     "Bleistift",
+     "Schreibwaren",
+     "Schule",
+     "Schreiben"
+    ]
+   ],
+   "zh": [
+    "微笑的铅笔",
+    "带橡皮擦、有可爱笑脸的黄色铅笔。",
+    [
+     "铅笔",
+     "文具",
+     "学校",
+     "写字"
+    ]
+   ],
+   "ko": [
+    "웃는 연필",
+    "지우개가 달린 귀여운 노란 연필에 웃는 얼굴.",
+    [
+     "연필",
+     "문구",
+     "학교",
+     "필기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "notebook-pen",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Open notebook and pen",
+    "An open lined notebook with a pen resting on it.",
+    [
+     "notebook",
+     "pen",
+     "notes",
+     "study"
+    ]
+   ],
+   "ja": [
+    "ノートとペン",
+    "罫線の入った開いたノートとペン。",
+    [
+     "ノート",
+     "ペン",
+     "メモ",
+     "勉強"
+    ]
+   ],
+   "es": [
+    "Cuaderno abierto y bolígrafo",
+    "Un cuaderno de rayas abierto con un bolígrafo encima.",
+    [
+     "cuaderno",
+     "bolígrafo",
+     "apuntes",
+     "estudiar"
+    ]
+   ],
+   "pt": [
+    "Caderno aberto e caneta",
+    "Um caderno pautado aberto com uma caneta por cima.",
+    [
+     "caderno",
+     "caneta",
+     "anotações",
+     "estudar"
+    ]
+   ],
+   "fr": [
+    "Cahier ouvert et stylo",
+    "Un cahier ligné ouvert avec un stylo posé dessus.",
+    [
+     "cahier",
+     "stylo",
+     "notes",
+     "étudier"
+    ]
+   ],
+   "de": [
+    "Offenes Heft mit Stift",
+    "Ein aufgeschlagenes liniertes Heft mit einem Kugelschreiber.",
+    [
+     "Heft",
+     "Stift",
+     "Notizen",
+     "Lernen"
+    ]
+   ],
+   "zh": [
+    "笔记本和笔",
+    "摊开的横线笔记本，上面放着一支笔。",
+    [
+     "笔记本",
+     "笔",
+     "笔记",
+     "学习"
+    ]
+   ],
+   "ko": [
+    "펼친 공책과 펜",
+    "줄이 그어진 펼친 공책과 그 위에 놓인 펜.",
+    [
+     "공책",
+     "펜",
+     "필기",
+     "공부"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "stack-of-books",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Stack of books",
+    "Three colorful books stacked on top of each other.",
+    [
+     "books",
+     "reading",
+     "library",
+     "study"
+    ]
+   ],
+   "ja": [
+    "積み重ねた本",
+    "カラフルな3冊の本を積み重ねたイラスト。",
+    [
+     "本",
+     "読書",
+     "図書館",
+     "勉強"
+    ]
+   ],
+   "es": [
+    "Pila de libros",
+    "Tres libros de colores apilados uno sobre otro.",
+    [
+     "libros",
+     "lectura",
+     "biblioteca",
+     "estudiar"
+    ]
+   ],
+   "pt": [
+    "Pilha de livros",
+    "Três livros coloridos empilhados.",
+    [
+     "livros",
+     "leitura",
+     "biblioteca",
+     "estudar"
+    ]
+   ],
+   "fr": [
+    "Pile de livres",
+    "Trois livres colorés empilés les uns sur les autres.",
+    [
+     "livres",
+     "lecture",
+     "bibliothèque",
+     "étudier"
+    ]
+   ],
+   "de": [
+    "Bücherstapel",
+    "Drei bunte Bücher, übereinander gestapelt.",
+    [
+     "Bücher",
+     "Lesen",
+     "Bibliothek",
+     "Lernen"
+    ]
+   ],
+   "zh": [
+    "一摞书",
+    "三本彩色的书叠在一起。",
+    [
+     "书",
+     "读书",
+     "图书馆",
+     "学习"
+    ]
+   ],
+   "ko": [
+    "쌓인 책",
+    "알록달록한 책 세 권이 차곡차곡 쌓여 있다.",
+    [
+     "책",
+     "독서",
+     "도서관",
+     "공부"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "school-backpack",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "School backpack",
+    "A cute red school backpack with a front pocket.",
+    [
+     "backpack",
+     "school bag",
+     "back to school",
+     "student"
+    ]
+   ],
+   "ja": [
+    "通学リュック",
+    "前ポケット付きのかわいい赤い通学用リュック。",
+    [
+     "リュック",
+     "通学かばん",
+     "新学期",
+     "学生"
+    ]
+   ],
+   "es": [
+    "Mochila escolar",
+    "Una linda mochila escolar roja con bolsillo delantero.",
+    [
+     "mochila",
+     "regreso a clases",
+     "escuela",
+     "estudiante"
+    ]
+   ],
+   "pt": [
+    "Mochila escolar",
+    "Uma mochila escolar vermelha e fofa com bolso na frente.",
+    [
+     "mochila",
+     "volta às aulas",
+     "escola",
+     "estudante"
+    ]
+   ],
+   "fr": [
+    "Sac à dos scolaire",
+    "Un joli sac à dos rouge avec une poche avant.",
+    [
+     "sac à dos",
+     "cartable",
+     "rentrée",
+     "élève"
+    ]
+   ],
+   "de": [
+    "Schulrucksack",
+    "Ein niedlicher roter Schulrucksack mit Vordertasche.",
+    [
+     "Rucksack",
+     "Schulranzen",
+     "Schulanfang",
+     "Schüler"
+    ]
+   ],
+   "zh": [
+    "书包",
+    "带前口袋的可爱红色双肩书包。",
+    [
+     "书包",
+     "双肩包",
+     "开学",
+     "学生"
+    ]
+   ],
+   "ko": [
+    "책가방",
+    "앞주머니가 달린 귀여운 빨간 책가방.",
+    [
+     "책가방",
+     "백팩",
+     "개학",
+     "학생"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "graduation-cap",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Graduation cap and diploma",
+    "A mortarboard with a tassel next to a rolled diploma tied with a ribbon.",
+    [
+     "graduation",
+     "diploma",
+     "mortarboard",
+     "ceremony"
+    ]
+   ],
+   "ja": [
+    "卒業帽と卒業証書",
+    "房の付いた角帽と、リボンで結んだ丸めた卒業証書。",
+    [
+     "卒業",
+     "卒業証書",
+     "角帽",
+     "卒業式"
+    ]
+   ],
+   "es": [
+    "Birrete y diploma",
+    "Un birrete con borla y un diploma enrollado con cinta.",
+    [
+     "graduación",
+     "diploma",
+     "birrete",
+     "ceremonia"
+    ]
+   ],
+   "pt": [
+    "Capelo e diploma",
+    "Um capelo com borla e um diploma enrolado com fita.",
+    [
+     "formatura",
+     "diploma",
+     "capelo",
+     "colação de grau"
+    ]
+   ],
+   "fr": [
+    "Toque de diplômé et diplôme",
+    "Une toque avec un pompon et un diplôme roulé noué d'un ruban.",
+    [
+     "remise des diplômes",
+     "diplôme",
+     "toque",
+     "cérémonie"
+    ]
+   ],
+   "de": [
+    "Doktorhut und Urkunde",
+    "Ein Abschlusshut mit Quaste und eine gerollte Urkunde mit Schleife.",
+    [
+     "Abschluss",
+     "Urkunde",
+     "Absolventenhut",
+     "Abschlussfeier"
+    ]
+   ],
+   "zh": [
+    "学士帽和毕业证书",
+    "带流苏的学士帽和系着丝带的卷轴证书。",
+    [
+     "毕业",
+     "毕业证书",
+     "学士帽",
+     "毕业典礼"
+    ]
+   ],
+   "ko": [
+    "학사모와 졸업장",
+    "술이 달린 학사모와 리본으로 묶은 졸업장.",
+    [
+     "졸업",
+     "졸업장",
+     "학사모",
+     "졸업식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "microscope",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Microscope",
+    "A simple microscope for science class experiments.",
+    [
+     "microscope",
+     "science",
+     "laboratory",
+     "experiment"
+    ]
+   ],
+   "ja": [
+    "顕微鏡",
+    "理科の実験で使うシンプルな顕微鏡。",
+    [
+     "顕微鏡",
+     "理科",
+     "実験",
+     "科学"
+    ]
+   ],
+   "es": [
+    "Microscopio",
+    "Un microscopio sencillo para experimentos de ciencias.",
+    [
+     "microscopio",
+     "ciencia",
+     "laboratorio",
+     "experimento"
+    ]
+   ],
+   "pt": [
+    "Microscópio",
+    "Um microscópio simples para experiências nas aulas de ciências.",
+    [
+     "microscópio",
+     "ciências",
+     "laboratório",
+     "experiência"
+    ]
+   ],
+   "fr": [
+    "Microscope",
+    "Un microscope simple pour les expériences en cours de sciences.",
+    [
+     "microscope",
+     "sciences",
+     "laboratoire",
+     "expérience"
+    ]
+   ],
+   "de": [
+    "Mikroskop",
+    "Ein einfaches Mikroskop für Experimente im Naturkundeunterricht.",
+    [
+     "Mikroskop",
+     "Wissenschaft",
+     "Labor",
+     "Experiment"
+    ]
+   ],
+   "zh": [
+    "显微镜",
+    "科学课做实验用的简单显微镜。",
+    [
+     "显微镜",
+     "科学",
+     "实验室",
+     "实验"
+    ]
+   ],
+   "ko": [
+    "현미경",
+    "과학 시간 실험에 쓰는 간단한 현미경.",
+    [
+     "현미경",
+     "과학",
+     "실험실",
+     "실험"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "calculator",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling calculator",
+    "A cute blue calculator with a happy face on its screen.",
+    [
+     "calculator",
+     "math",
+     "calculation",
+     "school"
+    ]
+   ],
+   "ja": [
+    "にっこり電卓",
+    "画面に笑顔が浮かぶかわいい青い電卓。",
+    [
+     "電卓",
+     "計算",
+     "算数",
+     "数学"
+    ]
+   ],
+   "es": [
+    "Calculadora sonriente",
+    "Una linda calculadora azul con carita feliz en la pantalla.",
+    [
+     "calculadora",
+     "matemáticas",
+     "cálculo",
+     "escuela"
+    ]
+   ],
+   "pt": [
+    "Calculadora sorridente",
+    "Uma calculadora azul fofa com rostinho feliz na tela.",
+    [
+     "calculadora",
+     "matemática",
+     "cálculo",
+     "escola"
+    ]
+   ],
+   "fr": [
+    "Calculatrice souriante",
+    "Une jolie calculatrice bleue avec un visage joyeux sur l'écran.",
+    [
+     "calculatrice",
+     "maths",
+     "calcul",
+     "école"
+    ]
+   ],
+   "de": [
+    "Lächelnder Taschenrechner",
+    "Ein niedlicher blauer Taschenrechner mit fröhlichem Gesicht im Display.",
+    [
+     "Taschenrechner",
+     "Mathe",
+     "Rechnen",
+     "Schule"
+    ]
+   ],
+   "zh": [
+    "微笑的计算器",
+    "屏幕上有笑脸的可爱蓝色计算器。",
+    [
+     "计算器",
+     "数学",
+     "计算",
+     "学校"
+    ]
+   ],
+   "ko": [
+    "웃는 계산기",
+    "화면에 웃는 얼굴이 있는 귀여운 파란 계산기.",
+    [
+     "계산기",
+     "수학",
+     "계산",
+     "학교"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ruler-triangle",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ruler and set square",
+    "A ruler with tick marks and a triangle set square.",
+    [
+     "ruler",
+     "set square",
+     "geometry",
+     "stationery"
+    ]
+   ],
+   "ja": [
+    "定規と三角定規",
+    "目盛り付きの定規と三角定規。",
+    [
+     "定規",
+     "三角定規",
+     "図形",
+     "文房具"
+    ]
+   ],
+   "es": [
+    "Regla y escuadra",
+    "Una regla con marcas y una escuadra triangular.",
+    [
+     "regla",
+     "escuadra",
+     "geometría",
+     "útiles escolares"
+    ]
+   ],
+   "pt": [
+    "Régua e esquadro",
+    "Uma régua com marcações e um esquadro triangular.",
+    [
+     "régua",
+     "esquadro",
+     "geometria",
+     "material escolar"
+    ]
+   ],
+   "fr": [
+    "Règle et équerre",
+    "Une règle graduée et une équerre triangulaire.",
+    [
+     "règle",
+     "équerre",
+     "géométrie",
+     "fournitures scolaires"
+    ]
+   ],
+   "de": [
+    "Lineal und Geodreieck",
+    "Ein Lineal mit Strichen und ein dreieckiges Zeichendreieck.",
+    [
+     "Lineal",
+     "Geodreieck",
+     "Geometrie",
+     "Schreibwaren"
+    ]
+   ],
+   "zh": [
+    "直尺和三角尺",
+    "带刻度的直尺和一把三角尺。",
+    [
+     "直尺",
+     "三角尺",
+     "几何",
+     "文具"
+    ]
+   ],
+   "ko": [
+    "자와 삼각자",
+    "눈금이 있는 자와 삼각자.",
+    [
+     "자",
+     "삼각자",
+     "도형",
+     "문구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "student-studying",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Student studying at a desk",
+    "A student writing in a notebook at a desk under a desk lamp.",
+    [
+     "studying",
+     "student",
+     "homework",
+     "exam"
+    ]
+   ],
+   "ja": [
+    "机で勉強する学生",
+    "デスクライトの下で机に向かいノートに書く学生。",
+    [
+     "勉強",
+     "学生",
+     "宿題",
+     "受験"
+    ]
+   ],
+   "es": [
+    "Estudiante estudiando en el escritorio",
+    "Un estudiante escribiendo en su cuaderno bajo una lámpara de escritorio.",
+    [
+     "estudiar",
+     "estudiante",
+     "tarea",
+     "examen"
+    ]
+   ],
+   "pt": [
+    "Estudante estudando na mesa",
+    "Um estudante escrevendo no caderno sob um abajur de mesa.",
+    [
+     "estudar",
+     "estudante",
+     "lição de casa",
+     "prova"
+    ]
+   ],
+   "fr": [
+    "Élève qui étudie au bureau",
+    "Un élève qui écrit dans son cahier sous une lampe de bureau.",
+    [
+     "étudier",
+     "élève",
+     "devoirs",
+     "examen"
+    ]
+   ],
+   "de": [
+    "Lernender Schüler am Schreibtisch",
+    "Ein Schüler schreibt am Schreibtisch unter einer Schreibtischlampe.",
+    [
+     "Lernen",
+     "Schüler",
+     "Hausaufgaben",
+     "Prüfung"
+    ]
+   ],
+   "zh": [
+    "在书桌前学习的学生",
+    "在台灯下伏案写字的学生。",
+    [
+     "学习",
+     "学生",
+     "作业",
+     "考试"
+    ]
+   ],
+   "ko": [
+    "책상에서 공부하는 학생",
+    "스탠드 불빛 아래 책상에서 공책에 글을 쓰는 학생.",
+    [
+     "공부",
+     "학생",
+     "숙제",
+     "시험"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "school-building",
+  "cat": "school",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "School building",
+    "A school building with a clock tower and a flagpole.",
+    [
+     "school",
+     "building",
+     "education",
+     "campus"
+    ]
+   ],
+   "ja": [
+    "校舎",
+    "時計の付いた校舎と旗の付いた旗ざお。",
+    [
+     "学校",
+     "校舎",
+     "教育",
+     "建物"
+    ]
+   ],
+   "es": [
+    "Edificio escolar",
+    "Un edificio de escuela con reloj y un asta de bandera.",
+    [
+     "escuela",
+     "edificio",
+     "educación",
+     "colegio"
+    ]
+   ],
+   "pt": [
+    "Prédio da escola",
+    "Um prédio escolar com relógio e um mastro com bandeira.",
+    [
+     "escola",
+     "prédio",
+     "educação",
+     "colégio"
+    ]
+   ],
+   "fr": [
+    "Bâtiment scolaire",
+    "Un bâtiment d'école avec une horloge et un mât de drapeau.",
+    [
+     "école",
+     "bâtiment",
+     "éducation",
+     "établissement scolaire"
+    ]
+   ],
+   "de": [
+    "Schulgebäude",
+    "Ein Schulgebäude mit Uhr und einem Fahnenmast.",
+    [
+     "Schule",
+     "Gebäude",
+     "Bildung",
+     "Schulhaus"
+    ]
+   ],
+   "zh": [
+    "学校教学楼",
+    "带时钟的学校建筑和一根旗杆。",
+    [
+     "学校",
+     "教学楼",
+     "教育",
+     "校园"
+    ]
+   ],
+   "ko": [
+    "학교 건물",
+    "시계가 달린 학교 건물과 깃대.",
+    [
+     "학교",
+     "건물",
+     "교육",
+     "캠퍼스"
+    ]
+   ]
+  }
+ }
+]

@@ -1,0 +1,872 @@
+[
+ {
+  "slug": "sun",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling Sun",
+    "A cheerful smiling sun with bright rays.",
+    [
+     "sun",
+     "sunny",
+     "weather",
+     "summer"
+    ]
+   ],
+   "ja": [
+    "にっこり太陽",
+    "光を放ちながらにっこり笑う太陽のイラスト。",
+    [
+     "太陽",
+     "晴れ",
+     "天気",
+     "夏"
+    ]
+   ],
+   "es": [
+    "Sol sonriente",
+    "Un sol alegre y sonriente con rayos brillantes.",
+    [
+     "sol",
+     "soleado",
+     "clima",
+     "verano"
+    ]
+   ],
+   "pt": [
+    "Sol sorridente",
+    "Um sol alegre e sorridente com raios brilhantes.",
+    [
+     "sol",
+     "ensolarado",
+     "clima",
+     "verão"
+    ]
+   ],
+   "fr": [
+    "Soleil souriant",
+    "Un soleil joyeux et souriant avec des rayons lumineux.",
+    [
+     "soleil",
+     "ensoleillé",
+     "météo",
+     "été"
+    ]
+   ],
+   "de": [
+    "Lächelnde Sonne",
+    "Eine fröhliche, lächelnde Sonne mit leuchtenden Strahlen.",
+    [
+     "Sonne",
+     "sonnig",
+     "Wetter",
+     "Sommer"
+    ]
+   ],
+   "zh": [
+    "微笑的太阳",
+    "一个带着光芒、笑眯眯的可爱太阳。",
+    [
+     "太阳",
+     "晴天",
+     "天气",
+     "夏天"
+    ]
+   ],
+   "ko": [
+    "웃는 해",
+    "빛을 내며 방긋 웃는 해 일러스트.",
+    [
+     "해",
+     "맑음",
+     "날씨",
+     "여름"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rain-cloud",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Rain Cloud",
+    "A cute cloud with a little face and falling raindrops.",
+    [
+     "rain",
+     "cloud",
+     "rainy day",
+     "weather"
+    ]
+   ],
+   "ja": [
+    "雨雲",
+    "かわいい顔の雲から雨がぽつぽつ降るイラスト。",
+    [
+     "雨",
+     "雲",
+     "雨の日",
+     "天気"
+    ]
+   ],
+   "es": [
+    "Nube de lluvia",
+    "Una nube tierna con carita y gotas de lluvia cayendo.",
+    [
+     "lluvia",
+     "nube",
+     "día lluvioso",
+     "clima"
+    ]
+   ],
+   "pt": [
+    "Nuvem de chuva",
+    "Uma nuvem fofa com carinha e gotas de chuva caindo.",
+    [
+     "chuva",
+     "nuvem",
+     "dia chuvoso",
+     "clima"
+    ]
+   ],
+   "fr": [
+    "Nuage de pluie",
+    "Un joli nuage avec un petit visage et des gouttes de pluie.",
+    [
+     "pluie",
+     "nuage",
+     "jour de pluie",
+     "météo"
+    ]
+   ],
+   "de": [
+    "Regenwolke",
+    "Eine niedliche Wolke mit Gesicht, aus der Regentropfen fallen.",
+    [
+     "Regen",
+     "Wolke",
+     "Regentag",
+     "Wetter"
+    ]
+   ],
+   "zh": [
+    "下雨的云",
+    "一朵有可爱表情的云正在下雨。",
+    [
+     "雨",
+     "云",
+     "雨天",
+     "天气"
+    ]
+   ],
+   "ko": [
+    "비구름",
+    "귀여운 얼굴의 구름에서 빗방울이 떨어지는 일러스트.",
+    [
+     "비",
+     "구름",
+     "비 오는 날",
+     "날씨"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rainbow",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Rainbow with Clouds",
+    "A colorful rainbow arc with fluffy clouds at both ends.",
+    [
+     "rainbow",
+     "clouds",
+     "sky",
+     "weather"
+    ]
+   ],
+   "ja": [
+    "虹と雲",
+    "両はしにふわふわの雲がついたカラフルな虹のイラスト。",
+    [
+     "虹",
+     "雲",
+     "空",
+     "天気"
+    ]
+   ],
+   "es": [
+    "Arcoíris con nubes",
+    "Un arcoíris colorido con nubes esponjosas en los extremos.",
+    [
+     "arcoíris",
+     "nubes",
+     "cielo",
+     "clima"
+    ]
+   ],
+   "pt": [
+    "Arco-íris com nuvens",
+    "Um arco-íris colorido com nuvens fofinhas nas pontas.",
+    [
+     "arco-íris",
+     "nuvens",
+     "céu",
+     "clima"
+    ]
+   ],
+   "fr": [
+    "Arc-en-ciel et nuages",
+    "Un arc-en-ciel coloré avec des nuages moelleux à chaque extrémité.",
+    [
+     "arc-en-ciel",
+     "nuages",
+     "ciel",
+     "météo"
+    ]
+   ],
+   "de": [
+    "Regenbogen mit Wolken",
+    "Ein bunter Regenbogen mit flauschigen Wolken an beiden Enden.",
+    [
+     "Regenbogen",
+     "Wolken",
+     "Himmel",
+     "Wetter"
+    ]
+   ],
+   "zh": [
+    "彩虹和云朵",
+    "两端带着蓬松云朵的彩色彩虹。",
+    [
+     "彩虹",
+     "云朵",
+     "天空",
+     "天气"
+    ]
+   ],
+   "ko": [
+    "무지개와 구름",
+    "양 끝에 폭신한 구름이 있는 알록달록한 무지개.",
+    [
+     "무지개",
+     "구름",
+     "하늘",
+     "날씨"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "snowman",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Snowman with Scarf",
+    "A friendly snowman wearing a red scarf and a bucket hat.",
+    [
+     "snowman",
+     "winter",
+     "snow",
+     "Christmas"
+    ]
+   ],
+   "ja": [
+    "マフラーの雪だるま",
+    "赤いマフラーと帽子をかぶったにっこり雪だるまのイラスト。",
+    [
+     "雪だるま",
+     "冬",
+     "雪",
+     "クリスマス"
+    ]
+   ],
+   "es": [
+    "Muñeco de nieve con bufanda",
+    "Un muñeco de nieve simpático con bufanda roja y sombrero.",
+    [
+     "muñeco de nieve",
+     "invierno",
+     "nieve",
+     "Navidad"
+    ]
+   ],
+   "pt": [
+    "Boneco de neve com cachecol",
+    "Um boneco de neve simpático com cachecol vermelho e chapéu.",
+    [
+     "boneco de neve",
+     "inverno",
+     "neve",
+     "Natal"
+    ]
+   ],
+   "fr": [
+    "Bonhomme de neige à écharpe",
+    "Un bonhomme de neige souriant avec une écharpe rouge et un chapeau.",
+    [
+     "bonhomme de neige",
+     "hiver",
+     "neige",
+     "Noël"
+    ]
+   ],
+   "de": [
+    "Schneemann mit Schal",
+    "Ein freundlicher Schneemann mit rotem Schal und Hut.",
+    [
+     "Schneemann",
+     "Winter",
+     "Schnee",
+     "Weihnachten"
+    ]
+   ],
+   "zh": [
+    "戴围巾的雪人",
+    "戴着红围巾和帽子的可爱雪人。",
+    [
+     "雪人",
+     "冬天",
+     "雪",
+     "圣诞节"
+    ]
+   ],
+   "ko": [
+    "목도리 두른 눈사람",
+    "빨간 목도리와 모자를 쓴 귀여운 눈사람.",
+    [
+     "눈사람",
+     "겨울",
+     "눈",
+     "크리스마스"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tree",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Round Green Tree",
+    "A round, leafy green tree with a brown trunk.",
+    [
+     "tree",
+     "green",
+     "forest",
+     "nature"
+    ]
+   ],
+   "ja": [
+    "まるい木",
+    "こんもり丸い葉っぱの緑の木のイラスト。",
+    [
+     "木",
+     "緑",
+     "森",
+     "自然"
+    ]
+   ],
+   "es": [
+    "Árbol verde redondo",
+    "Un árbol verde y frondoso de copa redonda.",
+    [
+     "árbol",
+     "verde",
+     "bosque",
+     "naturaleza"
+    ]
+   ],
+   "pt": [
+    "Árvore verde redonda",
+    "Uma árvore verde e frondosa de copa redonda.",
+    [
+     "árvore",
+     "verde",
+     "floresta",
+     "natureza"
+    ]
+   ],
+   "fr": [
+    "Arbre vert tout rond",
+    "Un arbre vert et feuillu à la couronne bien ronde.",
+    [
+     "arbre",
+     "vert",
+     "forêt",
+     "nature"
+    ]
+   ],
+   "de": [
+    "Runder grüner Baum",
+    "Ein runder, belaubter grüner Baum mit braunem Stamm.",
+    [
+     "Baum",
+     "grün",
+     "Wald",
+     "Natur"
+    ]
+   ],
+   "zh": [
+    "圆圆的绿树",
+    "树冠圆圆、枝叶茂盛的绿色大树。",
+    [
+     "树",
+     "绿色",
+     "森林",
+     "自然"
+    ]
+   ],
+   "ko": [
+    "동그란 나무",
+    "잎이 풍성한 동그란 초록 나무 일러스트.",
+    [
+     "나무",
+     "초록",
+     "숲",
+     "자연"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tulip",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pink Tulip",
+    "A pink tulip flower with two green leaves.",
+    [
+     "tulip",
+     "flower",
+     "spring",
+     "garden"
+    ]
+   ],
+   "ja": [
+    "チューリップ",
+    "ピンクの花と緑の葉っぱのチューリップのイラスト。",
+    [
+     "チューリップ",
+     "花",
+     "春",
+     "ガーデニング"
+    ]
+   ],
+   "es": [
+    "Tulipán rosa",
+    "Un tulipán rosa con dos hojas verdes.",
+    [
+     "tulipán",
+     "flor",
+     "primavera",
+     "jardín"
+    ]
+   ],
+   "pt": [
+    "Tulipa rosa",
+    "Uma tulipa rosa com duas folhas verdes.",
+    [
+     "tulipa",
+     "flor",
+     "primavera",
+     "jardim"
+    ]
+   ],
+   "fr": [
+    "Tulipe rose",
+    "Une tulipe rose avec deux feuilles vertes.",
+    [
+     "tulipe",
+     "fleur",
+     "printemps",
+     "jardin"
+    ]
+   ],
+   "de": [
+    "Rosa Tulpe",
+    "Eine rosa Tulpe mit zwei grünen Blättern.",
+    [
+     "Tulpe",
+     "Blume",
+     "Frühling",
+     "Garten"
+    ]
+   ],
+   "zh": [
+    "粉色郁金香",
+    "一朵带着两片绿叶的粉色郁金香。",
+    [
+     "郁金香",
+     "花",
+     "春天",
+     "花园"
+    ]
+   ],
+   "ko": [
+    "분홍 튤립",
+    "초록 잎이 달린 분홍색 튤립 꽃.",
+    [
+     "튤립",
+     "꽃",
+     "봄",
+     "정원"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mountain",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Snowy Mountain",
+    "A green mountain with a snowy peak, a small cloud and the sun.",
+    [
+     "mountain",
+     "hiking",
+     "landscape",
+     "nature"
+    ]
+   ],
+   "ja": [
+    "雪山と太陽",
+    "雪をかぶった山と雲と太陽のイラスト。",
+    [
+     "山",
+     "登山",
+     "景色",
+     "自然"
+    ]
+   ],
+   "es": [
+    "Montaña nevada",
+    "Una montaña con la cima nevada, una nube y el sol.",
+    [
+     "montaña",
+     "senderismo",
+     "paisaje",
+     "naturaleza"
+    ]
+   ],
+   "pt": [
+    "Montanha com neve",
+    "Uma montanha com o pico nevado, uma nuvem e o sol.",
+    [
+     "montanha",
+     "trilha",
+     "paisagem",
+     "natureza"
+    ]
+   ],
+   "fr": [
+    "Montagne enneigée",
+    "Une montagne au sommet enneigé avec un nuage et le soleil.",
+    [
+     "montagne",
+     "randonnée",
+     "paysage",
+     "nature"
+    ]
+   ],
+   "de": [
+    "Verschneiter Berg",
+    "Ein Berg mit schneebedecktem Gipfel, einer Wolke und der Sonne.",
+    [
+     "Berg",
+     "Wandern",
+     "Landschaft",
+     "Natur"
+    ]
+   ],
+   "zh": [
+    "雪山",
+    "山顶积雪的高山，旁边有云朵和太阳。",
+    [
+     "山",
+     "登山",
+     "风景",
+     "自然"
+    ]
+   ],
+   "ko": [
+    "눈 덮인 산",
+    "눈 덮인 봉우리와 구름, 해가 있는 산 일러스트.",
+    [
+     "산",
+     "등산",
+     "풍경",
+     "자연"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "moon-stars",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sleepy Moon and Stars",
+    "A sleepy crescent moon surrounded by little stars.",
+    [
+     "moon",
+     "stars",
+     "night",
+     "good night"
+    ]
+   ],
+   "ja": [
+    "おやすみ三日月と星",
+    "すやすや眠る三日月と小さな星のイラスト。",
+    [
+     "月",
+     "星",
+     "夜",
+     "おやすみ"
+    ]
+   ],
+   "es": [
+    "Luna dormida y estrellas",
+    "Una luna creciente dormilona rodeada de estrellitas.",
+    [
+     "luna",
+     "estrellas",
+     "noche",
+     "buenas noches"
+    ]
+   ],
+   "pt": [
+    "Lua sonolenta e estrelas",
+    "Uma lua crescente dorminhoca cercada de estrelinhas.",
+    [
+     "lua",
+     "estrelas",
+     "noite",
+     "boa noite"
+    ]
+   ],
+   "fr": [
+    "Lune endormie et étoiles",
+    "Un croissant de lune endormi entouré de petites étoiles.",
+    [
+     "lune",
+     "étoiles",
+     "nuit",
+     "bonne nuit"
+    ]
+   ],
+   "de": [
+    "Schlafender Mond mit Sternen",
+    "Eine schläfrige Mondsichel mit kleinen Sternen.",
+    [
+     "Mond",
+     "Sterne",
+     "Nacht",
+     "gute Nacht"
+    ]
+   ],
+   "zh": [
+    "睡着的月亮和星星",
+    "睡得香甜的弯月和几颗小星星。",
+    [
+     "月亮",
+     "星星",
+     "夜晚",
+     "晚安"
+    ]
+   ],
+   "ko": [
+    "잠자는 달과 별",
+    "새근새근 잠든 초승달과 작은 별들.",
+    [
+     "달",
+     "별",
+     "밤",
+     "잘 자"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "autumn-leaves",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Autumn Leaves",
+    "Three maple leaves in orange, red and yellow.",
+    [
+     "autumn leaves",
+     "fall",
+     "maple",
+     "autumn"
+    ]
+   ],
+   "ja": [
+    "紅葉",
+    "オレンジ・赤・黄色のもみじの葉っぱのイラスト。",
+    [
+     "紅葉",
+     "秋",
+     "もみじ",
+     "落ち葉"
+    ]
+   ],
+   "es": [
+    "Hojas de otoño",
+    "Tres hojas de arce en naranja, rojo y amarillo.",
+    [
+     "hojas de otoño",
+     "otoño",
+     "arce",
+     "hojas secas"
+    ]
+   ],
+   "pt": [
+    "Folhas de outono",
+    "Três folhas de bordo em laranja, vermelho e amarelo.",
+    [
+     "folhas de outono",
+     "outono",
+     "bordo",
+     "folhas secas"
+    ]
+   ],
+   "fr": [
+    "Feuilles d'automne",
+    "Trois feuilles d'érable orange, rouge et jaune.",
+    [
+     "feuilles d'automne",
+     "automne",
+     "érable",
+     "feuilles mortes"
+    ]
+   ],
+   "de": [
+    "Herbstblätter",
+    "Drei Ahornblätter in Orange, Rot und Gelb.",
+    [
+     "Herbstlaub",
+     "Herbst",
+     "Ahorn",
+     "Blätter"
+    ]
+   ],
+   "zh": [
+    "秋天的枫叶",
+    "橙色、红色和黄色的三片枫叶。",
+    [
+     "枫叶",
+     "秋天",
+     "红叶",
+     "落叶"
+    ]
+   ],
+   "ko": [
+    "단풍잎",
+    "주황, 빨강, 노랑 단풍잎 세 장.",
+    [
+     "단풍",
+     "가을",
+     "단풍잎",
+     "낙엽"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sprout",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Little Sprout",
+    "A tiny two-leaf sprout growing out of the soil.",
+    [
+     "sprout",
+     "seedling",
+     "growth",
+     "plant"
+    ]
+   ],
+   "ja": [
+    "ふたばの芽",
+    "土からぴょこんと出たふたばの芽のイラスト。",
+    [
+     "芽",
+     "双葉",
+     "成長",
+     "植物"
+    ]
+   ],
+   "es": [
+    "Pequeño brote",
+    "Un brote diminuto de dos hojas saliendo de la tierra.",
+    [
+     "brote",
+     "plántula",
+     "crecimiento",
+     "planta"
+    ]
+   ],
+   "pt": [
+    "Brotinho",
+    "Um broto pequenino de duas folhas saindo da terra.",
+    [
+     "broto",
+     "muda",
+     "crescimento",
+     "planta"
+    ]
+   ],
+   "fr": [
+    "Petite pousse",
+    "Une minuscule pousse à deux feuilles qui sort de la terre.",
+    [
+     "pousse",
+     "semis",
+     "croissance",
+     "plante"
+    ]
+   ],
+   "de": [
+    "Kleiner Keimling",
+    "Ein winziger Keimling mit zwei Blättern, der aus der Erde wächst.",
+    [
+     "Keimling",
+     "Sprössling",
+     "Wachstum",
+     "Pflanze"
+    ]
+   ],
+   "zh": [
+    "小嫩芽",
+    "从土里冒出来的两片叶子的小嫩芽。",
+    [
+     "嫩芽",
+     "发芽",
+     "成长",
+     "植物"
+    ]
+   ],
+   "ko": [
+    "새싹",
+    "흙에서 쏙 올라온 떡잎 두 장의 새싹.",
+    [
+     "새싹",
+     "떡잎",
+     "성장",
+     "식물"
+    ]
+   ]
+  }
+ }
+]

@@ -1,0 +1,872 @@
+[
+ {
+  "slug": "bed",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bed with pillow and blanket",
+    "A cozy bed with a fluffy pillow and a soft blue blanket.",
+    [
+     "bed",
+     "bedroom",
+     "sleep",
+     "furniture"
+    ]
+   ],
+   "ja": [
+    "枕と布団のベッド",
+    "ふかふかの枕と青い掛け布団がのったベッド。",
+    [
+     "ベッド",
+     "寝室",
+     "睡眠",
+     "家具"
+    ]
+   ],
+   "es": [
+    "Cama con almohada y manta",
+    "Una cama acogedora con una almohada mullida y una manta azul.",
+    [
+     "cama",
+     "dormitorio",
+     "dormir",
+     "muebles"
+    ]
+   ],
+   "pt": [
+    "Cama com travesseiro e cobertor",
+    "Uma cama aconchegante com travesseiro fofinho e cobertor azul.",
+    [
+     "cama",
+     "quarto",
+     "dormir",
+     "móveis"
+    ]
+   ],
+   "fr": [
+    "Lit avec oreiller et couverture",
+    "Un lit douillet avec un oreiller moelleux et une couverture bleue.",
+    [
+     "lit",
+     "chambre",
+     "dormir",
+     "meuble"
+    ]
+   ],
+   "de": [
+    "Bett mit Kissen und Decke",
+    "Ein gemütliches Bett mit flauschigem Kissen und blauer Bettdecke.",
+    [
+     "Bett",
+     "Schlafzimmer",
+     "Schlafen",
+     "Möbel"
+    ]
+   ],
+   "zh": [
+    "带枕头和被子的床",
+    "放着松软枕头和蓝色被子的舒适床铺。",
+    [
+     "床",
+     "卧室",
+     "睡觉",
+     "家具"
+    ]
+   ],
+   "ko": [
+    "베개와 이불이 있는 침대",
+    "폭신한 베개와 파란 이불이 놓인 아늑한 침대.",
+    [
+     "침대",
+     "침실",
+     "수면",
+     "가구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sofa",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cozy two-seat sofa",
+    "A comfy green loveseat with a smiling cushion.",
+    [
+     "sofa",
+     "couch",
+     "living room",
+     "furniture"
+    ]
+   ],
+   "ja": [
+    "くつろぎの2人掛けソファ",
+    "にっこりクッションをのせた緑の2人掛けソファ。",
+    [
+     "ソファ",
+     "リビング",
+     "インテリア",
+     "家具"
+    ]
+   ],
+   "es": [
+    "Sofá de dos plazas",
+    "Un sofá verde y cómodo con un cojín sonriente.",
+    [
+     "sofá",
+     "sala de estar",
+     "cojín",
+     "muebles"
+    ]
+   ],
+   "pt": [
+    "Sofá de dois lugares",
+    "Um sofá verde e confortável com uma almofada sorridente.",
+    [
+     "sofá",
+     "sala de estar",
+     "almofada",
+     "móveis"
+    ]
+   ],
+   "fr": [
+    "Canapé deux places",
+    "Un canapé vert confortable avec un coussin souriant.",
+    [
+     "canapé",
+     "salon",
+     "coussin",
+     "meuble"
+    ]
+   ],
+   "de": [
+    "Gemütliches Zweisitzer-Sofa",
+    "Ein bequemes grünes Sofa mit einem lächelnden Kissen.",
+    [
+     "Sofa",
+     "Couch",
+     "Wohnzimmer",
+     "Möbel"
+    ]
+   ],
+   "zh": [
+    "舒适的双人沙发",
+    "放着笑脸抱枕的绿色双人沙发。",
+    [
+     "沙发",
+     "客厅",
+     "抱枕",
+     "家具"
+    ]
+   ],
+   "ko": [
+    "아늑한 2인용 소파",
+    "웃는 쿠션이 놓인 초록색 2인용 소파.",
+    [
+     "소파",
+     "거실",
+     "쿠션",
+     "가구"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "washing-machine",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Front-loading washing machine",
+    "A washing machine with a round door full of soapy bubbles.",
+    [
+     "washing machine",
+     "laundry",
+     "housework",
+     "appliance"
+    ]
+   ],
+   "ja": [
+    "ドラム式洗濯機",
+    "丸い窓の中で泡がぶくぶくしているドラム式洗濯機。",
+    [
+     "洗濯機",
+     "洗濯",
+     "家事",
+     "家電"
+    ]
+   ],
+   "es": [
+    "Lavadora de carga frontal",
+    "Una lavadora con puerta redonda llena de burbujas de jabón.",
+    [
+     "lavadora",
+     "colada",
+     "tareas domésticas",
+     "electrodoméstico"
+    ]
+   ],
+   "pt": [
+    "Máquina de lavar de abertura frontal",
+    "Uma máquina de lavar com porta redonda cheia de espuma.",
+    [
+     "máquina de lavar",
+     "lavar roupa",
+     "tarefas domésticas",
+     "eletrodoméstico"
+    ]
+   ],
+   "fr": [
+    "Lave-linge à hublot",
+    "Un lave-linge avec un hublot rond plein de mousse.",
+    [
+     "lave-linge",
+     "lessive",
+     "ménage",
+     "électroménager"
+    ]
+   ],
+   "de": [
+    "Frontlader-Waschmaschine",
+    "Eine Waschmaschine mit rundem Bullauge voller Seifenblasen.",
+    [
+     "Waschmaschine",
+     "Wäsche",
+     "Haushalt",
+     "Haushaltsgerät"
+    ]
+   ],
+   "zh": [
+    "滚筒洗衣机",
+    "圆形窗口里冒着泡泡的滚筒洗衣机。",
+    [
+     "洗衣机",
+     "洗衣服",
+     "家务",
+     "家电"
+    ]
+   ],
+   "ko": [
+    "드럼 세탁기",
+    "동그란 문 안에 거품이 가득한 드럼 세탁기.",
+    [
+     "세탁기",
+     "빨래",
+     "집안일",
+     "가전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "broom-cleaning",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Broom and dustpan",
+    "A broom and a dustpan ready for sweeping up.",
+    [
+     "broom",
+     "cleaning",
+     "sweeping",
+     "housework"
+    ]
+   ],
+   "ja": [
+    "ほうきとちりとり",
+    "掃き掃除に使うほうきとちりとり。",
+    [
+     "ほうき",
+     "掃除",
+     "ちりとり",
+     "家事"
+    ]
+   ],
+   "es": [
+    "Escoba y recogedor",
+    "Una escoba y un recogedor listos para barrer.",
+    [
+     "escoba",
+     "limpieza",
+     "barrer",
+     "tareas domésticas"
+    ]
+   ],
+   "pt": [
+    "Vassoura e pá de lixo",
+    "Uma vassoura e uma pá de lixo prontas para varrer.",
+    [
+     "vassoura",
+     "limpeza",
+     "varrer",
+     "tarefas domésticas"
+    ]
+   ],
+   "fr": [
+    "Balai et pelle",
+    "Un balai et une pelle à poussière prêts pour le ménage.",
+    [
+     "balai",
+     "nettoyage",
+     "balayer",
+     "ménage"
+    ]
+   ],
+   "de": [
+    "Besen und Kehrschaufel",
+    "Ein Besen und eine Kehrschaufel zum Auffegen.",
+    [
+     "Besen",
+     "Putzen",
+     "Fegen",
+     "Haushalt"
+    ]
+   ],
+   "zh": [
+    "扫帚和簸箕",
+    "用来扫地的扫帚和簸箕。",
+    [
+     "扫帚",
+     "打扫",
+     "扫地",
+     "家务"
+    ]
+   ],
+   "ko": [
+    "빗자루와 쓰레받기",
+    "바닥을 쓸 때 쓰는 빗자루와 쓰레받기.",
+    [
+     "빗자루",
+     "청소",
+     "쓰레받기",
+     "집안일"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cooking-pot",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pot on the stove",
+    "A smiling pot steaming away on a stove burner.",
+    [
+     "pot",
+     "cooking",
+     "kitchen",
+     "stove"
+    ]
+   ],
+   "ja": [
+    "コンロにかけたお鍋",
+    "コンロの火で湯気を立てるにっこりお鍋。",
+    [
+     "鍋",
+     "料理",
+     "キッチン",
+     "コンロ"
+    ]
+   ],
+   "es": [
+    "Olla en el fuego",
+    "Una olla sonriente echando vapor sobre el fogón.",
+    [
+     "olla",
+     "cocinar",
+     "cocina",
+     "fogón"
+    ]
+   ],
+   "pt": [
+    "Panela no fogão",
+    "Uma panela sorridente soltando vapor na boca do fogão.",
+    [
+     "panela",
+     "cozinhar",
+     "cozinha",
+     "fogão"
+    ]
+   ],
+   "fr": [
+    "Casserole sur le feu",
+    "Une marmite souriante qui fume sur le feu de la cuisinière.",
+    [
+     "casserole",
+     "cuisine",
+     "marmite",
+     "cuisinière"
+    ]
+   ],
+   "de": [
+    "Topf auf dem Herd",
+    "Ein lächelnder Kochtopf, der auf der Herdflamme dampft.",
+    [
+     "Topf",
+     "Kochen",
+     "Küche",
+     "Herd"
+    ]
+   ],
+   "zh": [
+    "炉子上的锅",
+    "在炉火上冒着热气的笑脸锅。",
+    [
+     "锅",
+     "做饭",
+     "厨房",
+     "炉灶"
+    ]
+   ],
+   "ko": [
+    "가스레인지 위의 냄비",
+    "불 위에서 김이 모락모락 나는 웃는 냄비.",
+    [
+     "냄비",
+     "요리",
+     "주방",
+     "가스레인지"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bathtub",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bubble bath with rubber duck",
+    "A bathtub full of bubbles with a little rubber duck.",
+    [
+     "bathtub",
+     "bath",
+     "bubbles",
+     "rubber duck"
+    ]
+   ],
+   "ja": [
+    "アヒルのいる泡のお風呂",
+    "泡いっぱいのバスタブに浮かぶアヒルのおもちゃ。",
+    [
+     "お風呂",
+     "バスタブ",
+     "泡",
+     "アヒル"
+    ]
+   ],
+   "es": [
+    "Bañera con patito de goma",
+    "Una bañera llena de espuma con un patito de goma.",
+    [
+     "bañera",
+     "baño",
+     "burbujas",
+     "patito de goma"
+    ]
+   ],
+   "pt": [
+    "Banheira com patinho de borracha",
+    "Uma banheira cheia de espuma com um patinho de borracha.",
+    [
+     "banheira",
+     "banho",
+     "espuma",
+     "patinho de borracha"
+    ]
+   ],
+   "fr": [
+    "Bain moussant et canard",
+    "Une baignoire pleine de mousse avec un petit canard en plastique.",
+    [
+     "baignoire",
+     "bain",
+     "mousse",
+     "canard en plastique"
+    ]
+   ],
+   "de": [
+    "Schaumbad mit Quietscheente",
+    "Eine Badewanne voller Schaum mit einer kleinen Quietscheente.",
+    [
+     "Badewanne",
+     "Baden",
+     "Schaum",
+     "Quietscheente"
+    ]
+   ],
+   "zh": [
+    "泡泡浴缸和小黄鸭",
+    "满是泡泡的浴缸里漂着一只小黄鸭。",
+    [
+     "浴缸",
+     "洗澡",
+     "泡泡",
+     "小黄鸭"
+    ]
+   ],
+   "ko": [
+    "고무 오리가 있는 거품 목욕",
+    "거품 가득한 욕조에 떠 있는 고무 오리.",
+    [
+     "욕조",
+     "목욕",
+     "거품",
+     "고무 오리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "house-key",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "House key on a ring",
+    "A smiling golden house key on a key ring with a heart charm.",
+    [
+     "key",
+     "house key",
+     "keychain",
+     "home"
+    ]
+   ],
+   "ja": [
+    "キーリングの家のかぎ",
+    "ハートのチャームが付いたキーリングと金色の家のかぎ。",
+    [
+     "鍵",
+     "家の鍵",
+     "キーホルダー",
+     "戸締まり"
+    ]
+   ],
+   "es": [
+    "Llave de casa con llavero",
+    "Una llave dorada sonriente en un llavero con un corazón.",
+    [
+     "llave",
+     "llave de casa",
+     "llavero",
+     "hogar"
+    ]
+   ],
+   "pt": [
+    "Chave de casa no chaveiro",
+    "Uma chave dourada sorridente num chaveiro com pingente de coração.",
+    [
+     "chave",
+     "chave de casa",
+     "chaveiro",
+     "lar"
+    ]
+   ],
+   "fr": [
+    "Clé de maison sur un anneau",
+    "Une clé dorée souriante sur un porte-clés avec un cœur.",
+    [
+     "clé",
+     "clé de maison",
+     "porte-clés",
+     "maison"
+    ]
+   ],
+   "de": [
+    "Haustürschlüssel am Ring",
+    "Ein lächelnder goldener Schlüssel am Schlüsselring mit Herzanhänger.",
+    [
+     "Schlüssel",
+     "Haustürschlüssel",
+     "Schlüsselanhänger",
+     "Zuhause"
+    ]
+   ],
+   "zh": [
+    "钥匙圈上的家门钥匙",
+    "挂着爱心吊坠的钥匙圈和金色笑脸钥匙。",
+    [
+     "钥匙",
+     "家门钥匙",
+     "钥匙扣",
+     "家"
+    ]
+   ],
+   "ko": [
+    "열쇠고리에 달린 집 열쇠",
+    "하트 장식이 달린 열쇠고리와 웃는 금색 열쇠.",
+    [
+     "열쇠",
+     "집 열쇠",
+     "열쇠고리",
+     "집"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "desk-lamp",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Shining desk lamp",
+    "A desk lamp casting warm light onto a stack of books.",
+    [
+     "desk lamp",
+     "light",
+     "study",
+     "desk"
+    ]
+   ],
+   "ja": [
+    "光るデスクライト",
+    "積んだ本をあたたかく照らすデスクライト。",
+    [
+     "デスクライト",
+     "照明",
+     "勉強",
+     "机"
+    ]
+   ],
+   "es": [
+    "Lámpara de escritorio encendida",
+    "Una lámpara de escritorio que ilumina unos libros con luz cálida.",
+    [
+     "lámpara de escritorio",
+     "luz",
+     "estudiar",
+     "escritorio"
+    ]
+   ],
+   "pt": [
+    "Luminária de mesa acesa",
+    "Uma luminária de mesa iluminando uma pilha de livros.",
+    [
+     "luminária",
+     "luz",
+     "estudar",
+     "escrivaninha"
+    ]
+   ],
+   "fr": [
+    "Lampe de bureau allumée",
+    "Une lampe de bureau qui éclaire une pile de livres d'une lumière douce.",
+    [
+     "lampe de bureau",
+     "lumière",
+     "étudier",
+     "bureau"
+    ]
+   ],
+   "de": [
+    "Leuchtende Schreibtischlampe",
+    "Eine Schreibtischlampe, die einen Bücherstapel warm beleuchtet.",
+    [
+     "Schreibtischlampe",
+     "Licht",
+     "Lernen",
+     "Schreibtisch"
+    ]
+   ],
+   "zh": [
+    "亮着的台灯",
+    "用暖光照着一摞书的台灯。",
+    [
+     "台灯",
+     "灯光",
+     "学习",
+     "书桌"
+    ]
+   ],
+   "ko": [
+    "빛나는 스탠드",
+    "쌓인 책을 따뜻하게 비추는 책상 스탠드.",
+    [
+     "스탠드",
+     "조명",
+     "공부",
+     "책상"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "alarm-clock",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ringing alarm clock",
+    "A round red alarm clock with twin bells ringing.",
+    [
+     "alarm clock",
+     "wake up",
+     "morning",
+     "clock"
+    ]
+   ],
+   "ja": [
+    "鳴っている目覚まし時計",
+    "ベルがジリジリ鳴る丸い赤の目覚まし時計。",
+    [
+     "目覚まし時計",
+     "起床",
+     "朝",
+     "時計"
+    ]
+   ],
+   "es": [
+    "Despertador sonando",
+    "Un despertador rojo y redondo con dos campanas sonando.",
+    [
+     "despertador",
+     "despertar",
+     "mañana",
+     "reloj"
+    ]
+   ],
+   "pt": [
+    "Despertador tocando",
+    "Um despertador redondo e vermelho com dois sininhos tocando.",
+    [
+     "despertador",
+     "acordar",
+     "manhã",
+     "relógio"
+    ]
+   ],
+   "fr": [
+    "Réveil qui sonne",
+    "Un réveil rond et rouge avec deux cloches qui sonnent.",
+    [
+     "réveil",
+     "se réveiller",
+     "matin",
+     "horloge"
+    ]
+   ],
+   "de": [
+    "Klingelnder Wecker",
+    "Ein runder roter Wecker mit zwei klingelnden Glocken.",
+    [
+     "Wecker",
+     "Aufwachen",
+     "Morgen",
+     "Uhr"
+    ]
+   ],
+   "zh": [
+    "响铃的闹钟",
+    "两个铃铛正在响的红色圆形闹钟。",
+    [
+     "闹钟",
+     "起床",
+     "早上",
+     "时钟"
+    ]
+   ],
+   "ko": [
+    "울리는 자명종 시계",
+    "종 두 개가 울리는 동그란 빨간 자명종.",
+    [
+     "자명종",
+     "기상",
+     "아침",
+     "시계"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "trash-bins",
+  "cat": "home",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Recycling bins",
+    "Three colorful recycling bins for bottles, cartons and paper.",
+    [
+     "recycling",
+     "trash can",
+     "sorting waste",
+     "eco"
+    ]
+   ],
+   "ja": [
+    "分別ゴミ箱",
+    "ペットボトル・紙パック・紙に分けた3色のゴミ箱。",
+    [
+     "ゴミ箱",
+     "分別",
+     "リサイクル",
+     "エコ"
+    ]
+   ],
+   "es": [
+    "Contenedores de reciclaje",
+    "Tres contenedores de colores para botellas, envases y papel.",
+    [
+     "reciclaje",
+     "basura",
+     "separar residuos",
+     "ecología"
+    ]
+   ],
+   "pt": [
+    "Lixeiras de reciclagem",
+    "Três lixeiras coloridas para garrafas, caixinhas e papel.",
+    [
+     "reciclagem",
+     "lixeira",
+     "coleta seletiva",
+     "sustentabilidade"
+    ]
+   ],
+   "fr": [
+    "Poubelles de tri",
+    "Trois poubelles colorées pour les bouteilles, les briques et le papier.",
+    [
+     "recyclage",
+     "poubelle",
+     "tri sélectif",
+     "écologie"
+    ]
+   ],
+   "de": [
+    "Mülltrennung Tonnen",
+    "Drei bunte Recyclingtonnen für Flaschen, Kartons und Papier.",
+    [
+     "Recycling",
+     "Mülleimer",
+     "Mülltrennung",
+     "Umwelt"
+    ]
+   ],
+   "zh": [
+    "垃圾分类桶",
+    "分别装瓶子、纸盒和纸张的三色回收桶。",
+    [
+     "垃圾分类",
+     "垃圾桶",
+     "回收",
+     "环保"
+    ]
+   ],
+   "ko": [
+    "분리수거함",
+    "병, 종이팩, 종이를 나누어 버리는 세 가지 색 분리수거함.",
+    [
+     "분리수거",
+     "쓰레기통",
+     "재활용",
+     "환경"
+    ]
+   ]
+  }
+ }
+]

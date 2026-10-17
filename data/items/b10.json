@@ -1,0 +1,872 @@
+[
+ {
+  "slug": "christmas-tree",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Christmas Tree",
+    "A decorated Christmas tree with a golden star and colorful ornaments.",
+    [
+     "christmas",
+     "tree",
+     "holiday",
+     "winter"
+    ]
+   ],
+   "ja": [
+    "クリスマスツリー",
+    "星とオーナメントで飾られたクリスマスツリーのイラスト。",
+    [
+     "クリスマス",
+     "ツリー",
+     "冬",
+     "12月"
+    ]
+   ],
+   "es": [
+    "Árbol de Navidad",
+    "Un árbol de Navidad decorado con una estrella dorada y adornos de colores.",
+    [
+     "navidad",
+     "árbol",
+     "fiestas",
+     "invierno"
+    ]
+   ],
+   "pt": [
+    "Árvore de Natal",
+    "Uma árvore de Natal enfeitada com estrela dourada e bolinhas coloridas.",
+    [
+     "natal",
+     "árvore",
+     "festas",
+     "fim de ano"
+    ]
+   ],
+   "fr": [
+    "Sapin de Noël",
+    "Un sapin de Noël décoré d'une étoile dorée et de boules colorées.",
+    [
+     "noël",
+     "sapin",
+     "fêtes",
+     "hiver"
+    ]
+   ],
+   "de": [
+    "Weihnachtsbaum",
+    "Ein geschmückter Weihnachtsbaum mit goldenem Stern und bunten Kugeln.",
+    [
+     "weihnachten",
+     "tannenbaum",
+     "feiertage",
+     "winter"
+    ]
+   ],
+   "zh": [
+    "圣诞树",
+    "装饰着金色星星和彩色挂球的圣诞树。",
+    [
+     "圣诞节",
+     "圣诞树",
+     "节日",
+     "冬天"
+    ]
+   ],
+   "ko": [
+    "크리스마스 트리",
+    "금색 별과 알록달록한 장식이 달린 크리스마스 트리.",
+    [
+     "크리스마스",
+     "트리",
+     "연말",
+     "겨울"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "halloween-pumpkin",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Halloween Pumpkin",
+    "A friendly jack-o'-lantern pumpkin with a smiling carved face.",
+    [
+     "halloween",
+     "pumpkin",
+     "jack-o'-lantern",
+     "autumn"
+    ]
+   ],
+   "ja": [
+    "ハロウィンのかぼちゃ",
+    "にっこり笑顔のジャック・オー・ランタンのイラスト。",
+    [
+     "ハロウィン",
+     "かぼちゃ",
+     "ジャックオーランタン",
+     "秋"
+    ]
+   ],
+   "es": [
+    "Calabaza de Halloween",
+    "Una simpática calabaza de Halloween con una cara sonriente tallada.",
+    [
+     "halloween",
+     "calabaza",
+     "otoño",
+     "octubre"
+    ]
+   ],
+   "pt": [
+    "Abóbora de Halloween",
+    "Uma abóbora de Halloween simpática com rosto sorridente esculpido.",
+    [
+     "halloween",
+     "abóbora",
+     "dia das bruxas",
+     "outono"
+    ]
+   ],
+   "fr": [
+    "Citrouille d'Halloween",
+    "Une citrouille d'Halloween sympathique au visage souriant sculpté.",
+    [
+     "halloween",
+     "citrouille",
+     "automne",
+     "octobre"
+    ]
+   ],
+   "de": [
+    "Halloween-Kürbis",
+    "Ein freundlicher geschnitzter Halloween-Kürbis mit lächelndem Gesicht.",
+    [
+     "halloween",
+     "kürbis",
+     "herbst",
+     "kürbislaterne"
+    ]
+   ],
+   "zh": [
+    "万圣节南瓜",
+    "带着笑脸的可爱南瓜灯。",
+    [
+     "万圣节",
+     "南瓜",
+     "南瓜灯",
+     "秋天"
+    ]
+   ],
+   "ko": [
+    "핼러윈 호박",
+    "웃는 얼굴이 새겨진 귀여운 잭오랜턴 호박.",
+    [
+     "핼러윈",
+     "호박",
+     "잭오랜턴",
+     "가을"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "fireworks",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Fireworks",
+    "Colorful fireworks bursting in the sky.",
+    [
+     "fireworks",
+     "celebration",
+     "festival",
+     "new year"
+    ]
+   ],
+   "ja": [
+    "打ち上げ花火",
+    "色とりどりの花火が夜空に広がるイラスト。",
+    [
+     "花火",
+     "夏祭り",
+     "お祝い",
+     "夏"
+    ]
+   ],
+   "es": [
+    "Fuegos artificiales",
+    "Fuegos artificiales de colores estallando en el cielo.",
+    [
+     "fuegos artificiales",
+     "celebración",
+     "fiesta",
+     "año nuevo"
+    ]
+   ],
+   "pt": [
+    "Fogos de artifício",
+    "Fogos de artifício coloridos explodindo no céu.",
+    [
+     "fogos de artifício",
+     "comemoração",
+     "festa",
+     "réveillon"
+    ]
+   ],
+   "fr": [
+    "Feu d'artifice",
+    "Des feux d'artifice colorés qui éclatent dans le ciel.",
+    [
+     "feu d'artifice",
+     "fête",
+     "célébration",
+     "nouvel an"
+    ]
+   ],
+   "de": [
+    "Feuerwerk",
+    "Buntes Feuerwerk, das am Himmel explodiert.",
+    [
+     "feuerwerk",
+     "silvester",
+     "feier",
+     "fest"
+    ]
+   ],
+   "zh": [
+    "烟花",
+    "在空中绽放的彩色烟花。",
+    [
+     "烟花",
+     "庆祝",
+     "节日",
+     "新年"
+    ]
+   ],
+   "ko": [
+    "불꽃놀이",
+    "하늘에서 터지는 알록달록한 불꽃.",
+    [
+     "불꽃놀이",
+     "축제",
+     "축하",
+     "새해"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "party-popper",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Party Popper",
+    "A party popper bursting with confetti and streamers.",
+    [
+     "party",
+     "confetti",
+     "celebration",
+     "congratulations"
+    ]
+   ],
+   "ja": [
+    "クラッカー",
+    "紙吹雪とテープが飛び出すパーティークラッカーのイラスト。",
+    [
+     "クラッカー",
+     "パーティー",
+     "お祝い",
+     "おめでとう"
+    ]
+   ],
+   "es": [
+    "Lanzador de confeti",
+    "Un cañón de fiesta que lanza confeti y serpentinas.",
+    [
+     "fiesta",
+     "confeti",
+     "celebración",
+     "felicidades"
+    ]
+   ],
+   "pt": [
+    "Lança-confete",
+    "Um lança-confete de festa soltando confetes e serpentinas.",
+    [
+     "festa",
+     "confete",
+     "comemoração",
+     "parabéns"
+    ]
+   ],
+   "fr": [
+    "Cotillon",
+    "Un canon à confettis qui projette confettis et serpentins.",
+    [
+     "fête",
+     "confettis",
+     "célébration",
+     "félicitations"
+    ]
+   ],
+   "de": [
+    "Partyknaller",
+    "Ein Partyknaller, aus dem Konfetti und Luftschlangen fliegen.",
+    [
+     "party",
+     "konfetti",
+     "feier",
+     "glückwunsch"
+    ]
+   ],
+   "zh": [
+    "礼炮拉花",
+    "喷出彩纸和彩带的派对礼炮。",
+    [
+     "派对",
+     "彩纸",
+     "庆祝",
+     "恭喜"
+    ]
+   ],
+   "ko": [
+    "파티 폭죽",
+    "색종이와 리본이 터져 나오는 파티 폭죽.",
+    [
+     "파티",
+     "폭죽",
+     "축하",
+     "색종이"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "heart-balloons",
+  "cat": "events",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Heart Balloons",
+    "A bunch of pink and red heart-shaped balloons tied with a bow.",
+    [
+     "balloons",
+     "heart",
+     "valentine",
+     "love"
+    ]
+   ],
+   "ja": [
+    "ハートの風船",
+    "リボンで束ねたハート形の風船のイラスト。",
+    [
+     "風船",
+     "ハート",
+     "バレンタイン",
+     "お祝い"
+    ]
+   ],
+   "es": [
+    "Globos de corazón",
+    "Un ramo de globos en forma de corazón atados con un lazo.",
+    [
+     "globos",
+     "corazón",
+     "san valentín",
+     "amor"
+    ]
+   ],
+   "pt": [
+    "Balões de coração",
+    "Um buquê de balões em formato de coração amarrados com laço.",
+    [
+     "balões",
+     "coração",
+     "dia dos namorados",
+     "amor"
+    ]
+   ],
+   "fr": [
+    "Ballons cœur",
+    "Un bouquet de ballons en forme de cœur noués d'un ruban.",
+    [
+     "ballons",
+     "cœur",
+     "saint-valentin",
+     "amour"
+    ]
+   ],
+   "de": [
+    "Herzluftballons",
+    "Ein Bund herzförmiger Luftballons mit einer Schleife.",
+    [
+     "luftballons",
+     "herz",
+     "valentinstag",
+     "liebe"
+    ]
+   ],
+   "zh": [
+    "爱心气球",
+    "用蝴蝶结系在一起的一束心形气球。",
+    [
+     "气球",
+     "爱心",
+     "情人节",
+     "庆祝"
+    ]
+   ],
+   "ko": [
+    "하트 풍선",
+    "리본으로 묶은 하트 모양 풍선 다발.",
+    [
+     "풍선",
+     "하트",
+     "발렌타인",
+     "사랑"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "soccer-ball",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Soccer Ball",
+    "A soccer ball flying with motion lines.",
+    [
+     "soccer",
+     "football",
+     "ball",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "サッカーボール",
+    "勢いよく飛ぶサッカーボールのイラスト。",
+    [
+     "サッカー",
+     "ボール",
+     "スポーツ",
+     "球技"
+    ]
+   ],
+   "es": [
+    "Balón de fútbol",
+    "Un balón de fútbol en movimiento con líneas de velocidad.",
+    [
+     "fútbol",
+     "balón",
+     "deporte",
+     "pelota"
+    ]
+   ],
+   "pt": [
+    "Bola de futebol",
+    "Uma bola de futebol em movimento com linhas de velocidade.",
+    [
+     "futebol",
+     "bola",
+     "esporte",
+     "jogo"
+    ]
+   ],
+   "fr": [
+    "Ballon de foot",
+    "Un ballon de football en mouvement avec des traits de vitesse.",
+    [
+     "football",
+     "ballon",
+     "sport",
+     "foot"
+    ]
+   ],
+   "de": [
+    "Fußball",
+    "Ein fliegender Fußball mit Bewegungslinien.",
+    [
+     "fußball",
+     "ball",
+     "sport",
+     "spiel"
+    ]
+   ],
+   "zh": [
+    "足球",
+    "带有速度线、正在飞行的足球。",
+    [
+     "足球",
+     "球",
+     "体育",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "축구공",
+    "속도선과 함께 날아가는 축구공.",
+    [
+     "축구",
+     "축구공",
+     "스포츠",
+     "공"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "basketball",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Basketball",
+    "A classic orange basketball.",
+    [
+     "basketball",
+     "ball",
+     "sports",
+     "game"
+    ]
+   ],
+   "ja": [
+    "バスケットボール",
+    "オレンジ色のバスケットボールのイラスト。",
+    [
+     "バスケットボール",
+     "バスケ",
+     "ボール",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Balón de baloncesto",
+    "Un clásico balón de baloncesto naranja.",
+    [
+     "baloncesto",
+     "básquetbol",
+     "balón",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Bola de basquete",
+    "Uma clássica bola de basquete laranja.",
+    [
+     "basquete",
+     "bola",
+     "esporte",
+     "jogo"
+    ]
+   ],
+   "fr": [
+    "Ballon de basket",
+    "Un ballon de basket orange classique.",
+    [
+     "basket",
+     "basketball",
+     "ballon",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Basketball",
+    "Ein klassischer orangefarbener Basketball.",
+    [
+     "basketball",
+     "ball",
+     "sport",
+     "korbball"
+    ]
+   ],
+   "zh": [
+    "篮球",
+    "一个经典的橙色篮球。",
+    [
+     "篮球",
+     "球",
+     "体育",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "농구공",
+    "주황색 농구공.",
+    [
+     "농구",
+     "농구공",
+     "스포츠",
+     "공"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-running",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person Running",
+    "A cheerful person jogging in sportswear.",
+    [
+     "running",
+     "jogging",
+     "exercise",
+     "fitness"
+    ]
+   ],
+   "ja": [
+    "ランニングする人",
+    "スポーツウェアで元気に走る人のイラスト。",
+    [
+     "ランニング",
+     "ジョギング",
+     "運動",
+     "健康"
+    ]
+   ],
+   "es": [
+    "Persona corriendo",
+    "Una persona alegre corriendo con ropa deportiva.",
+    [
+     "correr",
+     "trotar",
+     "ejercicio",
+     "salud"
+    ]
+   ],
+   "pt": [
+    "Pessoa correndo",
+    "Uma pessoa animada correndo com roupa esportiva.",
+    [
+     "corrida",
+     "cooper",
+     "exercício",
+     "saúde"
+    ]
+   ],
+   "fr": [
+    "Personne qui court",
+    "Une personne joyeuse qui fait son jogging en tenue de sport.",
+    [
+     "course",
+     "jogging",
+     "exercice",
+     "santé"
+    ]
+   ],
+   "de": [
+    "Laufende Person",
+    "Eine fröhliche Person beim Joggen in Sportkleidung.",
+    [
+     "laufen",
+     "joggen",
+     "sport",
+     "fitness"
+    ]
+   ],
+   "zh": [
+    "跑步的人",
+    "穿着运动服开心慢跑的人。",
+    [
+     "跑步",
+     "慢跑",
+     "运动",
+     "健身"
+    ]
+   ],
+   "ko": [
+    "달리는 사람",
+    "운동복을 입고 즐겁게 조깅하는 사람.",
+    [
+     "달리기",
+     "조깅",
+     "운동",
+     "건강"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tennis-racket",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tennis Racket and Ball",
+    "A tennis racket with a yellow tennis ball.",
+    [
+     "tennis",
+     "racket",
+     "ball",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "テニスラケットとボール",
+    "テニスラケットと黄色いボールのイラスト。",
+    [
+     "テニス",
+     "ラケット",
+     "ボール",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Raqueta y pelota de tenis",
+    "Una raqueta de tenis con una pelota amarilla.",
+    [
+     "tenis",
+     "raqueta",
+     "pelota",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Raquete e bola de tênis",
+    "Uma raquete de tênis com uma bolinha amarela.",
+    [
+     "tênis",
+     "raquete",
+     "bola",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Raquette et balle de tennis",
+    "Une raquette de tennis avec une balle jaune.",
+    [
+     "tennis",
+     "raquette",
+     "balle",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Tennisschläger und Ball",
+    "Ein Tennisschläger mit einem gelben Tennisball.",
+    [
+     "tennis",
+     "tennisschläger",
+     "tennisball",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "网球拍和网球",
+    "一支网球拍和一个黄色网球。",
+    [
+     "网球",
+     "球拍",
+     "球",
+     "体育"
+    ]
+   ],
+   "ko": [
+    "테니스 라켓과 공",
+    "테니스 라켓과 노란 테니스공.",
+    [
+     "테니스",
+     "라켓",
+     "테니스공",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "trophy",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Gold Trophy",
+    "A shiny golden trophy cup with a star.",
+    [
+     "trophy",
+     "winner",
+     "award",
+     "champion"
+    ]
+   ],
+   "ja": [
+    "優勝トロフィー",
+    "星のついた金色のトロフィーのイラスト。",
+    [
+     "トロフィー",
+     "優勝",
+     "表彰",
+     "1位"
+    ]
+   ],
+   "es": [
+    "Trofeo dorado",
+    "Una copa de trofeo dorada con una estrella.",
+    [
+     "trofeo",
+     "ganador",
+     "premio",
+     "campeón"
+    ]
+   ],
+   "pt": [
+    "Troféu dourado",
+    "Uma taça de troféu dourada com uma estrela.",
+    [
+     "troféu",
+     "vencedor",
+     "prêmio",
+     "campeão"
+    ]
+   ],
+   "fr": [
+    "Trophée doré",
+    "Une coupe de trophée dorée ornée d'une étoile.",
+    [
+     "trophée",
+     "gagnant",
+     "récompense",
+     "champion"
+    ]
+   ],
+   "de": [
+    "Goldener Pokal",
+    "Ein glänzender goldener Pokal mit einem Stern.",
+    [
+     "pokal",
+     "sieger",
+     "preis",
+     "meister"
+    ]
+   ],
+   "zh": [
+    "金色奖杯",
+    "带有星星的金色奖杯。",
+    [
+     "奖杯",
+     "冠军",
+     "获奖",
+     "第一名"
+    ]
+   ],
+   "ko": [
+    "금색 트로피",
+    "별이 그려진 반짝이는 금색 트로피.",
+    [
+     "트로피",
+     "우승",
+     "시상",
+     "챔피언"
+    ]
+   ]
+  }
+ }
+]

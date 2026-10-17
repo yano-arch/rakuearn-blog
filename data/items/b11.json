@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "person-laughing",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person laughing out loud",
+    "A person laughing heartily with eyes squeezed shut.",
+    [
+     "laughing",
+     "happy",
+     "funny",
+     "emotion"
+    ]
+   ],
+   "ja": [
+    "大笑いする人",
+    "目をぎゅっとつぶって大きな口で笑う人。",
+    [
+     "笑う",
+     "大笑い",
+     "楽しい",
+     "感情"
+    ]
+   ],
+   "es": [
+    "Persona riendo a carcajadas",
+    "Una persona riéndose a carcajadas con los ojos cerrados.",
+    [
+     "risa",
+     "feliz",
+     "divertido",
+     "emoción"
+    ]
+   ],
+   "pt": [
+    "Pessoa gargalhando",
+    "Uma pessoa dando uma boa gargalhada de olhos fechados.",
+    [
+     "risada",
+     "feliz",
+     "engraçado",
+     "emoção"
+    ]
+   ],
+   "fr": [
+    "Personne qui éclate de rire",
+    "Une personne qui rit aux éclats, les yeux fermés.",
+    [
+     "rire",
+     "joie",
+     "drôle",
+     "émotion"
+    ]
+   ],
+   "de": [
+    "Lachende Person",
+    "Eine Person, die mit geschlossenen Augen laut lacht.",
+    [
+     "lachen",
+     "fröhlich",
+     "lustig",
+     "Gefühl"
+    ]
+   ],
+   "zh": [
+    "哈哈大笑的人",
+    "闭着眼睛开怀大笑的人。",
+    [
+     "大笑",
+     "开心",
+     "搞笑",
+     "表情"
+    ]
+   ],
+   "ko": [
+    "크게 웃는 사람",
+    "눈을 꼭 감고 크게 웃는 사람.",
+    [
+     "웃음",
+     "행복",
+     "재미",
+     "감정"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-embarrassed",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Embarrassed person",
+    "A blushing person scratching the back of their head.",
+    [
+     "embarrassed",
+     "blushing",
+     "awkward",
+     "emotion"
+    ]
+   ],
+   "ja": [
+    "照れる人",
+    "顔を赤くして頭をかく人。",
+    [
+     "照れる",
+     "恥ずかしい",
+     "てへへ",
+     "感情"
+    ]
+   ],
+   "es": [
+    "Persona avergonzada",
+    "Una persona sonrojada rascándose la cabeza.",
+    [
+     "vergüenza",
+     "sonrojado",
+     "incómodo",
+     "emoción"
+    ]
+   ],
+   "pt": [
+    "Pessoa envergonhada",
+    "Uma pessoa corada coçando a cabeça.",
+    [
+     "vergonha",
+     "corado",
+     "sem graça",
+     "emoção"
+    ]
+   ],
+   "fr": [
+    "Personne gênée",
+    "Une personne qui rougit en se grattant la tête.",
+    [
+     "gêne",
+     "rougir",
+     "embarras",
+     "émotion"
+    ]
+   ],
+   "de": [
+    "Verlegene Person",
+    "Eine errötende Person, die sich am Hinterkopf kratzt.",
+    [
+     "verlegen",
+     "erröten",
+     "peinlich",
+     "Gefühl"
+    ]
+   ],
+   "zh": [
+    "害羞挠头的人",
+    "脸红着挠后脑勺的人。",
+    [
+     "不好意思",
+     "脸红",
+     "尴尬",
+     "表情"
+    ]
+   ],
+   "ko": [
+    "쑥스러워하는 사람",
+    "얼굴을 붉히며 머리를 긁적이는 사람.",
+    [
+     "쑥스러움",
+     "부끄러움",
+     "민망",
+     "감정"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-worried",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Worried person",
+    "A worried person with a sweat drop and clasped hands.",
+    [
+     "worried",
+     "anxious",
+     "nervous",
+     "emotion"
+    ]
+   ],
+   "ja": [
+    "心配する人",
+    "汗をかいて両手を握りしめ、不安そうな人。",
+    [
+     "心配",
+     "不安",
+     "困る",
+     "感情"
+    ]
+   ],
+   "es": [
+    "Persona preocupada",
+    "Una persona preocupada con una gota de sudor y las manos juntas.",
+    [
+     "preocupado",
+     "ansiedad",
+     "nervioso",
+     "emoción"
+    ]
+   ],
+   "pt": [
+    "Pessoa preocupada",
+    "Uma pessoa preocupada, suando e com as mãos juntas.",
+    [
+     "preocupado",
+     "ansiedade",
+     "nervoso",
+     "emoção"
+    ]
+   ],
+   "fr": [
+    "Personne inquiète",
+    "Une personne inquiète, une goutte de sueur au front, les mains jointes.",
+    [
+     "inquiet",
+     "anxiété",
+     "stress",
+     "émotion"
+    ]
+   ],
+   "de": [
+    "Besorgte Person",
+    "Eine besorgte Person mit Schweißtropfen und gefalteten Händen.",
+    [
+     "besorgt",
+     "Angst",
+     "nervös",
+     "Gefühl"
+    ]
+   ],
+   "zh": [
+    "担心的人",
+    "冒着汗、双手紧握，一脸担心的人。",
+    [
+     "担心",
+     "焦虑",
+     "紧张",
+     "表情"
+    ]
+   ],
+   "ko": [
+    "걱정하는 사람",
+    "땀을 흘리며 두 손을 꼭 모은 걱정스러운 사람.",
+    [
+     "걱정",
+     "불안",
+     "초조",
+     "감정"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-tired",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tired person sighing",
+    "An exhausted person with slumped shoulders letting out a sigh.",
+    [
+     "tired",
+     "exhausted",
+     "sigh",
+     "emotion"
+    ]
+   ],
+   "ja": [
+    "疲れてため息をつく人",
+    "肩を落としてため息をつく、ぐったりした人。",
+    [
+     "疲れた",
+     "ため息",
+     "ぐったり",
+     "感情"
+    ]
+   ],
+   "es": [
+    "Persona cansada suspirando",
+    "Una persona agotada, con los hombros caídos, soltando un suspiro.",
+    [
+     "cansado",
+     "agotado",
+     "suspiro",
+     "emoción"
+    ]
+   ],
+   "pt": [
+    "Pessoa cansada suspirando",
+    "Uma pessoa exausta, de ombros caídos, dando um suspiro.",
+    [
+     "cansado",
+     "exausto",
+     "suspiro",
+     "emoção"
+    ]
+   ],
+   "fr": [
+    "Personne fatiguée qui soupire",
+    "Une personne épuisée, les épaules tombantes, qui pousse un soupir.",
+    [
+     "fatigué",
+     "épuisé",
+     "soupir",
+     "émotion"
+    ]
+   ],
+   "de": [
+    "Müde Person seufzt",
+    "Eine erschöpfte Person mit hängenden Schultern, die seufzt.",
+    [
+     "müde",
+     "erschöpft",
+     "Seufzer",
+     "Gefühl"
+    ]
+   ],
+   "zh": [
+    "疲惫叹气的人",
+    "肩膀耷拉、长叹一口气的疲惫的人。",
+    [
+     "累",
+     "疲惫",
+     "叹气",
+     "表情"
+    ]
+   ],
+   "ko": [
+    "지쳐서 한숨 쉬는 사람",
+    "어깨가 축 처진 채 한숨을 쉬는 지친 사람.",
+    [
+     "피곤",
+     "지침",
+     "한숨",
+     "감정"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-shy",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Shy person peeking",
+    "A shy person peeking out from behind both hands.",
+    [
+     "shy",
+     "peek",
+     "blushing",
+     "emotion"
+    ]
+   ],
+   "ja": [
+    "恥ずかしがる人",
+    "両手で顔を隠して、すき間からのぞく人。",
+    [
+     "恥ずかしい",
+     "照れる",
+     "はにかむ",
+     "感情"
+    ]
+   ],
+   "es": [
+    "Persona tímida asomándose",
+    "Una persona tímida que se asoma por detrás de sus manos.",
+    [
+     "tímido",
+     "vergüenza",
+     "sonrojado",
+     "emoción"
+    ]
+   ],
+   "pt": [
+    "Pessoa tímida espiando",
+    "Uma pessoa tímida espiando por trás das mãos.",
+    [
+     "tímido",
+     "vergonha",
+     "corado",
+     "emoção"
+    ]
+   ],
+   "fr": [
+    "Personne timide qui se cache",
+    "Une personne timide qui jette un œil derrière ses mains.",
+    [
+     "timide",
+     "gêne",
+     "rougir",
+     "émotion"
+    ]
+   ],
+   "de": [
+    "Schüchterne Person",
+    "Eine schüchterne Person, die hinter beiden Händen hervorlugt.",
+    [
+     "schüchtern",
+     "verlegen",
+     "erröten",
+     "Gefühl"
+    ]
+   ],
+   "zh": [
+    "害羞捂脸的人",
+    "用双手捂着脸、偷偷往外看的害羞的人。",
+    [
+     "害羞",
+     "捂脸",
+     "脸红",
+     "表情"
+    ]
+   ],
+   "ko": [
+    "수줍어하는 사람",
+    "두 손으로 얼굴을 가리고 살짝 내다보는 사람.",
+    [
+     "수줍음",
+     "부끄러움",
+     "얼굴 가리기",
+     "감정"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-confused",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Confused person",
+    "A puzzled person with question marks floating around their head.",
+    [
+     "confused",
+     "question",
+     "puzzled",
+     "emotion"
+    ]
+   ],
+   "ja": [
+    "はてなを浮かべる人",
+    "頭のまわりにはてなマークを浮かべて首をかしげる人。",
+    [
+     "はてな",
+     "疑問",
+     "わからない",
+     "感情"
+    ]
+   ],
+   "es": [
+    "Persona confundida",
+    "Una persona confundida con signos de interrogación alrededor de la cabeza.",
+    [
+     "confundido",
+     "duda",
+     "pregunta",
+     "emoción"
+    ]
+   ],
+   "pt": [
+    "Pessoa confusa",
+    "Uma pessoa confusa com pontos de interrogação em volta da cabeça.",
+    [
+     "confuso",
+     "dúvida",
+     "pergunta",
+     "emoção"
+    ]
+   ],
+   "fr": [
+    "Personne perplexe",
+    "Une personne perplexe entourée de points d'interrogation.",
+    [
+     "perplexe",
+     "question",
+     "doute",
+     "émotion"
+    ]
+   ],
+   "de": [
+    "Verwirrte Person",
+    "Eine verwirrte Person mit Fragezeichen um den Kopf.",
+    [
+     "verwirrt",
+     "Frage",
+     "ratlos",
+     "Gefühl"
+    ]
+   ],
+   "zh": [
+    "一脸疑惑的人",
+    "头上冒出问号、一脸疑惑的人。",
+    [
+     "疑惑",
+     "问号",
+     "不懂",
+     "表情"
+    ]
+   ],
+   "ko": [
+    "어리둥절한 사람",
+    "머리 주위에 물음표가 떠 있는 어리둥절한 사람.",
+    [
+     "물음표",
+     "의문",
+     "혼란",
+     "감정"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-proud",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Proud person",
+    "A confident person standing with hands on hips.",
+    [
+     "proud",
+     "confident",
+     "success",
+     "emotion"
+    ]
+   ],
+   "ja": [
+    "得意げな人",
+    "腰に手を当てて胸を張る、自信たっぷりの人。",
+    [
+     "得意",
+     "自信",
+     "ドヤ顔",
+     "感情"
+    ]
+   ],
+   "es": [
+    "Persona orgullosa",
+    "Una persona segura de sí misma con las manos en la cintura.",
+    [
+     "orgullo",
+     "confianza",
+     "éxito",
+     "emoción"
+    ]
+   ],
+   "pt": [
+    "Pessoa orgulhosa",
+    "Uma pessoa confiante com as mãos na cintura.",
+    [
+     "orgulho",
+     "confiança",
+     "sucesso",
+     "emoção"
+    ]
+   ],
+   "fr": [
+    "Personne fière",
+    "Une personne sûre d'elle, les mains sur les hanches.",
+    [
+     "fierté",
+     "confiance",
+     "réussite",
+     "émotion"
+    ]
+   ],
+   "de": [
+    "Stolze Person",
+    "Eine selbstbewusste Person mit den Händen in den Hüften.",
+    [
+     "stolz",
+     "selbstbewusst",
+     "Erfolg",
+     "Gefühl"
+    ]
+   ],
+   "zh": [
+    "得意的人",
+    "双手叉腰、自信满满的人。",
+    [
+     "得意",
+     "自信",
+     "骄傲",
+     "表情"
+    ]
+   ],
+   "ko": [
+    "뿌듯한 사람",
+    "허리에 손을 얹고 당당하게 서 있는 사람.",
+    [
+     "뿌듯함",
+     "자신감",
+     "당당",
+     "감정"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-wishing",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person making a wish",
+    "A person with hands together making a wish under a star.",
+    [
+     "wish",
+     "prayer",
+     "hope",
+     "star"
+    ]
+   ],
+   "ja": [
+    "お願いする人",
+    "星の下で手を合わせて願いごとをする人。",
+    [
+     "お願い",
+     "願いごと",
+     "祈る",
+     "星"
+    ]
+   ],
+   "es": [
+    "Persona pidiendo un deseo",
+    "Una persona con las manos juntas pidiendo un deseo a una estrella.",
+    [
+     "deseo",
+     "esperanza",
+     "rezar",
+     "estrella"
+    ]
+   ],
+   "pt": [
+    "Pessoa fazendo um pedido",
+    "Uma pessoa de mãos juntas fazendo um pedido para uma estrela.",
+    [
+     "pedido",
+     "desejo",
+     "esperança",
+     "estrela"
+    ]
+   ],
+   "fr": [
+    "Personne qui fait un vœu",
+    "Une personne, les mains jointes, qui fait un vœu sous une étoile.",
+    [
+     "vœu",
+     "souhait",
+     "espoir",
+     "étoile"
+    ]
+   ],
+   "de": [
+    "Person wünscht sich etwas",
+    "Eine Person mit gefalteten Händen, die sich unter einem Stern etwas wünscht.",
+    [
+     "Wunsch",
+     "Hoffnung",
+     "bitten",
+     "Stern"
+    ]
+   ],
+   "zh": [
+    "许愿的人",
+    "在星星下双手合十许愿的人。",
+    [
+     "许愿",
+     "祈祷",
+     "愿望",
+     "星星"
+    ]
+   ],
+   "ko": [
+    "소원을 비는 사람",
+    "별 아래에서 두 손을 모으고 소원을 비는 사람.",
+    [
+     "소원",
+     "기도",
+     "희망",
+     "별"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-clapping",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person clapping",
+    "A happy person clapping their hands.",
+    [
+     "clapping",
+     "applause",
+     "congratulations",
+     "celebrate"
+    ]
+   ],
+   "ja": [
+    "拍手する人",
+    "うれしそうにパチパチと拍手する人。",
+    [
+     "拍手",
+     "パチパチ",
+     "おめでとう",
+     "お祝い"
+    ]
+   ],
+   "es": [
+    "Persona aplaudiendo",
+    "Una persona feliz aplaudiendo.",
+    [
+     "aplauso",
+     "aplaudir",
+     "felicitaciones",
+     "celebrar"
+    ]
+   ],
+   "pt": [
+    "Pessoa aplaudindo",
+    "Uma pessoa feliz batendo palmas.",
+    [
+     "aplauso",
+     "palmas",
+     "parabéns",
+     "comemorar"
+    ]
+   ],
+   "fr": [
+    "Personne qui applaudit",
+    "Une personne joyeuse qui applaudit.",
+    [
+     "applaudir",
+     "applaudissements",
+     "félicitations",
+     "fête"
+    ]
+   ],
+   "de": [
+    "Klatschende Person",
+    "Eine fröhliche Person, die in die Hände klatscht.",
+    [
+     "klatschen",
+     "Applaus",
+     "Glückwunsch",
+     "feiern"
+    ]
+   ],
+   "zh": [
+    "鼓掌的人",
+    "开心地拍手鼓掌的人。",
+    [
+     "鼓掌",
+     "拍手",
+     "祝贺",
+     "庆祝"
+    ]
+   ],
+   "ko": [
+    "박수 치는 사람",
+    "기뻐하며 짝짝 박수를 치는 사람.",
+    [
+     "박수",
+     "축하",
+     "응원",
+     "기쁨"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-pointing",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person pointing",
+    "A person pointing to the side with one finger.",
+    [
+     "pointing",
+     "look",
+     "guide",
+     "gesture"
+    ]
+   ],
+   "ja": [
+    "指さしする人",
+    "横を指さして「こっち！」と示す人。",
+    [
+     "指さし",
+     "こちら",
+     "案内",
+     "ポーズ"
+    ]
+   ],
+   "es": [
+    "Persona señalando",
+    "Una persona señalando hacia un lado con el dedo.",
+    [
+     "señalar",
+     "mirar",
+     "indicar",
+     "gesto"
+    ]
+   ],
+   "pt": [
+    "Pessoa apontando",
+    "Uma pessoa apontando para o lado com o dedo.",
+    [
+     "apontar",
+     "olhar",
+     "indicar",
+     "gesto"
+    ]
+   ],
+   "fr": [
+    "Personne qui montre du doigt",
+    "Une personne qui pointe du doigt sur le côté.",
+    [
+     "montrer",
+     "regarder",
+     "indiquer",
+     "geste"
+    ]
+   ],
+   "de": [
+    "Zeigende Person",
+    "Eine Person, die mit dem Finger zur Seite zeigt.",
+    [
+     "zeigen",
+     "schauen",
+     "Hinweis",
+     "Geste"
+    ]
+   ],
+   "zh": [
+    "用手指指着的人",
+    "伸出手指指向旁边的人。",
+    [
+     "指",
+     "看这里",
+     "介绍",
+     "手势"
+    ]
+   ],
+   "ko": [
+    "손가락으로 가리키는 사람",
+    "손가락으로 옆을 가리키는 사람.",
+    [
+     "가리키기",
+     "여기",
+     "안내",
+     "제스처"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-ok-sign",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person making an OK circle",
+    "A person making a big circle over their head with both arms to say OK.",
+    [
+     "OK",
+     "correct",
+     "yes",
+     "gesture"
+    ]
+   ],
+   "ja": [
+    "まるのポーズをする人",
+    "両腕を頭の上で大きな輪にして「OK」と伝える人。",
+    [
+     "まる",
+     "OK",
+     "正解",
+     "ポーズ"
+    ]
+   ],
+   "es": [
+    "Persona haciendo un círculo de OK",
+    "Una persona que forma un gran círculo con los brazos sobre la cabeza para decir que sí.",
+    [
+     "OK",
+     "correcto",
+     "sí",
+     "gesto"
+    ]
+   ],
+   "pt": [
+    "Pessoa fazendo sinal de OK",
+    "Uma pessoa formando um grande círculo com os braços acima da cabeça para dizer que sim.",
+    [
+     "OK",
+     "certo",
+     "sim",
+     "gesto"
+    ]
+   ],
+   "fr": [
+    "Personne qui fait un rond OK",
+    "Une personne qui forme un grand cercle avec ses bras au-dessus de la tête pour dire oui.",
+    [
+     "OK",
+     "correct",
+     "oui",
+     "geste"
+    ]
+   ],
+   "de": [
+    "Person zeigt OK-Kreis",
+    "Eine Person formt mit beiden Armen einen großen Kreis über dem Kopf für „OK“.",
+    [
+     "OK",
+     "richtig",
+     "ja",
+     "Geste"
+    ]
+   ],
+   "zh": [
+    "比圆圈OK的人",
+    "双臂在头顶比出大圆圈表示OK的人。",
+    [
+     "OK",
+     "正确",
+     "可以",
+     "手势"
+    ]
+   ],
+   "ko": [
+    "동그라미 포즈를 하는 사람",
+    "두 팔로 머리 위에 큰 동그라미를 만들어 OK를 표시하는 사람.",
+    [
+     "동그라미",
+     "OK",
+     "정답",
+     "제스처"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-x-sign",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person making an X sign",
+    "A person crossing their arms in an X in front of the chest to say no.",
+    [
+     "no",
+     "wrong",
+     "X",
+     "gesture"
+    ]
+   ],
+   "ja": [
+    "バツのポーズをする人",
+    "胸の前で腕をクロスして「ダメ」と伝える人。",
+    [
+     "バツ",
+     "ダメ",
+     "NG",
+     "ポーズ"
+    ]
+   ],
+   "es": [
+    "Persona haciendo una X",
+    "Una persona que cruza los brazos en forma de X para decir que no.",
+    [
+     "no",
+     "incorrecto",
+     "prohibido",
+     "gesto"
+    ]
+   ],
+   "pt": [
+    "Pessoa fazendo um X",
+    "Uma pessoa cruzando os braços em X na frente do peito para dizer não.",
+    [
+     "não",
+     "errado",
+     "proibido",
+     "gesto"
+    ]
+   ],
+   "fr": [
+    "Personne qui fait une croix",
+    "Une personne qui croise les bras en X devant la poitrine pour dire non.",
+    [
+     "non",
+     "faux",
+     "interdit",
+     "geste"
+    ]
+   ],
+   "de": [
+    "Person zeigt ein X",
+    "Eine Person kreuzt die Arme vor der Brust zu einem X für „Nein“.",
+    [
+     "nein",
+     "falsch",
+     "verboten",
+     "Geste"
+    ]
+   ],
+   "zh": [
+    "比叉的人",
+    "双臂在胸前交叉成X表示不行的人。",
+    [
+     "不行",
+     "错误",
+     "禁止",
+     "手势"
+    ]
+   ],
+   "ko": [
+    "엑스 포즈를 하는 사람",
+    "가슴 앞에서 팔을 X자로 교차해 안 된다고 표시하는 사람.",
+    [
+     "엑스",
+     "안 돼",
+     "금지",
+     "제스처"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-shrugging",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person shrugging",
+    "A person shrugging with palms turned up.",
+    [
+     "shrug",
+     "don't know",
+     "whatever",
+     "gesture"
+    ]
+   ],
+   "ja": [
+    "肩をすくめる人",
+    "手のひらを上に向けて「さあ？」と肩をすくめる人。",
+    [
+     "肩をすくめる",
+     "わからない",
+     "お手上げ",
+     "ポーズ"
+    ]
+   ],
+   "es": [
+    "Persona encogiéndose de hombros",
+    "Una persona que se encoge de hombros con las palmas hacia arriba.",
+    [
+     "encogerse de hombros",
+     "no sé",
+     "duda",
+     "gesto"
+    ]
+   ],
+   "pt": [
+    "Pessoa dando de ombros",
+    "Uma pessoa dando de ombros com as palmas para cima.",
+    [
+     "dar de ombros",
+     "não sei",
+     "tanto faz",
+     "gesto"
+    ]
+   ],
+   "fr": [
+    "Personne qui hausse les épaules",
+    "Une personne qui hausse les épaules, paumes vers le haut.",
+    [
+     "hausser les épaules",
+     "je ne sais pas",
+     "bof",
+     "geste"
+    ]
+   ],
+   "de": [
+    "Schulterzuckende Person",
+    "Eine Person zuckt mit den Schultern, die Handflächen nach oben.",
+    [
+     "Schulterzucken",
+     "keine Ahnung",
+     "egal",
+     "Geste"
+    ]
+   ],
+   "zh": [
+    "耸肩的人",
+    "摊开双手、耸耸肩的人。",
+    [
+     "耸肩",
+     "不知道",
+     "无奈",
+     "手势"
+    ]
+   ],
+   "ko": [
+    "어깨를 으쓱하는 사람",
+    "손바닥을 위로 펴고 어깨를 으쓱하는 사람.",
+    [
+     "으쓱",
+     "모르겠다",
+     "글쎄",
+     "제스처"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-yawning",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person yawning",
+    "A sleepy person letting out a big yawn.",
+    [
+     "yawn",
+     "sleepy",
+     "tired",
+     "morning"
+    ]
+   ],
+   "ja": [
+    "あくびをする人",
+    "眠そうに大きなあくびをする人。",
+    [
+     "あくび",
+     "眠い",
+     "ねむい",
+     "朝"
+    ]
+   ],
+   "es": [
+    "Persona bostezando",
+    "Una persona con sueño dando un gran bostezo.",
+    [
+     "bostezo",
+     "sueño",
+     "cansado",
+     "mañana"
+    ]
+   ],
+   "pt": [
+    "Pessoa bocejando",
+    "Uma pessoa com sono dando um grande bocejo.",
+    [
+     "bocejo",
+     "sono",
+     "cansado",
+     "manhã"
+    ]
+   ],
+   "fr": [
+    "Personne qui bâille",
+    "Une personne endormie qui bâille à s'en décrocher la mâchoire.",
+    [
+     "bâiller",
+     "sommeil",
+     "fatigué",
+     "matin"
+    ]
+   ],
+   "de": [
+    "Gähnende Person",
+    "Eine müde Person, die herzhaft gähnt.",
+    [
+     "gähnen",
+     "schläfrig",
+     "müde",
+     "Morgen"
+    ]
+   ],
+   "zh": [
+    "打哈欠的人",
+    "困得打了个大哈欠的人。",
+    [
+     "打哈欠",
+     "困",
+     "犯困",
+     "早上"
+    ]
+   ],
+   "ko": [
+    "하품하는 사람",
+    "졸린 듯 크게 하품하는 사람.",
+    [
+     "하품",
+     "졸림",
+     "피곤",
+     "아침"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-hungry",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hungry person",
+    "A hungry person holding a fork and drooling.",
+    [
+     "hungry",
+     "food",
+     "drool",
+     "eat"
+    ]
+   ],
+   "ja": [
+    "おなかがすいた人",
+    "フォークを持ってよだれをたらす、はらぺこの人。",
+    [
+     "おなかすいた",
+     "はらぺこ",
+     "よだれ",
+     "食事"
+    ]
+   ],
+   "es": [
+    "Persona con hambre",
+    "Una persona hambrienta con un tenedor, a la que se le hace agua la boca.",
+    [
+     "hambre",
+     "comida",
+     "comer",
+     "tenedor"
+    ]
+   ],
+   "pt": [
+    "Pessoa com fome",
+    "Uma pessoa faminta segurando um garfo e babando.",
+    [
+     "fome",
+     "comida",
+     "comer",
+     "garfo"
+    ]
+   ],
+   "fr": [
+    "Personne affamée",
+    "Une personne affamée qui tient une fourchette et salive.",
+    [
+     "faim",
+     "nourriture",
+     "manger",
+     "fourchette"
+    ]
+   ],
+   "de": [
+    "Hungrige Person",
+    "Eine hungrige Person mit Gabel, der das Wasser im Mund zusammenläuft.",
+    [
+     "Hunger",
+     "Essen",
+     "essen",
+     "Gabel"
+    ]
+   ],
+   "zh": [
+    "肚子饿的人",
+    "拿着叉子、馋得流口水的人。",
+    [
+     "饿了",
+     "流口水",
+     "吃饭",
+     "叉子"
+    ]
+   ],
+   "ko": [
+    "배고픈 사람",
+    "포크를 들고 침을 흘리는 배고픈 사람.",
+    [
+     "배고픔",
+     "군침",
+     "식사",
+     "포크"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-in-love",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person in love",
+    "A person with a dreamy smile surrounded by floating hearts.",
+    [
+     "love",
+     "crush",
+     "heart",
+     "romance"
+    ]
+   ],
+   "ja": [
+    "恋する人",
+    "ハートの目でうっとりする、恋する人。",
+    [
+     "恋",
+     "好き",
+     "ハート",
+     "ラブ"
+    ]
+   ],
+   "es": [
+    "Persona enamorada",
+    "Una persona con una sonrisa soñadora rodeada de corazones.",
+    [
+     "amor",
+     "enamorado",
+     "corazón",
+     "romance"
+    ]
+   ],
+   "pt": [
+    "Pessoa apaixonada",
+    "Uma pessoa com sorriso sonhador cercada de corações.",
+    [
+     "amor",
+     "apaixonado",
+     "coração",
+     "romance"
+    ]
+   ],
+   "fr": [
+    "Personne amoureuse",
+    "Une personne au sourire rêveur entourée de petits cœurs.",
+    [
+     "amour",
+     "amoureux",
+     "cœur",
+     "romance"
+    ]
+   ],
+   "de": [
+    "Verliebte Person",
+    "Eine verträumt lächelnde Person, umgeben von kleinen Herzen.",
+    [
+     "Liebe",
+     "verliebt",
+     "Herz",
+     "Romantik"
+    ]
+   ],
+   "zh": [
+    "恋爱中的人",
+    "眼睛冒爱心、一脸陶醉的人。",
+    [
+     "恋爱",
+     "喜欢",
+     "爱心",
+     "浪漫"
+    ]
+   ],
+   "ko": [
+    "사랑에 빠진 사람",
+    "하트 눈으로 황홀하게 웃는 사람.",
+    [
+     "사랑",
+     "설렘",
+     "하트",
+     "연애"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-scared",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Scared person",
+    "A frightened person shivering with fear.",
+    [
+     "scared",
+     "fear",
+     "shiver",
+     "emotion"
+    ]
+   ],
+   "ja": [
+    "こわがる人",
+    "ぶるぶる震えておびえる人。",
+    [
+     "こわい",
+     "おびえる",
+     "ぶるぶる",
+     "感情"
+    ]
+   ],
+   "es": [
+    "Persona asustada",
+    "Una persona asustada temblando de miedo.",
+    [
+     "miedo",
+     "asustado",
+     "temblar",
+     "emoción"
+    ]
+   ],
+   "pt": [
+    "Pessoa com medo",
+    "Uma pessoa assustada tremendo de medo.",
+    [
+     "medo",
+     "assustado",
+     "tremer",
+     "emoção"
+    ]
+   ],
+   "fr": [
+    "Personne effrayée",
+    "Une personne effrayée qui tremble de peur.",
+    [
+     "peur",
+     "effrayé",
+     "trembler",
+     "émotion"
+    ]
+   ],
+   "de": [
+    "Ängstliche Person",
+    "Eine verängstigte Person, die vor Angst zittert.",
+    [
+     "Angst",
+     "erschrocken",
+     "zittern",
+     "Gefühl"
+    ]
+   ],
+   "zh": [
+    "害怕的人",
+    "吓得瑟瑟发抖的人。",
+    [
+     "害怕",
+     "恐惧",
+     "发抖",
+     "表情"
+    ]
+   ],
+   "ko": [
+    "무서워하는 사람",
+    "무서워서 덜덜 떠는 사람.",
+    [
+     "무서움",
+     "공포",
+     "덜덜",
+     "감정"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-cheering-pompoms",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cheerleader with pom-poms",
+    "A cheerful person cheering with pom-poms raised high.",
+    [
+     "cheer",
+     "pom-poms",
+     "support",
+     "cheerleader"
+    ]
+   ],
+   "ja": [
+    "ポンポンで応援する人",
+    "ポンポンを高く上げて元気に応援する人。",
+    [
+     "応援",
+     "ポンポン",
+     "チアリーダー",
+     "がんばれ"
+    ]
+   ],
+   "es": [
+    "Animadora con pompones",
+    "Una persona alegre animando con pompones en alto.",
+    [
+     "animar",
+     "pompones",
+     "porrista",
+     "apoyo"
+    ]
+   ],
+   "pt": [
+    "Líder de torcida com pompons",
+    "Uma pessoa alegre torcendo com pompons para o alto.",
+    [
+     "torcida",
+     "pompons",
+     "líder de torcida",
+     "apoio"
+    ]
+   ],
+   "fr": [
+    "Pom-pom girl",
+    "Une personne joyeuse qui encourage avec des pompons levés.",
+    [
+     "encourager",
+     "pompons",
+     "pom-pom girl",
+     "soutien"
+    ]
+   ],
+   "de": [
+    "Cheerleaderin mit Pompons",
+    "Eine fröhliche Person feuert mit erhobenen Pompons an.",
+    [
+     "anfeuern",
+     "Pompons",
+     "Cheerleader",
+     "Unterstützung"
+    ]
+   ],
+   "zh": [
+    "拿彩球加油的人",
+    "高举彩球热情加油的人。",
+    [
+     "加油",
+     "彩球",
+     "啦啦队",
+     "应援"
+    ]
+   ],
+   "ko": [
+    "폼폼으로 응원하는 사람",
+    "폼폼을 높이 들고 신나게 응원하는 사람.",
+    [
+     "응원",
+     "폼폼",
+     "치어리더",
+     "파이팅"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-bye-bye",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person waving goodbye",
+    "A person waving a big goodbye.",
+    [
+     "goodbye",
+     "bye",
+     "wave",
+     "see you"
+    ]
+   ],
+   "ja": [
+    "バイバイする人",
+    "大きく手をふって「またね」とバイバイする人。",
+    [
+     "バイバイ",
+     "さようなら",
+     "またね",
+     "手をふる"
+    ]
+   ],
+   "es": [
+    "Persona diciendo adiós",
+    "Una persona que se despide agitando la mano.",
+    [
+     "adiós",
+     "despedida",
+     "chao",
+     "saludar"
+    ]
+   ],
+   "pt": [
+    "Pessoa dando tchau",
+    "Uma pessoa dando tchau com um grande aceno.",
+    [
+     "tchau",
+     "despedida",
+     "até logo",
+     "acenar"
+    ]
+   ],
+   "fr": [
+    "Personne qui dit au revoir",
+    "Une personne qui fait au revoir d'un grand geste de la main.",
+    [
+     "au revoir",
+     "salut",
+     "à bientôt",
+     "main"
+    ]
+   ],
+   "de": [
+    "Person winkt zum Abschied",
+    "Eine Person, die zum Abschied kräftig winkt.",
+    [
+     "tschüss",
+     "Abschied",
+     "winken",
+     "bis bald"
+    ]
+   ],
+   "zh": [
+    "挥手再见的人",
+    "用力挥手说再见的人。",
+    [
+     "再见",
+     "拜拜",
+     "挥手",
+     "告别"
+    ]
+   ],
+   "ko": [
+    "손 흔들며 인사하는 사람",
+    "크게 손을 흔들며 안녕 하고 인사하는 사람.",
+    [
+     "안녕",
+     "작별",
+     "손 흔들기",
+     "바이바이"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-hugging-heart",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person hugging a heart",
+    "A happy person hugging a big heart.",
+    [
+     "love",
+     "heart",
+     "hug",
+     "thank you"
+    ]
+   ],
+   "ja": [
+    "ハートを抱きしめる人",
+    "大きなハートをぎゅっと抱きしめる人。",
+    [
+     "ハート",
+     "愛",
+     "ありがとう",
+     "だきしめる"
+    ]
+   ],
+   "es": [
+    "Persona abrazando un corazón",
+    "Una persona feliz abrazando un gran corazón.",
+    [
+     "amor",
+     "corazón",
+     "abrazo",
+     "gracias"
+    ]
+   ],
+   "pt": [
+    "Pessoa abraçando um coração",
+    "Uma pessoa feliz abraçando um grande coração.",
+    [
+     "amor",
+     "coração",
+     "abraço",
+     "obrigado"
+    ]
+   ],
+   "fr": [
+    "Personne qui serre un cœur",
+    "Une personne heureuse qui serre un grand cœur dans ses bras.",
+    [
+     "amour",
+     "cœur",
+     "câlin",
+     "merci"
+    ]
+   ],
+   "de": [
+    "Person umarmt ein Herz",
+    "Eine glückliche Person, die ein großes Herz umarmt.",
+    [
+     "Liebe",
+     "Herz",
+     "Umarmung",
+     "Danke"
+    ]
+   ],
+   "zh": [
+    "抱着爱心的人",
+    "紧紧抱着大大爱心的人。",
+    [
+     "爱心",
+     "爱",
+     "拥抱",
+     "感谢"
+    ]
+   ],
+   "ko": [
+    "하트를 안은 사람",
+    "커다란 하트를 꼭 안고 있는 사람.",
+    [
+     "하트",
+     "사랑",
+     "포옹",
+     "감사"
+    ]
+   ]
+  }
+ }
+]

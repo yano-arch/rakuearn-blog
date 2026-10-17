@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "grandpa-cane",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Grandpa with a cane",
+    "A kind grandfather with glasses and a mustache standing with his walking cane.",
+    [
+     "grandpa",
+     "grandfather",
+     "elderly",
+     "senior"
+    ]
+   ],
+   "ja": [
+    "杖をついたおじいさん",
+    "メガネとおひげのやさしいおじいさんが杖をついて立っています。",
+    [
+     "おじいさん",
+     "高齢者",
+     "杖",
+     "シニア"
+    ]
+   ],
+   "es": [
+    "Abuelo con bastón",
+    "Un abuelo amable con gafas y bigote, de pie con su bastón.",
+    [
+     "abuelo",
+     "anciano",
+     "tercera edad",
+     "bastón"
+    ]
+   ],
+   "pt": [
+    "Vovô com bengala",
+    "Um vovô simpático de óculos e bigode, em pé com sua bengala.",
+    [
+     "vovô",
+     "avô",
+     "idoso",
+     "terceira idade"
+    ]
+   ],
+   "fr": [
+    "Grand-père avec une canne",
+    "Un gentil grand-père à lunettes et moustache, debout avec sa canne.",
+    [
+     "grand-père",
+     "personne âgée",
+     "senior",
+     "canne"
+    ]
+   ],
+   "de": [
+    "Opa mit Gehstock",
+    "Ein freundlicher Opa mit Brille und Schnurrbart, der mit seinem Gehstock dasteht.",
+    [
+     "Opa",
+     "Großvater",
+     "Senior",
+     "Gehstock"
+    ]
+   ],
+   "zh": [
+    "拄拐杖的爷爷",
+    "戴着眼镜、留着胡子的慈祥爷爷拄着拐杖站着。",
+    [
+     "爷爷",
+     "老人",
+     "拐杖",
+     "老年人"
+    ]
+   ],
+   "ko": [
+    "지팡이를 짚은 할아버지",
+    "안경을 쓰고 콧수염이 있는 인자한 할아버지가 지팡이를 짚고 서 있어요.",
+    [
+     "할아버지",
+     "노인",
+     "지팡이",
+     "시니어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "grandparents-couple",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Grandparents couple",
+    "A smiling grandma and grandpa holding hands side by side.",
+    [
+     "grandparents",
+     "elderly couple",
+     "senior",
+     "family"
+    ]
+   ],
+   "ja": [
+    "なかよしのおじいさんとおばあさん",
+    "手をつないでにっこり並ぶおじいさんとおばあさん。",
+    [
+     "祖父母",
+     "老夫婦",
+     "高齢者",
+     "敬老の日"
+    ]
+   ],
+   "es": [
+    "Pareja de abuelos",
+    "Un abuelo y una abuela sonrientes tomados de la mano.",
+    [
+     "abuelos",
+     "pareja de ancianos",
+     "tercera edad",
+     "familia"
+    ]
+   ],
+   "pt": [
+    "Casal de avós",
+    "Vovô e vovó sorridentes de mãos dadas, lado a lado.",
+    [
+     "avós",
+     "casal de idosos",
+     "terceira idade",
+     "família"
+    ]
+   ],
+   "fr": [
+    "Couple de grands-parents",
+    "Un grand-père et une grand-mère souriants, main dans la main.",
+    [
+     "grands-parents",
+     "couple âgé",
+     "seniors",
+     "famille"
+    ]
+   ],
+   "de": [
+    "Großelternpaar",
+    "Lächelnde Oma und lächelnder Opa, die sich an den Händen halten.",
+    [
+     "Großeltern",
+     "älteres Paar",
+     "Senioren",
+     "Familie"
+    ]
+   ],
+   "zh": [
+    "爷爷奶奶",
+    "手牵着手、笑眯眯并排站着的爷爷和奶奶。",
+    [
+     "爷爷奶奶",
+     "老夫妻",
+     "老人",
+     "家庭"
+    ]
+   ],
+   "ko": [
+    "다정한 할머니 할아버지",
+    "손을 잡고 나란히 웃고 있는 할아버지와 할머니.",
+    [
+     "조부모",
+     "노부부",
+     "노인",
+     "가족"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "family-three",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Family of three",
+    "A mother, father and small child standing together hand in hand.",
+    [
+     "family",
+     "parents",
+     "child",
+     "household"
+    ]
+   ],
+   "ja": [
+    "3人家族",
+    "パパとママと小さな子どもが手をつないで並ぶ家族。",
+    [
+     "家族",
+     "親子",
+     "子ども",
+     "ファミリー"
+    ]
+   ],
+   "es": [
+    "Familia de tres",
+    "Una madre, un padre y un niño pequeño juntos de la mano.",
+    [
+     "familia",
+     "padres",
+     "niño",
+     "hogar"
+    ]
+   ],
+   "pt": [
+    "Família de três",
+    "Mãe, pai e uma criança pequena juntos de mãos dadas.",
+    [
+     "família",
+     "pais",
+     "criança",
+     "filho"
+    ]
+   ],
+   "fr": [
+    "Famille de trois",
+    "Une maman, un papa et un petit enfant ensemble, main dans la main.",
+    [
+     "famille",
+     "parents",
+     "enfant",
+     "foyer"
+    ]
+   ],
+   "de": [
+    "Dreiköpfige Familie",
+    "Mutter, Vater und ein kleines Kind stehen Hand in Hand zusammen.",
+    [
+     "Familie",
+     "Eltern",
+     "Kind",
+     "Eltern und Kind"
+    ]
+   ],
+   "zh": [
+    "一家三口",
+    "爸爸、妈妈和小朋友手牵手站在一起。",
+    [
+     "家庭",
+     "一家三口",
+     "亲子",
+     "孩子"
+    ]
+   ],
+   "ko": [
+    "세 식구",
+    "엄마, 아빠, 어린 아이가 손을 잡고 함께 서 있어요.",
+    [
+     "가족",
+     "부모",
+     "아이",
+     "가정"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mother-holding-baby",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Mother holding a baby",
+    "A gentle mother holding her sleeping baby in her arms.",
+    [
+     "mother",
+     "baby",
+     "mom",
+     "newborn"
+    ]
+   ],
+   "ja": [
+    "赤ちゃんを抱っこするママ",
+    "眠る赤ちゃんをやさしく抱っこするお母さん。",
+    [
+     "ママ",
+     "赤ちゃん",
+     "抱っこ",
+     "子育て"
+    ]
+   ],
+   "es": [
+    "Madre con su bebé en brazos",
+    "Una madre cariñosa que sostiene en brazos a su bebé dormido.",
+    [
+     "madre",
+     "bebé",
+     "mamá",
+     "recién nacido"
+    ]
+   ],
+   "pt": [
+    "Mãe segurando o bebê",
+    "Uma mãe carinhosa segurando o bebê dormindo no colo.",
+    [
+     "mãe",
+     "bebê",
+     "mamãe",
+     "recém-nascido"
+    ]
+   ],
+   "fr": [
+    "Maman tenant son bébé",
+    "Une maman douce qui tient son bébé endormi dans ses bras.",
+    [
+     "maman",
+     "bébé",
+     "mère",
+     "nouveau-né"
+    ]
+   ],
+   "de": [
+    "Mutter mit Baby im Arm",
+    "Eine liebevolle Mutter hält ihr schlafendes Baby im Arm.",
+    [
+     "Mutter",
+     "Baby",
+     "Mama",
+     "Neugeborenes"
+    ]
+   ],
+   "zh": [
+    "抱着宝宝的妈妈",
+    "温柔地抱着熟睡宝宝的妈妈。",
+    [
+     "妈妈",
+     "宝宝",
+     "婴儿",
+     "育儿"
+    ]
+   ],
+   "ko": [
+    "아기를 안은 엄마",
+    "잠든 아기를 다정하게 품에 안은 엄마.",
+    [
+     "엄마",
+     "아기",
+     "육아",
+     "신생아"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "father-piggyback",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Father giving a piggyback ride",
+    "A happy dad carrying his child on his back for a piggyback ride.",
+    [
+     "father",
+     "dad",
+     "piggyback",
+     "child"
+    ]
+   ],
+   "ja": [
+    "子どもをおんぶするパパ",
+    "子どもをおんぶしてにこにこのお父さん。",
+    [
+     "パパ",
+     "おんぶ",
+     "親子",
+     "子育て"
+    ]
+   ],
+   "es": [
+    "Papá llevando a caballito",
+    "Un papá feliz que lleva a su hijo a caballito en la espalda.",
+    [
+     "papá",
+     "padre",
+     "a caballito",
+     "niño"
+    ]
+   ],
+   "pt": [
+    "Pai carregando nas costas",
+    "Um pai feliz levando o filho de cavalinho nas costas.",
+    [
+     "pai",
+     "papai",
+     "cavalinho",
+     "criança"
+    ]
+   ],
+   "fr": [
+    "Papa portant son enfant sur le dos",
+    "Un papa joyeux qui porte son enfant sur le dos.",
+    [
+     "papa",
+     "père",
+     "sur le dos",
+     "enfant"
+    ]
+   ],
+   "de": [
+    "Papa trägt Kind huckepack",
+    "Ein fröhlicher Papa trägt sein Kind huckepack.",
+    [
+     "Papa",
+     "Vater",
+     "huckepack",
+     "Kind"
+    ]
+   ],
+   "zh": [
+    "背着孩子的爸爸",
+    "开心地背着孩子的爸爸。",
+    [
+     "爸爸",
+     "背孩子",
+     "亲子",
+     "孩子"
+    ]
+   ],
+   "ko": [
+    "아이를 업은 아빠",
+    "아이를 등에 업고 웃는 아빠.",
+    [
+     "아빠",
+     "업기",
+     "부모와 아이",
+     "육아"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "siblings-holding-hands",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Siblings holding hands",
+    "A brother and his little sister holding hands and smiling.",
+    [
+     "siblings",
+     "brother and sister",
+     "kids",
+     "children"
+    ]
+   ],
+   "ja": [
+    "手をつなぐきょうだい",
+    "手をつないでにっこりするお兄ちゃんと妹。",
+    [
+     "きょうだい",
+     "兄妹",
+     "子ども",
+     "なかよし"
+    ]
+   ],
+   "es": [
+    "Hermanos de la mano",
+    "Un niño y su hermanita tomados de la mano y sonriendo.",
+    [
+     "hermanos",
+     "hermano y hermana",
+     "niños",
+     "infancia"
+    ]
+   ],
+   "pt": [
+    "Irmãos de mãos dadas",
+    "Um menino e a irmãzinha de mãos dadas, sorrindo.",
+    [
+     "irmãos",
+     "irmão e irmã",
+     "crianças",
+     "infância"
+    ]
+   ],
+   "fr": [
+    "Frère et sœur main dans la main",
+    "Un garçon et sa petite sœur se tiennent la main en souriant.",
+    [
+     "frère et sœur",
+     "fratrie",
+     "enfants",
+     "famille"
+    ]
+   ],
+   "de": [
+    "Geschwister Hand in Hand",
+    "Ein Junge und seine kleine Schwester halten sich lächelnd an den Händen.",
+    [
+     "Geschwister",
+     "Bruder und Schwester",
+     "Kinder",
+     "Familie"
+    ]
+   ],
+   "zh": [
+    "手牵手的兄妹",
+    "手牵着手、笑嘻嘻的哥哥和妹妹。",
+    [
+     "兄妹",
+     "姐弟",
+     "小朋友",
+     "儿童"
+    ]
+   ],
+   "ko": [
+    "손잡은 남매",
+    "손을 잡고 웃고 있는 오빠와 여동생.",
+    [
+     "남매",
+     "형제자매",
+     "아이들",
+     "어린이"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "couple-holding-hands",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Couple holding hands",
+    "A young couple holding hands with hearts floating above.",
+    [
+     "couple",
+     "love",
+     "romance",
+     "dating"
+    ]
+   ],
+   "ja": [
+    "手をつなぐカップル",
+    "ハートを浮かべて手をつなぐ若いカップル。",
+    [
+     "カップル",
+     "恋人",
+     "恋愛",
+     "デート"
+    ]
+   ],
+   "es": [
+    "Pareja de la mano",
+    "Una pareja joven tomada de la mano con corazones flotando.",
+    [
+     "pareja",
+     "amor",
+     "novios",
+     "cita"
+    ]
+   ],
+   "pt": [
+    "Casal de mãos dadas",
+    "Um casal jovem de mãos dadas com corações no ar.",
+    [
+     "casal",
+     "namorados",
+     "amor",
+     "encontro"
+    ]
+   ],
+   "fr": [
+    "Couple main dans la main",
+    "Un jeune couple main dans la main, des cœurs au-dessus d'eux.",
+    [
+     "couple",
+     "amour",
+     "amoureux",
+     "rendez-vous"
+    ]
+   ],
+   "de": [
+    "Paar Hand in Hand",
+    "Ein junges Paar hält Händchen, darüber schweben Herzen.",
+    [
+     "Paar",
+     "Liebe",
+     "Verliebte",
+     "Date"
+    ]
+   ],
+   "zh": [
+    "牵手的情侣",
+    "头顶冒着爱心、手牵手的年轻情侣。",
+    [
+     "情侣",
+     "恋爱",
+     "约会",
+     "爱情"
+    ]
+   ],
+   "ko": [
+    "손잡은 커플",
+    "하트를 띄우며 손을 잡은 젊은 커플.",
+    [
+     "커플",
+     "연인",
+     "사랑",
+     "데이트"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "friends-high-five",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Friends doing a high five",
+    "Two cheerful friends giving each other a high five.",
+    [
+     "high five",
+     "friends",
+     "teamwork",
+     "celebration"
+    ]
+   ],
+   "ja": [
+    "ハイタッチする友だち",
+    "うれしそうにハイタッチするふたりの友だち。",
+    [
+     "ハイタッチ",
+     "友だち",
+     "チームワーク",
+     "成功"
+    ]
+   ],
+   "es": [
+    "Amigos chocando los cinco",
+    "Dos amigos alegres chocando los cinco.",
+    [
+     "chocar los cinco",
+     "amigos",
+     "trabajo en equipo",
+     "celebración"
+    ]
+   ],
+   "pt": [
+    "Amigos batendo na mão",
+    "Dois amigos animados batendo na mão um do outro (high five).",
+    [
+     "toca aqui",
+     "amigos",
+     "trabalho em equipe",
+     "comemoração"
+    ]
+   ],
+   "fr": [
+    "Amis qui se tapent dans la main",
+    "Deux amis joyeux qui se tapent dans la main.",
+    [
+     "tape m'en cinq",
+     "amis",
+     "travail d'équipe",
+     "réussite"
+    ]
+   ],
+   "de": [
+    "Freunde geben High Five",
+    "Zwei fröhliche Freunde klatschen sich ab.",
+    [
+     "High Five",
+     "Freunde",
+     "Teamwork",
+     "Erfolg"
+    ]
+   ],
+   "zh": [
+    "击掌的朋友",
+    "开心地互相击掌的两个好朋友。",
+    [
+     "击掌",
+     "朋友",
+     "团队合作",
+     "庆祝"
+    ]
+   ],
+   "ko": [
+    "하이파이브하는 친구들",
+    "신나게 하이파이브하는 두 친구.",
+    [
+     "하이파이브",
+     "친구",
+     "팀워크",
+     "축하"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "child-drawing",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Child drawing with crayons",
+    "A child happily drawing a picture with crayons at a table.",
+    [
+     "child",
+     "drawing",
+     "crayons",
+     "art"
+    ]
+   ],
+   "ja": [
+    "クレヨンでお絵かきする子ども",
+    "机でクレヨンを使って楽しくお絵かきする子ども。",
+    [
+     "お絵かき",
+     "クレヨン",
+     "子ども",
+     "図工"
+    ]
+   ],
+   "es": [
+    "Niño dibujando con crayones",
+    "Un niño dibujando feliz con crayones en una mesa.",
+    [
+     "niño",
+     "dibujar",
+     "crayones",
+     "arte"
+    ]
+   ],
+   "pt": [
+    "Criança desenhando com giz de cera",
+    "Uma criança desenhando feliz com giz de cera na mesa.",
+    [
+     "criança",
+     "desenho",
+     "giz de cera",
+     "arte"
+    ]
+   ],
+   "fr": [
+    "Enfant qui dessine aux crayons",
+    "Un enfant qui dessine joyeusement aux crayons de cire à table.",
+    [
+     "enfant",
+     "dessin",
+     "crayons de cire",
+     "arts plastiques"
+    ]
+   ],
+   "de": [
+    "Kind malt mit Wachsmalstiften",
+    "Ein Kind malt fröhlich mit Wachsmalstiften am Tisch.",
+    [
+     "Kind",
+     "malen",
+     "Wachsmalstifte",
+     "Basteln"
+    ]
+   ],
+   "zh": [
+    "用蜡笔画画的小朋友",
+    "坐在桌前开心地用蜡笔画画的小朋友。",
+    [
+     "画画",
+     "蜡笔",
+     "儿童",
+     "美术"
+    ]
+   ],
+   "ko": [
+    "크레용으로 그림 그리는 아이",
+    "책상에서 크레용으로 즐겁게 그림을 그리는 아이.",
+    [
+     "그림 그리기",
+     "크레용",
+     "아이",
+     "미술"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "girl-hair-ribbon",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Girl with a hair ribbon",
+    "A smiling little girl with pigtails and a big pink ribbon.",
+    [
+     "girl",
+     "ribbon",
+     "kid",
+     "cute"
+    ]
+   ],
+   "ja": [
+    "大きなリボンの女の子",
+    "大きなピンクのリボンを付けたにこにこの女の子。",
+    [
+     "女の子",
+     "リボン",
+     "子ども",
+     "かわいい"
+    ]
+   ],
+   "es": [
+    "Niña con lazo en el pelo",
+    "Una niña sonriente con coletas y un gran lazo rosa.",
+    [
+     "niña",
+     "lazo",
+     "infantil",
+     "tierno"
+    ]
+   ],
+   "pt": [
+    "Menina com laço no cabelo",
+    "Uma menina sorridente de maria-chiquinha e um grande laço rosa.",
+    [
+     "menina",
+     "laço",
+     "criança",
+     "fofa"
+    ]
+   ],
+   "fr": [
+    "Fillette avec un nœud",
+    "Une petite fille souriante avec des couettes et un grand nœud rose.",
+    [
+     "fille",
+     "nœud",
+     "enfant",
+     "mignon"
+    ]
+   ],
+   "de": [
+    "Mädchen mit Haarschleife",
+    "Ein lächelndes kleines Mädchen mit Zöpfen und großer rosa Schleife.",
+    [
+     "Mädchen",
+     "Schleife",
+     "Kind",
+     "süß"
+    ]
+   ],
+   "zh": [
+    "戴大蝴蝶结的小女孩",
+    "扎着小辫、戴着粉色大蝴蝶结、笑眯眯的小女孩。",
+    [
+     "女孩",
+     "蝴蝶结",
+     "小朋友",
+     "可爱"
+    ]
+   ],
+   "ko": [
+    "리본을 단 여자아이",
+    "커다란 분홍 리본을 단 웃는 여자아이.",
+    [
+     "여자아이",
+     "리본",
+     "어린이",
+     "귀여운"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "teen-headphones",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Teen with headphones",
+    "A relaxed teenager enjoying music on headphones.",
+    [
+     "headphones",
+     "music",
+     "teenager",
+     "relax"
+    ]
+   ],
+   "ja": [
+    "ヘッドホンで音楽を聴く若者",
+    "ヘッドホンで音楽を聴いてリラックスする若者。",
+    [
+     "ヘッドホン",
+     "音楽",
+     "若者",
+     "リラックス"
+    ]
+   ],
+   "es": [
+    "Adolescente con auriculares",
+    "Un adolescente relajado escuchando música con auriculares.",
+    [
+     "auriculares",
+     "música",
+     "adolescente",
+     "relax"
+    ]
+   ],
+   "pt": [
+    "Adolescente de fone de ouvido",
+    "Um adolescente relaxado curtindo música no fone de ouvido.",
+    [
+     "fone de ouvido",
+     "música",
+     "adolescente",
+     "relaxar"
+    ]
+   ],
+   "fr": [
+    "Ado avec un casque audio",
+    "Un ado détendu qui écoute de la musique au casque.",
+    [
+     "casque audio",
+     "musique",
+     "ado",
+     "détente"
+    ]
+   ],
+   "de": [
+    "Teenager mit Kopfhörern",
+    "Ein entspannter Teenager hört Musik über Kopfhörer.",
+    [
+     "Kopfhörer",
+     "Musik",
+     "Teenager",
+     "entspannen"
+    ]
+   ],
+   "zh": [
+    "戴耳机的少年",
+    "戴着耳机享受音乐、很放松的少年。",
+    [
+     "耳机",
+     "音乐",
+     "青少年",
+     "放松"
+    ]
+   ],
+   "ko": [
+    "헤드폰을 낀 10대",
+    "헤드폰으로 음악을 들으며 편안하게 쉬는 10대.",
+    [
+     "헤드폰",
+     "음악",
+     "청소년",
+     "휴식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-reading-book",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person reading a book",
+    "A person absorbed in reading an open book.",
+    [
+     "reading",
+     "book",
+     "study",
+     "hobby"
+    ]
+   ],
+   "ja": [
+    "本を読む人",
+    "本を広げて読書に夢中になっている人。",
+    [
+     "読書",
+     "本",
+     "勉強",
+     "趣味"
+    ]
+   ],
+   "es": [
+    "Persona leyendo un libro",
+    "Una persona concentrada leyendo un libro abierto.",
+    [
+     "lectura",
+     "libro",
+     "estudiar",
+     "pasatiempo"
+    ]
+   ],
+   "pt": [
+    "Pessoa lendo um livro",
+    "Uma pessoa concentrada lendo um livro aberto.",
+    [
+     "leitura",
+     "livro",
+     "estudo",
+     "hobby"
+    ]
+   ],
+   "fr": [
+    "Personne qui lit un livre",
+    "Une personne plongée dans la lecture d'un livre ouvert.",
+    [
+     "lecture",
+     "livre",
+     "étude",
+     "loisir"
+    ]
+   ],
+   "de": [
+    "Person liest ein Buch",
+    "Eine Person ist ganz in ein aufgeschlagenes Buch vertieft.",
+    [
+     "Lesen",
+     "Buch",
+     "Lernen",
+     "Hobby"
+    ]
+   ],
+   "zh": [
+    "看书的人",
+    "捧着书本、专心阅读的人。",
+    [
+     "读书",
+     "书",
+     "学习",
+     "阅读"
+    ]
+   ],
+   "ko": [
+    "책을 읽는 사람",
+    "책을 펼치고 독서에 푹 빠진 사람.",
+    [
+     "독서",
+     "책",
+     "공부",
+     "취미"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-writing-letter",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person writing a letter",
+    "A person at a desk writing a letter with a pencil, an envelope beside them.",
+    [
+     "letter",
+     "writing",
+     "desk",
+     "mail"
+    ]
+   ],
+   "ja": [
+    "手紙を書く人",
+    "机に向かって鉛筆で手紙を書く人。横には封筒。",
+    [
+     "手紙",
+     "書く",
+     "机",
+     "郵便"
+    ]
+   ],
+   "es": [
+    "Persona escribiendo una carta",
+    "Una persona en su escritorio escribiendo una carta, con un sobre al lado.",
+    [
+     "carta",
+     "escribir",
+     "escritorio",
+     "correo"
+    ]
+   ],
+   "pt": [
+    "Pessoa escrevendo uma carta",
+    "Uma pessoa na escrivaninha escrevendo uma carta, com um envelope ao lado.",
+    [
+     "carta",
+     "escrever",
+     "escrivaninha",
+     "correio"
+    ]
+   ],
+   "fr": [
+    "Personne qui écrit une lettre",
+    "Une personne à son bureau écrit une lettre, une enveloppe à côté.",
+    [
+     "lettre",
+     "écrire",
+     "bureau",
+     "courrier"
+    ]
+   ],
+   "de": [
+    "Person schreibt einen Brief",
+    "Eine Person sitzt am Schreibtisch und schreibt einen Brief, daneben ein Umschlag.",
+    [
+     "Brief",
+     "schreiben",
+     "Schreibtisch",
+     "Post"
+    ]
+   ],
+   "zh": [
+    "写信的人",
+    "坐在桌前用铅笔写信的人，旁边放着信封。",
+    [
+     "写信",
+     "信",
+     "书桌",
+     "邮件"
+    ]
+   ],
+   "ko": [
+    "편지를 쓰는 사람",
+    "책상에 앉아 연필로 편지를 쓰는 사람, 옆에는 봉투.",
+    [
+     "편지",
+     "쓰기",
+     "책상",
+     "우편"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-phone-call",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person on a phone call",
+    "A cheerful person talking on a smartphone.",
+    [
+     "phone call",
+     "smartphone",
+     "talking",
+     "contact"
+    ]
+   ],
+   "ja": [
+    "電話で話す人",
+    "スマホで楽しそうに電話している人。",
+    [
+     "電話",
+     "スマホ",
+     "通話",
+     "連絡"
+    ]
+   ],
+   "es": [
+    "Persona hablando por teléfono",
+    "Una persona alegre hablando por el celular.",
+    [
+     "llamada",
+     "celular",
+     "hablar",
+     "contacto"
+    ]
+   ],
+   "pt": [
+    "Pessoa falando ao celular",
+    "Uma pessoa alegre conversando pelo celular.",
+    [
+     "ligação",
+     "celular",
+     "conversa",
+     "contato"
+    ]
+   ],
+   "fr": [
+    "Personne au téléphone",
+    "Une personne joyeuse qui parle au téléphone avec son smartphone.",
+    [
+     "appel",
+     "smartphone",
+     "téléphone",
+     "contact"
+    ]
+   ],
+   "de": [
+    "Person telefoniert",
+    "Eine fröhliche Person telefoniert mit dem Smartphone.",
+    [
+     "Telefonat",
+     "Smartphone",
+     "telefonieren",
+     "Kontakt"
+    ]
+   ],
+   "zh": [
+    "打电话的人",
+    "用手机开心地打电话的人。",
+    [
+     "打电话",
+     "手机",
+     "通话",
+     "联系"
+    ]
+   ],
+   "ko": [
+    "전화하는 사람",
+    "스마트폰으로 즐겁게 통화하는 사람.",
+    [
+     "전화",
+     "스마트폰",
+     "통화",
+     "연락"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-selfie",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person taking a selfie",
+    "A happy person making a peace sign while taking a selfie.",
+    [
+     "selfie",
+     "smartphone",
+     "photo",
+     "social media"
+    ]
+   ],
+   "ja": [
+    "自撮りする人",
+    "ピースしながらスマホで自撮りする人。",
+    [
+     "自撮り",
+     "スマホ",
+     "写真",
+     "SNS"
+    ]
+   ],
+   "es": [
+    "Persona tomándose una selfie",
+    "Una persona feliz haciendo el signo de paz mientras se toma una selfie.",
+    [
+     "selfie",
+     "celular",
+     "foto",
+     "redes sociales"
+    ]
+   ],
+   "pt": [
+    "Pessoa tirando selfie",
+    "Uma pessoa feliz fazendo sinal de paz enquanto tira uma selfie.",
+    [
+     "selfie",
+     "celular",
+     "foto",
+     "redes sociais"
+    ]
+   ],
+   "fr": [
+    "Personne qui prend un selfie",
+    "Une personne joyeuse qui fait le V de la victoire en prenant un selfie.",
+    [
+     "selfie",
+     "smartphone",
+     "photo",
+     "réseaux sociaux"
+    ]
+   ],
+   "de": [
+    "Person macht ein Selfie",
+    "Eine fröhliche Person macht ein Peace-Zeichen und ein Selfie.",
+    [
+     "Selfie",
+     "Smartphone",
+     "Foto",
+     "Social Media"
+    ]
+   ],
+   "zh": [
+    "自拍的人",
+    "比着剪刀手用手机自拍的人。",
+    [
+     "自拍",
+     "手机",
+     "拍照",
+     "社交媒体"
+    ]
+   ],
+   "ko": [
+    "셀카 찍는 사람",
+    "브이를 하며 스마트폰으로 셀카를 찍는 사람.",
+    [
+     "셀카",
+     "스마트폰",
+     "사진",
+     "SNS"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-umbrella-rain",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person with an umbrella in the rain",
+    "A person in a yellow raincoat holding an umbrella on a rainy day.",
+    [
+     "rain",
+     "umbrella",
+     "rainy season",
+     "weather"
+    ]
+   ],
+   "ja": [
+    "雨の日に傘をさす人",
+    "黄色いレインコートで傘をさす雨の日の人。",
+    [
+     "雨",
+     "傘",
+     "梅雨",
+     "天気"
+    ]
+   ],
+   "es": [
+    "Persona con paraguas bajo la lluvia",
+    "Una persona con impermeable amarillo y paraguas en un día lluvioso.",
+    [
+     "lluvia",
+     "paraguas",
+     "temporada de lluvias",
+     "clima"
+    ]
+   ],
+   "pt": [
+    "Pessoa de guarda-chuva na chuva",
+    "Uma pessoa de capa de chuva amarela segurando um guarda-chuva num dia chuvoso.",
+    [
+     "chuva",
+     "guarda-chuva",
+     "dia chuvoso",
+     "tempo"
+    ]
+   ],
+   "fr": [
+    "Personne sous un parapluie",
+    "Une personne en ciré jaune qui tient un parapluie sous la pluie.",
+    [
+     "pluie",
+     "parapluie",
+     "jour de pluie",
+     "météo"
+    ]
+   ],
+   "de": [
+    "Person mit Regenschirm im Regen",
+    "Eine Person im gelben Regenmantel hält an einem Regentag einen Schirm.",
+    [
+     "Regen",
+     "Regenschirm",
+     "Regenwetter",
+     "Wetter"
+    ]
+   ],
+   "zh": [
+    "雨中打伞的人",
+    "穿着黄色雨衣、在雨天撑伞的人。",
+    [
+     "下雨",
+     "雨伞",
+     "雨季",
+     "天气"
+    ]
+   ],
+   "ko": [
+    "비 오는 날 우산 쓴 사람",
+    "노란 우비를 입고 우산을 쓴 비 오는 날의 사람.",
+    [
+     "비",
+     "우산",
+     "장마",
+     "날씨"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-walking-dog",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person walking a dog",
+    "A person taking a small dog for a walk on a leash.",
+    [
+     "dog walk",
+     "pet",
+     "dog",
+     "walking"
+    ]
+   ],
+   "ja": [
+    "犬の散歩をする人",
+    "小さな犬をリードにつないでお散歩する人。",
+    [
+     "犬の散歩",
+     "ペット",
+     "犬",
+     "散歩"
+    ]
+   ],
+   "es": [
+    "Persona paseando al perro",
+    "Una persona paseando a un perrito con correa.",
+    [
+     "pasear al perro",
+     "mascota",
+     "perro",
+     "paseo"
+    ]
+   ],
+   "pt": [
+    "Pessoa passeando com o cachorro",
+    "Uma pessoa passeando com um cachorrinho na coleira.",
+    [
+     "passear com cachorro",
+     "pet",
+     "cachorro",
+     "passeio"
+    ]
+   ],
+   "fr": [
+    "Personne qui promène son chien",
+    "Une personne qui promène un petit chien en laisse.",
+    [
+     "promenade",
+     "chien",
+     "animal de compagnie",
+     "balade"
+    ]
+   ],
+   "de": [
+    "Person geht mit Hund Gassi",
+    "Eine Person führt einen kleinen Hund an der Leine spazieren.",
+    [
+     "Gassi gehen",
+     "Hund",
+     "Haustier",
+     "Spaziergang"
+    ]
+   ],
+   "zh": [
+    "遛狗的人",
+    "牵着牵引绳遛小狗的人。",
+    [
+     "遛狗",
+     "宠物",
+     "狗狗",
+     "散步"
+    ]
+   ],
+   "ko": [
+    "강아지 산책시키는 사람",
+    "작은 강아지를 목줄에 묶어 산책시키는 사람.",
+    [
+     "강아지 산책",
+     "반려견",
+     "강아지",
+     "산책"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-shopping-bags",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person with shopping bags",
+    "A happy person carrying shopping bags in both hands.",
+    [
+     "shopping",
+     "shopping bags",
+     "sale",
+     "store"
+    ]
+   ],
+   "ja": [
+    "買い物袋を持つ人",
+    "両手にショッピングバッグを持ってうれしそうな人。",
+    [
+     "買い物",
+     "ショッピング",
+     "セール",
+     "お店"
+    ]
+   ],
+   "es": [
+    "Persona con bolsas de compras",
+    "Una persona feliz con bolsas de compras en ambas manos.",
+    [
+     "compras",
+     "bolsas",
+     "rebajas",
+     "tienda"
+    ]
+   ],
+   "pt": [
+    "Pessoa com sacolas de compras",
+    "Uma pessoa feliz carregando sacolas de compras nas duas mãos.",
+    [
+     "compras",
+     "sacolas",
+     "liquidação",
+     "loja"
+    ]
+   ],
+   "fr": [
+    "Personne avec des sacs de shopping",
+    "Une personne joyeuse qui porte des sacs de shopping dans chaque main.",
+    [
+     "shopping",
+     "sacs",
+     "soldes",
+     "magasin"
+    ]
+   ],
+   "de": [
+    "Person mit Einkaufstüten",
+    "Eine fröhliche Person trägt in beiden Händen Einkaufstüten.",
+    [
+     "Einkaufen",
+     "Einkaufstüten",
+     "Shopping",
+     "Sale"
+    ]
+   ],
+   "zh": [
+    "拎着购物袋的人",
+    "两手拎着购物袋、开开心心的人。",
+    [
+     "购物",
+     "购物袋",
+     "打折",
+     "逛街"
+    ]
+   ],
+   "ko": [
+    "쇼핑백을 든 사람",
+    "양손에 쇼핑백을 들고 신이 난 사람.",
+    [
+     "쇼핑",
+     "쇼핑백",
+     "세일",
+     "가게"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-shopping-cart",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person pushing a shopping cart",
+    "A person pushing a shopping cart full of groceries at the supermarket.",
+    [
+     "supermarket",
+     "shopping cart",
+     "groceries",
+     "shopping"
+    ]
+   ],
+   "ja": [
+    "カートを押して買い物する人",
+    "食料品を入れたショッピングカートを押すスーパーでの買い物。",
+    [
+     "スーパー",
+     "ショッピングカート",
+     "買い物",
+     "食料品"
+    ]
+   ],
+   "es": [
+    "Persona empujando un carrito",
+    "Una persona empujando un carrito de compras con víveres en el supermercado.",
+    [
+     "supermercado",
+     "carrito de compras",
+     "víveres",
+     "compras"
+    ]
+   ],
+   "pt": [
+    "Pessoa empurrando carrinho de compras",
+    "Uma pessoa empurrando um carrinho com compras no supermercado.",
+    [
+     "supermercado",
+     "carrinho de compras",
+     "mercado",
+     "compras"
+    ]
+   ],
+   "fr": [
+    "Personne poussant un caddie",
+    "Une personne qui pousse un chariot rempli de courses au supermarché.",
+    [
+     "supermarché",
+     "chariot",
+     "courses",
+     "caddie"
+    ]
+   ],
+   "de": [
+    "Person schiebt Einkaufswagen",
+    "Eine Person schiebt im Supermarkt einen Einkaufswagen mit Lebensmitteln.",
+    [
+     "Supermarkt",
+     "Einkaufswagen",
+     "Lebensmittel",
+     "Einkaufen"
+    ]
+   ],
+   "zh": [
+    "推购物车的人",
+    "在超市推着装满食品的购物车的人。",
+    [
+     "超市",
+     "购物车",
+     "买菜",
+     "购物"
+    ]
+   ],
+   "ko": [
+    "카트를 미는 사람",
+    "장 본 물건이 담긴 쇼핑카트를 미는 마트의 사람.",
+    [
+     "마트",
+     "쇼핑카트",
+     "장보기",
+     "쇼핑"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-eating-meal",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person eating a meal",
+    "A happy person eating a meal with a fork at the table.",
+    [
+     "eating",
+     "meal",
+     "lunch",
+     "food"
+    ]
+   ],
+   "ja": [
+    "ごはんを食べる人",
+    "テーブルでフォークを持っておいしそうに食事する人。",
+    [
+     "食事",
+     "ごはん",
+     "ランチ",
+     "いただきます"
+    ]
+   ],
+   "es": [
+    "Persona comiendo",
+    "Una persona feliz comiendo con tenedor en la mesa.",
+    [
+     "comer",
+     "comida",
+     "almuerzo",
+     "alimentación"
+    ]
+   ],
+   "pt": [
+    "Pessoa fazendo uma refeição",
+    "Uma pessoa feliz comendo de garfo à mesa.",
+    [
+     "comer",
+     "refeição",
+     "almoço",
+     "comida"
+    ]
+   ],
+   "fr": [
+    "Personne qui mange",
+    "Une personne joyeuse qui mange avec une fourchette à table.",
+    [
+     "repas",
+     "manger",
+     "déjeuner",
+     "nourriture"
+    ]
+   ],
+   "de": [
+    "Person beim Essen",
+    "Eine fröhliche Person isst am Tisch mit einer Gabel.",
+    [
+     "Essen",
+     "Mahlzeit",
+     "Mittagessen",
+     "Gabel"
+    ]
+   ],
+   "zh": [
+    "吃饭的人",
+    "坐在桌前拿着叉子开心吃饭的人。",
+    [
+     "吃饭",
+     "用餐",
+     "午餐",
+     "美食"
+    ]
+   ],
+   "ko": [
+    "밥 먹는 사람",
+    "식탁에서 포크를 들고 맛있게 식사하는 사람.",
+    [
+     "식사",
+     "밥",
+     "점심",
+     "음식"
+    ]
+   ]
+  }
+ }
+]

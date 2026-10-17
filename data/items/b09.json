@@ -1,0 +1,872 @@
+[
+ {
+  "slug": "car",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Small round car",
+    "A cute little round car seen from the side.",
+    [
+     "car",
+     "drive",
+     "vehicle",
+     "road trip"
+    ]
+   ],
+   "ja": [
+    "まるい小さな車",
+    "横から見た、まるくてかわいい小さな車。",
+    [
+     "車",
+     "自動車",
+     "ドライブ",
+     "乗り物"
+    ]
+   ],
+   "es": [
+    "Coche pequeño y redondo",
+    "Un cochecito redondo y bonito visto de lado.",
+    [
+     "coche",
+     "auto",
+     "vehículo",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Carro pequeno e redondo",
+    "Um carrinho redondo e fofo visto de lado.",
+    [
+     "carro",
+     "veículo",
+     "viagem",
+     "estrada"
+    ]
+   ],
+   "fr": [
+    "Petite voiture ronde",
+    "Une jolie petite voiture ronde vue de profil.",
+    [
+     "voiture",
+     "véhicule",
+     "route",
+     "voyage"
+    ]
+   ],
+   "de": [
+    "Kleines rundes Auto",
+    "Ein niedliches kleines rundes Auto von der Seite.",
+    [
+     "Auto",
+     "Fahrzeug",
+     "Autofahrt",
+     "Reise"
+    ]
+   ],
+   "zh": [
+    "圆圆的小汽车",
+    "从侧面看的可爱圆形小汽车。",
+    [
+     "汽车",
+     "小车",
+     "自驾游",
+     "交通工具"
+    ]
+   ],
+   "ko": [
+    "동글동글한 작은 자동차",
+    "옆에서 본 동글동글 귀여운 작은 자동차.",
+    [
+     "자동차",
+     "차",
+     "드라이브",
+     "교통수단"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bus",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bus",
+    "A yellow bus with big windows seen from the side.",
+    [
+     "bus",
+     "public transport",
+     "commute",
+     "vehicle"
+    ]
+   ],
+   "ja": [
+    "バス",
+    "横から見た、大きな窓のある黄色いバス。",
+    [
+     "バス",
+     "乗り物",
+     "交通機関",
+     "通勤"
+    ]
+   ],
+   "es": [
+    "Autobús",
+    "Un autobús amarillo con ventanas grandes visto de lado.",
+    [
+     "autobús",
+     "transporte público",
+     "vehículo",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Ônibus",
+    "Um ônibus amarelo com janelas grandes visto de lado.",
+    [
+     "ônibus",
+     "transporte público",
+     "veículo",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Bus",
+    "Un bus jaune aux grandes fenêtres vu de profil.",
+    [
+     "bus",
+     "transport en commun",
+     "véhicule",
+     "trajet"
+    ]
+   ],
+   "de": [
+    "Bus",
+    "Ein gelber Bus mit großen Fenstern von der Seite.",
+    [
+     "Bus",
+     "Nahverkehr",
+     "Fahrzeug",
+     "Pendeln"
+    ]
+   ],
+   "zh": [
+    "公交车",
+    "从侧面看的、有大窗户的黄色公交车。",
+    [
+     "公交车",
+     "巴士",
+     "公共交通",
+     "交通工具"
+    ]
+   ],
+   "ko": [
+    "버스",
+    "옆에서 본, 큰 창문이 있는 노란 버스.",
+    [
+     "버스",
+     "대중교통",
+     "교통수단",
+     "출퇴근"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "train",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "High-speed train",
+    "A streamlined bullet-style train running on the tracks.",
+    [
+     "train",
+     "bullet train",
+     "railway",
+     "travel"
+    ]
+   ],
+   "ja": [
+    "新幹線のような電車",
+    "線路を走る、流線形の高速列車。",
+    [
+     "電車",
+     "新幹線",
+     "鉄道",
+     "旅行"
+    ]
+   ],
+   "es": [
+    "Tren de alta velocidad",
+    "Un tren bala aerodinámico circulando por las vías.",
+    [
+     "tren",
+     "tren bala",
+     "ferrocarril",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Trem-bala",
+    "Um trem de alta velocidade aerodinâmico andando nos trilhos.",
+    [
+     "trem",
+     "trem-bala",
+     "ferrovia",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Train à grande vitesse",
+    "Un train profilé à grande vitesse qui roule sur les rails.",
+    [
+     "train",
+     "TGV",
+     "chemin de fer",
+     "voyage"
+    ]
+   ],
+   "de": [
+    "Hochgeschwindigkeitszug",
+    "Ein stromlinienförmiger Schnellzug auf den Gleisen.",
+    [
+     "Zug",
+     "Schnellzug",
+     "Bahn",
+     "Reise"
+    ]
+   ],
+   "zh": [
+    "高铁列车",
+    "在铁轨上行驶的流线型高速列车。",
+    [
+     "火车",
+     "高铁",
+     "铁路",
+     "旅行"
+    ]
+   ],
+   "ko": [
+    "고속열차",
+    "선로를 달리는 유선형 고속열차.",
+    [
+     "기차",
+     "고속열차",
+     "철도",
+     "여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bicycle",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bicycle",
+    "A simple red bicycle.",
+    [
+     "bicycle",
+     "bike",
+     "cycling",
+     "eco"
+    ]
+   ],
+   "ja": [
+    "自転車",
+    "シンプルな赤い自転車。",
+    [
+     "自転車",
+     "サイクリング",
+     "乗り物",
+     "エコ"
+    ]
+   ],
+   "es": [
+    "Bicicleta",
+    "Una bicicleta roja sencilla.",
+    [
+     "bicicleta",
+     "bici",
+     "ciclismo",
+     "ecológico"
+    ]
+   ],
+   "pt": [
+    "Bicicleta",
+    "Uma bicicleta vermelha simples.",
+    [
+     "bicicleta",
+     "bike",
+     "ciclismo",
+     "sustentável"
+    ]
+   ],
+   "fr": [
+    "Vélo",
+    "Un vélo rouge tout simple.",
+    [
+     "vélo",
+     "bicyclette",
+     "cyclisme",
+     "écologie"
+    ]
+   ],
+   "de": [
+    "Fahrrad",
+    "Ein schlichtes rotes Fahrrad.",
+    [
+     "Fahrrad",
+     "Rad",
+     "Radfahren",
+     "umweltfreundlich"
+    ]
+   ],
+   "zh": [
+    "自行车",
+    "一辆简单的红色自行车。",
+    [
+     "自行车",
+     "单车",
+     "骑行",
+     "环保"
+    ]
+   ],
+   "ko": [
+    "자전거",
+    "심플한 빨간 자전거.",
+    [
+     "자전거",
+     "사이클링",
+     "라이딩",
+     "친환경"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ship",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ship on the waves",
+    "A cheerful ship sailing on blue waves.",
+    [
+     "ship",
+     "boat",
+     "sea",
+     "cruise"
+    ]
+   ],
+   "ja": [
+    "波の上の船",
+    "青い波の上を進む船。",
+    [
+     "船",
+     "海",
+     "船旅",
+     "クルーズ"
+    ]
+   ],
+   "es": [
+    "Barco en las olas",
+    "Un barco alegre navegando sobre olas azules.",
+    [
+     "barco",
+     "mar",
+     "crucero",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Navio nas ondas",
+    "Um navio alegre navegando sobre ondas azuis.",
+    [
+     "navio",
+     "barco",
+     "mar",
+     "cruzeiro"
+    ]
+   ],
+   "fr": [
+    "Bateau sur les vagues",
+    "Un joli bateau qui navigue sur les vagues bleues.",
+    [
+     "bateau",
+     "navire",
+     "mer",
+     "croisière"
+    ]
+   ],
+   "de": [
+    "Schiff auf den Wellen",
+    "Ein fröhliches Schiff auf blauen Wellen.",
+    [
+     "Schiff",
+     "Boot",
+     "Meer",
+     "Kreuzfahrt"
+    ]
+   ],
+   "zh": [
+    "海浪上的船",
+    "在蓝色海浪上航行的轮船。",
+    [
+     "船",
+     "轮船",
+     "大海",
+     "邮轮"
+    ]
+   ],
+   "ko": [
+    "파도 위의 배",
+    "파란 파도 위를 항해하는 배.",
+    [
+     "배",
+     "선박",
+     "바다",
+     "크루즈"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "suitcase",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Travel suitcase",
+    "A rolling suitcase decorated with fun stickers.",
+    [
+     "suitcase",
+     "luggage",
+     "travel",
+     "trip"
+    ]
+   ],
+   "ja": [
+    "旅行用スーツケース",
+    "ステッカーを貼ったキャスター付きスーツケース。",
+    [
+     "スーツケース",
+     "旅行",
+     "荷物",
+     "キャリーケース"
+    ]
+   ],
+   "es": [
+    "Maleta de viaje",
+    "Una maleta con ruedas decorada con pegatinas.",
+    [
+     "maleta",
+     "equipaje",
+     "viaje",
+     "vacaciones"
+    ]
+   ],
+   "pt": [
+    "Mala de viagem",
+    "Uma mala de rodinhas decorada com adesivos.",
+    [
+     "mala",
+     "bagagem",
+     "viagem",
+     "férias"
+    ]
+   ],
+   "fr": [
+    "Valise de voyage",
+    "Une valise à roulettes décorée d'autocollants.",
+    [
+     "valise",
+     "bagage",
+     "voyage",
+     "vacances"
+    ]
+   ],
+   "de": [
+    "Reisekoffer",
+    "Ein Rollkoffer mit lustigen Aufklebern.",
+    [
+     "Koffer",
+     "Gepäck",
+     "Reise",
+     "Urlaub"
+    ]
+   ],
+   "zh": [
+    "旅行箱",
+    "贴着贴纸的拉杆行李箱。",
+    [
+     "行李箱",
+     "旅行",
+     "拉杆箱",
+     "行李"
+    ]
+   ],
+   "ko": [
+    "여행 캐리어",
+    "스티커를 붙인 바퀴 달린 여행 가방.",
+    [
+     "캐리어",
+     "여행 가방",
+     "여행",
+     "짐"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "map-pin",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Map with location pin",
+    "A folded map with a red location pin marking the destination.",
+    [
+     "map",
+     "location",
+     "pin",
+     "destination"
+    ]
+   ],
+   "ja": [
+    "地図と位置ピン",
+    "目的地に赤いピンが立った折りたたみ地図。",
+    [
+     "地図",
+     "マップ",
+     "ピン",
+     "目的地"
+    ]
+   ],
+   "es": [
+    "Mapa con marcador",
+    "Un mapa plegado con un marcador rojo en el destino.",
+    [
+     "mapa",
+     "ubicación",
+     "marcador",
+     "destino"
+    ]
+   ],
+   "pt": [
+    "Mapa com alfinete de localização",
+    "Um mapa dobrado com um marcador vermelho no destino.",
+    [
+     "mapa",
+     "localização",
+     "marcador",
+     "destino"
+    ]
+   ],
+   "fr": [
+    "Carte avec repère",
+    "Une carte pliée avec un repère rouge sur la destination.",
+    [
+     "carte",
+     "localisation",
+     "repère",
+     "destination"
+    ]
+   ],
+   "de": [
+    "Karte mit Standort-Pin",
+    "Eine gefaltete Karte mit rotem Pin am Reiseziel.",
+    [
+     "Karte",
+     "Standort",
+     "Pin",
+     "Reiseziel"
+    ]
+   ],
+   "zh": [
+    "地图和定位标记",
+    "目的地插着红色定位标记的折叠地图。",
+    [
+     "地图",
+     "定位",
+     "位置",
+     "目的地"
+    ]
+   ],
+   "ko": [
+    "지도와 위치 핀",
+    "목적지에 빨간 핀이 꽂힌 접이식 지도.",
+    [
+     "지도",
+     "위치",
+     "핀",
+     "목적지"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "camera",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Camera",
+    "A classic camera for taking travel photos.",
+    [
+     "camera",
+     "photo",
+     "photography",
+     "travel"
+    ]
+   ],
+   "ja": [
+    "カメラ",
+    "旅の写真を撮るクラシックなカメラ。",
+    [
+     "カメラ",
+     "写真",
+     "撮影",
+     "旅行"
+    ]
+   ],
+   "es": [
+    "Cámara de fotos",
+    "Una cámara clásica para hacer fotos de viaje.",
+    [
+     "cámara",
+     "foto",
+     "fotografía",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Câmera fotográfica",
+    "Uma câmera clássica para tirar fotos de viagem.",
+    [
+     "câmera",
+     "foto",
+     "fotografia",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Appareil photo",
+    "Un appareil photo classique pour les photos de voyage.",
+    [
+     "appareil photo",
+     "photo",
+     "photographie",
+     "voyage"
+    ]
+   ],
+   "de": [
+    "Kamera",
+    "Eine klassische Kamera für Urlaubsfotos.",
+    [
+     "Kamera",
+     "Foto",
+     "Fotografie",
+     "Reise"
+    ]
+   ],
+   "zh": [
+    "相机",
+    "用来拍旅行照片的经典相机。",
+    [
+     "相机",
+     "照片",
+     "摄影",
+     "旅行"
+    ]
+   ],
+   "ko": [
+    "카메라",
+    "여행 사진을 찍는 클래식 카메라.",
+    [
+     "카메라",
+     "사진",
+     "촬영",
+     "여행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "camping-tent",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tent and campfire",
+    "A camping tent with a small campfire under the night stars.",
+    [
+     "camping",
+     "tent",
+     "campfire",
+     "outdoor"
+    ]
+   ],
+   "ja": [
+    "テントとたき火",
+    "星空の下、テントと小さなたき火。",
+    [
+     "キャンプ",
+     "テント",
+     "たき火",
+     "アウトドア"
+    ]
+   ],
+   "es": [
+    "Tienda de campaña y fogata",
+    "Una tienda de campaña con una pequeña fogata bajo las estrellas.",
+    [
+     "camping",
+     "tienda de campaña",
+     "fogata",
+     "aire libre"
+    ]
+   ],
+   "pt": [
+    "Barraca e fogueira",
+    "Uma barraca de camping com uma pequena fogueira sob as estrelas.",
+    [
+     "acampamento",
+     "barraca",
+     "fogueira",
+     "ao ar livre"
+    ]
+   ],
+   "fr": [
+    "Tente et feu de camp",
+    "Une tente de camping avec un petit feu de camp sous les étoiles.",
+    [
+     "camping",
+     "tente",
+     "feu de camp",
+     "plein air"
+    ]
+   ],
+   "de": [
+    "Zelt und Lagerfeuer",
+    "Ein Campingzelt mit kleinem Lagerfeuer unter den Sternen.",
+    [
+     "Camping",
+     "Zelt",
+     "Lagerfeuer",
+     "Outdoor"
+    ]
+   ],
+   "zh": [
+    "帐篷和篝火",
+    "星空下的露营帐篷和小小的篝火。",
+    [
+     "露营",
+     "帐篷",
+     "篝火",
+     "户外"
+    ]
+   ],
+   "ko": [
+    "텐트와 모닥불",
+    "별빛 아래 텐트와 작은 모닥불.",
+    [
+     "캠핑",
+     "텐트",
+     "모닥불",
+     "아웃도어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hot-air-balloon",
+  "cat": "travel",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hot air balloon",
+    "A colorful hot air balloon floating among the clouds.",
+    [
+     "hot air balloon",
+     "sky",
+     "adventure",
+     "travel"
+    ]
+   ],
+   "ja": [
+    "熱気球",
+    "雲の間にふわりと浮かぶカラフルな熱気球。",
+    [
+     "熱気球",
+     "空",
+     "冒険",
+     "旅行"
+    ]
+   ],
+   "es": [
+    "Globo aerostático",
+    "Un globo aerostático de colores flotando entre las nubes.",
+    [
+     "globo aerostático",
+     "cielo",
+     "aventura",
+     "viaje"
+    ]
+   ],
+   "pt": [
+    "Balão de ar quente",
+    "Um balão de ar quente colorido flutuando entre as nuvens.",
+    [
+     "balão de ar quente",
+     "céu",
+     "aventura",
+     "viagem"
+    ]
+   ],
+   "fr": [
+    "Montgolfière",
+    "Une montgolfière colorée qui flotte parmi les nuages.",
+    [
+     "montgolfière",
+     "ciel",
+     "aventure",
+     "voyage"
+    ]
+   ],
+   "de": [
+    "Heißluftballon",
+    "Ein bunter Heißluftballon schwebt zwischen den Wolken.",
+    [
+     "Heißluftballon",
+     "Himmel",
+     "Abenteuer",
+     "Reise"
+    ]
+   ],
+   "zh": [
+    "热气球",
+    "在云间飘浮的彩色热气球。",
+    [
+     "热气球",
+     "天空",
+     "冒险",
+     "旅行"
+    ]
+   ],
+   "ko": [
+    "열기구",
+    "구름 사이를 둥실 떠다니는 알록달록한 열기구.",
+    [
+     "열기구",
+     "하늘",
+     "모험",
+     "여행"
+    ]
+   ]
+  }
+ }
+]

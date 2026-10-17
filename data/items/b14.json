@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "person-asking-directions",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Giving directions",
+    "A friendly person pointing the way to someone who is lost.",
+    [
+     "directions",
+     "lost",
+     "asking the way",
+     "help"
+    ]
+   ],
+   "ja": [
+    "道案内をする人",
+    "道に迷った人に行き先を指さして教えてあげる人。",
+    [
+     "道案内",
+     "道を聞く",
+     "迷子",
+     "親切"
+    ]
+   ],
+   "es": [
+    "Dando indicaciones",
+    "Una persona amable que señala el camino a alguien que está perdido.",
+    [
+     "indicaciones",
+     "perdido",
+     "preguntar el camino",
+     "ayuda"
+    ]
+   ],
+   "pt": [
+    "Dando informação",
+    "Uma pessoa simpática apontando o caminho para alguém perdido.",
+    [
+     "informação",
+     "perdido",
+     "pedir direção",
+     "ajuda"
+    ]
+   ],
+   "fr": [
+    "Indiquer le chemin",
+    "Une personne aimable qui montre le chemin à quelqu'un d'égaré.",
+    [
+     "itinéraire",
+     "perdu",
+     "demander son chemin",
+     "aide"
+    ]
+   ],
+   "de": [
+    "Wegbeschreibung geben",
+    "Eine freundliche Person zeigt jemandem, der sich verlaufen hat, den Weg.",
+    [
+     "Weg zeigen",
+     "verlaufen",
+     "nach dem Weg fragen",
+     "Hilfe"
+    ]
+   ],
+   "zh": [
+    "指路的人",
+    "热心地给迷路的人指路的人。",
+    [
+     "指路",
+     "问路",
+     "迷路",
+     "帮助"
+    ]
+   ],
+   "ko": [
+    "길을 안내하는 사람",
+    "길을 잃은 사람에게 손가락으로 방향을 알려주는 사람.",
+    [
+     "길 안내",
+     "길 묻기",
+     "길 잃음",
+     "친절"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-flashlight",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Searching with a flashlight",
+    "A person searching in the dark with a flashlight.",
+    [
+     "flashlight",
+     "search",
+     "dark",
+     "night"
+    ]
+   ],
+   "ja": [
+    "懐中電灯で探す人",
+    "暗やみの中、懐中電灯を照らして何かを探す人。",
+    [
+     "懐中電灯",
+     "探す",
+     "暗い",
+     "夜"
+    ]
+   ],
+   "es": [
+    "Buscando con linterna",
+    "Una persona que busca algo en la oscuridad con una linterna.",
+    [
+     "linterna",
+     "buscar",
+     "oscuridad",
+     "noche"
+    ]
+   ],
+   "pt": [
+    "Procurando com lanterna",
+    "Uma pessoa procurando algo no escuro com uma lanterna.",
+    [
+     "lanterna",
+     "procurar",
+     "escuro",
+     "noite"
+    ]
+   ],
+   "fr": [
+    "Chercher avec une lampe torche",
+    "Une personne qui cherche quelque chose dans le noir avec une lampe torche.",
+    [
+     "lampe torche",
+     "chercher",
+     "obscurité",
+     "nuit"
+    ]
+   ],
+   "de": [
+    "Suche mit Taschenlampe",
+    "Eine Person sucht mit einer Taschenlampe im Dunkeln.",
+    [
+     "Taschenlampe",
+     "suchen",
+     "dunkel",
+     "Nacht"
+    ]
+   ],
+   "zh": [
+    "拿手电筒寻找的人",
+    "在黑暗中打着手电筒寻找东西的人。",
+    [
+     "手电筒",
+     "寻找",
+     "黑暗",
+     "夜晚"
+    ]
+   ],
+   "ko": [
+    "손전등으로 찾는 사람",
+    "어둠 속에서 손전등을 비추며 무언가를 찾는 사람.",
+    [
+     "손전등",
+     "찾기",
+     "어둠",
+     "밤"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-peeking-wall",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Peeking from behind a wall",
+    "A curious person peeking out from behind a brick wall.",
+    [
+     "peeking",
+     "hiding",
+     "curious",
+     "shy"
+    ]
+   ],
+   "ja": [
+    "壁からのぞく人",
+    "レンガの壁のかげからこっそりのぞく人。",
+    [
+     "のぞく",
+     "隠れる",
+     "こっそり",
+     "様子見"
+    ]
+   ],
+   "es": [
+    "Asomándose detrás de una pared",
+    "Una persona curiosa que se asoma por detrás de una pared de ladrillos.",
+    [
+     "asomarse",
+     "esconderse",
+     "curioso",
+     "tímido"
+    ]
+   ],
+   "pt": [
+    "Espiando atrás da parede",
+    "Uma pessoa curiosa espiando por trás de uma parede de tijolos.",
+    [
+     "espiar",
+     "esconder",
+     "curioso",
+     "tímido"
+    ]
+   ],
+   "fr": [
+    "Personne qui jette un œil derrière un mur",
+    "Une personne curieuse qui regarde discrètement derrière un mur de briques.",
+    [
+     "regarder en cachette",
+     "se cacher",
+     "curieux",
+     "timide"
+    ]
+   ],
+   "de": [
+    "Hinter der Wand hervorlugen",
+    "Eine neugierige Person lugt hinter einer Ziegelmauer hervor.",
+    [
+     "hervorlugen",
+     "verstecken",
+     "neugierig",
+     "schüchtern"
+    ]
+   ],
+   "zh": [
+    "从墙后偷看的人",
+    "躲在砖墙后面悄悄探头张望的人。",
+    [
+     "偷看",
+     "躲藏",
+     "好奇",
+     "害羞"
+    ]
+   ],
+   "ko": [
+    "벽 뒤에서 엿보는 사람",
+    "벽돌 벽 뒤에서 살짝 얼굴을 내밀고 엿보는 사람.",
+    [
+     "엿보기",
+     "숨기",
+     "몰래",
+     "궁금"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-sneezing",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person sneezing",
+    "A person letting out a big sneeze.",
+    [
+     "sneeze",
+     "cold",
+     "allergy",
+     "hay fever"
+    ]
+   ],
+   "ja": [
+    "くしゃみをする人",
+    "大きなくしゃみをする人。",
+    [
+     "くしゃみ",
+     "風邪",
+     "花粉症",
+     "アレルギー"
+    ]
+   ],
+   "es": [
+    "Persona estornudando",
+    "Una persona que suelta un gran estornudo.",
+    [
+     "estornudo",
+     "resfriado",
+     "alergia",
+     "polen"
+    ]
+   ],
+   "pt": [
+    "Pessoa espirrando",
+    "Uma pessoa dando um espirro bem forte.",
+    [
+     "espirro",
+     "resfriado",
+     "alergia",
+     "rinite"
+    ]
+   ],
+   "fr": [
+    "Personne qui éternue",
+    "Une personne qui éternue très fort.",
+    [
+     "éternuer",
+     "rhume",
+     "allergie",
+     "rhume des foins"
+    ]
+   ],
+   "de": [
+    "Niesende Person",
+    "Eine Person, die kräftig niest.",
+    [
+     "niesen",
+     "Erkältung",
+     "Allergie",
+     "Heuschnupfen"
+    ]
+   ],
+   "zh": [
+    "打喷嚏的人",
+    "用力打了一个大喷嚏的人。",
+    [
+     "打喷嚏",
+     "感冒",
+     "过敏",
+     "花粉症"
+    ]
+   ],
+   "ko": [
+    "재채기하는 사람",
+    "크게 재채기를 하는 사람.",
+    [
+     "재채기",
+     "감기",
+     "알레르기",
+     "꽃가루"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-happy-tears",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tears of joy",
+    "A person crying happy tears with a big smile.",
+    [
+     "tears of joy",
+     "happy",
+     "moved",
+     "touched"
+    ]
+   ],
+   "ja": [
+    "うれし泣きする人",
+    "満面の笑みでうれし涙を流す人。",
+    [
+     "うれし泣き",
+     "感動",
+     "涙",
+     "喜び"
+    ]
+   ],
+   "es": [
+    "Lágrimas de alegría",
+    "Una persona que llora de felicidad con una gran sonrisa.",
+    [
+     "lágrimas de alegría",
+     "feliz",
+     "emocionado",
+     "conmovido"
+    ]
+   ],
+   "pt": [
+    "Chorando de alegria",
+    "Uma pessoa chorando de felicidade com um grande sorriso.",
+    [
+     "choro de alegria",
+     "feliz",
+     "emocionado",
+     "comovido"
+    ]
+   ],
+   "fr": [
+    "Larmes de joie",
+    "Une personne qui pleure de bonheur avec un grand sourire.",
+    [
+     "larmes de joie",
+     "heureux",
+     "ému",
+     "touché"
+    ]
+   ],
+   "de": [
+    "Freudentränen",
+    "Eine Person, die mit breitem Lächeln Freudentränen weint.",
+    [
+     "Freudentränen",
+     "glücklich",
+     "gerührt",
+     "Freude"
+    ]
+   ],
+   "zh": [
+    "喜极而泣的人",
+    "笑容满面、流下开心泪水的人。",
+    [
+     "喜极而泣",
+     "感动",
+     "眼泪",
+     "开心"
+    ]
+   ],
+   "ko": [
+    "기뻐서 우는 사람",
+    "환하게 웃으며 기쁨의 눈물을 흘리는 사람.",
+    [
+     "기쁨의 눈물",
+     "감동",
+     "눈물",
+     "행복"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-determined",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Determined person",
+    "A fired-up person in a headband clenching a fist.",
+    [
+     "determined",
+     "motivation",
+     "fighting spirit",
+     "do your best"
+    ]
+   ],
+   "ja": [
+    "気合いを入れる人",
+    "はちまきをしめて、こぶしをにぎりしめる人。",
+    [
+     "やる気",
+     "気合い",
+     "がんばる",
+     "決意"
+    ]
+   ],
+   "es": [
+    "Persona decidida",
+    "Una persona motivada con cinta en la cabeza y el puño apretado.",
+    [
+     "decidido",
+     "motivación",
+     "ánimo",
+     "esfuerzo"
+    ]
+   ],
+   "pt": [
+    "Pessoa determinada",
+    "Uma pessoa motivada com faixa na cabeça e o punho cerrado.",
+    [
+     "determinação",
+     "motivação",
+     "garra",
+     "força"
+    ]
+   ],
+   "fr": [
+    "Personne déterminée",
+    "Une personne motivée, bandeau sur la tête et poing serré.",
+    [
+     "déterminé",
+     "motivation",
+     "courage",
+     "persévérance"
+    ]
+   ],
+   "de": [
+    "Entschlossene Person",
+    "Eine motivierte Person mit Stirnband, die die Faust ballt.",
+    [
+     "entschlossen",
+     "Motivation",
+     "Kampfgeist",
+     "Ehrgeiz"
+    ]
+   ],
+   "zh": [
+    "干劲十足的人",
+    "系着头巾、握紧拳头鼓足干劲的人。",
+    [
+     "加油",
+     "干劲",
+     "决心",
+     "努力"
+    ]
+   ],
+   "ko": [
+    "의욕 넘치는 사람",
+    "머리띠를 두르고 주먹을 불끈 쥔 사람.",
+    [
+     "의욕",
+     "결심",
+     "파이팅",
+     "열정"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-relaxing-tea",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Relaxing with tea",
+    "A person relaxing with a warm cup of tea.",
+    [
+     "tea time",
+     "relax",
+     "break",
+     "cozy"
+    ]
+   ],
+   "ja": [
+    "お茶でほっとひと息つく人",
+    "温かいお茶を手にのんびりくつろぐ人。",
+    [
+     "お茶",
+     "休憩",
+     "リラックス",
+     "ひと息"
+    ]
+   ],
+   "es": [
+    "Relajándose con un té",
+    "Una persona que se relaja con una taza de té caliente.",
+    [
+     "té",
+     "relajarse",
+     "descanso",
+     "pausa"
+    ]
+   ],
+   "pt": [
+    "Relaxando com chá",
+    "Uma pessoa relaxando com uma xícara de chá quentinho.",
+    [
+     "chá",
+     "relaxar",
+     "pausa",
+     "descanso"
+    ]
+   ],
+   "fr": [
+    "Pause thé détente",
+    "Une personne qui se détend avec une tasse de thé chaud.",
+    [
+     "thé",
+     "détente",
+     "pause",
+     "cocooning"
+    ]
+   ],
+   "de": [
+    "Entspannen bei einer Tasse Tee",
+    "Eine Person entspannt sich mit einer warmen Tasse Tee.",
+    [
+     "Tee",
+     "entspannen",
+     "Pause",
+     "gemütlich"
+    ]
+   ],
+   "zh": [
+    "喝茶放松的人",
+    "捧着一杯热茶悠闲放松的人。",
+    [
+     "喝茶",
+     "放松",
+     "休息",
+     "惬意"
+    ]
+   ],
+   "ko": [
+    "차 마시며 쉬는 사람",
+    "따뜻한 차 한 잔을 들고 느긋하게 쉬는 사람.",
+    [
+     "차",
+     "휴식",
+     "힐링",
+     "티타임"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-meditating",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person meditating",
+    "A calm person sitting cross-legged in meditation.",
+    [
+     "meditation",
+     "mindfulness",
+     "calm",
+     "yoga"
+    ]
+   ],
+   "ja": [
+    "瞑想する人",
+    "あぐらをかいて静かに瞑想する人。",
+    [
+     "瞑想",
+     "マインドフルネス",
+     "リラックス",
+     "ヨガ"
+    ]
+   ],
+   "es": [
+    "Persona meditando",
+    "Una persona tranquila sentada con las piernas cruzadas meditando.",
+    [
+     "meditación",
+     "mindfulness",
+     "calma",
+     "yoga"
+    ]
+   ],
+   "pt": [
+    "Pessoa meditando",
+    "Uma pessoa tranquila sentada de pernas cruzadas meditando.",
+    [
+     "meditação",
+     "mindfulness",
+     "calma",
+     "yoga"
+    ]
+   ],
+   "fr": [
+    "Personne qui médite",
+    "Une personne sereine assise en tailleur en pleine méditation.",
+    [
+     "méditation",
+     "pleine conscience",
+     "calme",
+     "yoga"
+    ]
+   ],
+   "de": [
+    "Meditierende Person",
+    "Eine ruhige Person sitzt im Schneidersitz und meditiert.",
+    [
+     "Meditation",
+     "Achtsamkeit",
+     "Ruhe",
+     "Yoga"
+    ]
+   ],
+   "zh": [
+    "冥想的人",
+    "盘腿而坐、静心冥想的人。",
+    [
+     "冥想",
+     "正念",
+     "平静",
+     "瑜伽"
+    ]
+   ],
+   "ko": [
+    "명상하는 사람",
+    "책상다리로 앉아 조용히 명상하는 사람.",
+    [
+     "명상",
+     "마음챙김",
+     "평온",
+     "요가"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-dancing",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person dancing",
+    "A cheerful person dancing to music.",
+    [
+     "dance",
+     "music",
+     "fun",
+     "party"
+    ]
+   ],
+   "ja": [
+    "楽しくおどる人",
+    "音楽に合わせてノリノリでおどる人。",
+    [
+     "ダンス",
+     "おどる",
+     "音楽",
+     "楽しい"
+    ]
+   ],
+   "es": [
+    "Persona bailando",
+    "Una persona alegre bailando al ritmo de la música.",
+    [
+     "baile",
+     "música",
+     "diversión",
+     "fiesta"
+    ]
+   ],
+   "pt": [
+    "Pessoa dançando",
+    "Uma pessoa alegre dançando ao som da música.",
+    [
+     "dança",
+     "música",
+     "diversão",
+     "festa"
+    ]
+   ],
+   "fr": [
+    "Personne qui danse",
+    "Une personne joyeuse qui danse en musique.",
+    [
+     "danse",
+     "musique",
+     "joie",
+     "fête"
+    ]
+   ],
+   "de": [
+    "Tanzende Person",
+    "Eine fröhliche Person tanzt zur Musik.",
+    [
+     "tanzen",
+     "Musik",
+     "Spaß",
+     "Party"
+    ]
+   ],
+   "zh": [
+    "跳舞的人",
+    "随着音乐开心跳舞的人。",
+    [
+     "跳舞",
+     "音乐",
+     "开心",
+     "派对"
+    ]
+   ],
+   "ko": [
+    "춤추는 사람",
+    "음악에 맞춰 신나게 춤추는 사람.",
+    [
+     "춤",
+     "댄스",
+     "음악",
+     "신남"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-whistling",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person whistling",
+    "A carefree person whistling a tune with music notes.",
+    [
+     "whistle",
+     "music notes",
+     "good mood",
+     "carefree"
+    ]
+   ],
+   "ja": [
+    "口笛をふく人",
+    "音符をうかべてごきげんに口笛をふく人。",
+    [
+     "口笛",
+     "音符",
+     "ごきげん",
+     "のんき"
+    ]
+   ],
+   "es": [
+    "Persona silbando",
+    "Una persona despreocupada silbando una melodía con notas musicales.",
+    [
+     "silbar",
+     "notas musicales",
+     "buen humor",
+     "despreocupado"
+    ]
+   ],
+   "pt": [
+    "Pessoa assobiando",
+    "Uma pessoa despreocupada assobiando uma melodia com notas musicais.",
+    [
+     "assobiar",
+     "notas musicais",
+     "bom humor",
+     "despreocupado"
+    ]
+   ],
+   "fr": [
+    "Personne qui siffle",
+    "Une personne insouciante qui siffle un air, entourée de notes de musique.",
+    [
+     "siffler",
+     "notes de musique",
+     "bonne humeur",
+     "insouciant"
+    ]
+   ],
+   "de": [
+    "Pfeifende Person",
+    "Eine gut gelaunte Person pfeift eine Melodie, umgeben von Noten.",
+    [
+     "pfeifen",
+     "Musiknoten",
+     "gute Laune",
+     "sorglos"
+    ]
+   ],
+   "zh": [
+    "吹口哨的人",
+    "心情愉快地吹着口哨、音符飘扬的人。",
+    [
+     "吹口哨",
+     "音符",
+     "好心情",
+     "悠闲"
+    ]
+   ],
+   "ko": [
+    "휘파람 부는 사람",
+    "음표를 날리며 기분 좋게 휘파람을 부는 사람.",
+    [
+     "휘파람",
+     "음표",
+     "기분 좋음",
+     "여유"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-nodding",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person nodding",
+    "A person nodding in agreement next to a check mark bubble.",
+    [
+     "agree",
+     "nod",
+     "OK",
+     "understand"
+    ]
+   ],
+   "ja": [
+    "うなずく人",
+    "チェックマークのふきだしと一緒に、なっとくしてうなずく人。",
+    [
+     "うなずく",
+     "同意",
+     "了解",
+     "OK"
+    ]
+   ],
+   "es": [
+    "Persona asintiendo",
+    "Una persona que asiente con la cabeza junto a un globo con una marca de verificación.",
+    [
+     "de acuerdo",
+     "asentir",
+     "OK",
+     "entendido"
+    ]
+   ],
+   "pt": [
+    "Pessoa concordando",
+    "Uma pessoa balançando a cabeça em concordância ao lado de um balão com sinal de certo.",
+    [
+     "concordar",
+     "acenar",
+     "OK",
+     "entendido"
+    ]
+   ],
+   "fr": [
+    "Personne qui acquiesce",
+    "Une personne qui hoche la tête en signe d'accord, avec une bulle de validation.",
+    [
+     "d'accord",
+     "hocher la tête",
+     "OK",
+     "compris"
+    ]
+   ],
+   "de": [
+    "Nickende Person",
+    "Eine Person nickt zustimmend neben einer Sprechblase mit Häkchen.",
+    [
+     "zustimmen",
+     "nicken",
+     "OK",
+     "verstanden"
+    ]
+   ],
+   "zh": [
+    "点头的人",
+    "旁边带着对勾气泡、点头表示同意的人。",
+    [
+     "点头",
+     "同意",
+     "明白",
+     "OK"
+    ]
+   ],
+   "ko": [
+    "고개를 끄덕이는 사람",
+    "체크 표시 말풍선과 함께 동의하며 고개를 끄덕이는 사람.",
+    [
+     "끄덕끄덕",
+     "동의",
+     "이해",
+     "OK"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-raising-hand",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person raising a hand",
+    "A person raising a hand to ask a question.",
+    [
+     "raise hand",
+     "question",
+     "volunteer",
+     "class"
+    ]
+   ],
+   "ja": [
+    "手をあげる人",
+    "質問するために元気に手をあげる人。",
+    [
+     "挙手",
+     "質問",
+     "はい",
+     "授業"
+    ]
+   ],
+   "es": [
+    "Persona levantando la mano",
+    "Una persona que levanta la mano para hacer una pregunta.",
+    [
+     "levantar la mano",
+     "pregunta",
+     "participar",
+     "clase"
+    ]
+   ],
+   "pt": [
+    "Pessoa levantando a mão",
+    "Uma pessoa levantando a mão para fazer uma pergunta.",
+    [
+     "levantar a mão",
+     "pergunta",
+     "participar",
+     "aula"
+    ]
+   ],
+   "fr": [
+    "Personne qui lève la main",
+    "Une personne qui lève la main pour poser une question.",
+    [
+     "lever la main",
+     "question",
+     "participer",
+     "classe"
+    ]
+   ],
+   "de": [
+    "Person meldet sich",
+    "Eine Person hebt die Hand, um eine Frage zu stellen.",
+    [
+     "melden",
+     "Frage",
+     "Hand heben",
+     "Unterricht"
+    ]
+   ],
+   "zh": [
+    "举手的人",
+    "举起手准备提问的人。",
+    [
+     "举手",
+     "提问",
+     "发言",
+     "课堂"
+    ]
+   ],
+   "ko": [
+    "손을 드는 사람",
+    "질문하려고 손을 번쩍 드는 사람.",
+    [
+     "손들기",
+     "질문",
+     "발표",
+     "수업"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-daydreaming",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Daydreaming",
+    "A person daydreaming with a heart in a thought bubble.",
+    [
+     "daydream",
+     "crush",
+     "love",
+     "imagination"
+    ]
+   ],
+   "ja": [
+    "うっとり妄想する人",
+    "ハートの入った考えごとのふきだしを浮かべてうっとりする人。",
+    [
+     "妄想",
+     "恋",
+     "片思い",
+     "空想"
+    ]
+   ],
+   "es": [
+    "Soñando despierto",
+    "Una persona soñando despierta con un corazón en una nube de pensamiento.",
+    [
+     "soñar despierto",
+     "enamorado",
+     "amor",
+     "imaginación"
+    ]
+   ],
+   "pt": [
+    "Sonhando acordado",
+    "Uma pessoa sonhando acordada com um coração no balão de pensamento.",
+    [
+     "sonhar acordado",
+     "paixão",
+     "amor",
+     "imaginação"
+    ]
+   ],
+   "fr": [
+    "Rêverie amoureuse",
+    "Une personne rêveuse avec un cœur dans une bulle de pensée.",
+    [
+     "rêverie",
+     "coup de cœur",
+     "amour",
+     "imagination"
+    ]
+   ],
+   "de": [
+    "Tagträumen",
+    "Eine Person träumt vor sich hin, mit einem Herz in der Gedankenblase.",
+    [
+     "Tagtraum",
+     "verliebt",
+     "Liebe",
+     "Fantasie"
+    ]
+   ],
+   "zh": [
+    "做白日梦的人",
+    "头顶冒出装着爱心的思考泡泡、陶醉幻想的人。",
+    [
+     "白日梦",
+     "暗恋",
+     "恋爱",
+     "幻想"
+    ]
+   ],
+   "ko": [
+    "행복한 상상에 빠진 사람",
+    "하트가 담긴 생각 풍선을 띄우고 상상에 빠진 사람.",
+    [
+     "상상",
+     "짝사랑",
+     "사랑",
+     "공상"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-piggy-bank",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Saving money in a piggy bank",
+    "A person putting a coin into a piggy bank.",
+    [
+     "savings",
+     "piggy bank",
+     "coin",
+     "money"
+    ]
+   ],
+   "ja": [
+    "ブタの貯金箱に貯金する人",
+    "ブタの貯金箱にコインを入れる人。",
+    [
+     "貯金",
+     "貯金箱",
+     "節約",
+     "お金"
+    ]
+   ],
+   "es": [
+    "Ahorrando en la alcancía",
+    "Una persona que mete una moneda en una alcancía de cerdito.",
+    [
+     "ahorro",
+     "alcancía",
+     "moneda",
+     "dinero"
+    ]
+   ],
+   "pt": [
+    "Guardando dinheiro no cofrinho",
+    "Uma pessoa colocando uma moeda no cofrinho de porquinho.",
+    [
+     "economia",
+     "cofrinho",
+     "moeda",
+     "dinheiro"
+    ]
+   ],
+   "fr": [
+    "Épargner dans une tirelire",
+    "Une personne qui glisse une pièce dans une tirelire cochon.",
+    [
+     "épargne",
+     "tirelire",
+     "pièce",
+     "argent"
+    ]
+   ],
+   "de": [
+    "Sparen mit dem Sparschwein",
+    "Eine Person wirft eine Münze in ein Sparschwein.",
+    [
+     "sparen",
+     "Sparschwein",
+     "Münze",
+     "Geld"
+    ]
+   ],
+   "zh": [
+    "往存钱罐里存钱的人",
+    "把硬币投进小猪存钱罐的人。",
+    [
+     "存钱",
+     "存钱罐",
+     "储蓄",
+     "硬币"
+    ]
+   ],
+   "ko": [
+    "돼지 저금통에 저축하는 사람",
+    "돼지 저금통에 동전을 넣는 사람.",
+    [
+     "저축",
+     "저금통",
+     "동전",
+     "돈"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-empty-wallet",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Empty wallet",
+    "A sad person holding an empty wallet.",
+    [
+     "broke",
+     "no money",
+     "empty wallet",
+     "poor"
+    ]
+   ],
+   "ja": [
+    "からっぽの財布にしょんぼりする人",
+    "中身のない財布を開いてがっかりする人。",
+    [
+     "金欠",
+     "お金がない",
+     "財布",
+     "給料日前"
+    ]
+   ],
+   "es": [
+    "Cartera vacía",
+    "Una persona triste con una cartera vacía en la mano.",
+    [
+     "sin dinero",
+     "pobre",
+     "cartera vacía",
+     "fin de mes"
+    ]
+   ],
+   "pt": [
+    "Carteira vazia",
+    "Uma pessoa triste segurando uma carteira vazia.",
+    [
+     "sem dinheiro",
+     "duro",
+     "carteira vazia",
+     "fim do mês"
+    ]
+   ],
+   "fr": [
+    "Portefeuille vide",
+    "Une personne triste qui tient un portefeuille vide.",
+    [
+     "fauché",
+     "sans argent",
+     "portefeuille vide",
+     "fin de mois"
+    ]
+   ],
+   "de": [
+    "Leeres Portemonnaie",
+    "Eine traurige Person hält ein leeres Portemonnaie in der Hand.",
+    [
+     "pleite",
+     "kein Geld",
+     "leeres Portemonnaie",
+     "Monatsende"
+    ]
+   ],
+   "zh": [
+    "钱包空空的人",
+    "拿着空钱包一脸失落的人。",
+    [
+     "没钱",
+     "穷",
+     "钱包",
+     "月光族"
+    ]
+   ],
+   "ko": [
+    "텅 빈 지갑을 든 사람",
+    "텅 빈 지갑을 들고 시무룩한 사람.",
+    [
+     "돈 없음",
+     "텅장",
+     "지갑",
+     "월급 전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-running-late",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Running late with toast",
+    "A person rushing out with a slice of toast in their mouth.",
+    [
+     "late",
+     "hurry",
+     "rush",
+     "morning"
+    ]
+   ],
+   "ja": [
+    "パンをくわえて遅刻しそうな人",
+    "食パンをくわえて大あわてで走る人。",
+    [
+     "遅刻",
+     "急ぐ",
+     "朝",
+     "あわてる"
+    ]
+   ],
+   "es": [
+    "Llegando tarde con una tostada",
+    "Una persona que corre con prisa con una tostada en la boca.",
+    [
+     "tarde",
+     "prisa",
+     "correr",
+     "mañana"
+    ]
+   ],
+   "pt": [
+    "Atrasado com torrada na boca",
+    "Uma pessoa correndo apressada com uma torrada na boca.",
+    [
+     "atrasado",
+     "pressa",
+     "correria",
+     "manhã"
+    ]
+   ],
+   "fr": [
+    "En retard, tartine à la bouche",
+    "Une personne qui court en retard avec une tartine dans la bouche.",
+    [
+     "en retard",
+     "pressé",
+     "course",
+     "matin"
+    ]
+   ],
+   "de": [
+    "Spät dran mit Toast im Mund",
+    "Eine Person rennt in Eile mit einer Scheibe Toast im Mund los.",
+    [
+     "zu spät",
+     "Eile",
+     "Hektik",
+     "Morgen"
+    ]
+   ],
+   "zh": [
+    "叼着面包快迟到的人",
+    "嘴里叼着吐司匆匆忙忙奔跑的人。",
+    [
+     "迟到",
+     "赶时间",
+     "早上",
+     "匆忙"
+    ]
+   ],
+   "ko": [
+    "토스트 물고 지각할 것 같은 사람",
+    "식빵을 입에 물고 허둥지둥 달려가는 사람.",
+    [
+     "지각",
+     "서두름",
+     "아침",
+     "허둥지둥"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-checking-watch",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Checking the time",
+    "A person checking their wristwatch while waiting.",
+    [
+     "waiting",
+     "time",
+     "watch",
+     "late"
+    ]
+   ],
+   "ja": [
+    "腕時計を見て待つ人",
+    "腕時計をちらりと見ながら待ちくたびれる人。",
+    [
+     "待つ",
+     "時間",
+     "腕時計",
+     "待ち合わせ"
+    ]
+   ],
+   "es": [
+    "Mirando el reloj",
+    "Una persona que mira su reloj de pulsera mientras espera.",
+    [
+     "esperar",
+     "hora",
+     "reloj",
+     "retraso"
+    ]
+   ],
+   "pt": [
+    "Olhando o relógio",
+    "Uma pessoa olhando o relógio de pulso enquanto espera.",
+    [
+     "esperar",
+     "horário",
+     "relógio",
+     "atraso"
+    ]
+   ],
+   "fr": [
+    "Regarder sa montre",
+    "Une personne qui regarde sa montre en attendant.",
+    [
+     "attendre",
+     "heure",
+     "montre",
+     "retard"
+    ]
+   ],
+   "de": [
+    "Auf die Uhr schauen",
+    "Eine Person schaut beim Warten auf ihre Armbanduhr.",
+    [
+     "warten",
+     "Uhrzeit",
+     "Armbanduhr",
+     "Verspätung"
+    ]
+   ],
+   "zh": [
+    "看手表等待的人",
+    "一边等待一边看手表的人。",
+    [
+     "等待",
+     "时间",
+     "手表",
+     "迟到"
+    ]
+   ],
+   "ko": [
+    "손목시계를 보며 기다리는 사람",
+    "손목시계를 확인하며 누군가를 기다리는 사람.",
+    [
+     "기다림",
+     "시간",
+     "손목시계",
+     "약속"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-sleepless",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Can't sleep",
+    "A person lying wide awake in bed at night with the moon outside.",
+    [
+     "insomnia",
+     "sleepless",
+     "night",
+     "bed"
+    ]
+   ],
+   "ja": [
+    "眠れない夜",
+    "月が見える夜、ベッドで目がさえて眠れない人。",
+    [
+     "不眠",
+     "眠れない",
+     "夜",
+     "寝不足"
+    ]
+   ],
+   "es": [
+    "Sin poder dormir",
+    "Una persona despierta en la cama por la noche, con la luna en la ventana.",
+    [
+     "insomnio",
+     "no poder dormir",
+     "noche",
+     "cama"
+    ]
+   ],
+   "pt": [
+    "Sem conseguir dormir",
+    "Uma pessoa acordada na cama à noite, com a lua na janela.",
+    [
+     "insônia",
+     "sem sono",
+     "noite",
+     "cama"
+    ]
+   ],
+   "fr": [
+    "Nuit blanche",
+    "Une personne bien éveillée dans son lit la nuit, la lune à la fenêtre.",
+    [
+     "insomnie",
+     "nuit blanche",
+     "nuit",
+     "lit"
+    ]
+   ],
+   "de": [
+    "Schlaflose Nacht",
+    "Eine Person liegt nachts hellwach im Bett, draußen scheint der Mond.",
+    [
+     "Schlaflosigkeit",
+     "nicht schlafen können",
+     "Nacht",
+     "Bett"
+    ]
+   ],
+   "zh": [
+    "失眠的人",
+    "夜里躺在床上睁着眼睛睡不着的人，窗外挂着月亮。",
+    [
+     "失眠",
+     "睡不着",
+     "夜晚",
+     "床"
+    ]
+   ],
+   "ko": [
+    "잠 못 드는 밤",
+    "달이 뜬 밤, 침대에서 눈이 말똥말똥한 사람.",
+    [
+     "불면증",
+     "잠 못 듦",
+     "밤",
+     "침대"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-hot-fan",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hot and fanning",
+    "A sweaty person cooling off with a hand fan on a hot day.",
+    [
+     "hot",
+     "summer",
+     "heat",
+     "sweat"
+    ]
+   ],
+   "ja": [
+    "暑くてうちわであおぐ人",
+    "汗をかきながらうちわであおぐ暑そうな人。",
+    [
+     "暑い",
+     "夏",
+     "猛暑",
+     "うちわ"
+    ]
+   ],
+   "es": [
+    "Mucho calor",
+    "Una persona sudando que se abanica en un día caluroso.",
+    [
+     "calor",
+     "verano",
+     "sudor",
+     "abanico"
+    ]
+   ],
+   "pt": [
+    "Morrendo de calor",
+    "Uma pessoa suando e se abanando com um leque num dia quente.",
+    [
+     "calor",
+     "verão",
+     "suor",
+     "leque"
+    ]
+   ],
+   "fr": [
+    "Il fait chaud",
+    "Une personne en sueur qui s'évente par une journée chaude.",
+    [
+     "chaleur",
+     "été",
+     "canicule",
+     "éventail"
+    ]
+   ],
+   "de": [
+    "Heiß – Person fächelt sich Luft zu",
+    "Eine schwitzende Person fächelt sich an einem heißen Tag Luft zu.",
+    [
+     "heiß",
+     "Sommer",
+     "Hitze",
+     "Fächer"
+    ]
+   ],
+   "zh": [
+    "热得扇扇子的人",
+    "大热天满头大汗、拿着扇子扇风的人。",
+    [
+     "热",
+     "夏天",
+     "高温",
+     "扇子"
+    ]
+   ],
+   "ko": [
+    "더워서 부채질하는 사람",
+    "땀을 흘리며 부채질하는 더운 사람.",
+    [
+     "더위",
+     "여름",
+     "폭염",
+     "부채"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "person-cold-scarf",
+  "cat": "people",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cold and shivering",
+    "A person in a scarf and hat shivering in the cold.",
+    [
+     "cold",
+     "winter",
+     "shivering",
+     "scarf"
+    ]
+   ],
+   "ja": [
+    "マフラーで寒さにふるえる人",
+    "マフラーとニット帽で寒さにブルブルふるえる人。",
+    [
+     "寒い",
+     "冬",
+     "マフラー",
+     "ふるえる"
+    ]
+   ],
+   "es": [
+    "Muerto de frío",
+    "Una persona con bufanda y gorro temblando de frío.",
+    [
+     "frío",
+     "invierno",
+     "temblar",
+     "bufanda"
+    ]
+   ],
+   "pt": [
+    "Tremendo de frio",
+    "Uma pessoa de cachecol e gorro tremendo de frio.",
+    [
+     "frio",
+     "inverno",
+     "tremer",
+     "cachecol"
+    ]
+   ],
+   "fr": [
+    "Grelotter de froid",
+    "Une personne en écharpe et bonnet qui grelotte de froid.",
+    [
+     "froid",
+     "hiver",
+     "grelotter",
+     "écharpe"
+    ]
+   ],
+   "de": [
+    "Frierende Person",
+    "Eine Person mit Schal und Mütze zittert vor Kälte.",
+    [
+     "kalt",
+     "Winter",
+     "frieren",
+     "Schal"
+    ]
+   ],
+   "zh": [
+    "冷得发抖的人",
+    "戴着围巾和毛线帽冷得瑟瑟发抖的人。",
+    [
+     "冷",
+     "冬天",
+     "发抖",
+     "围巾"
+    ]
+   ],
+   "ko": [
+    "목도리 두르고 덜덜 떠는 사람",
+    "목도리와 털모자 차림으로 추위에 덜덜 떠는 사람.",
+    [
+     "추위",
+     "겨울",
+     "덜덜",
+     "목도리"
+    ]
+   ]
+  }
+ }
+]

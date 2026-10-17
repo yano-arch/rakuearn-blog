@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "pharmacist",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pharmacist with medicine",
+    "A friendly pharmacist in a white coat holding a medicine bottle.",
+    [
+     "pharmacist",
+     "pharmacy",
+     "medicine",
+     "drugstore"
+    ]
+   ],
+   "ja": [
+    "薬を持つ薬剤師さん",
+    "白衣を着て薬のびんを持つ、やさしい薬剤師さん。",
+    [
+     "薬剤師",
+     "薬局",
+     "薬",
+     "ドラッグストア"
+    ]
+   ],
+   "es": [
+    "Farmacéutico con medicamento",
+    "Un farmacéutico amable con bata blanca sosteniendo un frasco de medicina.",
+    [
+     "farmacéutico",
+     "farmacia",
+     "medicamento",
+     "salud"
+    ]
+   ],
+   "pt": [
+    "Farmacêutico com remédio",
+    "Um farmacêutico simpático de jaleco branco segurando um frasco de remédio.",
+    [
+     "farmacêutico",
+     "farmácia",
+     "remédio",
+     "saúde"
+    ]
+   ],
+   "fr": [
+    "Pharmacien avec médicament",
+    "Un pharmacien souriant en blouse blanche tenant un flacon de médicament.",
+    [
+     "pharmacien",
+     "pharmacie",
+     "médicament",
+     "santé"
+    ]
+   ],
+   "de": [
+    "Apotheker mit Medikament",
+    "Ein freundlicher Apotheker im weißen Kittel mit einer Medizinflasche.",
+    [
+     "Apotheker",
+     "Apotheke",
+     "Medikament",
+     "Gesundheit"
+    ]
+   ],
+   "zh": [
+    "拿着药的药剂师",
+    "身穿白大褂、手拿药瓶的亲切药剂师。",
+    [
+     "药剂师",
+     "药店",
+     "药品",
+     "医疗"
+    ]
+   ],
+   "ko": [
+    "약을 든 약사",
+    "흰 가운을 입고 약병을 든 친절한 약사.",
+    [
+     "약사",
+     "약국",
+     "약",
+     "건강"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "dentist",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Dentist with a tooth",
+    "A cheerful dentist holding a dental mirror next to a big smiling tooth.",
+    [
+     "dentist",
+     "teeth",
+     "dental",
+     "oral care"
+    ]
+   ],
+   "ja": [
+    "歯医者さんと歯",
+    "デンタルミラーを持った歯医者さんと、にっこり笑う大きな歯。",
+    [
+     "歯医者",
+     "歯科",
+     "歯",
+     "歯みがき"
+    ]
+   ],
+   "es": [
+    "Dentista con un diente",
+    "Un dentista alegre con espejo dental junto a un gran diente sonriente.",
+    [
+     "dentista",
+     "dientes",
+     "odontología",
+     "salud bucal"
+    ]
+   ],
+   "pt": [
+    "Dentista com dente",
+    "Um dentista alegre com espelho odontológico ao lado de um dente sorridente.",
+    [
+     "dentista",
+     "dentes",
+     "odontologia",
+     "saúde bucal"
+    ]
+   ],
+   "fr": [
+    "Dentiste et une dent",
+    "Un dentiste joyeux avec un miroir dentaire à côté d'une grosse dent souriante.",
+    [
+     "dentiste",
+     "dents",
+     "dentaire",
+     "hygiène bucco-dentaire"
+    ]
+   ],
+   "de": [
+    "Zahnarzt mit Zahn",
+    "Ein fröhlicher Zahnarzt mit Mundspiegel neben einem großen lächelnden Zahn.",
+    [
+     "Zahnarzt",
+     "Zähne",
+     "Zahnpflege",
+     "Zahnmedizin"
+    ]
+   ],
+   "zh": [
+    "牙医和牙齿",
+    "手拿口腔镜的牙医，旁边是一颗微笑的大牙齿。",
+    [
+     "牙医",
+     "牙齿",
+     "口腔",
+     "牙科"
+    ]
+   ],
+   "ko": [
+    "치과의사와 치아",
+    "치과 거울을 든 치과의사와 웃고 있는 커다란 치아.",
+    [
+     "치과의사",
+     "치과",
+     "치아",
+     "구강 관리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "veterinarian",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Veterinarian holding a puppy",
+    "A kind veterinarian gently holding a little puppy.",
+    [
+     "veterinarian",
+     "vet",
+     "pet",
+     "animal hospital"
+    ]
+   ],
+   "ja": [
+    "子犬を抱く獣医さん",
+    "小さな子犬をやさしく抱っこする獣医さん。",
+    [
+     "獣医",
+     "動物病院",
+     "ペット",
+     "犬"
+    ]
+   ],
+   "es": [
+    "Veterinario con un cachorro",
+    "Una veterinaria amable sosteniendo con cariño a un cachorrito.",
+    [
+     "veterinario",
+     "mascota",
+     "clínica veterinaria",
+     "perro"
+    ]
+   ],
+   "pt": [
+    "Veterinária com filhote",
+    "Uma veterinária carinhosa segurando um filhote de cachorro.",
+    [
+     "veterinário",
+     "pet",
+     "clínica veterinária",
+     "cachorro"
+    ]
+   ],
+   "fr": [
+    "Vétérinaire avec un chiot",
+    "Une vétérinaire bienveillante qui tient doucement un petit chiot.",
+    [
+     "vétérinaire",
+     "animal",
+     "clinique vétérinaire",
+     "chien"
+    ]
+   ],
+   "de": [
+    "Tierärztin mit Welpe",
+    "Eine freundliche Tierärztin hält behutsam einen kleinen Welpen.",
+    [
+     "Tierarzt",
+     "Haustier",
+     "Tierklinik",
+     "Hund"
+    ]
+   ],
+   "zh": [
+    "抱着小狗的兽医",
+    "温柔地抱着小狗的兽医。",
+    [
+     "兽医",
+     "宠物医院",
+     "宠物",
+     "小狗"
+    ]
+   ],
+   "ko": [
+    "강아지를 안은 수의사",
+    "작은 강아지를 다정하게 안고 있는 수의사.",
+    [
+     "수의사",
+     "동물병원",
+     "반려동물",
+     "강아지"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "caregiver",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Caregiver helping an elderly person",
+    "A caregiver kindly supporting an elderly person walking with a cane.",
+    [
+     "caregiver",
+     "elderly care",
+     "nursing care",
+     "senior"
+    ]
+   ],
+   "ja": [
+    "お年寄りを支える介護士さん",
+    "杖をついたお年寄りの手をやさしく支える介護士さん。",
+    [
+     "介護",
+     "介護士",
+     "高齢者",
+     "福祉"
+    ]
+   ],
+   "es": [
+    "Cuidadora ayudando a un anciano",
+    "Una cuidadora apoyando con cariño a una persona mayor con bastón.",
+    [
+     "cuidador",
+     "persona mayor",
+     "cuidados",
+     "tercera edad"
+    ]
+   ],
+   "pt": [
+    "Cuidadora ajudando um idoso",
+    "Uma cuidadora apoiando com carinho um idoso de bengala.",
+    [
+     "cuidador",
+     "idoso",
+     "cuidados",
+     "terceira idade"
+    ]
+   ],
+   "fr": [
+    "Aide-soignante et personne âgée",
+    "Une aide-soignante qui soutient gentiment une personne âgée avec une canne.",
+    [
+     "aide-soignant",
+     "personne âgée",
+     "soins",
+     "senior"
+    ]
+   ],
+   "de": [
+    "Pflegekraft hilft einer Seniorin",
+    "Eine Pflegekraft stützt liebevoll eine ältere Person mit Gehstock.",
+    [
+     "Pflege",
+     "Pflegekraft",
+     "Senioren",
+     "Altenpflege"
+    ]
+   ],
+   "zh": [
+    "搀扶老人的护理员",
+    "温柔地搀扶拄拐杖老人的护理员。",
+    [
+     "护理",
+     "护工",
+     "老年人",
+     "养老"
+    ]
+   ],
+   "ko": [
+    "어르신을 돕는 요양보호사",
+    "지팡이를 짚은 어르신을 다정하게 부축하는 요양보호사.",
+    [
+     "요양보호사",
+     "돌봄",
+     "어르신",
+     "노인 복지"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "nursery-teacher",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Nursery teacher with a child",
+    "A nursery teacher in an apron holding hands with a small child.",
+    [
+     "nursery teacher",
+     "kindergarten",
+     "childcare",
+     "preschool"
+    ]
+   ],
+   "ja": [
+    "子どもと保育士さん",
+    "エプロン姿で小さな子どもと手をつなぐ保育士さん。",
+    [
+     "保育士",
+     "保育園",
+     "幼稚園",
+     "子育て"
+    ]
+   ],
+   "es": [
+    "Maestra de guardería con un niño",
+    "Una maestra con delantal de la mano de un niño pequeño.",
+    [
+     "maestra infantil",
+     "guardería",
+     "educación infantil",
+     "niños"
+    ]
+   ],
+   "pt": [
+    "Professora de creche com criança",
+    "Uma professora de avental de mãos dadas com uma criança pequena.",
+    [
+     "professora",
+     "creche",
+     "educação infantil",
+     "criança"
+    ]
+   ],
+   "fr": [
+    "Puéricultrice avec un enfant",
+    "Une éducatrice en tablier qui tient la main d'un petit enfant.",
+    [
+     "éducatrice",
+     "crèche",
+     "maternelle",
+     "enfant"
+    ]
+   ],
+   "de": [
+    "Erzieherin mit Kind",
+    "Eine Erzieherin mit Schürze hält ein kleines Kind an der Hand.",
+    [
+     "Erzieherin",
+     "Kita",
+     "Kindergarten",
+     "Kinderbetreuung"
+    ]
+   ],
+   "zh": [
+    "幼师和小朋友",
+    "系着围裙、牵着小朋友的幼儿园老师。",
+    [
+     "幼师",
+     "幼儿园",
+     "托儿所",
+     "儿童"
+    ]
+   ],
+   "ko": [
+    "아이와 보육교사",
+    "앞치마를 두르고 어린아이의 손을 잡은 보육교사.",
+    [
+     "보육교사",
+     "어린이집",
+     "유치원",
+     "육아"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "librarian",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Librarian holding books",
+    "A librarian with glasses carrying a stack of books.",
+    [
+     "librarian",
+     "library",
+     "books",
+     "reading"
+    ]
+   ],
+   "ja": [
+    "本を抱える司書さん",
+    "めがねをかけて本を何冊も抱える図書館の司書さん。",
+    [
+     "司書",
+     "図書館",
+     "本",
+     "読書"
+    ]
+   ],
+   "es": [
+    "Bibliotecaria con libros",
+    "Una bibliotecaria con gafas cargando una pila de libros.",
+    [
+     "bibliotecaria",
+     "biblioteca",
+     "libros",
+     "lectura"
+    ]
+   ],
+   "pt": [
+    "Bibliotecária com livros",
+    "Uma bibliotecária de óculos carregando uma pilha de livros.",
+    [
+     "bibliotecária",
+     "biblioteca",
+     "livros",
+     "leitura"
+    ]
+   ],
+   "fr": [
+    "Bibliothécaire avec des livres",
+    "Une bibliothécaire à lunettes qui porte une pile de livres.",
+    [
+     "bibliothécaire",
+     "bibliothèque",
+     "livres",
+     "lecture"
+    ]
+   ],
+   "de": [
+    "Bibliothekarin mit Büchern",
+    "Eine Bibliothekarin mit Brille trägt einen Stapel Bücher.",
+    [
+     "Bibliothekarin",
+     "Bibliothek",
+     "Bücher",
+     "Lesen"
+    ]
+   ],
+   "zh": [
+    "抱着书的图书管理员",
+    "戴着眼镜、抱着一摞书的图书管理员。",
+    [
+     "图书管理员",
+     "图书馆",
+     "书",
+     "阅读"
+    ]
+   ],
+   "ko": [
+    "책을 든 사서",
+    "안경을 쓰고 책을 한가득 안은 도서관 사서.",
+    [
+     "사서",
+     "도서관",
+     "책",
+     "독서"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "programmer",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Programmer at two monitors",
+    "A programmer typing code in front of two computer monitors.",
+    [
+     "programmer",
+     "coding",
+     "developer",
+     "IT"
+    ]
+   ],
+   "ja": [
+    "2画面で作業するプログラマー",
+    "2台のモニターの前でコードを書くプログラマー。",
+    [
+     "プログラマー",
+     "エンジニア",
+     "プログラミング",
+     "IT"
+    ]
+   ],
+   "es": [
+    "Programador con dos monitores",
+    "Un programador escribiendo código frente a dos monitores.",
+    [
+     "programador",
+     "programación",
+     "desarrollador",
+     "informática"
+    ]
+   ],
+   "pt": [
+    "Programador com dois monitores",
+    "Um programador digitando código em frente a dois monitores.",
+    [
+     "programador",
+     "programação",
+     "desenvolvedor",
+     "TI"
+    ]
+   ],
+   "fr": [
+    "Développeur avec deux écrans",
+    "Un développeur qui code devant deux écrans d'ordinateur.",
+    [
+     "développeur",
+     "programmation",
+     "informatique",
+     "code"
+    ]
+   ],
+   "de": [
+    "Programmierer an zwei Monitoren",
+    "Ein Programmierer schreibt Code vor zwei Bildschirmen.",
+    [
+     "Programmierer",
+     "Entwickler",
+     "Programmieren",
+     "IT"
+    ]
+   ],
+   "zh": [
+    "双屏工作的程序员",
+    "在两台显示器前敲代码的程序员。",
+    [
+     "程序员",
+     "编程",
+     "开发",
+     "IT"
+    ]
+   ],
+   "ko": [
+    "듀얼 모니터 앞의 프로그래머",
+    "두 대의 모니터 앞에서 코드를 작성하는 프로그래머.",
+    [
+     "프로그래머",
+     "개발자",
+     "코딩",
+     "IT"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "designer",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Designer drawing on a tablet",
+    "A designer in a beret drawing with a stylus on a tablet.",
+    [
+     "designer",
+     "illustrator",
+     "digital art",
+     "creative"
+    ]
+   ],
+   "ja": [
+    "タブレットで描くデザイナー",
+    "ベレー帽をかぶり、タブレットにペンで絵を描くデザイナー。",
+    [
+     "デザイナー",
+     "イラストレーター",
+     "デジタル",
+     "クリエイター"
+    ]
+   ],
+   "es": [
+    "Diseñador dibujando en tableta",
+    "Un diseñador con boina dibujando con lápiz digital en una tableta.",
+    [
+     "diseñador",
+     "ilustrador",
+     "arte digital",
+     "creativo"
+    ]
+   ],
+   "pt": [
+    "Designer desenhando no tablet",
+    "Um designer de boina desenhando com caneta no tablet.",
+    [
+     "designer",
+     "ilustrador",
+     "arte digital",
+     "criativo"
+    ]
+   ],
+   "fr": [
+    "Graphiste dessinant sur tablette",
+    "Un graphiste en béret qui dessine au stylet sur une tablette.",
+    [
+     "graphiste",
+     "illustrateur",
+     "dessin numérique",
+     "créatif"
+    ]
+   ],
+   "de": [
+    "Designer zeichnet auf dem Tablet",
+    "Ein Designer mit Baskenmütze zeichnet mit dem Stift auf einem Tablet.",
+    [
+     "Designer",
+     "Illustrator",
+     "Digitale Kunst",
+     "Kreativ"
+    ]
+   ],
+   "zh": [
+    "用平板画画的设计师",
+    "戴着贝雷帽、用触控笔在平板上画画的设计师。",
+    [
+     "设计师",
+     "插画师",
+     "数字绘画",
+     "创意"
+    ]
+   ],
+   "ko": [
+    "태블릿에 그리는 디자이너",
+    "베레모를 쓰고 태블릿에 펜으로 그림을 그리는 디자이너.",
+    [
+     "디자이너",
+     "일러스트레이터",
+     "디지털 아트",
+     "크리에이터"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "photographer",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Photographer with a camera",
+    "A photographer holding a camera and snapping a picture.",
+    [
+     "photographer",
+     "camera",
+     "photography",
+     "photo shoot"
+    ]
+   ],
+   "ja": [
+    "カメラマン",
+    "カメラを構えて写真を撮るカメラマン。",
+    [
+     "カメラマン",
+     "写真家",
+     "カメラ",
+     "撮影"
+    ]
+   ],
+   "es": [
+    "Fotógrafo con cámara",
+    "Un fotógrafo sosteniendo una cámara y tomando una foto.",
+    [
+     "fotógrafo",
+     "cámara",
+     "fotografía",
+     "sesión de fotos"
+    ]
+   ],
+   "pt": [
+    "Fotógrafo com câmera",
+    "Um fotógrafo segurando uma câmera e tirando uma foto.",
+    [
+     "fotógrafo",
+     "câmera",
+     "fotografia",
+     "ensaio"
+    ]
+   ],
+   "fr": [
+    "Photographe avec appareil photo",
+    "Un photographe qui tient son appareil et prend une photo.",
+    [
+     "photographe",
+     "appareil photo",
+     "photographie",
+     "séance photo"
+    ]
+   ],
+   "de": [
+    "Fotograf mit Kamera",
+    "Ein Fotograf hält seine Kamera und macht ein Foto.",
+    [
+     "Fotograf",
+     "Kamera",
+     "Fotografie",
+     "Fotoshooting"
+    ]
+   ],
+   "zh": [
+    "拿相机的摄影师",
+    "手持相机正在拍照的摄影师。",
+    [
+     "摄影师",
+     "相机",
+     "摄影",
+     "拍照"
+    ]
+   ],
+   "ko": [
+    "카메라를 든 사진작가",
+    "카메라를 들고 사진을 찍는 사진작가.",
+    [
+     "사진작가",
+     "카메라",
+     "사진",
+     "촬영"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "reporter",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Reporter with a microphone",
+    "A reporter speaking into a microphone during a news report.",
+    [
+     "reporter",
+     "journalist",
+     "news",
+     "interview"
+    ]
+   ],
+   "ja": [
+    "マイクを持つリポーター",
+    "マイクを持って元気に中継するリポーター。",
+    [
+     "リポーター",
+     "記者",
+     "ニュース",
+     "インタビュー"
+    ]
+   ],
+   "es": [
+    "Reportera con micrófono",
+    "Una reportera hablando por un micrófono durante una noticia.",
+    [
+     "reportero",
+     "periodista",
+     "noticias",
+     "entrevista"
+    ]
+   ],
+   "pt": [
+    "Repórter com microfone",
+    "Uma repórter falando ao microfone durante uma reportagem.",
+    [
+     "repórter",
+     "jornalista",
+     "notícias",
+     "entrevista"
+    ]
+   ],
+   "fr": [
+    "Reporter avec un micro",
+    "Une reporter qui parle dans un micro pendant un reportage.",
+    [
+     "reporter",
+     "journaliste",
+     "actualités",
+     "interview"
+    ]
+   ],
+   "de": [
+    "Reporterin mit Mikrofon",
+    "Eine Reporterin spricht bei einer Live-Schalte ins Mikrofon.",
+    [
+     "Reporter",
+     "Journalist",
+     "Nachrichten",
+     "Interview"
+    ]
+   ],
+   "zh": [
+    "拿话筒的记者",
+    "手持话筒进行现场报道的记者。",
+    [
+     "记者",
+     "新闻",
+     "采访",
+     "报道"
+    ]
+   ],
+   "ko": [
+    "마이크를 든 리포터",
+    "마이크를 들고 현장을 전하는 리포터.",
+    [
+     "리포터",
+     "기자",
+     "뉴스",
+     "인터뷰"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "news-anchor",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "News anchor at a desk",
+    "A news anchor in a suit sitting at the studio desk.",
+    [
+     "news anchor",
+     "newscaster",
+     "TV news",
+     "broadcast"
+    ]
+   ],
+   "ja": [
+    "ニュースキャスター",
+    "スタジオのデスクに座ってニュースを伝えるキャスター。",
+    [
+     "ニュースキャスター",
+     "アナウンサー",
+     "テレビ",
+     "報道"
+    ]
+   ],
+   "es": [
+    "Presentador de noticias",
+    "Un presentador de traje sentado en la mesa del estudio.",
+    [
+     "presentador",
+     "noticiero",
+     "televisión",
+     "periodismo"
+    ]
+   ],
+   "pt": [
+    "Âncora de telejornal",
+    "Um apresentador de terno sentado na bancada do estúdio.",
+    [
+     "âncora",
+     "telejornal",
+     "jornalismo",
+     "televisão"
+    ]
+   ],
+   "fr": [
+    "Présentateur du journal télévisé",
+    "Un présentateur en costume assis au bureau du plateau télé.",
+    [
+     "présentateur",
+     "journal télévisé",
+     "télévision",
+     "actualités"
+    ]
+   ],
+   "de": [
+    "Nachrichtensprecher am Pult",
+    "Ein Nachrichtensprecher im Anzug sitzt am Studiotisch.",
+    [
+     "Nachrichtensprecher",
+     "Moderator",
+     "Fernsehen",
+     "Nachrichten"
+    ]
+   ],
+   "zh": [
+    "新闻主播",
+    "坐在演播室桌前播报新闻的主播。",
+    [
+     "新闻主播",
+     "主持人",
+     "电视",
+     "新闻"
+    ]
+   ],
+   "ko": [
+    "뉴스 앵커",
+    "스튜디오 데스크에 앉아 뉴스를 전하는 앵커.",
+    [
+     "뉴스 앵커",
+     "아나운서",
+     "방송",
+     "뉴스"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "lawyer",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Lawyer with documents",
+    "A lawyer in a suit holding legal documents beside the scales of justice.",
+    [
+     "lawyer",
+     "attorney",
+     "law",
+     "legal"
+    ]
+   ],
+   "ja": [
+    "書類を持つ弁護士",
+    "天びんのそばで書類を持つスーツ姿の弁護士。",
+    [
+     "弁護士",
+     "法律",
+     "法律相談",
+     "裁判"
+    ]
+   ],
+   "es": [
+    "Abogado con documentos",
+    "Un abogado de traje con documentos junto a la balanza de la justicia.",
+    [
+     "abogado",
+     "derecho",
+     "ley",
+     "legal"
+    ]
+   ],
+   "pt": [
+    "Advogado com documentos",
+    "Um advogado de terno segurando documentos ao lado da balança da justiça.",
+    [
+     "advogado",
+     "direito",
+     "lei",
+     "jurídico"
+    ]
+   ],
+   "fr": [
+    "Avocat avec des documents",
+    "Un avocat en costume tenant des documents près de la balance de la justice.",
+    [
+     "avocat",
+     "droit",
+     "justice",
+     "juridique"
+    ]
+   ],
+   "de": [
+    "Anwalt mit Unterlagen",
+    "Ein Anwalt im Anzug hält Unterlagen neben einer Waage der Justiz.",
+    [
+     "Anwalt",
+     "Recht",
+     "Jura",
+     "Rechtsberatung"
+    ]
+   ],
+   "zh": [
+    "拿着文件的律师",
+    "站在天平旁、手拿文件的西装律师。",
+    [
+     "律师",
+     "法律",
+     "法律咨询",
+     "诉讼"
+    ]
+   ],
+   "ko": [
+    "서류를 든 변호사",
+    "저울 옆에서 서류를 든 정장 차림의 변호사.",
+    [
+     "변호사",
+     "법률",
+     "법",
+     "소송"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "judge",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Judge with a gavel",
+    "A judge in a black robe striking a gavel.",
+    [
+     "judge",
+     "court",
+     "gavel",
+     "justice"
+    ]
+   ],
+   "ja": [
+    "木づちを持つ裁判官",
+    "黒い法服を着て木づちを打つ裁判官。",
+    [
+     "裁判官",
+     "裁判",
+     "法廷",
+     "判決"
+    ]
+   ],
+   "es": [
+    "Juez con mazo",
+    "Un juez con toga negra golpeando el mazo.",
+    [
+     "juez",
+     "tribunal",
+     "mazo",
+     "justicia"
+    ]
+   ],
+   "pt": [
+    "Juiz com martelo",
+    "Um juiz de toga preta batendo o martelo.",
+    [
+     "juiz",
+     "tribunal",
+     "martelo",
+     "justiça"
+    ]
+   ],
+   "fr": [
+    "Juge avec un marteau",
+    "Un juge en robe noire qui frappe avec son marteau.",
+    [
+     "juge",
+     "tribunal",
+     "marteau",
+     "justice"
+    ]
+   ],
+   "de": [
+    "Richter mit Hammer",
+    "Ein Richter in schwarzer Robe schlägt mit dem Richterhammer.",
+    [
+     "Richter",
+     "Gericht",
+     "Richterhammer",
+     "Justiz"
+    ]
+   ],
+   "zh": [
+    "敲法槌的法官",
+    "身穿黑色法袍、敲着法槌的法官。",
+    [
+     "法官",
+     "法院",
+     "法槌",
+     "审判"
+    ]
+   ],
+   "ko": [
+    "의사봉을 든 판사",
+    "검은 법복을 입고 의사봉을 두드리는 판사.",
+    [
+     "판사",
+     "법원",
+     "재판",
+     "의사봉"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "accountant",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Accountant with a calculator",
+    "An accountant with glasses holding a calculator and paperwork.",
+    [
+     "accountant",
+     "accounting",
+     "calculator",
+     "tax"
+    ]
+   ],
+   "ja": [
+    "電卓を持つ会計士",
+    "めがねをかけ、電卓と書類を手にした会計士。",
+    [
+     "会計士",
+     "経理",
+     "電卓",
+     "税金"
+    ]
+   ],
+   "es": [
+    "Contador con calculadora",
+    "Un contador con gafas sosteniendo una calculadora y papeles.",
+    [
+     "contador",
+     "contabilidad",
+     "calculadora",
+     "impuestos"
+    ]
+   ],
+   "pt": [
+    "Contador com calculadora",
+    "Um contador de óculos segurando uma calculadora e papéis.",
+    [
+     "contador",
+     "contabilidade",
+     "calculadora",
+     "impostos"
+    ]
+   ],
+   "fr": [
+    "Comptable avec calculatrice",
+    "Un comptable à lunettes avec une calculatrice et des papiers.",
+    [
+     "comptable",
+     "comptabilité",
+     "calculatrice",
+     "impôts"
+    ]
+   ],
+   "de": [
+    "Buchhalter mit Taschenrechner",
+    "Ein Buchhalter mit Brille hält Taschenrechner und Unterlagen.",
+    [
+     "Buchhalter",
+     "Buchhaltung",
+     "Taschenrechner",
+     "Steuern"
+    ]
+   ],
+   "zh": [
+    "拿计算器的会计",
+    "戴着眼镜、拿着计算器和文件的会计。",
+    [
+     "会计",
+     "财务",
+     "计算器",
+     "税务"
+    ]
+   ],
+   "ko": [
+    "계산기를 든 회계사",
+    "안경을 쓰고 계산기와 서류를 든 회계사.",
+    [
+     "회계사",
+     "회계",
+     "계산기",
+     "세금"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "real-estate-agent",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Real estate agent with a key",
+    "A real estate agent proudly holding up a house key.",
+    [
+     "real estate agent",
+     "realtor",
+     "house key",
+     "new home"
+    ]
+   ],
+   "ja": [
+    "カギを持つ不動産屋さん",
+    "家のカギを掲げてにっこりする不動産屋さん。",
+    [
+     "不動産",
+     "不動産屋",
+     "カギ",
+     "新居"
+    ]
+   ],
+   "es": [
+    "Agente inmobiliario con llave",
+    "Un agente inmobiliario mostrando con orgullo la llave de una casa.",
+    [
+     "agente inmobiliario",
+     "inmobiliaria",
+     "llave",
+     "vivienda"
+    ]
+   ],
+   "pt": [
+    "Corretor de imóveis com chave",
+    "Um corretor de imóveis mostrando a chave de uma casa.",
+    [
+     "corretor de imóveis",
+     "imobiliária",
+     "chave",
+     "casa nova"
+    ]
+   ],
+   "fr": [
+    "Agent immobilier avec une clé",
+    "Un agent immobilier qui brandit fièrement la clé d'une maison.",
+    [
+     "agent immobilier",
+     "immobilier",
+     "clé",
+     "logement"
+    ]
+   ],
+   "de": [
+    "Immobilienmakler mit Schlüssel",
+    "Ein Immobilienmakler hält stolz einen Hausschlüssel hoch.",
+    [
+     "Immobilienmakler",
+     "Immobilien",
+     "Schlüssel",
+     "Eigenheim"
+    ]
+   ],
+   "zh": [
+    "拿钥匙的房产中介",
+    "高举房屋钥匙的房产中介。",
+    [
+     "房产中介",
+     "房地产",
+     "钥匙",
+     "新家"
+    ]
+   ],
+   "ko": [
+    "열쇠를 든 공인중개사",
+    "집 열쇠를 들어 보이는 공인중개사.",
+    [
+     "공인중개사",
+     "부동산",
+     "열쇠",
+     "새집"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "salesperson",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Salesperson with a brochure",
+    "A salesperson in a suit presenting a brochure.",
+    [
+     "salesperson",
+     "sales",
+     "business",
+     "presentation"
+    ]
+   ],
+   "ja": [
+    "パンフレットを持つ営業マン",
+    "スーツ姿でパンフレットを見せる営業マン。",
+    [
+     "営業",
+     "営業マン",
+     "ビジネス",
+     "提案"
+    ]
+   ],
+   "es": [
+    "Vendedor con folleto",
+    "Un vendedor de traje mostrando un folleto.",
+    [
+     "vendedor",
+     "ventas",
+     "negocios",
+     "presentación"
+    ]
+   ],
+   "pt": [
+    "Vendedor com folheto",
+    "Um vendedor de terno apresentando um folheto.",
+    [
+     "vendedor",
+     "vendas",
+     "negócios",
+     "apresentação"
+    ]
+   ],
+   "fr": [
+    "Commercial avec une brochure",
+    "Un commercial en costume qui présente une brochure.",
+    [
+     "commercial",
+     "vente",
+     "entreprise",
+     "présentation"
+    ]
+   ],
+   "de": [
+    "Verkäufer mit Broschüre",
+    "Ein Verkäufer im Anzug präsentiert eine Broschüre.",
+    [
+     "Vertrieb",
+     "Verkäufer",
+     "Business",
+     "Präsentation"
+    ]
+   ],
+   "zh": [
+    "拿宣传册的销售员",
+    "身穿西装、展示宣传册的销售员。",
+    [
+     "销售",
+     "销售员",
+     "商务",
+     "推销"
+    ]
+   ],
+   "ko": [
+    "팸플릿을 든 영업사원",
+    "정장 차림으로 팸플릿을 보여 주는 영업사원.",
+    [
+     "영업",
+     "영업사원",
+     "비즈니스",
+     "제안"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "receptionist",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Receptionist at the front desk",
+    "A smiling receptionist at the front desk with a service bell.",
+    [
+     "receptionist",
+     "reception",
+     "front desk",
+     "hotel"
+    ]
+   ],
+   "ja": [
+    "受付の人",
+    "呼び鈴のあるカウンターでにこやかに迎える受付の人。",
+    [
+     "受付",
+     "フロント",
+     "ホテル",
+     "接客"
+    ]
+   ],
+   "es": [
+    "Recepcionista en el mostrador",
+    "Una recepcionista sonriente en el mostrador con un timbre.",
+    [
+     "recepcionista",
+     "recepción",
+     "hotel",
+     "atención al cliente"
+    ]
+   ],
+   "pt": [
+    "Recepcionista no balcão",
+    "Uma recepcionista sorridente no balcão com uma campainha.",
+    [
+     "recepcionista",
+     "recepção",
+     "hotel",
+     "atendimento"
+    ]
+   ],
+   "fr": [
+    "Réceptionniste à l'accueil",
+    "Une réceptionniste souriante à l'accueil avec une sonnette.",
+    [
+     "réceptionniste",
+     "accueil",
+     "hôtel",
+     "service client"
+    ]
+   ],
+   "de": [
+    "Rezeptionistin am Empfang",
+    "Eine lächelnde Rezeptionistin am Empfang mit einer Tischklingel.",
+    [
+     "Rezeption",
+     "Empfang",
+     "Hotel",
+     "Kundenservice"
+    ]
+   ],
+   "zh": [
+    "前台接待员",
+    "在放着服务铃的前台微笑迎客的接待员。",
+    [
+     "前台",
+     "接待",
+     "酒店",
+     "服务"
+    ]
+   ],
+   "ko": [
+    "안내 데스크 직원",
+    "호출 벨이 놓인 데스크에서 미소 짓는 안내 직원.",
+    [
+     "리셉션",
+     "안내 데스크",
+     "호텔",
+     "접객"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "call-center",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Call center worker with headset",
+    "A call center operator wearing a headset and helping a customer.",
+    [
+     "call center",
+     "customer support",
+     "headset",
+     "operator"
+    ]
+   ],
+   "ja": [
+    "ヘッドセットのコールセンター",
+    "ヘッドセットをつけてお客さまの電話に対応するオペレーター。",
+    [
+     "コールセンター",
+     "オペレーター",
+     "カスタマーサポート",
+     "電話対応"
+    ]
+   ],
+   "es": [
+    "Operador de call center",
+    "Una operadora con auriculares atendiendo a un cliente.",
+    [
+     "call center",
+     "atención al cliente",
+     "auriculares",
+     "teleoperador"
+    ]
+   ],
+   "pt": [
+    "Atendente de call center",
+    "Uma atendente com headset ajudando um cliente.",
+    [
+     "call center",
+     "atendimento ao cliente",
+     "headset",
+     "telemarketing"
+    ]
+   ],
+   "fr": [
+    "Téléconseillère avec casque",
+    "Une téléconseillère avec un casque qui aide un client.",
+    [
+     "centre d'appels",
+     "service client",
+     "casque",
+     "téléconseiller"
+    ]
+   ],
+   "de": [
+    "Callcenter-Mitarbeiterin mit Headset",
+    "Eine Callcenter-Mitarbeiterin mit Headset hilft einem Kunden.",
+    [
+     "Callcenter",
+     "Kundenservice",
+     "Headset",
+     "Hotline"
+    ]
+   ],
+   "zh": [
+    "戴耳麦的客服",
+    "戴着耳麦接听客户电话的客服人员。",
+    [
+     "客服",
+     "呼叫中心",
+     "耳麦",
+     "电话客服"
+    ]
+   ],
+   "ko": [
+    "헤드셋을 쓴 상담원",
+    "헤드셋을 쓰고 고객 전화를 받는 콜센터 상담원.",
+    [
+     "콜센터",
+     "상담원",
+     "고객센터",
+     "헤드셋"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "security-guard",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Security guard in a cap",
+    "A reliable security guard in a uniform and cap with a badge.",
+    [
+     "security guard",
+     "security",
+     "guard",
+     "patrol"
+    ]
+   ],
+   "ja": [
+    "帽子をかぶった警備員",
+    "制服と帽子を身につけた頼れる警備員さん。",
+    [
+     "警備員",
+     "警備",
+     "ガードマン",
+     "セキュリティ"
+    ]
+   ],
+   "es": [
+    "Guardia de seguridad",
+    "Un guardia de seguridad con uniforme, gorra e insignia.",
+    [
+     "guardia de seguridad",
+     "seguridad",
+     "vigilante",
+     "vigilancia"
+    ]
+   ],
+   "pt": [
+    "Segurança de boné",
+    "Um segurança de uniforme e boné com distintivo.",
+    [
+     "segurança",
+     "vigilante",
+     "guarda",
+     "portaria"
+    ]
+   ],
+   "fr": [
+    "Agent de sécurité",
+    "Un agent de sécurité en uniforme et casquette avec un insigne.",
+    [
+     "agent de sécurité",
+     "sécurité",
+     "gardien",
+     "surveillance"
+    ]
+   ],
+   "de": [
+    "Wachmann mit Mütze",
+    "Ein zuverlässiger Wachmann in Uniform und Mütze mit Abzeichen.",
+    [
+     "Sicherheitsdienst",
+     "Wachmann",
+     "Security",
+     "Bewachung"
+    ]
+   ],
+   "zh": [
+    "戴帽子的保安",
+    "穿着制服、戴着帽子的可靠保安。",
+    [
+     "保安",
+     "安保",
+     "警卫",
+     "巡逻"
+    ]
+   ],
+   "ko": [
+    "모자를 쓴 경비원",
+    "제복과 모자를 갖춘 믿음직한 경비원.",
+    [
+     "경비원",
+     "경비",
+     "보안",
+     "순찰"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "janitor",
+  "cat": "work",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cleaner with a mop and bucket",
+    "A cleaning worker mopping the floor with a bucket nearby.",
+    [
+     "cleaner",
+     "janitor",
+     "cleaning",
+     "mop"
+    ]
+   ],
+   "ja": [
+    "モップとバケツの清掃員",
+    "バケツのそばでモップがけをする清掃員さん。",
+    [
+     "清掃員",
+     "掃除",
+     "モップ",
+     "ビル清掃"
+    ]
+   ],
+   "es": [
+    "Limpiador con fregona y cubo",
+    "Una persona de limpieza fregando el suelo junto a un cubo.",
+    [
+     "limpiador",
+     "limpieza",
+     "fregona",
+     "conserje"
+    ]
+   ],
+   "pt": [
+    "Faxineira com esfregão e balde",
+    "Uma profissional de limpeza passando esfregão no chão ao lado do balde.",
+    [
+     "faxina",
+     "limpeza",
+     "esfregão",
+     "zelador"
+    ]
+   ],
+   "fr": [
+    "Agent d'entretien avec serpillière",
+    "Un agent d'entretien qui passe la serpillière près d'un seau.",
+    [
+     "agent d'entretien",
+     "ménage",
+     "serpillière",
+     "nettoyage"
+    ]
+   ],
+   "de": [
+    "Reinigungskraft mit Mopp",
+    "Eine Reinigungskraft wischt mit Mopp und Eimer den Boden.",
+    [
+     "Reinigungskraft",
+     "Putzen",
+     "Mopp",
+     "Hausmeister"
+    ]
+   ],
+   "zh": [
+    "拿拖把的保洁员",
+    "在水桶旁拖地的保洁员。",
+    [
+     "保洁员",
+     "清洁",
+     "拖把",
+     "打扫"
+    ]
+   ],
+   "ko": [
+    "대걸레와 양동이를 든 청소원",
+    "양동이 옆에서 대걸레로 바닥을 닦는 청소원.",
+    [
+     "청소원",
+     "청소",
+     "대걸레",
+     "미화원"
+    ]
+   ]
+  }
+ }
+]

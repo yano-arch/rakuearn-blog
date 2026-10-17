@@ -87,7 +87,15 @@
     "browse": "Browse by category",
     "results": "Search results",
     "prev": "Previous",
-    "next": "Next"
+    "next": "Next",
+    "home_title": "FuwaFuwa – Free Cute Illustrations & Clipart (Commercial Use OK)",
+    "title_illust": "{t} – Free Clipart Illustration (PNG/SVG)",
+    "title_cat": "{c} – Free Clipart & Illustrations",
+    "cat_h1": "{c} illustrations",
+    "cat_desc": "Free {c} clipart and cute illustrations you can use commercially. {n} images including {ex}. Download PNG and SVG with no sign-up.",
+    "seo_short": "Free for commercial use, no credit needed. Download PNG/SVG instantly.",
+    "sep": ", ",
+    "home_desc": "Free cute illustrations and clipart you can use commercially. {n}+ images of people, animals, food, events and more. Download PNG/SVG with no sign-up or credit."
   },
   "ja": {
     "lang_name": "日本語",
@@ -177,7 +185,15 @@
     "browse": "カテゴリーから探す",
     "results": "検索結果",
     "prev": "前へ",
-    "next": "次へ"
+    "next": "次へ",
+    "home_title": "FuwaFuwa｜ゆるくてかわいい無料イラスト・フリー素材（商用利用OK）",
+    "title_illust": "{t}のイラスト（無料・商用OK）",
+    "title_cat": "{c}の無料イラスト・フリー素材",
+    "cat_h1": "{c}のイラスト",
+    "cat_desc": "{c}のかわいい無料イラスト・フリー素材{n}点。{ex}など、商用利用OK・登録不要でPNG・SVGをダウンロードできます。",
+    "seo_short": "無料・商用利用OK・クレジット表記不要のフリー素材。PNG・SVGですぐダウンロードできます。",
+    "sep": "、",
+    "home_desc": "商用利用OKの、ゆるくてかわいい無料イラスト・フリー素材サイト。人物・動物・食べもの・季節行事など{n}点以上を、登録不要・クレジット表記不要でPNG・SVGダウンロードできます。"
   },
   "es": {
     "lang_name": "Español",
@@ -267,7 +283,15 @@
     "browse": "Explorar por categoría",
     "results": "Resultados de búsqueda",
     "prev": "Anterior",
-    "next": "Siguiente"
+    "next": "Siguiente",
+    "home_title": "FuwaFuwa – Ilustraciones gratis y bonitas (uso comercial permitido)",
+    "title_illust": "{t} – ilustración gratis (PNG/SVG)",
+    "title_cat": "{c} – ilustraciones y clipart gratis",
+    "cat_h1": "{c}: ilustraciones",
+    "cat_desc": "Ilustraciones y clipart gratis de {c} para uso comercial. {n} imágenes, como {ex}. Descarga PNG y SVG sin registro.",
+    "seo_short": "Gratis para uso comercial, sin atribución. Descarga PNG/SVG al instante.",
+    "sep": ", ",
+    "home_desc": "Ilustraciones y clipart gratis y bonitos para uso comercial. Más de {n} imágenes de personas, animales, comida y eventos. Descarga PNG/SVG sin registro ni atribución."
   },
   "pt": {
     "lang_name": "Português",
@@ -357,7 +381,15 @@
     "browse": "Explorar por categoria",
     "results": "Resultados da busca",
     "prev": "Anterior",
-    "next": "Próxima"
+    "next": "Próxima",
+    "home_title": "FuwaFuwa – Ilustrações fofas grátis (uso comercial permitido)",
+    "title_illust": "{t} – ilustração grátis (PNG/SVG)",
+    "title_cat": "{c} – ilustrações e cliparts grátis",
+    "cat_h1": "{c}: ilustrações",
+    "cat_desc": "Ilustrações e cliparts grátis de {c} para uso comercial. {n} imagens, como {ex}. Baixe PNG e SVG sem cadastro.",
+    "seo_short": "Grátis para uso comercial, sem crédito obrigatório. Baixe PNG/SVG na hora.",
+    "sep": ", ",
+    "home_desc": "Ilustrações e cliparts fofos grátis para uso comercial. Mais de {n} imagens de pessoas, animais, comida e eventos. Baixe PNG/SVG sem cadastro nem crédito."
   },
   "fr": {
     "lang_name": "Français",
@@ -447,7 +479,15 @@
     "browse": "Parcourir par catégorie",
     "results": "Résultats de recherche",
     "prev": "Précédent",
-    "next": "Suivant"
+    "next": "Suivant",
+    "home_title": "FuwaFuwa – Illustrations mignonnes gratuites (usage commercial autorisé)",
+    "title_illust": "{t} – illustration gratuite (PNG/SVG)",
+    "title_cat": "{c} – illustrations et cliparts gratuits",
+    "cat_h1": "{c} : illustrations",
+    "cat_desc": "Illustrations et cliparts gratuits ({c}) utilisables commercialement. {n} images, dont {ex}. Téléchargez en PNG et SVG sans inscription.",
+    "seo_short": "Gratuit pour un usage commercial, sans attribution. Téléchargement PNG/SVG immédiat.",
+    "sep": ", ",
+    "home_desc": "Illustrations et cliparts mignons gratuits, utilisables commercialement. Plus de {n} images : personnes, animaux, nourriture, fêtes… Téléchargez en PNG/SVG sans inscription ni attribution."
   },
   "de": {
     "lang_name": "Deutsch",
@@ -537,7 +577,15 @@
     "browse": "Nach Kategorie stöbern",
     "results": "Suchergebnisse",
     "prev": "Zurück",
-    "next": "Weiter"
+    "next": "Weiter",
+    "home_title": "FuwaFuwa – Kostenlose niedliche Illustrationen (kommerziell nutzbar)",
+    "title_illust": "{t} – kostenlose Illustration (PNG/SVG)",
+    "title_cat": "{c} – kostenlose Illustrationen & Cliparts",
+    "cat_h1": "{c}: Illustrationen",
+    "cat_desc": "Kostenlose Illustrationen und Cliparts zum Thema {c}, auch kommerziell nutzbar. {n} Bilder, z. B. {ex}. PNG und SVG ohne Anmeldung herunterladen.",
+    "seo_short": "Kostenlos auch für kommerzielle Nutzung, ohne Namensnennung. PNG/SVG sofort herunterladen.",
+    "sep": ", ",
+    "home_desc": "Kostenlose niedliche Illustrationen und Cliparts, auch kommerziell nutzbar. Über {n} Bilder von Menschen, Tieren, Essen, Anlässen und mehr. PNG/SVG ohne Anmeldung und Namensnennung herunterladen."
   },
   "zh": {
     "lang_name": "简体中文",
@@ -627,7 +675,15 @@
     "browse": "按分类浏览",
     "results": "搜索结果",
     "prev": "上一页",
-    "next": "下一页"
+    "next": "下一页",
+    "home_title": "FuwaFuwa｜免费可爱插画素材（可商用）",
+    "title_illust": "{t}插画（免费可商用）",
+    "title_cat": "{c}免费插画素材",
+    "cat_h1": "{c}插画",
+    "cat_desc": "{n}张可爱的{c}免费插画素材，包括{ex}等。可商用、无需注册，可下载 PNG 和 SVG。",
+    "seo_short": "免费可商用，无需署名。立即下载 PNG/SVG。",
+    "sep": "、",
+    "home_desc": "可商用的免费可爱插画素材网站。人物、动物、美食、节日等 {n} 多张插画，无需注册、无需署名即可下载 PNG/SVG。"
   },
   "ko": {
     "lang_name": "한국어",
@@ -717,6 +773,14 @@
     "browse": "카테고리로 찾기",
     "results": "검색 결과",
     "prev": "이전",
-    "next": "다음"
+    "next": "다음",
+    "home_title": "FuwaFuwa｜무료 귀여운 일러스트 소재 (상업적 이용 가능)",
+    "title_illust": "{t} 일러스트 (무료·상업적 이용 가능)",
+    "title_cat": "{c} 무료 일러스트 소재",
+    "cat_h1": "{c} 일러스트",
+    "cat_desc": "귀여운 {c} 무료 일러스트 소재 {n}개. {ex} 등을 상업적으로도 무료로 이용할 수 있으며, 회원가입 없이 PNG·SVG를 다운로드할 수 있습니다.",
+    "seo_short": "상업적 이용 무료, 출처 표기 불필요. PNG·SVG 바로 다운로드.",
+    "sep": ", ",
+    "home_desc": "상업적으로도 쓸 수 있는 귀여운 무료 일러스트 소재 사이트. 사람·동물·음식·이벤트 등 {n}개 이상을 회원가입·출처 표기 없이 PNG/SVG로 다운로드하세요."
   }
 }

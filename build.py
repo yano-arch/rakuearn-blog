@@ -85,7 +85,10 @@ def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None):
     adsense = (f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_CLIENT}" '
                f'crossorigin="anonymous"></script>') if ADSENSE_CLIENT else ""
     ld = f'<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>' if jsonld else ""
-    full_title = f"{title} | {SITE_NAME}" if kind != "home" else f"{SITE_NAME} — {u['tagline']}"
+    if kind == "home": full_title = u["home_title"]
+    elif kind == "illust": full_title = f"{u['title_illust'].format(t=title)} | {SITE_NAME}"
+    elif kind == "cat": full_title = f"{u['title_cat'].format(c=title)} | {SITE_NAME}"
+    else: full_title = f"{title} | {SITE_NAME}"
     return f"""<!doctype html>
 <html lang="{u['html_lang']}" class="lang-{lang}">
 <head>
@@ -215,7 +218,15 @@ def page_home(lang):
 <div class="grid">{new}</div>
 </div>
 {ad('bottom', lang)}"""
-    return layout(lang, "home", None, SITE_NAME, u["meta_desc"], body)
+    home_desc = u["home_desc"].format(n=f"{len(ITEMS) // 100 * 100:,}")
+    jsonld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "WebSite", "@id": f"{SITE_URL}/#website", "url": SITE_URL + url(lang), "name": SITE_NAME,
+         "description": home_desc, "inLanguage": u["html_lang"],
+         "potentialAction": {"@type": "SearchAction", "target": f"{SITE_URL}{url(lang)}?q={{search_term_string}}",
+                             "query-input": "required name=search_term_string"}},
+        {"@type": "Organization", "@id": f"{SITE_URL}/#org", "name": SITE_NAME, "url": SITE_URL,
+         "logo": f"{SITE_URL}/favicon.svg", "email": CONTACT_EMAIL}]}
+    return layout(lang, "home", None, SITE_NAME, home_desc, body, jsonld=jsonld)
 
 
 def pager(lang, c, p, pages):
@@ -238,15 +249,22 @@ def page_cat(lang, c, p=1):
     cards = [card(i, lang) for i in chunk]
     if len(cards) > 12: cards.insert(12, ad('feed', lang))
     name = u['cats'][c] + (f" ({p}/{pages})" if p > 1 else "")
+    ex = u["sep"].join(t(i, lang)[0] for i in items[:3])
     body = f"""
-<h1 class="page-title">{e(u['cats'][c])} <small>{e(u['count'].format(n=len(items)))}</small></h1>
+<h1 class="page-title">{e(u['cat_h1'].format(c=u['cats'][c]))} <small>{e(u['count'].format(n=len(items)))}</small></h1>
 {chips(lang, c)}
 {ad('top', lang)}
 <div class="grid">{"".join(cards)}</div>
 {pager(lang, c, p, pages)}
 {ad('bottom', lang)}"""
-    desc = f"{u['cats'][c]} — {u['meta_desc']}"
-    return layout(lang, "cat", c if p == 1 else f"{c}/{p}", name, desc, body)
+    desc = u["cat_desc"].format(c=u["cats"][c], n=len(items), ex=ex)
+    jsonld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "CollectionPage", "name": u["title_cat"].format(c=u["cats"][c]), "description": desc,
+         "url": SITE_URL + url(lang, "cat", c), "inLanguage": u["html_lang"]},
+        {"@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": u["home"], "item": SITE_URL + url(lang)},
+            {"@type": "ListItem", "position": 2, "name": u["cats"][c], "item": SITE_URL + url(lang, "cat", c)}]}]}
+    return layout(lang, "cat", c if p == 1 else f"{c}/{p}", name, desc, body, jsonld=jsonld)
 
 
 def search_index(lang):
@@ -265,14 +283,19 @@ def page_illust(lang, item):
     other = [i for i in ITEMS if i["cat"] != item["cat"]]
     related = (same + other)[:8]
     tag_html = "".join(f'<a href="{url(lang)}?q={e(tg)}">#{e(tg)}</a>' for tg in tags)
-    jsonld = {
-        "@context": "https://schema.org", "@type": "ImageObject",
+    image_ld = {
+        "@type": "ImageObject",
         "name": title, "description": desc, "inLanguage": u["html_lang"],
         "contentUrl": f"{SITE_URL}/images/png/{s}.png", "thumbnailUrl": f"{SITE_URL}/images/svg/{s}.svg",
         "license": SITE_URL + url(lang, "license"), "acquireLicensePage": SITE_URL + url(lang, "license"),
         "creditText": SITE_NAME, "creator": {"@type": "Organization", "name": SITE_NAME},
         "copyrightNotice": SITE_NAME, "datePublished": item["date"], "keywords": ", ".join(tags),
     }
+    jsonld = {"@context": "https://schema.org", "@graph": [image_ld,
+        {"@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": u["home"], "item": SITE_URL + url(lang)},
+            {"@type": "ListItem", "position": 2, "name": u["cats"][item["cat"]], "item": SITE_URL + url(lang, "cat", item["cat"])},
+            {"@type": "ListItem", "position": 3, "name": title, "item": SITE_URL + url(lang, "illust", s)}]}]}
     body = f"""
 <nav class="crumbs"><a href="{url(lang)}">{e(u['home'])}</a><span>›</span><a href="{url(lang, 'cat', item['cat'])}">{e(u['cats'][item['cat']])}</a><span>›</span><span>{e(title)}</span></nav>
 <article class="detail">
@@ -293,7 +316,7 @@ def page_illust(lang, item):
 <h2 class="section-title">{e(u['related'])}</h2>
 <div class="grid">{"".join(card(i, lang) for i in related)}</div>
 {ad('bottom', lang)}"""
-    return layout(lang, "illust", s, title, f"{desc} {u['meta_desc']}", body,
+    return layout(lang, "illust", s, title, (desc + ("" if lang in ("ja", "zh", "ko") else " ") + u["seo_short"]), body,
                   og_image=f"/images/png/{s}.png", jsonld=jsonld)
 
 
@@ -354,20 +377,32 @@ location.replace("/{DEFAULT_LANG}/");}})();</script>
 <h1>{SITE_NAME}</h1><p>Free, soft &amp; cute illustrations</p><nav class="root-langs">{links}</nav></main></body></html>"""
 
 
-def sitemap():
+def sitemap(lang):
+    """言語ごとのサイトマップ（hreflang の相互リンク＋イラストページには画像情報付き）"""
     rows = []
     pages = [("home", None), ("license", None), ("privacy", None)]
     for c in CATS:
         n = -(-len(cat_items(c)) // PER_PAGE)
         pages += [("cat", c if k == 1 else f"{c}/{k}") for k in range(1, n + 1)]
     pages += [("illust", i["slug"]) for i in ITEMS]
+    titles = {i["slug"]: t(i, lang)[0] for i in ITEMS}
     for kind, arg in pages:
         alts = "".join(f'<xhtml:link rel="alternate" hreflang="{UI[l]["html_lang"]}" href="{SITE_URL}{url(l, kind, arg)}"/>'
                        for l in LANGS)
-        for l in LANGS:
-            rows.append(f"<url><loc>{SITE_URL}{url(l, kind, arg)}</loc>{alts}</url>")
+        img = ""
+        if kind == "illust":
+            img = (f'<image:image><image:loc>{SITE_URL}/images/png/{arg}.png</image:loc></image:image>')
+        rows.append(f"<url><loc>{SITE_URL}{url(lang, kind, arg)}</loc>{alts}{img}</url>")
     return ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
-            'xmlns:xhtml="http://www.w3.org/1999/xhtml">' + "".join(rows) + "</urlset>")
+            'xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">'
+            + "".join(rows) + "</urlset>")
+
+
+def sitemap_index():
+    today = date.today().isoformat()
+    rows = "".join(f"<sitemap><loc>{SITE_URL}/sitemap-{l}.xml</loc><lastmod>{today}</lastmod></sitemap>" for l in LANGS)
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+            + rows + "</sitemapindex>")
 
 
 def write(path, text):
@@ -395,7 +430,9 @@ def main():
     write("/index.html", page_root())
     write("/404.html", page_root().replace('<script>', '<script type="text/plain">').replace(
         "<p>Free, soft &amp; cute illustrations</p>", "<p>404 — Page not found</p>"))
-    write("/sitemap.xml", sitemap())
+    for l in LANGS:
+        write(f"/sitemap-{l}.xml", sitemap(l))
+    write("/sitemap.xml", sitemap_index())
     write("/robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
     write("/favicon.svg", LOGO.replace(' width="34" height="34"', ' xmlns="http://www.w3.org/2000/svg"'))
     if ADSENSE_CLIENT:

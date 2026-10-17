@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "podium",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Winners Podium",
+    "A winners podium with a golden trophy on the top step.",
+    [
+     "podium",
+     "winner",
+     "trophy",
+     "first place"
+    ]
+   ],
+   "ja": [
+    "表彰台",
+    "一番高い台に金色のトロフィーがのった表彰台のイラスト。",
+    [
+     "表彰台",
+     "優勝",
+     "トロフィー",
+     "1位"
+    ]
+   ],
+   "es": [
+    "Podio de ganadores",
+    "Un podio de ganadores con un trofeo dorado en el escalón más alto.",
+    [
+     "podio",
+     "ganador",
+     "trofeo",
+     "primer lugar"
+    ]
+   ],
+   "pt": [
+    "Pódio dos vencedores",
+    "Um pódio com um troféu dourado no degrau mais alto.",
+    [
+     "pódio",
+     "vencedor",
+     "troféu",
+     "primeiro lugar"
+    ]
+   ],
+   "fr": [
+    "Podium des vainqueurs",
+    "Un podium avec un trophée doré sur la plus haute marche.",
+    [
+     "podium",
+     "vainqueur",
+     "trophée",
+     "première place"
+    ]
+   ],
+   "de": [
+    "Siegerpodest",
+    "Ein Siegerpodest mit einem goldenen Pokal auf der obersten Stufe.",
+    [
+     "siegerpodest",
+     "sieger",
+     "pokal",
+     "erster platz"
+    ]
+   ],
+   "zh": [
+    "领奖台",
+    "最高台上放着金色奖杯的领奖台。",
+    [
+     "领奖台",
+     "冠军",
+     "奖杯",
+     "第一名"
+    ]
+   ],
+   "ko": [
+    "시상대",
+    "가장 높은 단에 금색 트로피가 놓인 시상대.",
+    [
+     "시상대",
+     "우승",
+     "트로피",
+     "1등"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "stadium",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Stadium",
+    "An oval sports stadium with a green field, stands and floodlights.",
+    [
+     "stadium",
+     "arena",
+     "sports",
+     "field"
+    ]
+   ],
+   "ja": [
+    "スタジアム",
+    "緑のフィールドと観客席、照明がある楕円形のスタジアム。",
+    [
+     "スタジアム",
+     "競技場",
+     "スポーツ",
+     "グラウンド"
+    ]
+   ],
+   "es": [
+    "Estadio",
+    "Un estadio ovalado con campo verde, gradas y reflectores.",
+    [
+     "estadio",
+     "deportes",
+     "cancha",
+     "campo"
+    ]
+   ],
+   "pt": [
+    "Estádio",
+    "Um estádio oval com gramado verde, arquibancadas e refletores.",
+    [
+     "estádio",
+     "esporte",
+     "campo",
+     "arena"
+    ]
+   ],
+   "fr": [
+    "Stade",
+    "Un stade ovale avec une pelouse verte, des tribunes et des projecteurs.",
+    [
+     "stade",
+     "sport",
+     "terrain",
+     "arène"
+    ]
+   ],
+   "de": [
+    "Stadion",
+    "Ein ovales Stadion mit grünem Spielfeld, Tribünen und Flutlicht.",
+    [
+     "stadion",
+     "sport",
+     "spielfeld",
+     "arena"
+    ]
+   ],
+   "zh": [
+    "体育场",
+    "有绿色场地、看台和照明灯的椭圆形体育场。",
+    [
+     "体育场",
+     "球场",
+     "运动",
+     "赛场"
+    ]
+   ],
+   "ko": [
+    "경기장",
+    "초록 필드와 관중석, 조명탑이 있는 타원형 경기장.",
+    [
+     "경기장",
+     "스타디움",
+     "스포츠",
+     "운동장"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sneakers",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Running Shoe",
+    "A colorful running shoe with white laces and a thick sole.",
+    [
+     "sneakers",
+     "running shoes",
+     "shoe",
+     "jogging"
+    ]
+   ],
+   "ja": [
+    "ランニングシューズ",
+    "白いひもと厚いソールのカラフルなランニングシューズ。",
+    [
+     "スニーカー",
+     "ランニングシューズ",
+     "靴",
+     "運動靴"
+    ]
+   ],
+   "es": [
+    "Zapatilla deportiva",
+    "Una zapatilla para correr colorida con cordones blancos y suela gruesa.",
+    [
+     "zapatillas",
+     "tenis",
+     "correr",
+     "calzado"
+    ]
+   ],
+   "pt": [
+    "Tênis de corrida",
+    "Um tênis de corrida colorido com cadarço branco e solado grosso.",
+    [
+     "tênis",
+     "corrida",
+     "calçado",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Basket de course",
+    "Une chaussure de course colorée aux lacets blancs et à la semelle épaisse.",
+    [
+     "baskets",
+     "chaussure de course",
+     "running",
+     "chaussure"
+    ]
+   ],
+   "de": [
+    "Laufschuh",
+    "Ein bunter Laufschuh mit weißen Schnürsenkeln und dicker Sohle.",
+    [
+     "sneaker",
+     "laufschuh",
+     "turnschuh",
+     "joggen"
+    ]
+   ],
+   "zh": [
+    "跑鞋",
+    "白色鞋带、厚鞋底的彩色跑步鞋。",
+    [
+     "运动鞋",
+     "跑鞋",
+     "鞋子",
+     "跑步"
+    ]
+   ],
+   "ko": [
+    "러닝화",
+    "흰 끈과 두꺼운 밑창의 알록달록한 러닝화.",
+    [
+     "운동화",
+     "러닝화",
+     "신발",
+     "달리기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sports-drink",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sports Drink",
+    "A cute bottle of sports drink with a sports cap and water drops.",
+    [
+     "sports drink",
+     "bottle",
+     "hydration",
+     "drink"
+    ]
+   ],
+   "ja": [
+    "スポーツドリンク",
+    "スポーツキャップ付きのかわいいスポーツドリンクのボトル。",
+    [
+     "スポーツドリンク",
+     "ボトル",
+     "水分補給",
+     "熱中症対策"
+    ]
+   ],
+   "es": [
+    "Bebida deportiva",
+    "Una linda botella de bebida deportiva con tapa deportiva y gotas de agua.",
+    [
+     "bebida isotónica",
+     "botella",
+     "hidratación",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Bebida isotônica",
+    "Uma garrafinha fofa de isotônico com tampa esportiva e gotas d'água.",
+    [
+     "isotônico",
+     "garrafa",
+     "hidratação",
+     "bebida"
+    ]
+   ],
+   "fr": [
+    "Boisson sportive",
+    "Une jolie bouteille de boisson isotonique avec bouchon sport et gouttes d'eau.",
+    [
+     "boisson isotonique",
+     "bouteille",
+     "hydratation",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Sportgetränk",
+    "Eine niedliche Sportgetränkflasche mit Sportverschluss und Wassertropfen.",
+    [
+     "sportgetränk",
+     "trinkflasche",
+     "flüssigkeit",
+     "isotonisch"
+    ]
+   ],
+   "zh": [
+    "运动饮料",
+    "带运动瓶盖和水滴的可爱运动饮料瓶。",
+    [
+     "运动饮料",
+     "饮料瓶",
+     "补水",
+     "饮品"
+    ]
+   ],
+   "ko": [
+    "스포츠음료",
+    "스포츠 캡과 물방울이 있는 귀여운 스포츠음료 병.",
+    [
+     "스포츠음료",
+     "물병",
+     "수분 보충",
+     "음료"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "stretching",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person Stretching",
+    "A person doing a side stretch with one arm raised over their head.",
+    [
+     "stretching",
+     "stretch",
+     "exercise",
+     "fitness"
+    ]
+   ],
+   "ja": [
+    "ストレッチする人",
+    "片腕を頭の上にのばして体側をのばす人のイラスト。",
+    [
+     "ストレッチ",
+     "柔軟",
+     "運動",
+     "健康"
+    ]
+   ],
+   "es": [
+    "Persona estirando",
+    "Una persona haciendo un estiramiento lateral con un brazo sobre la cabeza.",
+    [
+     "estiramiento",
+     "ejercicio",
+     "flexibilidad",
+     "salud"
+    ]
+   ],
+   "pt": [
+    "Pessoa se alongando",
+    "Uma pessoa fazendo alongamento lateral com um braço acima da cabeça.",
+    [
+     "alongamento",
+     "exercício",
+     "flexibilidade",
+     "saúde"
+    ]
+   ],
+   "fr": [
+    "Personne qui s'étire",
+    "Une personne qui s'étire sur le côté, un bras au-dessus de la tête.",
+    [
+     "étirement",
+     "exercice",
+     "souplesse",
+     "santé"
+    ]
+   ],
+   "de": [
+    "Person beim Dehnen",
+    "Eine Person dehnt sich seitlich mit einem Arm über dem Kopf.",
+    [
+     "dehnen",
+     "stretching",
+     "übung",
+     "fitness"
+    ]
+   ],
+   "zh": [
+    "拉伸的人",
+    "一只手臂举过头顶做侧身拉伸的人。",
+    [
+     "拉伸",
+     "伸展",
+     "运动",
+     "健身"
+    ]
+   ],
+   "ko": [
+    "스트레칭하는 사람",
+    "한쪽 팔을 머리 위로 뻗어 옆구리를 늘리는 사람.",
+    [
+     "스트레칭",
+     "유연성",
+     "운동",
+     "건강"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "warm-up",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Warm-up Exercise",
+    "A person warming up with jumping jacks before sports.",
+    [
+     "warm-up",
+     "jumping jacks",
+     "exercise",
+     "workout"
+    ]
+   ],
+   "ja": [
+    "準備運動",
+    "スポーツの前にジャンピングジャックで体を温める人。",
+    [
+     "準備運動",
+     "ウォーミングアップ",
+     "体操",
+     "運動"
+    ]
+   ],
+   "es": [
+    "Calentamiento",
+    "Una persona calentando con saltos de tijera antes del deporte.",
+    [
+     "calentamiento",
+     "saltos de tijera",
+     "ejercicio",
+     "entrenamiento"
+    ]
+   ],
+   "pt": [
+    "Aquecimento",
+    "Uma pessoa se aquecendo com polichinelos antes do esporte.",
+    [
+     "aquecimento",
+     "polichinelo",
+     "exercício",
+     "treino"
+    ]
+   ],
+   "fr": [
+    "Échauffement",
+    "Une personne qui s'échauffe avec des jumping jacks avant le sport.",
+    [
+     "échauffement",
+     "jumping jacks",
+     "exercice",
+     "entraînement"
+    ]
+   ],
+   "de": [
+    "Aufwärmen",
+    "Eine Person wärmt sich vor dem Sport mit Hampelmännern auf.",
+    [
+     "aufwärmen",
+     "hampelmann",
+     "übung",
+     "training"
+    ]
+   ],
+   "zh": [
+    "热身运动",
+    "运动前做开合跳热身的人。",
+    [
+     "热身",
+     "开合跳",
+     "运动",
+     "锻炼"
+    ]
+   ],
+   "ko": [
+    "준비운동",
+    "운동 전에 팔벌려뛰기로 몸을 푸는 사람.",
+    [
+     "준비운동",
+     "워밍업",
+     "팔벌려뛰기",
+     "체조"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tug-of-war",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tug of War",
+    "Two people pulling hard on a rope in a tug of war.",
+    [
+     "tug of war",
+     "rope",
+     "sports day",
+     "team game"
+    ]
+   ],
+   "ja": [
+    "綱引き",
+    "ロープを力いっぱい引っぱり合う二人の綱引きのイラスト。",
+    [
+     "綱引き",
+     "運動会",
+     "ロープ",
+     "競技"
+    ]
+   ],
+   "es": [
+    "Tira y afloja",
+    "Dos personas jalando con fuerza de una cuerda.",
+    [
+     "tira y afloja",
+     "soga",
+     "juego",
+     "competencia"
+    ]
+   ],
+   "pt": [
+    "Cabo de guerra",
+    "Duas pessoas puxando uma corda com força no cabo de guerra.",
+    [
+     "cabo de guerra",
+     "corda",
+     "gincana",
+     "brincadeira"
+    ]
+   ],
+   "fr": [
+    "Tir à la corde",
+    "Deux personnes qui tirent fort sur une corde.",
+    [
+     "tir à la corde",
+     "corde",
+     "jeu d'équipe",
+     "fête sportive"
+    ]
+   ],
+   "de": [
+    "Tauziehen",
+    "Zwei Personen ziehen kräftig an einem Seil beim Tauziehen.",
+    [
+     "tauziehen",
+     "seil",
+     "sportfest",
+     "teamspiel"
+    ]
+   ],
+   "zh": [
+    "拔河",
+    "两个人用力拉绳子比赛拔河。",
+    [
+     "拔河",
+     "运动会",
+     "绳子",
+     "比赛"
+    ]
+   ],
+   "ko": [
+    "줄다리기",
+    "두 사람이 힘껏 밧줄을 당기는 줄다리기.",
+    [
+     "줄다리기",
+     "운동회",
+     "밧줄",
+     "단체 경기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ball-toss",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ball Toss Game",
+    "A child throwing red and white balls into a basket on a tall pole.",
+    [
+     "ball toss",
+     "sports day",
+     "basket",
+     "kids game"
+    ]
+   ],
+   "ja": [
+    "玉入れ",
+    "高いかごに紅白の玉を投げ入れる子どものイラスト。",
+    [
+     "玉入れ",
+     "運動会",
+     "紅白",
+     "かご"
+    ]
+   ],
+   "es": [
+    "Juego de lanzar pelotas",
+    "Un niño lanza pelotas rojas y blancas a una canasta en un poste alto.",
+    [
+     "lanzar pelotas",
+     "canasta",
+     "juego infantil",
+     "día deportivo"
+    ]
+   ],
+   "pt": [
+    "Jogo de arremessar bolinhas",
+    "Uma criança jogando bolinhas vermelhas e brancas num cesto alto.",
+    [
+     "arremesso de bolinhas",
+     "cesto",
+     "gincana",
+     "brincadeira"
+    ]
+   ],
+   "fr": [
+    "Lancer de balles",
+    "Un enfant lance des balles rouges et blanches dans un panier en hauteur.",
+    [
+     "lancer de balles",
+     "panier",
+     "jeu d'enfants",
+     "fête sportive"
+    ]
+   ],
+   "de": [
+    "Ballwurfspiel",
+    "Ein Kind wirft rote und weiße Bälle in einen Korb auf einer hohen Stange.",
+    [
+     "ballwurf",
+     "korb",
+     "kinderspiel",
+     "sportfest"
+    ]
+   ],
+   "zh": [
+    "投球入篮",
+    "孩子把红白小球投进高杆上的篮子里。",
+    [
+     "投球",
+     "运动会",
+     "篮子",
+     "游戏"
+    ]
+   ],
+   "ko": [
+    "오재미 던지기",
+    "높은 바구니에 빨간 공과 흰 공을 던져 넣는 아이.",
+    [
+     "공 던지기",
+     "운동회",
+     "바구니",
+     "놀이"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sack-race",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sack Race",
+    "A person hopping along inside a burlap sack.",
+    [
+     "sack race",
+     "sports day",
+     "hopping",
+     "race"
+    ]
+   ],
+   "ja": [
+    "袋跳び競走",
+    "麻袋に入ってぴょんぴょん跳ぶ人のイラスト。",
+    [
+     "袋跳び",
+     "運動会",
+     "競走",
+     "ジャンプ"
+    ]
+   ],
+   "es": [
+    "Carrera de sacos",
+    "Una persona saltando dentro de un saco.",
+    [
+     "carrera de sacos",
+     "saltar",
+     "juego",
+     "competencia"
+    ]
+   ],
+   "pt": [
+    "Corrida de saco",
+    "Uma pessoa pulando dentro de um saco de estopa.",
+    [
+     "corrida de saco",
+     "festa junina",
+     "pular",
+     "brincadeira"
+    ]
+   ],
+   "fr": [
+    "Course en sac",
+    "Une personne qui saute dans un sac de jute.",
+    [
+     "course en sac",
+     "sauter",
+     "jeu",
+     "fête"
+    ]
+   ],
+   "de": [
+    "Sackhüpfen",
+    "Eine Person hüpft in einem Jutesack.",
+    [
+     "sackhüpfen",
+     "springen",
+     "spiel",
+     "sportfest"
+    ]
+   ],
+   "zh": [
+    "袋鼠跳",
+    "套在麻袋里蹦跳前进的人。",
+    [
+     "袋鼠跳",
+     "套袋跳",
+     "运动会",
+     "游戏"
+    ]
+   ],
+   "ko": [
+    "자루 달리기",
+    "자루 속에 들어가 깡충깡충 뛰는 사람.",
+    [
+     "자루 달리기",
+     "운동회",
+     "점프",
+     "경주"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "frisbee",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Throwing a Frisbee",
+    "A person throwing a flying disc through the air.",
+    [
+     "frisbee",
+     "flying disc",
+     "park",
+     "outdoor play"
+    ]
+   ],
+   "ja": [
+    "フリスビー",
+    "フライングディスクを投げる人のイラスト。",
+    [
+     "フリスビー",
+     "フライングディスク",
+     "公園",
+     "外遊び"
+    ]
+   ],
+   "es": [
+    "Lanzando un frisbee",
+    "Una persona lanzando un disco volador.",
+    [
+     "frisbee",
+     "disco volador",
+     "parque",
+     "juego al aire libre"
+    ]
+   ],
+   "pt": [
+    "Jogando frisbee",
+    "Uma pessoa arremessando um disco voador.",
+    [
+     "frisbee",
+     "disco",
+     "parque",
+     "diversão"
+    ]
+   ],
+   "fr": [
+    "Lancer de frisbee",
+    "Une personne qui lance un disque volant.",
+    [
+     "frisbee",
+     "disque volant",
+     "parc",
+     "jeu de plein air"
+    ]
+   ],
+   "de": [
+    "Frisbee werfen",
+    "Eine Person wirft eine Frisbeescheibe durch die Luft.",
+    [
+     "frisbee",
+     "wurfscheibe",
+     "park",
+     "freizeit"
+    ]
+   ],
+   "zh": [
+    "扔飞盘",
+    "正在扔飞盘的人。",
+    [
+     "飞盘",
+     "公园",
+     "户外",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "프리스비 던지기",
+    "플라잉 디스크를 던지는 사람.",
+    [
+     "프리스비",
+     "플라잉 디스크",
+     "공원",
+     "야외 놀이"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "dodgeball",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Dodgeball",
+    "A surprised kid dodging a ball flying toward them.",
+    [
+     "dodgeball",
+     "ball game",
+     "dodge",
+     "PE class"
+    ]
+   ],
+   "ja": [
+    "ドッジボール",
+    "飛んでくるボールをよける子どものイラスト。",
+    [
+     "ドッジボール",
+     "球技",
+     "体育",
+     "よける"
+    ]
+   ],
+   "es": [
+    "Quemados",
+    "Un niño sorprendido esquivando una pelota que viene hacia él.",
+    [
+     "quemados",
+     "pelota",
+     "esquivar",
+     "educación física"
+    ]
+   ],
+   "pt": [
+    "Queimada",
+    "Uma criança surpresa desviando de uma bola.",
+    [
+     "queimada",
+     "bola",
+     "desviar",
+     "educação física"
+    ]
+   ],
+   "fr": [
+    "Balle aux prisonniers",
+    "Un enfant surpris esquive un ballon qui arrive vers lui.",
+    [
+     "balle aux prisonniers",
+     "ballon",
+     "esquiver",
+     "EPS"
+    ]
+   ],
+   "de": [
+    "Völkerball",
+    "Ein überraschtes Kind weicht einem fliegenden Ball aus.",
+    [
+     "völkerball",
+     "ballspiel",
+     "ausweichen",
+     "sportunterricht"
+    ]
+   ],
+   "zh": [
+    "躲避球",
+    "惊慌躲开飞来球的孩子。",
+    [
+     "躲避球",
+     "球类",
+     "体育课",
+     "躲闪"
+    ]
+   ],
+   "ko": [
+    "피구",
+    "날아오는 공을 피하는 놀란 아이.",
+    [
+     "피구",
+     "공놀이",
+     "체육",
+     "피하기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "soccer-goal",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Soccer Goal and Ball",
+    "A soccer goal with a net and a ball on the grass.",
+    [
+     "soccer",
+     "goal",
+     "football",
+     "ball"
+    ]
+   ],
+   "ja": [
+    "サッカーゴールとボール",
+    "ネットのあるサッカーゴールと芝生の上のボール。",
+    [
+     "サッカー",
+     "ゴール",
+     "ボール",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Portería y balón de fútbol",
+    "Una portería de fútbol con red y un balón sobre el césped.",
+    [
+     "fútbol",
+     "portería",
+     "gol",
+     "balón"
+    ]
+   ],
+   "pt": [
+    "Gol e bola de futebol",
+    "Uma trave de futebol com rede e uma bola no gramado.",
+    [
+     "futebol",
+     "gol",
+     "bola",
+     "trave"
+    ]
+   ],
+   "fr": [
+    "But et ballon de foot",
+    "Un but de football avec filet et un ballon sur la pelouse.",
+    [
+     "football",
+     "but",
+     "ballon",
+     "foot"
+    ]
+   ],
+   "de": [
+    "Fußballtor und Ball",
+    "Ein Fußballtor mit Netz und ein Ball auf dem Rasen.",
+    [
+     "fußball",
+     "tor",
+     "ball",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "足球门和足球",
+    "带球网的足球门和草地上的足球。",
+    [
+     "足球",
+     "球门",
+     "进球",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "축구 골대와 공",
+    "그물이 있는 축구 골대와 잔디 위의 공.",
+    [
+     "축구",
+     "골대",
+     "축구공",
+     "골"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "basketball-hoop",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Basketball Hoop",
+    "A basketball hoop with a backboard, net and a ball flying in.",
+    [
+     "basketball",
+     "hoop",
+     "net",
+     "ball"
+    ]
+   ],
+   "ja": [
+    "バスケットゴール",
+    "ボードとネットのあるバスケットゴールと飛んでくるボール。",
+    [
+     "バスケットボール",
+     "ゴール",
+     "リング",
+     "球技"
+    ]
+   ],
+   "es": [
+    "Canasta de baloncesto",
+    "Una canasta de baloncesto con tablero, red y un balón.",
+    [
+     "baloncesto",
+     "canasta",
+     "básquetbol",
+     "aro"
+    ]
+   ],
+   "pt": [
+    "Cesta de basquete",
+    "Uma cesta de basquete com tabela, rede e bola.",
+    [
+     "basquete",
+     "cesta",
+     "tabela",
+     "bola"
+    ]
+   ],
+   "fr": [
+    "Panier de basket",
+    "Un panier de basket avec panneau, filet et ballon.",
+    [
+     "basket",
+     "panier",
+     "ballon",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Basketballkorb",
+    "Ein Basketballkorb mit Brett, Netz und anfliegendem Ball.",
+    [
+     "basketball",
+     "korb",
+     "ballsport",
+     "netz"
+    ]
+   ],
+   "zh": [
+    "篮球架",
+    "带篮板、篮网和飞来篮球的篮球架。",
+    [
+     "篮球",
+     "篮筐",
+     "篮球架",
+     "球类"
+    ]
+   ],
+   "ko": [
+    "농구 골대",
+    "백보드와 그물이 있는 농구 골대와 날아오는 공.",
+    [
+     "농구",
+     "골대",
+     "농구공",
+     "림"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tennis-player",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tennis Player",
+    "A tennis player swinging a racket at a flying ball.",
+    [
+     "tennis",
+     "racket",
+     "player",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "テニス選手",
+    "ラケットを振ってボールを打つテニス選手のイラスト。",
+    [
+     "テニス",
+     "ラケット",
+     "選手",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Tenista",
+    "Una tenista golpeando la pelota con la raqueta.",
+    [
+     "tenis",
+     "raqueta",
+     "tenista",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Tenista",
+    "Uma tenista rebatendo a bola com a raquete.",
+    [
+     "tênis",
+     "raquete",
+     "tenista",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Joueuse de tennis",
+    "Une joueuse de tennis qui frappe la balle avec sa raquette.",
+    [
+     "tennis",
+     "raquette",
+     "joueuse",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Tennisspielerin",
+    "Eine Tennisspielerin schlägt mit dem Schläger nach dem Ball.",
+    [
+     "tennis",
+     "tennisschläger",
+     "spielerin",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "网球运动员",
+    "挥拍击球的网球运动员。",
+    [
+     "网球",
+     "球拍",
+     "运动员",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "테니스 선수",
+    "라켓을 휘둘러 공을 치는 테니스 선수.",
+    [
+     "테니스",
+     "라켓",
+     "선수",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "baseball-player",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Baseball Batter",
+    "A baseball batter in a helmet ready to hit an incoming ball.",
+    [
+     "baseball",
+     "batter",
+     "bat",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "野球のバッター",
+    "ヘルメットをかぶりバットを構える野球のバッター。",
+    [
+     "野球",
+     "バッター",
+     "バット",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Bateador de béisbol",
+    "Un bateador con casco listo para golpear la pelota.",
+    [
+     "béisbol",
+     "bateador",
+     "bate",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Rebatedor de beisebol",
+    "Um rebatedor de capacete pronto para acertar a bola.",
+    [
+     "beisebol",
+     "rebatedor",
+     "taco",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Batteur de baseball",
+    "Un batteur casqué prêt à frapper la balle.",
+    [
+     "baseball",
+     "batteur",
+     "batte",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Baseball-Schlagmann",
+    "Ein Schlagmann mit Helm, bereit den Ball zu treffen.",
+    [
+     "baseball",
+     "schlagmann",
+     "schläger",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "棒球击球手",
+    "戴头盔、举棒准备击球的棒球手。",
+    [
+     "棒球",
+     "击球手",
+     "球棒",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "야구 타자",
+    "헬멧을 쓰고 배트를 든 야구 타자.",
+    [
+     "야구",
+     "타자",
+     "배트",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "soccer-player",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Soccer Player Kicking",
+    "A soccer player kicking a ball with energy.",
+    [
+     "soccer",
+     "football",
+     "kick",
+     "player"
+    ]
+   ],
+   "ja": [
+    "ボールをけるサッカー選手",
+    "元気よくボールをけるサッカー選手のイラスト。",
+    [
+     "サッカー",
+     "サッカー選手",
+     "シュート",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Futbolista pateando",
+    "Un futbolista pateando el balón con energía.",
+    [
+     "fútbol",
+     "futbolista",
+     "patear",
+     "balón"
+    ]
+   ],
+   "pt": [
+    "Jogador de futebol chutando",
+    "Um jogador de futebol chutando a bola com força.",
+    [
+     "futebol",
+     "jogador",
+     "chute",
+     "bola"
+    ]
+   ],
+   "fr": [
+    "Footballeur qui tire",
+    "Un footballeur qui frappe le ballon avec énergie.",
+    [
+     "football",
+     "footballeur",
+     "tir",
+     "ballon"
+    ]
+   ],
+   "de": [
+    "Fußballspieler beim Schuss",
+    "Ein Fußballspieler schießt schwungvoll den Ball.",
+    [
+     "fußball",
+     "fußballspieler",
+     "schuss",
+     "ball"
+    ]
+   ],
+   "zh": [
+    "踢球的足球运动员",
+    "用力踢球的足球运动员。",
+    [
+     "足球",
+     "足球运动员",
+     "射门",
+     "踢球"
+    ]
+   ],
+   "ko": [
+    "공을 차는 축구 선수",
+    "힘차게 공을 차는 축구 선수.",
+    [
+     "축구",
+     "축구 선수",
+     "슛",
+     "킥"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "volleyball-player",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Volleyball Spike",
+    "A volleyball player jumping to spike the ball.",
+    [
+     "volleyball",
+     "spike",
+     "jump",
+     "player"
+    ]
+   ],
+   "ja": [
+    "バレーボールのアタック",
+    "ジャンプしてボールをスパイクするバレーボール選手。",
+    [
+     "バレーボール",
+     "アタック",
+     "スパイク",
+     "ジャンプ"
+    ]
+   ],
+   "es": [
+    "Remate de voleibol",
+    "Una jugadora de voleibol saltando para rematar.",
+    [
+     "voleibol",
+     "remate",
+     "salto",
+     "jugadora"
+    ]
+   ],
+   "pt": [
+    "Cortada no vôlei",
+    "Uma jogadora de vôlei saltando para cortar a bola.",
+    [
+     "vôlei",
+     "cortada",
+     "salto",
+     "jogadora"
+    ]
+   ],
+   "fr": [
+    "Smash au volley",
+    "Une joueuse de volley qui saute pour smasher le ballon.",
+    [
+     "volley",
+     "smash",
+     "saut",
+     "joueuse"
+    ]
+   ],
+   "de": [
+    "Volleyball-Schmetterball",
+    "Eine Volleyballspielerin springt zum Schmetterball.",
+    [
+     "volleyball",
+     "schmetterball",
+     "sprung",
+     "spielerin"
+    ]
+   ],
+   "zh": [
+    "排球扣球",
+    "跳起扣球的排球运动员。",
+    [
+     "排球",
+     "扣球",
+     "跳跃",
+     "运动员"
+    ]
+   ],
+   "ko": [
+    "배구 스파이크",
+    "점프해서 공을 스파이크하는 배구 선수.",
+    [
+     "배구",
+     "스파이크",
+     "점프",
+     "선수"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "fencing",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Fencing",
+    "A fencer in a white suit and mask lunging with a foil.",
+    [
+     "fencing",
+     "fencer",
+     "sword",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "フェンシング",
+    "白いユニフォームとマスクで剣を突き出すフェンシング選手。",
+    [
+     "フェンシング",
+     "剣",
+     "選手",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Esgrima",
+    "Un esgrimista con traje blanco y careta atacando con el florete.",
+    [
+     "esgrima",
+     "esgrimista",
+     "florete",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Esgrima",
+    "Um esgrimista de roupa branca e máscara avançando com o florete.",
+    [
+     "esgrima",
+     "esgrimista",
+     "florete",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Escrime",
+    "Un escrimeur en tenue blanche et masque qui se fend avec son fleuret.",
+    [
+     "escrime",
+     "escrimeur",
+     "fleuret",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Fechten",
+    "Ein Fechter in weißem Anzug und Maske macht einen Ausfall mit dem Florett.",
+    [
+     "fechten",
+     "fechter",
+     "florett",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "击剑",
+    "身穿白色击剑服、戴面罩向前刺剑的运动员。",
+    [
+     "击剑",
+     "花剑",
+     "运动员",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "펜싱",
+    "흰 경기복과 마스크를 쓰고 검을 찌르는 펜싱 선수.",
+    [
+     "펜싱",
+     "검",
+     "선수",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "weightlifting",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Weightlifter",
+    "A weightlifter lifting a heavy barbell over their head.",
+    [
+     "weightlifting",
+     "barbell",
+     "strength",
+     "gym"
+    ]
+   ],
+   "ja": [
+    "重量挙げ",
+    "重いバーベルを頭の上に持ち上げる重量挙げ選手。",
+    [
+     "重量挙げ",
+     "ウエイトリフティング",
+     "バーベル",
+     "筋トレ"
+    ]
+   ],
+   "es": [
+    "Halterófilo",
+    "Un levantador de pesas alzando una barra pesada sobre la cabeza.",
+    [
+     "halterofilia",
+     "pesas",
+     "fuerza",
+     "gimnasio"
+    ]
+   ],
+   "pt": [
+    "Levantador de peso",
+    "Um atleta erguendo uma barra pesada acima da cabeça.",
+    [
+     "levantamento de peso",
+     "barra",
+     "força",
+     "academia"
+    ]
+   ],
+   "fr": [
+    "Haltérophile",
+    "Un haltérophile qui soulève une lourde barre au-dessus de sa tête.",
+    [
+     "haltérophilie",
+     "haltère",
+     "force",
+     "musculation"
+    ]
+   ],
+   "de": [
+    "Gewichtheber",
+    "Ein Gewichtheber stemmt eine schwere Langhantel über den Kopf.",
+    [
+     "gewichtheben",
+     "langhantel",
+     "kraft",
+     "fitnessstudio"
+    ]
+   ],
+   "zh": [
+    "举重",
+    "把沉重杠铃举过头顶的举重运动员。",
+    [
+     "举重",
+     "杠铃",
+     "力量",
+     "健身"
+    ]
+   ],
+   "ko": [
+    "역도",
+    "무거운 바벨을 머리 위로 들어 올리는 역도 선수.",
+    [
+     "역도",
+     "바벨",
+     "근력",
+     "헬스"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "trampoline",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Trampoline Jumping",
+    "A happy child bouncing high above a trampoline.",
+    [
+     "trampoline",
+     "jump",
+     "bounce",
+     "kids"
+    ]
+   ],
+   "ja": [
+    "トランポリン",
+    "トランポリンで高くジャンプする子どものイラスト。",
+    [
+     "トランポリン",
+     "ジャンプ",
+     "子ども",
+     "遊び"
+    ]
+   ],
+   "es": [
+    "Saltando en el trampolín",
+    "Un niño feliz saltando alto sobre una cama elástica.",
+    [
+     "cama elástica",
+     "trampolín",
+     "saltar",
+     "niños"
+    ]
+   ],
+   "pt": [
+    "Pulando na cama elástica",
+    "Uma criança feliz pulando alto na cama elástica.",
+    [
+     "cama elástica",
+     "pular",
+     "criança",
+     "diversão"
+    ]
+   ],
+   "fr": [
+    "Saut sur trampoline",
+    "Un enfant joyeux qui rebondit haut sur un trampoline.",
+    [
+     "trampoline",
+     "sauter",
+     "rebondir",
+     "enfants"
+    ]
+   ],
+   "de": [
+    "Trampolinspringen",
+    "Ein fröhliches Kind springt hoch über einem Trampolin.",
+    [
+     "trampolin",
+     "springen",
+     "hüpfen",
+     "kinder"
+    ]
+   ],
+   "zh": [
+    "蹦床",
+    "在蹦床上高高跳起的快乐孩子。",
+    [
+     "蹦床",
+     "跳跃",
+     "孩子",
+     "玩耍"
+    ]
+   ],
+   "ko": [
+    "트램펄린",
+    "트램펄린 위에서 높이 뛰어오르는 신난 아이.",
+    [
+     "트램펄린",
+     "점프",
+     "아이",
+     "놀이"
+    ]
+   ]
+  }
+ }
+]

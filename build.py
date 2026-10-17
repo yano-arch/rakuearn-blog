@@ -358,6 +358,11 @@ def page_text(lang, kind):
     return layout(lang, kind, None, title, title, body)
 
 
+def adsense_tag():
+    return (f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_CLIENT}" '
+            f'crossorigin="anonymous"></script>') if ADSENSE_CLIENT else ""
+
+
 def page_root():
     links = "".join(f'<a href="/{l}/" hreflang="{UI[l]["html_lang"]}">{e(UI[l]["lang_name"])}</a>' for l in LANGS)
     alts = "".join(f'<link rel="alternate" hreflang="{UI[l]["html_lang"]}" href="{SITE_URL}/{l}/">' for l in LANGS)
@@ -370,6 +375,7 @@ def page_root():
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800&display=swap">
 <link rel="stylesheet" href="/static/style.css?v={ASSET_V['style.css']}">
+{adsense_tag()}
 <script>(function(){{var L={langs_js};var p=(navigator.languages||[navigator.language||"en"]);
 for(var i=0;i<p.length;i++){{var c=(p[i]||"").toLowerCase().split("-")[0];if(L.indexOf(c)>-1){{location.replace("/"+c+"/");return;}}}}
 location.replace("/{DEFAULT_LANG}/");}})();</script>

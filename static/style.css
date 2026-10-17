@@ -28,11 +28,9 @@ img{max-width:100%;height:auto;display:block}
 .hero{display:grid;grid-template-columns:1.3fr 1fr;align-items:center;gap:24px;padding:44px 0 20px}
 .hero h1{font-size:clamp(28px,4.4vw,44px);line-height:1.2;margin:0 0 12px;font-weight:800;letter-spacing:-.01em}
 .hero p{margin:0 0 18px;color:var(--muted);font-size:17px}
-.hero-art{position:relative;height:230px}
-.hero-art img{position:absolute;filter:drop-shadow(0 6px 0 rgba(59,47,42,.06))}
-.hero-art img:nth-child(1){right:22%;top:0;animation:bob 5s ease-in-out infinite}
-.hero-art img:nth-child(2){left:4%;bottom:0;animation:bob 6s ease-in-out -2s infinite}
-.hero-art img:nth-child(3){right:0;bottom:6px;animation:bob 5.5s ease-in-out -1s infinite}
+.hero-art{position:relative;aspect-ratio:1.75}
+.hero-art img{position:absolute;height:auto;filter:drop-shadow(0 6px 0 rgba(59,47,42,.06));animation:bob 5.5s ease-in-out infinite}
+.hero-art img:nth-child(odd){animation-duration:6.2s}
 @keyframes bob{50%{transform:translateY(-8px) rotate(-2deg)}}
 @media (prefers-reduced-motion:reduce){.hero-art img{animation:none}}
 
@@ -111,10 +109,7 @@ img{max-width:100%;height:auto;display:block}
   .brand small{display:none}
   .site-header nav>a{display:none}
   .hero{grid-template-columns:1fr;padding-top:28px}
-  .hero-art{height:150px;order:-1}
-  .hero-art img:nth-child(1){width:110px;right:36%}
-  .hero-art img:nth-child(2){width:90px}
-  .hero-art img:nth-child(3){width:84px}
+  .hero-art{order:-1;margin:0 -6px}
   .detail{grid-template-columns:1fr;gap:22px}
   .grid{grid-template-columns:repeat(2,1fr);gap:12px}
   .name{font-size:14px;padding:8px 10px 12px}

@@ -143,6 +143,20 @@ def badges(u):
             f'<li>{e(u["badge_formats"])}</li></ul>')
 
 
+# トップのヒーローに並べるイラスト（スラッグ, 左%, 上%, 幅%, アニメの遅れ秒）
+HERO = [("sun", 2, 0, 17, 0), ("airplane-sky", 19, 6, 22, -1.2), ("smiling-earth", 41, 0, 26, -2.4),
+        ("heart-balloons", 72, 0, 21, -0.6), ("person-waving", 0, 44, 22, -1.8), ("ice-cream", 22, 58, 15, -3),
+        ("cat-sitting", 38, 50, 20, -0.9), ("potted-plant", 58, 54, 17, -2.1), ("puppy-sitting", 76, 46, 21, -1.5),
+        ("rice-ball", 63, 22, 12, -2.7)]
+
+
+def hero_art():
+    return "".join(
+        f'<img src="/images/svg/{s}.svg" alt="" width="200" height="200" '
+        f'style="left:{x}%;top:{y}%;width:{w}%;animation-delay:{d}s">'
+        for s, x, y, w, d in HERO)
+
+
 def page_home(lang):
     u = UI[lang]
     cards = [card(i, lang) for i in ITEMS]
@@ -155,11 +169,7 @@ def page_home(lang):
     <p>{e(u['hero_sub'])}</p>
     {badges(u)}
   </div>
-  <div class="hero-art" aria-hidden="true">
-    <img src="/images/svg/smiling-earth.svg" alt="" width="150" height="150">
-    <img src="/images/svg/person-waving.svg" alt="" width="120" height="120">
-    <img src="/images/svg/puppy-sitting.svg" alt="" width="110" height="110">
-  </div>
+  <div class="hero-art" aria-hidden="true">{hero_art()}</div>
 </section>
 <form class="search" role="search" onsubmit="return false">
   <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></g></svg>

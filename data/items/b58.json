@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "no-smoking",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "No smoking sign",
+    "A round no smoking symbol with a cigarette crossed out.",
+    [
+     "no smoking",
+     "quit smoking",
+     "sign",
+     "health"
+    ]
+   ],
+   "ja": [
+    "禁煙マーク",
+    "タバコに斜線が入った丸い禁煙のマーク。",
+    [
+     "禁煙",
+     "たばこ",
+     "マーク",
+     "健康"
+    ]
+   ],
+   "es": [
+    "Señal de prohibido fumar",
+    "Un símbolo redondo de prohibido fumar con un cigarrillo tachado.",
+    [
+     "prohibido fumar",
+     "dejar de fumar",
+     "señal",
+     "salud"
+    ]
+   ],
+   "pt": [
+    "Placa de proibido fumar",
+    "Um símbolo redondo de proibido fumar com um cigarro riscado.",
+    [
+     "proibido fumar",
+     "parar de fumar",
+     "placa",
+     "saúde"
+    ]
+   ],
+   "fr": [
+    "Panneau interdiction de fumer",
+    "Un symbole rond d'interdiction de fumer avec une cigarette barrée.",
+    [
+     "interdit de fumer",
+     "arrêter de fumer",
+     "panneau",
+     "santé"
+    ]
+   ],
+   "de": [
+    "Rauchverbotsschild",
+    "Ein rundes Rauchverbotszeichen mit durchgestrichener Zigarette.",
+    [
+     "Rauchverbot",
+     "Nichtraucher",
+     "Schild",
+     "Gesundheit"
+    ]
+   ],
+   "zh": [
+    "禁止吸烟标志",
+    "香烟被斜线划掉的圆形禁烟标志。",
+    [
+     "禁止吸烟",
+     "戒烟",
+     "标志",
+     "健康"
+    ]
+   ],
+   "ko": [
+    "금연 표시",
+    "담배에 사선이 그어진 동그란 금연 마크.",
+    [
+     "금연",
+     "담배",
+     "표지판",
+     "건강"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "germs",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cute germs",
+    "Three little round germs with funny faces.",
+    [
+     "germs",
+     "bacteria",
+     "virus",
+     "hygiene"
+    ]
+   ],
+   "ja": [
+    "かわいいばい菌",
+    "おもしろい顔をした3匹の丸いばい菌たち。",
+    [
+     "ばい菌",
+     "細菌",
+     "ウイルス",
+     "衛生"
+    ]
+   ],
+   "es": [
+    "Gérmenes simpáticos",
+    "Tres pequeños gérmenes redondos con caras graciosas.",
+    [
+     "gérmenes",
+     "bacterias",
+     "virus",
+     "higiene"
+    ]
+   ],
+   "pt": [
+    "Germes fofos",
+    "Três germinhos redondos com carinhas engraçadas.",
+    [
+     "germes",
+     "bactérias",
+     "vírus",
+     "higiene"
+    ]
+   ],
+   "fr": [
+    "Microbes mignons",
+    "Trois petits microbes ronds aux visages rigolos.",
+    [
+     "microbes",
+     "bactéries",
+     "virus",
+     "hygiène"
+    ]
+   ],
+   "de": [
+    "Niedliche Keime",
+    "Drei kleine runde Keime mit lustigen Gesichtern.",
+    [
+     "Keime",
+     "Bakterien",
+     "Viren",
+     "Hygiene"
+    ]
+   ],
+   "zh": [
+    "可爱的细菌",
+    "三只长着有趣表情的圆圆小细菌。",
+    [
+     "细菌",
+     "病菌",
+     "病毒",
+     "卫生"
+    ]
+   ],
+   "ko": [
+    "귀여운 세균",
+    "재미있는 얼굴을 한 동글동글한 세균 세 마리.",
+    [
+     "세균",
+     "박테리아",
+     "바이러스",
+     "위생"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "immune-shield",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Immune shield",
+    "A smiling shield with a heart bouncing germs away.",
+    [
+     "immunity",
+     "immune system",
+     "protection",
+     "germs"
+    ]
+   ],
+   "ja": [
+    "免疫のシールド",
+    "ハートのついた笑顔の盾が、ばい菌をはね返している。",
+    [
+     "免疫",
+     "免疫力",
+     "予防",
+     "ばい菌"
+    ]
+   ],
+   "es": [
+    "Escudo inmunológico",
+    "Un escudo sonriente con un corazón que rechaza a los gérmenes.",
+    [
+     "inmunidad",
+     "sistema inmune",
+     "protección",
+     "gérmenes"
+    ]
+   ],
+   "pt": [
+    "Escudo da imunidade",
+    "Um escudo sorridente com coração que afasta os germes.",
+    [
+     "imunidade",
+     "sistema imunológico",
+     "proteção",
+     "germes"
+    ]
+   ],
+   "fr": [
+    "Bouclier immunitaire",
+    "Un bouclier souriant avec un cœur qui repousse les microbes.",
+    [
+     "immunité",
+     "système immunitaire",
+     "protection",
+     "microbes"
+    ]
+   ],
+   "de": [
+    "Immunschild",
+    "Ein lächelnder Schild mit Herz, der Keime abwehrt.",
+    [
+     "Immunsystem",
+     "Abwehrkräfte",
+     "Schutz",
+     "Keime"
+    ]
+   ],
+   "zh": [
+    "免疫盾牌",
+    "带爱心的笑脸盾牌把细菌弹开。",
+    [
+     "免疫力",
+     "免疫系统",
+     "防护",
+     "细菌"
+    ]
+   ],
+   "ko": [
+    "면역 방패",
+    "하트가 그려진 웃는 방패가 세균을 튕겨 내고 있다.",
+    [
+     "면역",
+     "면역력",
+     "보호",
+     "세균"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "doctor-patient",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Doctor talking with a patient",
+    "A friendly doctor with a chart listening to a patient.",
+    [
+     "doctor",
+     "patient",
+     "consultation",
+     "hospital"
+    ]
+   ],
+   "ja": [
+    "患者さんと話すお医者さん",
+    "カルテを持ったやさしいお医者さんが患者さんの話を聞いている。",
+    [
+     "医者",
+     "患者",
+     "診察",
+     "病院"
+    ]
+   ],
+   "es": [
+    "Médico hablando con un paciente",
+    "Un médico amable con un historial escucha a su paciente.",
+    [
+     "médico",
+     "paciente",
+     "consulta",
+     "hospital"
+    ]
+   ],
+   "pt": [
+    "Médico conversando com paciente",
+    "Um médico simpático com prancheta ouvindo o paciente.",
+    [
+     "médico",
+     "paciente",
+     "consulta",
+     "hospital"
+    ]
+   ],
+   "fr": [
+    "Médecin parlant avec un patient",
+    "Un médecin souriant avec un dossier écoute son patient.",
+    [
+     "médecin",
+     "patient",
+     "consultation",
+     "hôpital"
+    ]
+   ],
+   "de": [
+    "Arzt im Gespräch mit Patientin",
+    "Ein freundlicher Arzt mit Klemmbrett hört einer Patientin zu.",
+    [
+     "Arzt",
+     "Patient",
+     "Sprechstunde",
+     "Krankenhaus"
+    ]
+   ],
+   "zh": [
+    "医生与患者交谈",
+    "拿着病历的亲切医生正在倾听患者说话。",
+    [
+     "医生",
+     "患者",
+     "问诊",
+     "医院"
+    ]
+   ],
+   "ko": [
+    "환자와 이야기하는 의사",
+    "차트를 든 친절한 의사가 환자의 이야기를 듣고 있다.",
+    [
+     "의사",
+     "환자",
+     "진료",
+     "병원"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hospital-bed",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Patient resting in a hospital bed",
+    "A patient sleeping peacefully in a hospital bed with an IV drip.",
+    [
+     "hospital bed",
+     "hospitalization",
+     "patient",
+     "rest"
+    ]
+   ],
+   "ja": [
+    "病院のベッドで休む患者さん",
+    "点滴のそばで病院のベッドにすやすや眠る患者さん。",
+    [
+     "病院のベッド",
+     "入院",
+     "患者",
+     "休養"
+    ]
+   ],
+   "es": [
+    "Paciente en cama de hospital",
+    "Un paciente duerme tranquilo en una cama de hospital con suero.",
+    [
+     "cama de hospital",
+     "hospitalización",
+     "paciente",
+     "descanso"
+    ]
+   ],
+   "pt": [
+    "Paciente na cama do hospital",
+    "Um paciente dormindo tranquilo na cama do hospital com soro.",
+    [
+     "cama de hospital",
+     "internação",
+     "paciente",
+     "repouso"
+    ]
+   ],
+   "fr": [
+    "Patient au lit d'hôpital",
+    "Un patient dort paisiblement dans un lit d'hôpital avec une perfusion.",
+    [
+     "lit d'hôpital",
+     "hospitalisation",
+     "patient",
+     "repos"
+    ]
+   ],
+   "de": [
+    "Patient im Krankenhausbett",
+    "Ein Patient schläft friedlich im Krankenhausbett mit Infusion.",
+    [
+     "Krankenhausbett",
+     "Klinikaufenthalt",
+     "Patient",
+     "Erholung"
+    ]
+   ],
+   "zh": [
+    "躺在病床上休息的患者",
+    "挂着点滴、在病床上安睡的患者。",
+    [
+     "病床",
+     "住院",
+     "患者",
+     "休养"
+    ]
+   ],
+   "ko": [
+    "병원 침대에서 쉬는 환자",
+    "링거 옆 병원 침대에서 새근새근 자는 환자.",
+    [
+     "병원 침대",
+     "입원",
+     "환자",
+     "휴식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pharmacy",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pharmacist at the pharmacy counter",
+    "A smiling pharmacist behind a counter with shelves of medicine.",
+    [
+     "pharmacy",
+     "pharmacist",
+     "medicine",
+     "drugstore"
+    ]
+   ],
+   "ja": [
+    "薬局のカウンターと薬剤師",
+    "薬の棚を背に、カウンターでにっこりする薬剤師さん。",
+    [
+     "薬局",
+     "薬剤師",
+     "薬",
+     "ドラッグストア"
+    ]
+   ],
+   "es": [
+    "Farmacéutica en el mostrador",
+    "Una farmacéutica sonriente tras el mostrador con estantes de medicinas.",
+    [
+     "farmacia",
+     "farmacéutico",
+     "medicamentos",
+     "botica"
+    ]
+   ],
+   "pt": [
+    "Farmacêutica no balcão da farmácia",
+    "Uma farmacêutica sorridente atrás do balcão com prateleiras de remédios.",
+    [
+     "farmácia",
+     "farmacêutico",
+     "remédio",
+     "drogaria"
+    ]
+   ],
+   "fr": [
+    "Pharmacienne au comptoir",
+    "Une pharmacienne souriante derrière le comptoir avec des étagères de médicaments.",
+    [
+     "pharmacie",
+     "pharmacien",
+     "médicaments",
+     "comptoir"
+    ]
+   ],
+   "de": [
+    "Apothekerin an der Theke",
+    "Eine lächelnde Apothekerin hinter der Theke mit Medikamentenregalen.",
+    [
+     "Apotheke",
+     "Apotheker",
+     "Medikamente",
+     "Arznei"
+    ]
+   ],
+   "zh": [
+    "药店柜台的药剂师",
+    "站在药架前柜台后面微笑的药剂师。",
+    [
+     "药店",
+     "药剂师",
+     "药品",
+     "药房"
+    ]
+   ],
+   "ko": [
+    "약국 카운터의 약사",
+    "약 선반 앞 카운터에서 미소 짓는 약사.",
+    [
+     "약국",
+     "약사",
+     "약",
+     "드럭스토어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "medical-chart",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Medical chart on a clipboard",
+    "A clipboard with a heartbeat line and checklist, plus a pen.",
+    [
+     "medical chart",
+     "clipboard",
+     "medical record",
+     "checklist"
+    ]
+   ],
+   "ja": [
+    "カルテのクリップボード",
+    "心拍のグラフとチェックリストが付いたクリップボードとペン。",
+    [
+     "カルテ",
+     "クリップボード",
+     "診療記録",
+     "チェックリスト"
+    ]
+   ],
+   "es": [
+    "Historial médico en portapapeles",
+    "Un portapapeles con una línea de pulso, una lista y un bolígrafo.",
+    [
+     "historial médico",
+     "portapapeles",
+     "expediente",
+     "lista"
+    ]
+   ],
+   "pt": [
+    "Prontuário na prancheta",
+    "Uma prancheta com linha de batimentos, checklist e uma caneta.",
+    [
+     "prontuário",
+     "prancheta",
+     "ficha médica",
+     "checklist"
+    ]
+   ],
+   "fr": [
+    "Dossier médical sur porte-bloc",
+    "Un porte-bloc avec une courbe cardiaque, une liste et un stylo.",
+    [
+     "dossier médical",
+     "porte-bloc",
+     "fiche patient",
+     "liste"
+    ]
+   ],
+   "de": [
+    "Patientenakte auf Klemmbrett",
+    "Ein Klemmbrett mit Herzkurve, Checkliste und Stift.",
+    [
+     "Patientenakte",
+     "Klemmbrett",
+     "Krankenakte",
+     "Checkliste"
+    ]
+   ],
+   "zh": [
+    "病历夹板",
+    "带有心跳曲线和检查清单的夹板，旁边有一支笔。",
+    [
+     "病历",
+     "夹板",
+     "医疗记录",
+     "清单"
+    ]
+   ],
+   "ko": [
+    "진료 차트 클립보드",
+    "심박 그래프와 체크리스트가 있는 클립보드와 펜.",
+    [
+     "진료 차트",
+     "클립보드",
+     "의료 기록",
+     "체크리스트"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "blood-donation",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Blood donation bag",
+    "A smiling blood donation bag with hearts.",
+    [
+     "blood donation",
+     "donor",
+     "blood bag",
+     "volunteer"
+    ]
+   ],
+   "ja": [
+    "献血バッグ",
+    "ハートに囲まれたにっこり顔の献血バッグ。",
+    [
+     "献血",
+     "ドナー",
+     "血液バッグ",
+     "ボランティア"
+    ]
+   ],
+   "es": [
+    "Bolsa de donación de sangre",
+    "Una bolsa de donación de sangre sonriente con corazones.",
+    [
+     "donación de sangre",
+     "donante",
+     "bolsa de sangre",
+     "voluntariado"
+    ]
+   ],
+   "pt": [
+    "Bolsa de doação de sangue",
+    "Uma bolsa de doação de sangue sorridente com corações.",
+    [
+     "doação de sangue",
+     "doador",
+     "bolsa de sangue",
+     "voluntariado"
+    ]
+   ],
+   "fr": [
+    "Poche de don du sang",
+    "Une poche de don du sang souriante avec des cœurs.",
+    [
+     "don du sang",
+     "donneur",
+     "poche de sang",
+     "bénévolat"
+    ]
+   ],
+   "de": [
+    "Blutspendebeutel",
+    "Ein lächelnder Blutspendebeutel mit Herzen.",
+    [
+     "Blutspende",
+     "Spender",
+     "Blutbeutel",
+     "Ehrenamt"
+    ]
+   ],
+   "zh": [
+    "献血袋",
+    "带着笑脸、周围有爱心的献血袋。",
+    [
+     "献血",
+     "献血者",
+     "血袋",
+     "志愿者"
+    ]
+   ],
+   "ko": [
+    "헌혈 팩",
+    "하트와 함께 웃고 있는 헌혈 팩.",
+    [
+     "헌혈",
+     "헌혈자",
+     "혈액 팩",
+     "봉사"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "checkup",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Height measurement at a checkup",
+    "A child standing on a height scale during a health checkup.",
+    [
+     "health checkup",
+     "height",
+     "physical exam",
+     "growth"
+    ]
+   ],
+   "ja": [
+    "健康診断の身長測定",
+    "健康診断で身長計に乗って背を測る子ども。",
+    [
+     "健康診断",
+     "身長",
+     "身体測定",
+     "成長"
+    ]
+   ],
+   "es": [
+    "Medición de estatura en el chequeo",
+    "Un niño en el tallímetro durante un chequeo médico.",
+    [
+     "chequeo médico",
+     "estatura",
+     "revisión",
+     "crecimiento"
+    ]
+   ],
+   "pt": [
+    "Medindo a altura no check-up",
+    "Uma criança no medidor de altura durante o check-up.",
+    [
+     "check-up",
+     "altura",
+     "exame físico",
+     "crescimento"
+    ]
+   ],
+   "fr": [
+    "Mesure de la taille au bilan de santé",
+    "Un enfant sous la toise pendant un bilan de santé.",
+    [
+     "bilan de santé",
+     "taille",
+     "visite médicale",
+     "croissance"
+    ]
+   ],
+   "de": [
+    "Größenmessung bei der Vorsorge",
+    "Ein Kind steht bei der Vorsorgeuntersuchung am Messgerät.",
+    [
+     "Vorsorgeuntersuchung",
+     "Körpergröße",
+     "Check-up",
+     "Wachstum"
+    ]
+   ],
+   "zh": [
+    "体检测身高",
+    "体检时站在身高计上量身高的孩子。",
+    [
+     "体检",
+     "身高",
+     "健康检查",
+     "成长"
+    ]
+   ],
+   "ko": [
+    "건강검진 키 측정",
+    "건강검진에서 신장계에 올라 키를 재는 아이.",
+    [
+     "건강검진",
+     "키",
+     "신체검사",
+     "성장"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "walking-support",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Caregiver helping an elderly person walk",
+    "A caregiver gently supports a senior walking with a cane.",
+    [
+     "caregiving",
+     "elderly care",
+     "walking aid",
+     "nursing"
+    ]
+   ],
+   "ja": [
+    "お年寄りの歩行を支える介護士",
+    "杖をついて歩くおばあさんをやさしく支える介護士さん。",
+    [
+     "介護",
+     "高齢者",
+     "歩行介助",
+     "介護士"
+    ]
+   ],
+   "es": [
+    "Cuidadora ayudando a caminar a una anciana",
+    "Una cuidadora apoya con cariño a una señora mayor que camina con bastón.",
+    [
+     "cuidados",
+     "personas mayores",
+     "ayuda para caminar",
+     "geriatría"
+    ]
+   ],
+   "pt": [
+    "Cuidadora ajudando idosa a caminhar",
+    "Uma cuidadora apoia com carinho uma idosa que anda de bengala.",
+    [
+     "cuidador",
+     "idosos",
+     "ajuda para andar",
+     "terceira idade"
+    ]
+   ],
+   "fr": [
+    "Aide-soignante aidant une personne âgée à marcher",
+    "Une aide-soignante soutient doucement une personne âgée avec une canne.",
+    [
+     "aide à domicile",
+     "personnes âgées",
+     "aide à la marche",
+     "soins"
+    ]
+   ],
+   "de": [
+    "Pflegerin hilft Seniorin beim Gehen",
+    "Eine Pflegerin stützt liebevoll eine Seniorin mit Gehstock.",
+    [
+     "Pflege",
+     "Senioren",
+     "Gehhilfe",
+     "Altenpflege"
+    ]
+   ],
+   "zh": [
+    "搀扶老人走路的护工",
+    "温柔搀扶拄拐老人走路的护工。",
+    [
+     "护理",
+     "老人",
+     "搀扶",
+     "养老"
+    ]
+   ],
+   "ko": [
+    "어르신의 보행을 돕는 요양보호사",
+    "지팡이를 짚고 걷는 어르신을 다정하게 부축하는 요양보호사.",
+    [
+     "돌봄",
+     "어르신",
+     "보행 보조",
+     "요양"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rehabilitation",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Walking rehabilitation",
+    "A person practicing walking between parallel bars.",
+    [
+     "rehabilitation",
+     "physical therapy",
+     "recovery",
+     "walking practice"
+    ]
+   ],
+   "ja": [
+    "歩行リハビリ",
+    "平行棒につかまって歩く練習をする人。",
+    [
+     "リハビリ",
+     "理学療法",
+     "回復",
+     "歩行訓練"
+    ]
+   ],
+   "es": [
+    "Rehabilitación de la marcha",
+    "Una persona practica caminar entre barras paralelas.",
+    [
+     "rehabilitación",
+     "fisioterapia",
+     "recuperación",
+     "caminar"
+    ]
+   ],
+   "pt": [
+    "Reabilitação da marcha",
+    "Uma pessoa treinando a caminhada nas barras paralelas.",
+    [
+     "reabilitação",
+     "fisioterapia",
+     "recuperação",
+     "caminhada"
+    ]
+   ],
+   "fr": [
+    "Rééducation à la marche",
+    "Une personne s'entraîne à marcher entre des barres parallèles.",
+    [
+     "rééducation",
+     "kinésithérapie",
+     "récupération",
+     "marche"
+    ]
+   ],
+   "de": [
+    "Gehtraining in der Reha",
+    "Eine Person übt das Gehen am Barren.",
+    [
+     "Reha",
+     "Physiotherapie",
+     "Genesung",
+     "Gehtraining"
+    ]
+   ],
+   "zh": [
+    "步行康复训练",
+    "扶着双杠练习走路的人。",
+    [
+     "康复",
+     "物理治疗",
+     "恢复",
+     "步行训练"
+    ]
+   ],
+   "ko": [
+    "보행 재활",
+    "평행봉을 잡고 걷기 연습을 하는 사람.",
+    [
+     "재활",
+     "물리치료",
+     "회복",
+     "보행 훈련"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "massage",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Relaxing massage",
+    "A person lying on a table enjoying a back massage.",
+    [
+     "massage",
+     "relaxation",
+     "spa",
+     "therapist"
+    ]
+   ],
+   "ja": [
+    "リラックスマッサージ",
+    "台にうつぶせになり、背中をマッサージしてもらう人。",
+    [
+     "マッサージ",
+     "リラックス",
+     "癒し",
+     "整体"
+    ]
+   ],
+   "es": [
+    "Masaje relajante",
+    "Una persona tumbada en la camilla disfruta de un masaje en la espalda.",
+    [
+     "masaje",
+     "relajación",
+     "spa",
+     "masajista"
+    ]
+   ],
+   "pt": [
+    "Massagem relaxante",
+    "Uma pessoa deitada na maca recebendo massagem nas costas.",
+    [
+     "massagem",
+     "relaxamento",
+     "spa",
+     "massoterapeuta"
+    ]
+   ],
+   "fr": [
+    "Massage relaxant",
+    "Une personne allongée sur une table profite d'un massage du dos.",
+    [
+     "massage",
+     "détente",
+     "spa",
+     "masseur"
+    ]
+   ],
+   "de": [
+    "Entspannende Massage",
+    "Eine Person liegt auf der Liege und genießt eine Rückenmassage.",
+    [
+     "Massage",
+     "Entspannung",
+     "Wellness",
+     "Masseur"
+    ]
+   ],
+   "zh": [
+    "放松按摩",
+    "趴在按摩床上享受背部按摩的人。",
+    [
+     "按摩",
+     "放松",
+     "SPA",
+     "按摩师"
+    ]
+   ],
+   "ko": [
+    "편안한 마사지",
+    "침대에 엎드려 등 마사지를 받는 사람.",
+    [
+     "마사지",
+     "휴식",
+     "스파",
+     "힐링"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "dna",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "DNA double helix",
+    "A colorful DNA double helix strand.",
+    [
+     "DNA",
+     "genes",
+     "science",
+     "biology"
+    ]
+   ],
+   "ja": [
+    "DNAの二重らせん",
+    "カラフルなDNAの二重らせん。",
+    [
+     "DNA",
+     "遺伝子",
+     "科学",
+     "生物学"
+    ]
+   ],
+   "es": [
+    "Doble hélice de ADN",
+    "Una colorida doble hélice de ADN.",
+    [
+     "ADN",
+     "genes",
+     "ciencia",
+     "biología"
+    ]
+   ],
+   "pt": [
+    "Dupla hélice de DNA",
+    "Uma dupla hélice de DNA colorida.",
+    [
+     "DNA",
+     "genes",
+     "ciência",
+     "biologia"
+    ]
+   ],
+   "fr": [
+    "Double hélice d'ADN",
+    "Une double hélice d'ADN colorée.",
+    [
+     "ADN",
+     "gènes",
+     "science",
+     "biologie"
+    ]
+   ],
+   "de": [
+    "DNA-Doppelhelix",
+    "Eine bunte DNA-Doppelhelix.",
+    [
+     "DNA",
+     "Gene",
+     "Wissenschaft",
+     "Biologie"
+    ]
+   ],
+   "zh": [
+    "DNA双螺旋",
+    "色彩缤纷的DNA双螺旋结构。",
+    [
+     "DNA",
+     "基因",
+     "科学",
+     "生物"
+    ]
+   ],
+   "ko": [
+    "DNA 이중나선",
+    "알록달록한 DNA 이중나선.",
+    [
+     "DNA",
+     "유전자",
+     "과학",
+     "생물학"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "lab-sample",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Test tubes with samples",
+    "Three test tubes with colorful samples in a rack.",
+    [
+     "test tube",
+     "lab test",
+     "sample",
+     "laboratory"
+    ]
+   ],
+   "ja": [
+    "検体の試験管",
+    "ラックに立てたカラフルな検体入りの試験管3本。",
+    [
+     "試験管",
+     "検査",
+     "検体",
+     "研究室"
+    ]
+   ],
+   "es": [
+    "Tubos de ensayo con muestras",
+    "Tres tubos de ensayo con muestras de colores en una gradilla.",
+    [
+     "tubo de ensayo",
+     "análisis",
+     "muestra",
+     "laboratorio"
+    ]
+   ],
+   "pt": [
+    "Tubos de ensaio com amostras",
+    "Três tubos de ensaio com amostras coloridas em uma estante.",
+    [
+     "tubo de ensaio",
+     "exame",
+     "amostra",
+     "laboratório"
+    ]
+   ],
+   "fr": [
+    "Tubes à essai avec échantillons",
+    "Trois tubes à essai aux échantillons colorés sur un portoir.",
+    [
+     "tube à essai",
+     "analyse",
+     "échantillon",
+     "laboratoire"
+    ]
+   ],
+   "de": [
+    "Reagenzgläser mit Proben",
+    "Drei Reagenzgläser mit bunten Proben im Ständer.",
+    [
+     "Reagenzglas",
+     "Labortest",
+     "Probe",
+     "Labor"
+    ]
+   ],
+   "zh": [
+    "装有样本的试管",
+    "试管架上装着彩色样本的三支试管。",
+    [
+     "试管",
+     "化验",
+     "样本",
+     "实验室"
+    ]
+   ],
+   "ko": [
+    "검체가 담긴 시험관",
+    "거치대에 꽂힌 알록달록한 검체 시험관 세 개.",
+    [
+     "시험관",
+     "검사",
+     "검체",
+     "실험실"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pulse-oximeter",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pulse oximeter on a finger",
+    "A finger clip pulse oximeter showing a heart and pulse wave.",
+    [
+     "pulse oximeter",
+     "oxygen level",
+     "heart rate",
+     "medical device"
+    ]
+   ],
+   "ja": [
+    "指につけたパルスオキシメーター",
+    "ハートと脈の波形が表示された指先のパルスオキシメーター。",
+    [
+     "パルスオキシメーター",
+     "酸素飽和度",
+     "脈拍",
+     "医療機器"
+    ]
+   ],
+   "es": [
+    "Pulsioxímetro en el dedo",
+    "Un pulsioxímetro de dedo que muestra un corazón y la onda del pulso.",
+    [
+     "pulsioxímetro",
+     "saturación de oxígeno",
+     "pulso",
+     "dispositivo médico"
+    ]
+   ],
+   "pt": [
+    "Oxímetro no dedo",
+    "Um oxímetro de dedo mostrando um coração e a onda de pulso.",
+    [
+     "oxímetro",
+     "saturação",
+     "batimentos",
+     "aparelho médico"
+    ]
+   ],
+   "fr": [
+    "Oxymètre de pouls au doigt",
+    "Un oxymètre de doigt affichant un cœur et une courbe de pouls.",
+    [
+     "oxymètre",
+     "saturation en oxygène",
+     "pouls",
+     "appareil médical"
+    ]
+   ],
+   "de": [
+    "Pulsoximeter am Finger",
+    "Ein Finger-Pulsoximeter mit Herz und Pulskurve auf dem Display.",
+    [
+     "Pulsoximeter",
+     "Sauerstoffsättigung",
+     "Puls",
+     "Medizingerät"
+    ]
+   ],
+   "zh": [
+    "夹在手指上的血氧仪",
+    "屏幕显示爱心和脉搏波形的指夹式血氧仪。",
+    [
+     "血氧仪",
+     "血氧饱和度",
+     "脉搏",
+     "医疗器械"
+    ]
+   ],
+   "ko": [
+    "손가락에 낀 산소포화도 측정기",
+    "하트와 맥박 파형이 표시된 손가락 산소포화도 측정기.",
+    [
+     "산소포화도 측정기",
+     "산소포화도",
+     "맥박",
+     "의료기기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "crutches",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pair of crutches",
+    "Two underarm crutches standing side by side.",
+    [
+     "crutches",
+     "injury",
+     "recovery",
+     "walking aid"
+    ]
+   ],
+   "ja": [
+    "松葉杖",
+    "並んで立つ2本の松葉杖。",
+    [
+     "松葉杖",
+     "けが",
+     "回復",
+     "歩行補助"
+    ]
+   ],
+   "es": [
+    "Par de muletas",
+    "Dos muletas axilares una al lado de la otra.",
+    [
+     "muletas",
+     "lesión",
+     "recuperación",
+     "ayuda para caminar"
+    ]
+   ],
+   "pt": [
+    "Par de muletas",
+    "Duas muletas axilares lado a lado.",
+    [
+     "muletas",
+     "lesão",
+     "recuperação",
+     "apoio para andar"
+    ]
+   ],
+   "fr": [
+    "Paire de béquilles",
+    "Deux béquilles axillaires côte à côte.",
+    [
+     "béquilles",
+     "blessure",
+     "convalescence",
+     "aide à la marche"
+    ]
+   ],
+   "de": [
+    "Ein Paar Krücken",
+    "Zwei Achselkrücken nebeneinander.",
+    [
+     "Krücken",
+     "Verletzung",
+     "Genesung",
+     "Gehhilfe"
+    ]
+   ],
+   "zh": [
+    "一副拐杖",
+    "并排立着的两根腋下拐杖。",
+    [
+     "拐杖",
+     "受伤",
+     "康复",
+     "助行器"
+    ]
+   ],
+   "ko": [
+    "목발 한 쌍",
+    "나란히 서 있는 목발 두 개.",
+    [
+     "목발",
+     "부상",
+     "회복",
+     "보행 보조"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "wheelchair",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Wheelchair",
+    "A simple side view of a wheelchair.",
+    [
+     "wheelchair",
+     "accessibility",
+     "mobility",
+     "barrier-free"
+    ]
+   ],
+   "ja": [
+    "車いす",
+    "横から見たシンプルな車いす。",
+    [
+     "車いす",
+     "バリアフリー",
+     "福祉",
+     "介護"
+    ]
+   ],
+   "es": [
+    "Silla de ruedas",
+    "Una silla de ruedas sencilla vista de lado.",
+    [
+     "silla de ruedas",
+     "accesibilidad",
+     "movilidad",
+     "sin barreras"
+    ]
+   ],
+   "pt": [
+    "Cadeira de rodas",
+    "Uma cadeira de rodas simples vista de lado.",
+    [
+     "cadeira de rodas",
+     "acessibilidade",
+     "mobilidade",
+     "inclusão"
+    ]
+   ],
+   "fr": [
+    "Fauteuil roulant",
+    "Un fauteuil roulant simple vu de profil.",
+    [
+     "fauteuil roulant",
+     "accessibilité",
+     "mobilité",
+     "handicap"
+    ]
+   ],
+   "de": [
+    "Rollstuhl",
+    "Ein einfacher Rollstuhl in Seitenansicht.",
+    [
+     "Rollstuhl",
+     "Barrierefreiheit",
+     "Mobilität",
+     "Inklusion"
+    ]
+   ],
+   "zh": [
+    "轮椅",
+    "从侧面看的简单轮椅。",
+    [
+     "轮椅",
+     "无障碍",
+     "出行",
+     "护理"
+    ]
+   ],
+   "ko": [
+    "휠체어",
+    "옆에서 본 심플한 휠체어.",
+    [
+     "휠체어",
+     "배리어프리",
+     "이동",
+     "복지"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hearing-aid",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hearing aid on an ear",
+    "A behind-the-ear hearing aid with gentle sound waves.",
+    [
+     "hearing aid",
+     "ear",
+     "hearing",
+     "sound"
+    ]
+   ],
+   "ja": [
+    "耳にかけた補聴器",
+    "やさしい音の波と、耳にかけるタイプの補聴器。",
+    [
+     "補聴器",
+     "耳",
+     "聴覚",
+     "音"
+    ]
+   ],
+   "es": [
+    "Audífono en la oreja",
+    "Un audífono retroauricular con suaves ondas de sonido.",
+    [
+     "audífono",
+     "oreja",
+     "audición",
+     "sonido"
+    ]
+   ],
+   "pt": [
+    "Aparelho auditivo na orelha",
+    "Um aparelho auditivo retroauricular com ondas sonoras suaves.",
+    [
+     "aparelho auditivo",
+     "orelha",
+     "audição",
+     "som"
+    ]
+   ],
+   "fr": [
+    "Appareil auditif sur l'oreille",
+    "Un appareil auditif contour d'oreille avec de douces ondes sonores.",
+    [
+     "appareil auditif",
+     "oreille",
+     "audition",
+     "son"
+    ]
+   ],
+   "de": [
+    "Hörgerät am Ohr",
+    "Ein Hinter-dem-Ohr-Hörgerät mit sanften Schallwellen.",
+    [
+     "Hörgerät",
+     "Ohr",
+     "Hören",
+     "Schall"
+    ]
+   ],
+   "zh": [
+    "戴在耳朵上的助听器",
+    "耳背式助听器和柔和的声波。",
+    [
+     "助听器",
+     "耳朵",
+     "听力",
+     "声音"
+    ]
+   ],
+   "ko": [
+    "귀에 건 보청기",
+    "부드러운 소리 파동과 귀걸이형 보청기.",
+    [
+     "보청기",
+     "귀",
+     "청력",
+     "소리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "contact-lens",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Contact lens case",
+    "A smiling contact lens case with a lens beside it.",
+    [
+     "contact lens",
+     "lens case",
+     "eye care",
+     "vision"
+    ]
+   ],
+   "ja": [
+    "コンタクトレンズケース",
+    "にっこり顔のコンタクトレンズケースとレンズ。",
+    [
+     "コンタクトレンズ",
+     "レンズケース",
+     "目のケア",
+     "視力"
+    ]
+   ],
+   "es": [
+    "Estuche de lentillas",
+    "Un estuche de lentillas sonriente con una lentilla al lado.",
+    [
+     "lentillas",
+     "estuche",
+     "cuidado de los ojos",
+     "visión"
+    ]
+   ],
+   "pt": [
+    "Estojo de lente de contato",
+    "Um estojo de lentes de contato sorridente com uma lente ao lado.",
+    [
+     "lente de contato",
+     "estojo",
+     "cuidados com os olhos",
+     "visão"
+    ]
+   ],
+   "fr": [
+    "Étui à lentilles",
+    "Un étui à lentilles souriant avec une lentille à côté.",
+    [
+     "lentilles de contact",
+     "étui",
+     "soin des yeux",
+     "vue"
+    ]
+   ],
+   "de": [
+    "Kontaktlinsenbehälter",
+    "Ein lächelnder Kontaktlinsenbehälter mit einer Linse daneben.",
+    [
+     "Kontaktlinsen",
+     "Linsenbehälter",
+     "Augenpflege",
+     "Sehen"
+    ]
+   ],
+   "zh": [
+    "隐形眼镜盒",
+    "带笑脸的隐形眼镜盒和一片镜片。",
+    [
+     "隐形眼镜",
+     "眼镜盒",
+     "护眼",
+     "视力"
+    ]
+   ],
+   "ko": [
+    "콘택트렌즈 케이스",
+    "웃는 얼굴의 콘택트렌즈 케이스와 렌즈.",
+    [
+     "콘택트렌즈",
+     "렌즈 케이스",
+     "눈 관리",
+     "시력"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "toothbrush",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Toothbrush and toothpaste",
+    "A toothbrush with paste and a smiling toothpaste tube.",
+    [
+     "toothbrush",
+     "toothpaste",
+     "brushing teeth",
+     "dental care"
+    ]
+   ],
+   "ja": [
+    "歯ブラシと歯みがき粉",
+    "歯みがき粉をのせた歯ブラシと、にっこり顔のチューブ。",
+    [
+     "歯ブラシ",
+     "歯みがき粉",
+     "歯みがき",
+     "デンタルケア"
+    ]
+   ],
+   "es": [
+    "Cepillo y pasta de dientes",
+    "Un cepillo con pasta y un tubo de pasta dental sonriente.",
+    [
+     "cepillo de dientes",
+     "pasta de dientes",
+     "cepillarse",
+     "higiene dental"
+    ]
+   ],
+   "pt": [
+    "Escova e pasta de dente",
+    "Uma escova com pasta e um tubo de creme dental sorridente.",
+    [
+     "escova de dente",
+     "pasta de dente",
+     "escovar os dentes",
+     "saúde bucal"
+    ]
+   ],
+   "fr": [
+    "Brosse à dents et dentifrice",
+    "Une brosse à dents avec du dentifrice et un tube souriant.",
+    [
+     "brosse à dents",
+     "dentifrice",
+     "brossage",
+     "hygiène dentaire"
+    ]
+   ],
+   "de": [
+    "Zahnbürste und Zahnpasta",
+    "Eine Zahnbürste mit Zahnpasta und eine lächelnde Tube.",
+    [
+     "Zahnbürste",
+     "Zahnpasta",
+     "Zähneputzen",
+     "Zahnpflege"
+    ]
+   ],
+   "zh": [
+    "牙刷和牙膏",
+    "挤好牙膏的牙刷和带笑脸的牙膏管。",
+    [
+     "牙刷",
+     "牙膏",
+     "刷牙",
+     "口腔护理"
+    ]
+   ],
+   "ko": [
+    "칫솔과 치약",
+    "치약을 짠 칫솔과 웃는 얼굴의 치약 튜브.",
+    [
+     "칫솔",
+     "치약",
+     "양치",
+     "구강 관리"
+    ]
+   ]
+  }
+ }
+]

@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "eye-drops",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Eye drops",
+    "A bottle of eye drops letting a drop fall into an open eye.",
+    [
+     "eye drops",
+     "eye care",
+     "dry eyes",
+     "medicine"
+    ]
+   ],
+   "ja": [
+    "目薬",
+    "目薬の容器から、ひらいた目にしずくを落とすところ。",
+    [
+     "目薬",
+     "目のケア",
+     "ドライアイ",
+     "くすり"
+    ]
+   ],
+   "es": [
+    "Gotas para los ojos",
+    "Un frasco de colirio dejando caer una gota en un ojo abierto.",
+    [
+     "colirio",
+     "gotas para los ojos",
+     "ojos secos",
+     "medicina"
+    ]
+   ],
+   "pt": [
+    "Colírio",
+    "Um frasco de colírio pingando uma gota em um olho aberto.",
+    [
+     "colírio",
+     "cuidado com os olhos",
+     "olho seco",
+     "remédio"
+    ]
+   ],
+   "fr": [
+    "Collyre",
+    "Un flacon de collyre qui laisse tomber une goutte dans un œil ouvert.",
+    [
+     "collyre",
+     "gouttes pour les yeux",
+     "yeux secs",
+     "médicament"
+    ]
+   ],
+   "de": [
+    "Augentropfen",
+    "Ein Augentropfenfläschchen, aus dem ein Tropfen ins offene Auge fällt.",
+    [
+     "Augentropfen",
+     "Augenpflege",
+     "trockene Augen",
+     "Medizin"
+    ]
+   ],
+   "zh": [
+    "眼药水",
+    "眼药水瓶把一滴药水滴进睁开的眼睛里。",
+    [
+     "眼药水",
+     "护眼",
+     "干眼",
+     "药品"
+    ]
+   ],
+   "ko": [
+    "안약",
+    "안약 병에서 뜬 눈으로 한 방울 떨어지는 모습.",
+    [
+     "안약",
+     "눈 건강",
+     "안구건조",
+     "약"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "eyeglasses",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Eyeglasses",
+    "A pair of round blue eyeglasses with shiny lenses.",
+    [
+     "glasses",
+     "eyeglasses",
+     "eyesight",
+     "optician"
+    ]
+   ],
+   "ja": [
+    "メガネ",
+    "レンズがきらりと光る、丸い青ぶちのメガネ。",
+    [
+     "メガネ",
+     "眼鏡",
+     "視力",
+     "眼鏡屋"
+    ]
+   ],
+   "es": [
+    "Gafas",
+    "Unas gafas redondas de montura azul con cristales brillantes.",
+    [
+     "gafas",
+     "lentes",
+     "vista",
+     "óptica"
+    ]
+   ],
+   "pt": [
+    "Óculos",
+    "Um par de óculos redondos de armação azul com lentes brilhantes.",
+    [
+     "óculos",
+     "visão",
+     "ótica",
+     "grau"
+    ]
+   ],
+   "fr": [
+    "Lunettes",
+    "Une paire de lunettes rondes à monture bleue aux verres brillants.",
+    [
+     "lunettes",
+     "vue",
+     "opticien",
+     "verres"
+    ]
+   ],
+   "de": [
+    "Brille",
+    "Eine runde Brille mit blauem Gestell und glänzenden Gläsern.",
+    [
+     "Brille",
+     "Sehkraft",
+     "Optiker",
+     "Brillengläser"
+    ]
+   ],
+   "zh": [
+    "眼镜",
+    "镜片闪闪发亮的蓝色圆框眼镜。",
+    [
+     "眼镜",
+     "视力",
+     "眼镜店",
+     "近视"
+    ]
+   ],
+   "ko": [
+    "안경",
+    "렌즈가 반짝이는 동그란 파란 안경.",
+    [
+     "안경",
+     "시력",
+     "안경점",
+     "렌즈"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "broken-leg",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person with a broken leg on crutches",
+    "A person in a leg cast standing with crutches.",
+    [
+     "broken leg",
+     "crutches",
+     "cast",
+     "injury"
+    ]
+   ],
+   "ja": [
+    "松葉杖をついた骨折した人",
+    "足にギプスをはめて松葉杖で立っている人。",
+    [
+     "骨折",
+     "松葉杖",
+     "ギプス",
+     "けが"
+    ]
+   ],
+   "es": [
+    "Persona con la pierna rota y muletas",
+    "Una persona con la pierna escayolada que se apoya en muletas.",
+    [
+     "pierna rota",
+     "muletas",
+     "yeso",
+     "lesión"
+    ]
+   ],
+   "pt": [
+    "Pessoa com perna quebrada de muletas",
+    "Uma pessoa com a perna engessada apoiada em muletas.",
+    [
+     "perna quebrada",
+     "muletas",
+     "gesso",
+     "lesão"
+    ]
+   ],
+   "fr": [
+    "Personne avec une jambe cassée et des béquilles",
+    "Une personne avec un plâtre à la jambe, debout avec des béquilles.",
+    [
+     "jambe cassée",
+     "béquilles",
+     "plâtre",
+     "blessure"
+    ]
+   ],
+   "de": [
+    "Person mit Beinbruch auf Krücken",
+    "Eine Person mit Gipsbein, die auf Krücken steht.",
+    [
+     "Beinbruch",
+     "Krücken",
+     "Gips",
+     "Verletzung"
+    ]
+   ],
+   "zh": [
+    "拄拐杖的骨折的人",
+    "腿上打着石膏、拄着拐杖站着的人。",
+    [
+     "骨折",
+     "拐杖",
+     "石膏",
+     "受伤"
+    ]
+   ],
+   "ko": [
+    "목발을 짚은 다리 골절 환자",
+    "다리에 깁스를 하고 목발을 짚고 서 있는 사람.",
+    [
+     "골절",
+     "목발",
+     "깁스",
+     "부상"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "x-ray",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "X-ray of a bone",
+    "An X-ray film showing a smiling bone.",
+    [
+     "x-ray",
+     "bone",
+     "radiology",
+     "hospital"
+    ]
+   ],
+   "ja": [
+    "骨のレントゲン写真",
+    "にっこり笑う骨が写ったレントゲンフィルム。",
+    [
+     "レントゲン",
+     "骨",
+     "X線",
+     "病院"
+    ]
+   ],
+   "es": [
+    "Radiografía de un hueso",
+    "Una placa de rayos X con un hueso sonriente.",
+    [
+     "radiografía",
+     "hueso",
+     "rayos X",
+     "hospital"
+    ]
+   ],
+   "pt": [
+    "Raio-X de um osso",
+    "Uma chapa de raio-X mostrando um osso sorridente.",
+    [
+     "raio-x",
+     "osso",
+     "radiografia",
+     "hospital"
+    ]
+   ],
+   "fr": [
+    "Radiographie d'un os",
+    "Un cliché de radiographie montrant un os souriant.",
+    [
+     "radiographie",
+     "os",
+     "rayons X",
+     "hôpital"
+    ]
+   ],
+   "de": [
+    "Röntgenbild eines Knochens",
+    "Ein Röntgenbild mit einem lächelnden Knochen.",
+    [
+     "Röntgen",
+     "Knochen",
+     "Röntgenbild",
+     "Krankenhaus"
+    ]
+   ],
+   "zh": [
+    "骨头的X光片",
+    "拍到一根微笑骨头的X光胶片。",
+    [
+     "X光",
+     "骨头",
+     "放射科",
+     "医院"
+    ]
+   ],
+   "ko": [
+    "뼈 엑스레이",
+    "웃고 있는 뼈가 찍힌 엑스레이 필름.",
+    [
+     "엑스레이",
+     "뼈",
+     "방사선",
+     "병원"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "blood-pressure",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Blood pressure monitor",
+    "A blood pressure monitor with the cuff wrapped around an arm.",
+    [
+     "blood pressure",
+     "monitor",
+     "health check",
+     "hypertension"
+    ]
+   ],
+   "ja": [
+    "血圧計",
+    "腕にカフを巻いて測る血圧計。",
+    [
+     "血圧",
+     "血圧計",
+     "健康チェック",
+     "高血圧"
+    ]
+   ],
+   "es": [
+    "Tensiómetro",
+    "Un tensiómetro con el brazalete puesto en el brazo.",
+    [
+     "presión arterial",
+     "tensiómetro",
+     "chequeo",
+     "hipertensión"
+    ]
+   ],
+   "pt": [
+    "Medidor de pressão",
+    "Um medidor de pressão com a braçadeira no braço.",
+    [
+     "pressão arterial",
+     "medidor de pressão",
+     "check-up",
+     "hipertensão"
+    ]
+   ],
+   "fr": [
+    "Tensiomètre",
+    "Un tensiomètre avec le brassard autour du bras.",
+    [
+     "tension artérielle",
+     "tensiomètre",
+     "bilan de santé",
+     "hypertension"
+    ]
+   ],
+   "de": [
+    "Blutdruckmessgerät",
+    "Ein Blutdruckmessgerät mit der Manschette am Arm.",
+    [
+     "Blutdruck",
+     "Blutdruckmessgerät",
+     "Gesundheitscheck",
+     "Bluthochdruck"
+    ]
+   ],
+   "zh": [
+    "血压计",
+    "袖带绑在手臂上的血压计。",
+    [
+     "血压",
+     "血压计",
+     "健康检查",
+     "高血压"
+    ]
+   ],
+   "ko": [
+    "혈압계",
+    "팔에 커프를 감아 재는 혈압계.",
+    [
+     "혈압",
+     "혈압계",
+     "건강 검진",
+     "고혈압"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "heart-health",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Heart with a pulse line",
+    "A smiling red heart with a heartbeat line running across it.",
+    [
+     "heart",
+     "heartbeat",
+     "pulse",
+     "cardiology"
+    ]
+   ],
+   "ja": [
+    "心拍の線とハート",
+    "心電図の線が横切る、にっこり笑う赤いハート。",
+    [
+     "心臓",
+     "心拍",
+     "心電図",
+     "循環器"
+    ]
+   ],
+   "es": [
+    "Corazón con línea de pulso",
+    "Un corazón rojo sonriente atravesado por la línea de los latidos.",
+    [
+     "corazón",
+     "latido",
+     "pulso",
+     "cardiología"
+    ]
+   ],
+   "pt": [
+    "Coração com batimentos",
+    "Um coração vermelho sorridente com a linha dos batimentos cardíacos.",
+    [
+     "coração",
+     "batimentos",
+     "pulso",
+     "cardiologia"
+    ]
+   ],
+   "fr": [
+    "Cœur avec un tracé de pouls",
+    "Un cœur rouge souriant traversé par une ligne de battements.",
+    [
+     "cœur",
+     "battement",
+     "pouls",
+     "cardiologie"
+    ]
+   ],
+   "de": [
+    "Herz mit Pulslinie",
+    "Ein lächelndes rotes Herz mit einer Herzschlaglinie.",
+    [
+     "Herz",
+     "Herzschlag",
+     "Puls",
+     "Kardiologie"
+    ]
+   ],
+   "zh": [
+    "带心跳线的爱心",
+    "一条心电图线穿过的微笑红色爱心。",
+    [
+     "心脏",
+     "心跳",
+     "心电图",
+     "心血管"
+    ]
+   ],
+   "ko": [
+    "심박선이 있는 하트",
+    "심박 그래프가 가로지르는 웃는 빨간 하트.",
+    [
+     "심장",
+     "심박",
+     "맥박",
+     "심장 건강"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "lungs",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cute lungs",
+    "A pair of smiling pink lungs with the windpipe.",
+    [
+     "lungs",
+     "breathing",
+     "respiratory",
+     "organ"
+    ]
+   ],
+   "ja": [
+    "かわいい肺",
+    "気管とつながった、にこにこ顔のピンクの肺。",
+    [
+     "肺",
+     "呼吸",
+     "呼吸器",
+     "臓器"
+    ]
+   ],
+   "es": [
+    "Pulmones adorables",
+    "Un par de pulmones rosados y sonrientes con la tráquea.",
+    [
+     "pulmones",
+     "respiración",
+     "respiratorio",
+     "órgano"
+    ]
+   ],
+   "pt": [
+    "Pulmões fofos",
+    "Um par de pulmões cor-de-rosa sorridentes com a traqueia.",
+    [
+     "pulmões",
+     "respiração",
+     "respiratório",
+     "órgão"
+    ]
+   ],
+   "fr": [
+    "Poumons mignons",
+    "Une paire de poumons roses et souriants avec la trachée.",
+    [
+     "poumons",
+     "respiration",
+     "respiratoire",
+     "organe"
+    ]
+   ],
+   "de": [
+    "Süße Lunge",
+    "Zwei lächelnde rosa Lungenflügel mit der Luftröhre.",
+    [
+     "Lunge",
+     "Atmung",
+     "Atemwege",
+     "Organ"
+    ]
+   ],
+   "zh": [
+    "可爱的肺",
+    "连着气管、笑眯眯的粉色肺。",
+    [
+     "肺",
+     "呼吸",
+     "呼吸系统",
+     "器官"
+    ]
+   ],
+   "ko": [
+    "귀여운 폐",
+    "기관지와 이어진 웃는 얼굴의 분홍색 폐.",
+    [
+     "폐",
+     "호흡",
+     "호흡기",
+     "장기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "brain",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cute brain",
+    "A smiling pink brain surrounded by little sparkles.",
+    [
+     "brain",
+     "mind",
+     "thinking",
+     "neuroscience"
+    ]
+   ],
+   "ja": [
+    "かわいい脳",
+    "キラキラに囲まれた、にっこり笑うピンクの脳。",
+    [
+     "脳",
+     "頭",
+     "考える",
+     "脳科学"
+    ]
+   ],
+   "es": [
+    "Cerebro adorable",
+    "Un cerebro rosado y sonriente rodeado de destellos.",
+    [
+     "cerebro",
+     "mente",
+     "pensar",
+     "neurociencia"
+    ]
+   ],
+   "pt": [
+    "Cérebro fofo",
+    "Um cérebro cor-de-rosa sorridente cercado de brilhinhos.",
+    [
+     "cérebro",
+     "mente",
+     "pensar",
+     "neurociência"
+    ]
+   ],
+   "fr": [
+    "Cerveau mignon",
+    "Un cerveau rose et souriant entouré de petites étincelles.",
+    [
+     "cerveau",
+     "esprit",
+     "réflexion",
+     "neurosciences"
+    ]
+   ],
+   "de": [
+    "Süßes Gehirn",
+    "Ein lächelndes rosa Gehirn, umgeben von kleinen Funkeln.",
+    [
+     "Gehirn",
+     "Verstand",
+     "Denken",
+     "Neurowissenschaft"
+    ]
+   ],
+   "zh": [
+    "可爱的大脑",
+    "被闪光围绕、微笑着的粉色大脑。",
+    [
+     "大脑",
+     "思考",
+     "头脑",
+     "脑科学"
+    ]
+   ],
+   "ko": [
+    "귀여운 뇌",
+    "반짝임에 둘러싸인 웃는 분홍색 뇌.",
+    [
+     "뇌",
+     "두뇌",
+     "생각",
+     "뇌과학"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tooth",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cute tooth",
+    "A shiny white tooth with a happy face and sparkles.",
+    [
+     "tooth",
+     "dental",
+     "dentist",
+     "teeth"
+    ]
+   ],
+   "ja": [
+    "かわいい歯",
+    "キラキラ光る、にこにこ顔の白い歯。",
+    [
+     "歯",
+     "歯医者",
+     "デンタルケア",
+     "虫歯予防"
+    ]
+   ],
+   "es": [
+    "Diente adorable",
+    "Un diente blanco y brillante con cara feliz y destellos.",
+    [
+     "diente",
+     "dental",
+     "dentista",
+     "dientes"
+    ]
+   ],
+   "pt": [
+    "Dente fofo",
+    "Um dente branco e brilhante com carinha feliz.",
+    [
+     "dente",
+     "dentista",
+     "odontologia",
+     "saúde bucal"
+    ]
+   ],
+   "fr": [
+    "Dent mignonne",
+    "Une dent blanche et brillante au visage joyeux.",
+    [
+     "dent",
+     "dentaire",
+     "dentiste",
+     "dents"
+    ]
+   ],
+   "de": [
+    "Süßer Zahn",
+    "Ein glänzender weißer Zahn mit fröhlichem Gesicht.",
+    [
+     "Zahn",
+     "Zähne",
+     "Zahnarzt",
+     "Zahnpflege"
+    ]
+   ],
+   "zh": [
+    "可爱的牙齿",
+    "闪闪发亮、笑眯眯的白色牙齿。",
+    [
+     "牙齿",
+     "牙医",
+     "口腔",
+     "护牙"
+    ]
+   ],
+   "ko": [
+    "귀여운 이빨",
+    "반짝반짝 빛나는 웃는 얼굴의 하얀 치아.",
+    [
+     "치아",
+     "이빨",
+     "치과",
+     "구강 건강"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "weight-scale",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bathroom scale",
+    "A blue bathroom scale with a dial and two foot pads.",
+    [
+     "scale",
+     "weight",
+     "diet",
+     "bathroom scale"
+    ]
+   ],
+   "ja": [
+    "体重計",
+    "目盛りの窓と足を乗せる場所がある青い体重計。",
+    [
+     "体重計",
+     "体重",
+     "ダイエット",
+     "健康管理"
+    ]
+   ],
+   "es": [
+    "Báscula de baño",
+    "Una báscula de baño azul con esfera y dos apoyos para los pies.",
+    [
+     "báscula",
+     "peso",
+     "dieta",
+     "balanza"
+    ]
+   ],
+   "pt": [
+    "Balança de banheiro",
+    "Uma balança azul de banheiro com mostrador e apoio para os pés.",
+    [
+     "balança",
+     "peso",
+     "dieta",
+     "emagrecer"
+    ]
+   ],
+   "fr": [
+    "Pèse-personne",
+    "Un pèse-personne bleu avec un cadran et deux repose-pieds.",
+    [
+     "balance",
+     "poids",
+     "régime",
+     "pèse-personne"
+    ]
+   ],
+   "de": [
+    "Personenwaage",
+    "Eine blaue Personenwaage mit Skala und zwei Trittflächen.",
+    [
+     "Waage",
+     "Gewicht",
+     "Diät",
+     "Personenwaage"
+    ]
+   ],
+   "zh": [
+    "体重秤",
+    "带表盘和踏脚垫的蓝色体重秤。",
+    [
+     "体重秤",
+     "体重",
+     "减肥",
+     "健康管理"
+    ]
+   ],
+   "ko": [
+    "체중계",
+    "눈금 창과 발판이 있는 파란 체중계.",
+    [
+     "체중계",
+     "몸무게",
+     "다이어트",
+     "건강 관리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "height-measure",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Child measuring height",
+    "A child standing by a height ruler with the bar touching their head.",
+    [
+     "height",
+     "measuring",
+     "growth",
+     "checkup"
+    ]
+   ],
+   "ja": [
+    "身長をはかる子ども",
+    "身長計の前に立って、頭にバーを当ててもらう子ども。",
+    [
+     "身長",
+     "身長測定",
+     "成長",
+     "健康診断"
+    ]
+   ],
+   "es": [
+    "Niño midiendo su estatura",
+    "Un niño de pie junto a un tallímetro con la barra sobre la cabeza.",
+    [
+     "estatura",
+     "medir",
+     "crecimiento",
+     "revisión médica"
+    ]
+   ],
+   "pt": [
+    "Criança medindo a altura",
+    "Uma criança em pé no medidor de altura com a barra na cabeça.",
+    [
+     "altura",
+     "medir",
+     "crescimento",
+     "consulta"
+    ]
+   ],
+   "fr": [
+    "Enfant qui mesure sa taille",
+    "Un enfant debout contre une toise, la barre posée sur la tête.",
+    [
+     "taille",
+     "toise",
+     "croissance",
+     "visite médicale"
+    ]
+   ],
+   "de": [
+    "Kind misst seine Größe",
+    "Ein Kind steht an einer Messlatte, die Leiste liegt auf dem Kopf.",
+    [
+     "Körpergröße",
+     "messen",
+     "Wachstum",
+     "Vorsorge"
+    ]
+   ],
+   "zh": [
+    "量身高的孩子",
+    "站在身高尺旁、头顶碰到横杆的孩子。",
+    [
+     "身高",
+     "测量身高",
+     "成长",
+     "体检"
+    ]
+   ],
+   "ko": [
+    "키를 재는 아이",
+    "신장계 앞에 서서 머리에 막대를 대고 키를 재는 아이.",
+    [
+     "키",
+     "키 재기",
+     "성장",
+     "건강 검진"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "healthy-plate",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Balanced meal plate",
+    "A plate with broccoli, salmon, a rice ball, tomatoes and egg.",
+    [
+     "healthy food",
+     "balanced diet",
+     "nutrition",
+     "meal"
+    ]
+   ],
+   "ja": [
+    "バランスのいい食事",
+    "ブロッコリー、鮭、おにぎり、トマト、卵がのったお皿。",
+    [
+     "健康的な食事",
+     "栄養バランス",
+     "栄養",
+     "食事"
+    ]
+   ],
+   "es": [
+    "Plato equilibrado",
+    "Un plato con brócoli, salmón, bola de arroz, tomates y huevo.",
+    [
+     "comida saludable",
+     "dieta equilibrada",
+     "nutrición",
+     "comida"
+    ]
+   ],
+   "pt": [
+    "Prato equilibrado",
+    "Um prato com brócolis, salmão, bolinho de arroz, tomates e ovo.",
+    [
+     "comida saudável",
+     "alimentação equilibrada",
+     "nutrição",
+     "refeição"
+    ]
+   ],
+   "fr": [
+    "Assiette équilibrée",
+    "Une assiette avec brocoli, saumon, boulette de riz, tomates et œuf.",
+    [
+     "alimentation saine",
+     "repas équilibré",
+     "nutrition",
+     "repas"
+    ]
+   ],
+   "de": [
+    "Ausgewogener Teller",
+    "Ein Teller mit Brokkoli, Lachs, Reisbällchen, Tomaten und Ei.",
+    [
+     "gesundes Essen",
+     "ausgewogene Ernährung",
+     "Ernährung",
+     "Mahlzeit"
+    ]
+   ],
+   "zh": [
+    "营养均衡的一餐",
+    "盛着西兰花、三文鱼、饭团、番茄和鸡蛋的盘子。",
+    [
+     "健康饮食",
+     "营养均衡",
+     "营养",
+     "餐食"
+    ]
+   ],
+   "ko": [
+    "균형 잡힌 식사",
+    "브로콜리, 연어, 주먹밥, 토마토, 달걀이 담긴 접시.",
+    [
+     "건강식",
+     "균형 식단",
+     "영양",
+     "식사"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "good-sleep",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sleeping well",
+    "A person sleeping peacefully in bed under the moon and stars.",
+    [
+     "sleep",
+     "good night",
+     "rest",
+     "bedtime"
+    ]
+   ],
+   "ja": [
+    "ぐっすり眠る人",
+    "月と星の下、ベッドでぐっすり眠っている人。",
+    [
+     "睡眠",
+     "おやすみ",
+     "休息",
+     "快眠"
+    ]
+   ],
+   "es": [
+    "Dormir bien",
+    "Una persona durmiendo tranquila en la cama bajo la luna y las estrellas.",
+    [
+     "dormir",
+     "buenas noches",
+     "descanso",
+     "sueño"
+    ]
+   ],
+   "pt": [
+    "Dormir bem",
+    "Uma pessoa dormindo tranquila na cama sob a lua e as estrelas.",
+    [
+     "sono",
+     "boa noite",
+     "descanso",
+     "dormir"
+    ]
+   ],
+   "fr": [
+    "Bien dormir",
+    "Une personne qui dort paisiblement au lit sous la lune et les étoiles.",
+    [
+     "sommeil",
+     "bonne nuit",
+     "repos",
+     "dormir"
+    ]
+   ],
+   "de": [
+    "Gut schlafen",
+    "Eine Person schläft friedlich im Bett unter Mond und Sternen.",
+    [
+     "Schlaf",
+     "gute Nacht",
+     "Erholung",
+     "schlafen"
+    ]
+   ],
+   "zh": [
+    "睡个好觉",
+    "在月亮和星星下躺在床上安稳入睡的人。",
+    [
+     "睡眠",
+     "晚安",
+     "休息",
+     "好眠"
+    ]
+   ],
+   "ko": [
+    "푹 자는 사람",
+    "달과 별 아래 침대에서 푹 잠든 사람.",
+    [
+     "수면",
+     "잘 자",
+     "휴식",
+     "숙면"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mental-health",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Calm mind",
+    "A relaxed person with closed eyes holding a heart to their chest.",
+    [
+     "mental health",
+     "mindfulness",
+     "self-care",
+     "relaxation"
+    ]
+   ],
+   "ja": [
+    "おだやかな心",
+    "目を閉じてハートを胸に抱く、リラックスした人。",
+    [
+     "メンタルヘルス",
+     "マインドフルネス",
+     "セルフケア",
+     "リラックス"
+    ]
+   ],
+   "es": [
+    "Mente en calma",
+    "Una persona relajada con los ojos cerrados y un corazón en el pecho.",
+    [
+     "salud mental",
+     "mindfulness",
+     "autocuidado",
+     "relajación"
+    ]
+   ],
+   "pt": [
+    "Mente tranquila",
+    "Uma pessoa relaxada de olhos fechados segurando um coração no peito.",
+    [
+     "saúde mental",
+     "mindfulness",
+     "autocuidado",
+     "relaxamento"
+    ]
+   ],
+   "fr": [
+    "Esprit apaisé",
+    "Une personne détendue, les yeux fermés, tenant un cœur contre elle.",
+    [
+     "santé mentale",
+     "pleine conscience",
+     "bien-être",
+     "détente"
+    ]
+   ],
+   "de": [
+    "Ruhiger Geist",
+    "Eine entspannte Person mit geschlossenen Augen hält ein Herz an der Brust.",
+    [
+     "psychische Gesundheit",
+     "Achtsamkeit",
+     "Selbstfürsorge",
+     "Entspannung"
+    ]
+   ],
+   "zh": [
+    "平静的心",
+    "闭着眼睛、把爱心抱在胸前的放松的人。",
+    [
+     "心理健康",
+     "正念",
+     "自我关怀",
+     "放松"
+    ]
+   ],
+   "ko": [
+    "평온한 마음",
+    "눈을 감고 하트를 가슴에 안은 편안한 사람.",
+    [
+     "정신 건강",
+     "마음챙김",
+     "셀프케어",
+     "휴식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "back-pain",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person with back pain",
+    "A person wincing and holding their lower back.",
+    [
+     "back pain",
+     "lower back",
+     "ache",
+     "posture"
+    ]
+   ],
+   "ja": [
+    "腰が痛い人",
+    "顔をしかめて腰を押さえている人。",
+    [
+     "腰痛",
+     "腰",
+     "痛み",
+     "姿勢"
+    ]
+   ],
+   "es": [
+    "Persona con dolor de espalda",
+    "Una persona con gesto de dolor que se sujeta la parte baja de la espalda.",
+    [
+     "dolor de espalda",
+     "lumbago",
+     "dolor",
+     "postura"
+    ]
+   ],
+   "pt": [
+    "Pessoa com dor nas costas",
+    "Uma pessoa fazendo careta e segurando a lombar.",
+    [
+     "dor nas costas",
+     "lombar",
+     "dor",
+     "postura"
+    ]
+   ],
+   "fr": [
+    "Personne avec mal de dos",
+    "Une personne qui grimace en se tenant le bas du dos.",
+    [
+     "mal de dos",
+     "lombaires",
+     "douleur",
+     "posture"
+    ]
+   ],
+   "de": [
+    "Person mit Rückenschmerzen",
+    "Eine Person verzieht das Gesicht und hält sich den unteren Rücken.",
+    [
+     "Rückenschmerzen",
+     "Kreuzschmerzen",
+     "Schmerzen",
+     "Haltung"
+    ]
+   ],
+   "zh": [
+    "腰疼的人",
+    "皱着眉头、手扶着腰的人。",
+    [
+     "腰痛",
+     "背痛",
+     "疼痛",
+     "姿势"
+    ]
+   ],
+   "ko": [
+    "허리가 아픈 사람",
+    "얼굴을 찡그리며 허리를 짚고 있는 사람.",
+    [
+     "허리 통증",
+     "요통",
+     "통증",
+     "자세"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "eye-strain",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tired eyes at the computer",
+    "A person rubbing a tired eye behind a laptop.",
+    [
+     "eye strain",
+     "tired eyes",
+     "computer",
+     "screen time"
+    ]
+   ],
+   "ja": [
+    "パソコンで目が疲れた人",
+    "ノートパソコンの前で疲れた目をこする人。",
+    [
+     "眼精疲労",
+     "目の疲れ",
+     "パソコン",
+     "スクリーンタイム"
+    ]
+   ],
+   "es": [
+    "Ojos cansados frente al ordenador",
+    "Una persona frotándose un ojo cansado detrás de un portátil.",
+    [
+     "vista cansada",
+     "ojos cansados",
+     "ordenador",
+     "pantallas"
+    ]
+   ],
+   "pt": [
+    "Olhos cansados no computador",
+    "Uma pessoa esfregando o olho cansado atrás de um notebook.",
+    [
+     "vista cansada",
+     "olhos cansados",
+     "computador",
+     "tempo de tela"
+    ]
+   ],
+   "fr": [
+    "Yeux fatigués devant l'ordinateur",
+    "Une personne qui se frotte un œil fatigué derrière un ordinateur portable.",
+    [
+     "fatigue visuelle",
+     "yeux fatigués",
+     "ordinateur",
+     "écrans"
+    ]
+   ],
+   "de": [
+    "Müde Augen am Computer",
+    "Eine Person reibt sich hinter dem Laptop ein müdes Auge.",
+    [
+     "Augenbelastung",
+     "müde Augen",
+     "Computer",
+     "Bildschirmzeit"
+    ]
+   ],
+   "zh": [
+    "用电脑眼睛累了",
+    "在笔记本电脑前揉着疲劳眼睛的人。",
+    [
+     "眼疲劳",
+     "眼睛累",
+     "电脑",
+     "屏幕时间"
+    ]
+   ],
+   "ko": [
+    "컴퓨터로 눈이 피곤한 사람",
+    "노트북 앞에서 피곤한 눈을 비비는 사람.",
+    [
+     "눈의 피로",
+     "안구 피로",
+     "컴퓨터",
+     "스크린 타임"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "heatstroke",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person with heatstroke",
+    "A flushed, dizzy person sweating under the hot sun.",
+    [
+     "heatstroke",
+     "heat",
+     "summer",
+     "sun"
+    ]
+   ],
+   "ja": [
+    "熱中症の人",
+    "強い日差しの下で顔を赤くしてふらふらする人。",
+    [
+     "熱中症",
+     "暑さ",
+     "夏",
+     "日差し"
+    ]
+   ],
+   "es": [
+    "Persona con golpe de calor",
+    "Una persona sonrojada y mareada sudando bajo el sol.",
+    [
+     "golpe de calor",
+     "calor",
+     "verano",
+     "sol"
+    ]
+   ],
+   "pt": [
+    "Pessoa com insolação",
+    "Uma pessoa vermelha e tonta suando sob o sol forte.",
+    [
+     "insolação",
+     "calor",
+     "verão",
+     "sol"
+    ]
+   ],
+   "fr": [
+    "Personne avec un coup de chaleur",
+    "Une personne rouge et étourdie qui transpire sous le soleil.",
+    [
+     "coup de chaleur",
+     "chaleur",
+     "été",
+     "soleil"
+    ]
+   ],
+   "de": [
+    "Person mit Hitzschlag",
+    "Eine gerötete, schwindelige Person schwitzt in der heißen Sonne.",
+    [
+     "Hitzschlag",
+     "Hitze",
+     "Sommer",
+     "Sonne"
+    ]
+   ],
+   "zh": [
+    "中暑的人",
+    "在烈日下满脸通红、头晕出汗的人。",
+    [
+     "中暑",
+     "炎热",
+     "夏天",
+     "太阳"
+    ]
+   ],
+   "ko": [
+    "열사병에 걸린 사람",
+    "뜨거운 햇볕 아래 얼굴이 빨개져 어지러워하는 사람.",
+    [
+     "열사병",
+     "더위",
+     "여름",
+     "햇볕"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sunscreen",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sunscreen bottle",
+    "A smiling sunscreen bottle with a sun mark and a dab of cream.",
+    [
+     "sunscreen",
+     "sun protection",
+     "UV",
+     "skincare"
+    ]
+   ],
+   "ja": [
+    "日焼け止め",
+    "太陽マークと少し出したクリームがある、にっこり顔の日焼け止め。",
+    [
+     "日焼け止め",
+     "紫外線対策",
+     "UV",
+     "スキンケア"
+    ]
+   ],
+   "es": [
+    "Protector solar",
+    "Un bote de protector solar sonriente con un sol y un poco de crema.",
+    [
+     "protector solar",
+     "protección solar",
+     "UV",
+     "cuidado de la piel"
+    ]
+   ],
+   "pt": [
+    "Protetor solar",
+    "Um frasco de protetor solar sorridente com um sol e um pouco de creme.",
+    [
+     "protetor solar",
+     "proteção solar",
+     "UV",
+     "cuidados com a pele"
+    ]
+   ],
+   "fr": [
+    "Crème solaire",
+    "Un flacon de crème solaire souriant avec un soleil et une noisette de crème.",
+    [
+     "crème solaire",
+     "protection solaire",
+     "UV",
+     "soin de la peau"
+    ]
+   ],
+   "de": [
+    "Sonnencreme",
+    "Eine lächelnde Sonnencremeflasche mit Sonnensymbol und einem Klecks Creme.",
+    [
+     "Sonnencreme",
+     "Sonnenschutz",
+     "UV",
+     "Hautpflege"
+    ]
+   ],
+   "zh": [
+    "防晒霜",
+    "印着太阳图案、旁边挤出一点乳霜的微笑防晒霜瓶。",
+    [
+     "防晒霜",
+     "防晒",
+     "紫外线",
+     "护肤"
+    ]
+   ],
+   "ko": [
+    "선크림",
+    "해 그림과 짜 놓은 크림이 있는 웃는 선크림 병.",
+    [
+     "선크림",
+     "자외선 차단",
+     "UV",
+     "스킨케어"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "vitamins",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Vitamins and fruit",
+    "A vitamin bottle with capsules beside a smiling orange.",
+    [
+     "vitamins",
+     "supplements",
+     "capsule",
+     "nutrition"
+    ]
+   ],
+   "ja": [
+    "ビタミンとフルーツ",
+    "サプリの瓶とカプセル、にっこり顔のオレンジ。",
+    [
+     "ビタミン",
+     "サプリメント",
+     "カプセル",
+     "栄養"
+    ]
+   ],
+   "es": [
+    "Vitaminas y fruta",
+    "Un bote de vitaminas con cápsulas junto a una naranja sonriente.",
+    [
+     "vitaminas",
+     "suplementos",
+     "cápsula",
+     "nutrición"
+    ]
+   ],
+   "pt": [
+    "Vitaminas e fruta",
+    "Um pote de vitaminas com cápsulas ao lado de uma laranja sorridente.",
+    [
+     "vitaminas",
+     "suplementos",
+     "cápsula",
+     "nutrição"
+    ]
+   ],
+   "fr": [
+    "Vitamines et fruit",
+    "Un flacon de vitamines et des gélules à côté d'une orange souriante.",
+    [
+     "vitamines",
+     "compléments alimentaires",
+     "gélule",
+     "nutrition"
+    ]
+   ],
+   "de": [
+    "Vitamine und Obst",
+    "Eine Vitamindose mit Kapseln neben einer lächelnden Orange.",
+    [
+     "Vitamine",
+     "Nahrungsergänzung",
+     "Kapsel",
+     "Ernährung"
+    ]
+   ],
+   "zh": [
+    "维生素和水果",
+    "维生素瓶、胶囊和一个微笑的橙子。",
+    [
+     "维生素",
+     "保健品",
+     "胶囊",
+     "营养"
+    ]
+   ],
+   "ko": [
+    "비타민과 과일",
+    "비타민 병과 캡슐, 웃는 얼굴의 오렌지.",
+    [
+     "비타민",
+     "영양제",
+     "캡슐",
+     "영양"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hydration",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Drinking water",
+    "A person drinking a glass of water to stay hydrated.",
+    [
+     "water",
+     "hydration",
+     "drink",
+     "health"
+    ]
+   ],
+   "ja": [
+    "水分補給",
+    "コップの水を飲んで水分補給をする人。",
+    [
+     "水分補給",
+     "水",
+     "飲む",
+     "健康"
+    ]
+   ],
+   "es": [
+    "Beber agua",
+    "Una persona bebiendo un vaso de agua para mantenerse hidratada.",
+    [
+     "agua",
+     "hidratación",
+     "beber",
+     "salud"
+    ]
+   ],
+   "pt": [
+    "Beber água",
+    "Uma pessoa bebendo um copo de água para se hidratar.",
+    [
+     "água",
+     "hidratação",
+     "beber",
+     "saúde"
+    ]
+   ],
+   "fr": [
+    "Boire de l'eau",
+    "Une personne qui boit un verre d'eau pour bien s'hydrater.",
+    [
+     "eau",
+     "hydratation",
+     "boire",
+     "santé"
+    ]
+   ],
+   "de": [
+    "Wasser trinken",
+    "Eine Person trinkt ein Glas Wasser, um genug Flüssigkeit aufzunehmen.",
+    [
+     "Wasser",
+     "Flüssigkeitszufuhr",
+     "trinken",
+     "Gesundheit"
+    ]
+   ],
+   "zh": [
+    "补充水分",
+    "喝一杯水来补充水分的人。",
+    [
+     "喝水",
+     "补水",
+     "饮水",
+     "健康"
+    ]
+   ],
+   "ko": [
+    "수분 보충",
+    "물 한 컵을 마시며 수분을 보충하는 사람.",
+    [
+     "물",
+     "수분 보충",
+     "마시기",
+     "건강"
+    ]
+   ]
+  }
+ }
+]

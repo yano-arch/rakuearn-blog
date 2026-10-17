@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "hospital",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hospital Building",
+    "A clean white hospital building with a green cross sign.",
+    [
+     "hospital",
+     "medical",
+     "clinic",
+     "building"
+    ]
+   ],
+   "ja": [
+    "病院",
+    "十字のマークがついた白い病院の建物。",
+    [
+     "病院",
+     "医療",
+     "クリニック",
+     "建物"
+    ]
+   ],
+   "es": [
+    "Hospital",
+    "Un edificio de hospital blanco con una cruz verde.",
+    [
+     "hospital",
+     "médico",
+     "clínica",
+     "edificio"
+    ]
+   ],
+   "pt": [
+    "Hospital",
+    "Um prédio de hospital branco com uma cruz verde.",
+    [
+     "hospital",
+     "médico",
+     "clínica",
+     "prédio"
+    ]
+   ],
+   "fr": [
+    "Hôpital",
+    "Un bâtiment d'hôpital blanc avec une croix verte.",
+    [
+     "hôpital",
+     "médical",
+     "clinique",
+     "bâtiment"
+    ]
+   ],
+   "de": [
+    "Krankenhaus",
+    "Ein weißes Krankenhausgebäude mit grünem Kreuz.",
+    [
+     "Krankenhaus",
+     "Medizin",
+     "Klinik",
+     "Gebäude"
+    ]
+   ],
+   "zh": [
+    "医院",
+    "挂着十字标志的白色医院大楼。",
+    [
+     "医院",
+     "医疗",
+     "诊所",
+     "建筑"
+    ]
+   ],
+   "ko": [
+    "병원",
+    "십자 표시가 있는 하얀 병원 건물.",
+    [
+     "병원",
+     "의료",
+     "클리닉",
+     "건물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ambulance",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ambulance",
+    "A white ambulance with a siren light on top.",
+    [
+     "ambulance",
+     "emergency",
+     "vehicle",
+     "medical"
+    ]
+   ],
+   "ja": [
+    "救急車",
+    "屋根にランプがついた白い救急車。",
+    [
+     "救急車",
+     "緊急",
+     "車",
+     "医療"
+    ]
+   ],
+   "es": [
+    "Ambulancia",
+    "Una ambulancia blanca con la sirena encendida.",
+    [
+     "ambulancia",
+     "emergencia",
+     "vehículo",
+     "médico"
+    ]
+   ],
+   "pt": [
+    "Ambulância",
+    "Uma ambulância branca com a sirene ligada.",
+    [
+     "ambulância",
+     "emergência",
+     "veículo",
+     "socorro"
+    ]
+   ],
+   "fr": [
+    "Ambulance",
+    "Une ambulance blanche avec son gyrophare allumé.",
+    [
+     "ambulance",
+     "urgence",
+     "véhicule",
+     "secours"
+    ]
+   ],
+   "de": [
+    "Krankenwagen",
+    "Ein weißer Krankenwagen mit Blaulicht auf dem Dach.",
+    [
+     "Krankenwagen",
+     "Notfall",
+     "Fahrzeug",
+     "Rettungsdienst"
+    ]
+   ],
+   "zh": [
+    "救护车",
+    "车顶亮着警示灯的白色救护车。",
+    [
+     "救护车",
+     "急救",
+     "车辆",
+     "医疗"
+    ]
+   ],
+   "ko": [
+    "구급차",
+    "지붕에 경광등이 달린 하얀 구급차.",
+    [
+     "구급차",
+     "응급",
+     "자동차",
+     "의료"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "stethoscope",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Stethoscope",
+    "A doctor's stethoscope with a round chest piece.",
+    [
+     "stethoscope",
+     "doctor",
+     "medical",
+     "checkup"
+    ]
+   ],
+   "ja": [
+    "聴診器",
+    "お医者さんが使う丸い聴診器。",
+    [
+     "聴診器",
+     "医者",
+     "医療",
+     "診察"
+    ]
+   ],
+   "es": [
+    "Estetoscopio",
+    "Un estetoscopio de médico con campana redonda.",
+    [
+     "estetoscopio",
+     "médico",
+     "consulta",
+     "salud"
+    ]
+   ],
+   "pt": [
+    "Estetoscópio",
+    "Um estetoscópio de médico com auscultador redondo.",
+    [
+     "estetoscópio",
+     "médico",
+     "consulta",
+     "saúde"
+    ]
+   ],
+   "fr": [
+    "Stéthoscope",
+    "Un stéthoscope de médecin avec un pavillon rond.",
+    [
+     "stéthoscope",
+     "médecin",
+     "consultation",
+     "santé"
+    ]
+   ],
+   "de": [
+    "Stethoskop",
+    "Ein Stethoskop, wie es Ärzte benutzen.",
+    [
+     "Stethoskop",
+     "Arzt",
+     "Untersuchung",
+     "Medizin"
+    ]
+   ],
+   "zh": [
+    "听诊器",
+    "医生使用的圆头听诊器。",
+    [
+     "听诊器",
+     "医生",
+     "看病",
+     "医疗"
+    ]
+   ],
+   "ko": [
+    "청진기",
+    "의사가 쓰는 동그란 청진기.",
+    [
+     "청진기",
+     "의사",
+     "진찰",
+     "의료"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "thermometer",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Thermometer",
+    "A cute thermometer with a red bulb showing body temperature.",
+    [
+     "thermometer",
+     "temperature",
+     "fever",
+     "health"
+    ]
+   ],
+   "ja": [
+    "体温計",
+    "赤い球がかわいい体温計。",
+    [
+     "体温計",
+     "体温",
+     "熱",
+     "健康"
+    ]
+   ],
+   "es": [
+    "Termómetro",
+    "Un termómetro simpático con el bulbo rojo.",
+    [
+     "termómetro",
+     "temperatura",
+     "fiebre",
+     "salud"
+    ]
+   ],
+   "pt": [
+    "Termômetro",
+    "Um termômetro fofo com o bulbo vermelho.",
+    [
+     "termômetro",
+     "temperatura",
+     "febre",
+     "saúde"
+    ]
+   ],
+   "fr": [
+    "Thermomètre",
+    "Un thermomètre mignon au réservoir rouge.",
+    [
+     "thermomètre",
+     "température",
+     "fièvre",
+     "santé"
+    ]
+   ],
+   "de": [
+    "Fieberthermometer",
+    "Ein niedliches Thermometer mit roter Kugel.",
+    [
+     "Thermometer",
+     "Temperatur",
+     "Fieber",
+     "Gesundheit"
+    ]
+   ],
+   "zh": [
+    "体温计",
+    "红色球头的可爱体温计。",
+    [
+     "体温计",
+     "体温",
+     "发烧",
+     "健康"
+    ]
+   ],
+   "ko": [
+    "체온계",
+    "빨간 구가 귀여운 체온계.",
+    [
+     "체온계",
+     "체온",
+     "열",
+     "건강"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pills",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pills and Capsules",
+    "Colorful capsules and round tablets of medicine.",
+    [
+     "pills",
+     "medicine",
+     "capsule",
+     "tablet"
+    ]
+   ],
+   "ja": [
+    "薬（錠剤とカプセル）",
+    "カラフルなカプセルと丸い錠剤。",
+    [
+     "薬",
+     "錠剤",
+     "カプセル",
+     "服薬"
+    ]
+   ],
+   "es": [
+    "Pastillas y cápsulas",
+    "Cápsulas de colores y pastillas redondas.",
+    [
+     "pastillas",
+     "medicamento",
+     "cápsula",
+     "remedio"
+    ]
+   ],
+   "pt": [
+    "Comprimidos e cápsulas",
+    "Cápsulas coloridas e comprimidos redondos.",
+    [
+     "comprimido",
+     "remédio",
+     "cápsula",
+     "medicamento"
+    ]
+   ],
+   "fr": [
+    "Comprimés et gélules",
+    "Des gélules colorées et des comprimés ronds.",
+    [
+     "médicament",
+     "comprimé",
+     "gélule",
+     "pilule"
+    ]
+   ],
+   "de": [
+    "Tabletten und Kapseln",
+    "Bunte Kapseln und runde Tabletten.",
+    [
+     "Tabletten",
+     "Medikament",
+     "Kapsel",
+     "Pille"
+    ]
+   ],
+   "zh": [
+    "药片和胶囊",
+    "彩色的胶囊和圆形药片。",
+    [
+     "药",
+     "药片",
+     "胶囊",
+     "吃药"
+    ]
+   ],
+   "ko": [
+    "알약과 캡슐",
+    "알록달록한 캡슐과 동그란 알약.",
+    [
+     "약",
+     "알약",
+     "캡슐",
+     "복용"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "medicine-bottle",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Medicine Bottle",
+    "An amber medicine bottle with a white cap and label.",
+    [
+     "medicine bottle",
+     "pharmacy",
+     "medicine",
+     "prescription"
+    ]
+   ],
+   "ja": [
+    "薬のびん",
+    "白いふたとラベルの茶色い薬びん。",
+    [
+     "薬びん",
+     "薬局",
+     "薬",
+     "処方薬"
+    ]
+   ],
+   "es": [
+    "Frasco de medicina",
+    "Un frasco ámbar de medicina con tapa blanca.",
+    [
+     "frasco",
+     "farmacia",
+     "medicina",
+     "receta"
+    ]
+   ],
+   "pt": [
+    "Frasco de remédio",
+    "Um frasco âmbar de remédio com tampa branca.",
+    [
+     "frasco",
+     "farmácia",
+     "remédio",
+     "receita"
+    ]
+   ],
+   "fr": [
+    "Flacon de médicaments",
+    "Un flacon ambré avec un bouchon blanc et une étiquette.",
+    [
+     "flacon",
+     "pharmacie",
+     "médicament",
+     "ordonnance"
+    ]
+   ],
+   "de": [
+    "Medikamentenflasche",
+    "Eine braune Arzneiflasche mit weißem Deckel.",
+    [
+     "Arzneiflasche",
+     "Apotheke",
+     "Medikament",
+     "Rezept"
+    ]
+   ],
+   "zh": [
+    "药瓶",
+    "白色瓶盖和标签的棕色药瓶。",
+    [
+     "药瓶",
+     "药店",
+     "药",
+     "处方药"
+    ]
+   ],
+   "ko": [
+    "약병",
+    "흰 뚜껑과 라벨이 붙은 갈색 약병.",
+    [
+     "약병",
+     "약국",
+     "약",
+     "처방약"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "vaccine",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Vaccine Syringe",
+    "A syringe and a small vial for a vaccination.",
+    [
+     "vaccine",
+     "syringe",
+     "injection",
+     "shot"
+    ]
+   ],
+   "ja": [
+    "ワクチン（注射器）",
+    "注射器とワクチンの小びん。",
+    [
+     "ワクチン",
+     "注射",
+     "予防接種",
+     "注射器"
+    ]
+   ],
+   "es": [
+    "Vacuna y jeringa",
+    "Una jeringa y un frasquito de vacuna.",
+    [
+     "vacuna",
+     "jeringa",
+     "inyección",
+     "vacunación"
+    ]
+   ],
+   "pt": [
+    "Vacina e seringa",
+    "Uma seringa e um frasquinho de vacina.",
+    [
+     "vacina",
+     "seringa",
+     "injeção",
+     "vacinação"
+    ]
+   ],
+   "fr": [
+    "Vaccin et seringue",
+    "Une seringue et un petit flacon de vaccin.",
+    [
+     "vaccin",
+     "seringue",
+     "piqûre",
+     "vaccination"
+    ]
+   ],
+   "de": [
+    "Impfspritze",
+    "Eine Spritze und ein kleines Impfstofffläschchen.",
+    [
+     "Impfung",
+     "Spritze",
+     "Impfstoff",
+     "Injektion"
+    ]
+   ],
+   "zh": [
+    "疫苗注射器",
+    "注射器和一小瓶疫苗。",
+    [
+     "疫苗",
+     "注射器",
+     "打针",
+     "接种"
+    ]
+   ],
+   "ko": [
+    "백신 주사기",
+    "주사기와 작은 백신 병.",
+    [
+     "백신",
+     "주사기",
+     "주사",
+     "예방접종"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bandage",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Adhesive Bandage",
+    "A smiling adhesive bandage for small cuts.",
+    [
+     "bandage",
+     "plaster",
+     "first aid",
+     "wound"
+    ]
+   ],
+   "ja": [
+    "絆創膏",
+    "にっこり笑顔のばんそうこう。",
+    [
+     "絆創膏",
+     "ばんそうこう",
+     "けが",
+     "応急手当"
+    ]
+   ],
+   "es": [
+    "Curita",
+    "Una curita sonriente para pequeñas heridas.",
+    [
+     "curita",
+     "tirita",
+     "herida",
+     "primeros auxilios"
+    ]
+   ],
+   "pt": [
+    "Band-aid",
+    "Um curativo adesivo sorridente para machucados.",
+    [
+     "curativo",
+     "band-aid",
+     "machucado",
+     "primeiros socorros"
+    ]
+   ],
+   "fr": [
+    "Pansement",
+    "Un pansement souriant pour les petites coupures.",
+    [
+     "pansement",
+     "blessure",
+     "premiers secours",
+     "coupure"
+    ]
+   ],
+   "de": [
+    "Pflaster",
+    "Ein lächelndes Pflaster für kleine Wunden.",
+    [
+     "Pflaster",
+     "Wunde",
+     "Erste Hilfe",
+     "Verletzung"
+    ]
+   ],
+   "zh": [
+    "创可贴",
+    "笑眯眯的创可贴。",
+    [
+     "创可贴",
+     "伤口",
+     "急救",
+     "受伤"
+    ]
+   ],
+   "ko": [
+    "반창고",
+    "방긋 웃는 반창고.",
+    [
+     "반창고",
+     "상처",
+     "응급처치",
+     "밴드"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "first-aid-kit",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "First Aid Kit",
+    "A green first aid kit with a white cross and handle.",
+    [
+     "first aid kit",
+     "emergency",
+     "medical",
+     "safety"
+    ]
+   ],
+   "ja": [
+    "救急箱",
+    "白い十字がついた緑の救急箱。",
+    [
+     "救急箱",
+     "応急手当",
+     "医療",
+     "防災"
+    ]
+   ],
+   "es": [
+    "Botiquín",
+    "Un botiquín verde con una cruz blanca y asa.",
+    [
+     "botiquín",
+     "primeros auxilios",
+     "emergencia",
+     "salud"
+    ]
+   ],
+   "pt": [
+    "Kit de primeiros socorros",
+    "Uma caixa verde de primeiros socorros com cruz branca.",
+    [
+     "primeiros socorros",
+     "kit",
+     "emergência",
+     "saúde"
+    ]
+   ],
+   "fr": [
+    "Trousse de secours",
+    "Une trousse de secours verte avec une croix blanche.",
+    [
+     "trousse de secours",
+     "premiers secours",
+     "urgence",
+     "santé"
+    ]
+   ],
+   "de": [
+    "Erste-Hilfe-Kasten",
+    "Ein grüner Erste-Hilfe-Kasten mit weißem Kreuz.",
+    [
+     "Erste Hilfe",
+     "Verbandskasten",
+     "Notfall",
+     "Sicherheit"
+    ]
+   ],
+   "zh": [
+    "急救箱",
+    "印着白色十字的绿色急救箱。",
+    [
+     "急救箱",
+     "急救",
+     "医疗",
+     "安全"
+    ]
+   ],
+   "ko": [
+    "구급상자",
+    "흰 십자가 있는 초록 구급상자.",
+    [
+     "구급상자",
+     "응급처치",
+     "의료",
+     "안전"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "face-mask",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Face Mask",
+    "A white pleated face mask with ear loops.",
+    [
+     "face mask",
+     "mask",
+     "hygiene",
+     "prevention"
+    ]
+   ],
+   "ja": [
+    "マスク",
+    "白いプリーツタイプのマスク。",
+    [
+     "マスク",
+     "感染予防",
+     "衛生",
+     "風邪"
+    ]
+   ],
+   "es": [
+    "Mascarilla",
+    "Una mascarilla blanca plisada con elásticos.",
+    [
+     "mascarilla",
+     "cubrebocas",
+     "higiene",
+     "prevención"
+    ]
+   ],
+   "pt": [
+    "Máscara",
+    "Uma máscara branca com pregas e elásticos.",
+    [
+     "máscara",
+     "proteção",
+     "higiene",
+     "prevenção"
+    ]
+   ],
+   "fr": [
+    "Masque",
+    "Un masque blanc plissé avec élastiques.",
+    [
+     "masque",
+     "masque chirurgical",
+     "hygiène",
+     "prévention"
+    ]
+   ],
+   "de": [
+    "Mundschutz",
+    "Eine weiße Gesichtsmaske mit Falten und Ohrschlaufen.",
+    [
+     "Maske",
+     "Mundschutz",
+     "Hygiene",
+     "Vorbeugung"
+    ]
+   ],
+   "zh": [
+    "口罩",
+    "白色褶皱口罩。",
+    [
+     "口罩",
+     "防护",
+     "卫生",
+     "预防"
+    ]
+   ],
+   "ko": [
+    "마스크",
+    "주름이 있는 하얀 마스크.",
+    [
+     "마스크",
+     "위생",
+     "예방",
+     "감기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hand-washing",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Washing Hands",
+    "Hands lathered with soap bubbles under the faucet.",
+    [
+     "hand washing",
+     "soap",
+     "hygiene",
+     "clean hands"
+    ]
+   ],
+   "ja": [
+    "手洗い",
+    "石けんの泡で手を洗うようす。",
+    [
+     "手洗い",
+     "石けん",
+     "衛生",
+     "感染予防"
+    ]
+   ],
+   "es": [
+    "Lavado de manos",
+    "Manos con jabón y burbujas bajo el grifo.",
+    [
+     "lavarse las manos",
+     "jabón",
+     "higiene",
+     "manos limpias"
+    ]
+   ],
+   "pt": [
+    "Lavando as mãos",
+    "Mãos com espuma de sabão embaixo da torneira.",
+    [
+     "lavar as mãos",
+     "sabão",
+     "higiene",
+     "mãos limpas"
+    ]
+   ],
+   "fr": [
+    "Lavage des mains",
+    "Des mains savonnées sous le robinet.",
+    [
+     "lavage des mains",
+     "savon",
+     "hygiène",
+     "mains propres"
+    ]
+   ],
+   "de": [
+    "Händewaschen",
+    "Eingeseifte Hände mit Schaumblasen am Wasserhahn.",
+    [
+     "Händewaschen",
+     "Seife",
+     "Hygiene",
+     "saubere Hände"
+    ]
+   ],
+   "zh": [
+    "洗手",
+    "在水龙头下用肥皂泡洗手。",
+    [
+     "洗手",
+     "肥皂",
+     "卫生",
+     "预防"
+    ]
+   ],
+   "ko": [
+    "손 씻기",
+    "비누 거품으로 손을 씻는 모습.",
+    [
+     "손 씻기",
+     "비누",
+     "위생",
+     "감염 예방"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hand-sanitizer",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hand Sanitizer",
+    "A pump bottle of hand sanitizer gel.",
+    [
+     "hand sanitizer",
+     "disinfectant",
+     "hygiene",
+     "alcohol gel"
+    ]
+   ],
+   "ja": [
+    "手指消毒液",
+    "ポンプ式のアルコール消毒液。",
+    [
+     "消毒液",
+     "アルコール消毒",
+     "衛生",
+     "手指消毒"
+    ]
+   ],
+   "es": [
+    "Gel antibacterial",
+    "Un frasco dosificador de gel desinfectante.",
+    [
+     "gel antibacterial",
+     "desinfectante",
+     "higiene",
+     "alcohol en gel"
+    ]
+   ],
+   "pt": [
+    "Álcool em gel",
+    "Um frasco com válvula de álcool em gel.",
+    [
+     "álcool em gel",
+     "desinfetante",
+     "higiene",
+     "mãos"
+    ]
+   ],
+   "fr": [
+    "Gel hydroalcoolique",
+    "Un flacon pompe de gel désinfectant pour les mains.",
+    [
+     "gel hydroalcoolique",
+     "désinfectant",
+     "hygiène",
+     "mains"
+    ]
+   ],
+   "de": [
+    "Desinfektionsmittel",
+    "Eine Pumpflasche mit Handdesinfektionsgel.",
+    [
+     "Desinfektionsmittel",
+     "Handdesinfektion",
+     "Hygiene",
+     "Gel"
+    ]
+   ],
+   "zh": [
+    "洗手液",
+    "按压式的免洗消毒洗手液。",
+    [
+     "消毒液",
+     "免洗洗手液",
+     "卫生",
+     "消毒"
+    ]
+   ],
+   "ko": [
+    "손 소독제",
+    "펌프형 손 소독젤.",
+    [
+     "손 소독제",
+     "소독",
+     "위생",
+     "알코올젤"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "gargling",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Gargling",
+    "A person tilting their head back to gargle with a cup of water.",
+    [
+     "gargling",
+     "gargle",
+     "hygiene",
+     "cold prevention"
+    ]
+   ],
+   "ja": [
+    "うがい",
+    "コップを持ってガラガラうがいをする人。",
+    [
+     "うがい",
+     "風邪予防",
+     "衛生",
+     "習慣"
+    ]
+   ],
+   "es": [
+    "Hacer gárgaras",
+    "Una persona hace gárgaras con un vaso de agua.",
+    [
+     "gárgaras",
+     "higiene",
+     "prevención",
+     "garganta"
+    ]
+   ],
+   "pt": [
+    "Gargarejo",
+    "Uma pessoa fazendo gargarejo com um copo de água.",
+    [
+     "gargarejo",
+     "higiene",
+     "prevenção",
+     "garganta"
+    ]
+   ],
+   "fr": [
+    "Gargarisme",
+    "Une personne se gargarise avec un verre d'eau.",
+    [
+     "gargarisme",
+     "hygiène",
+     "prévention",
+     "gorge"
+    ]
+   ],
+   "de": [
+    "Gurgeln",
+    "Eine Person gurgelt mit einem Becher Wasser.",
+    [
+     "Gurgeln",
+     "Hygiene",
+     "Erkältung vorbeugen",
+     "Hals"
+    ]
+   ],
+   "zh": [
+    "漱口",
+    "拿着杯子仰头漱口的人。",
+    [
+     "漱口",
+     "预防感冒",
+     "卫生",
+     "习惯"
+    ]
+   ],
+   "ko": [
+    "가글",
+    "컵을 들고 고개를 젖혀 가글하는 사람.",
+    [
+     "가글",
+     "양치",
+     "감기 예방",
+     "위생"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "coughing",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person Coughing",
+    "A person covering their mouth while coughing.",
+    [
+     "cough",
+     "cold",
+     "sick",
+     "etiquette"
+    ]
+   ],
+   "ja": [
+    "咳をする人",
+    "口元を手でおさえて咳をする人。",
+    [
+     "咳",
+     "風邪",
+     "体調不良",
+     "咳エチケット"
+    ]
+   ],
+   "es": [
+    "Persona tosiendo",
+    "Una persona se tapa la boca al toser.",
+    [
+     "tos",
+     "resfriado",
+     "enfermo",
+     "toser"
+    ]
+   ],
+   "pt": [
+    "Pessoa tossindo",
+    "Uma pessoa cobrindo a boca ao tossir.",
+    [
+     "tosse",
+     "resfriado",
+     "doente",
+     "gripe"
+    ]
+   ],
+   "fr": [
+    "Personne qui tousse",
+    "Une personne se couvre la bouche en toussant.",
+    [
+     "toux",
+     "rhume",
+     "malade",
+     "tousser"
+    ]
+   ],
+   "de": [
+    "Hustende Person",
+    "Eine Person hält sich beim Husten die Hand vor den Mund.",
+    [
+     "Husten",
+     "Erkältung",
+     "krank",
+     "Hustenetikette"
+    ]
+   ],
+   "zh": [
+    "咳嗽的人",
+    "用手捂着嘴咳嗽的人。",
+    [
+     "咳嗽",
+     "感冒",
+     "生病",
+     "咳嗽礼仪"
+    ]
+   ],
+   "ko": [
+    "기침하는 사람",
+    "손으로 입을 가리고 기침하는 사람.",
+    [
+     "기침",
+     "감기",
+     "몸살",
+     "기침 예절"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "fever",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person with Fever",
+    "A flushed person with an ice pack and a thermometer.",
+    [
+     "fever",
+     "sick",
+     "ice pack",
+     "cold"
+    ]
+   ],
+   "ja": [
+    "熱を出した人",
+    "氷のうをのせ体温計をくわえた人。",
+    [
+     "発熱",
+     "熱",
+     "風邪",
+     "氷のう"
+    ]
+   ],
+   "es": [
+    "Persona con fiebre",
+    "Una persona acalorada con bolsa de hielo y termómetro.",
+    [
+     "fiebre",
+     "enfermo",
+     "bolsa de hielo",
+     "gripe"
+    ]
+   ],
+   "pt": [
+    "Pessoa com febre",
+    "Uma pessoa corada com bolsa de gelo e termômetro.",
+    [
+     "febre",
+     "doente",
+     "bolsa de gelo",
+     "gripe"
+    ]
+   ],
+   "fr": [
+    "Personne fiévreuse",
+    "Une personne fiévreuse avec une poche de glace et un thermomètre.",
+    [
+     "fièvre",
+     "malade",
+     "poche de glace",
+     "grippe"
+    ]
+   ],
+   "de": [
+    "Person mit Fieber",
+    "Eine fiebrige Person mit Eisbeutel und Thermometer.",
+    [
+     "Fieber",
+     "krank",
+     "Eisbeutel",
+     "Grippe"
+    ]
+   ],
+   "zh": [
+    "发烧的人",
+    "头顶冰袋、嘴含体温计的人。",
+    [
+     "发烧",
+     "生病",
+     "冰袋",
+     "感冒"
+    ]
+   ],
+   "ko": [
+    "열이 나는 사람",
+    "얼음주머니를 얹고 체온계를 문 사람.",
+    [
+     "발열",
+     "열",
+     "감기",
+     "얼음주머니"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "headache",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person with Headache",
+    "A person holding their head in pain.",
+    [
+     "headache",
+     "pain",
+     "sick",
+     "migraine"
+    ]
+   ],
+   "ja": [
+    "頭痛の人",
+    "頭をかかえて痛がる人。",
+    [
+     "頭痛",
+     "痛み",
+     "体調不良",
+     "片頭痛"
+    ]
+   ],
+   "es": [
+    "Persona con dolor de cabeza",
+    "Una persona se sujeta la cabeza por el dolor.",
+    [
+     "dolor de cabeza",
+     "dolor",
+     "migraña",
+     "enfermo"
+    ]
+   ],
+   "pt": [
+    "Pessoa com dor de cabeça",
+    "Uma pessoa segurando a cabeça de dor.",
+    [
+     "dor de cabeça",
+     "dor",
+     "enxaqueca",
+     "doente"
+    ]
+   ],
+   "fr": [
+    "Personne avec mal de tête",
+    "Une personne se tient la tête de douleur.",
+    [
+     "mal de tête",
+     "douleur",
+     "migraine",
+     "malade"
+    ]
+   ],
+   "de": [
+    "Person mit Kopfschmerzen",
+    "Eine Person hält sich vor Schmerz den Kopf.",
+    [
+     "Kopfschmerzen",
+     "Schmerz",
+     "Migräne",
+     "krank"
+    ]
+   ],
+   "zh": [
+    "头痛的人",
+    "抱着头喊疼的人。",
+    [
+     "头痛",
+     "疼痛",
+     "偏头痛",
+     "不舒服"
+    ]
+   ],
+   "ko": [
+    "두통이 있는 사람",
+    "머리를 감싸 쥐고 아파하는 사람.",
+    [
+     "두통",
+     "통증",
+     "편두통",
+     "몸살"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "stomachache",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person with Stomachache",
+    "A person holding their belly with a pained face.",
+    [
+     "stomachache",
+     "belly ache",
+     "pain",
+     "sick"
+    ]
+   ],
+   "ja": [
+    "腹痛の人",
+    "お腹をおさえて痛がる人。",
+    [
+     "腹痛",
+     "お腹が痛い",
+     "体調不良",
+     "食あたり"
+    ]
+   ],
+   "es": [
+    "Persona con dolor de barriga",
+    "Una persona se agarra la barriga con cara de dolor.",
+    [
+     "dolor de estómago",
+     "dolor de barriga",
+     "dolor",
+     "enfermo"
+    ]
+   ],
+   "pt": [
+    "Pessoa com dor de barriga",
+    "Uma pessoa segurando a barriga com cara de dor.",
+    [
+     "dor de barriga",
+     "dor de estômago",
+     "dor",
+     "doente"
+    ]
+   ],
+   "fr": [
+    "Personne avec mal de ventre",
+    "Une personne se tient le ventre en grimaçant.",
+    [
+     "mal de ventre",
+     "mal au ventre",
+     "douleur",
+     "malade"
+    ]
+   ],
+   "de": [
+    "Person mit Bauchschmerzen",
+    "Eine Person hält sich den Bauch vor Schmerzen.",
+    [
+     "Bauchschmerzen",
+     "Bauchweh",
+     "Schmerz",
+     "krank"
+    ]
+   ],
+   "zh": [
+    "肚子痛的人",
+    "捂着肚子一脸痛苦的人。",
+    [
+     "肚子痛",
+     "腹痛",
+     "疼痛",
+     "不舒服"
+    ]
+   ],
+   "ko": [
+    "배가 아픈 사람",
+    "배를 움켜쥐고 아파하는 사람.",
+    [
+     "복통",
+     "배탈",
+     "통증",
+     "몸살"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "toothache",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person with Toothache",
+    "A person holding a swollen cheek next to an aching tooth.",
+    [
+     "toothache",
+     "dentist",
+     "tooth",
+     "pain"
+    ]
+   ],
+   "ja": [
+    "歯痛の人",
+    "腫れたほっぺをおさえる歯が痛い人。",
+    [
+     "歯痛",
+     "虫歯",
+     "歯医者",
+     "痛み"
+    ]
+   ],
+   "es": [
+    "Persona con dolor de muelas",
+    "Una persona se sujeta la mejilla hinchada por el dolor de muelas.",
+    [
+     "dolor de muelas",
+     "dentista",
+     "diente",
+     "caries"
+    ]
+   ],
+   "pt": [
+    "Pessoa com dor de dente",
+    "Uma pessoa segurando a bochecha inchada de dor de dente.",
+    [
+     "dor de dente",
+     "dentista",
+     "dente",
+     "cárie"
+    ]
+   ],
+   "fr": [
+    "Personne avec mal de dents",
+    "Une personne se tient la joue enflée à cause d'une dent.",
+    [
+     "mal de dents",
+     "dentiste",
+     "dent",
+     "carie"
+    ]
+   ],
+   "de": [
+    "Person mit Zahnschmerzen",
+    "Eine Person hält sich die geschwollene Wange.",
+    [
+     "Zahnschmerzen",
+     "Zahnarzt",
+     "Zahn",
+     "Karies"
+    ]
+   ],
+   "zh": [
+    "牙痛的人",
+    "捂着肿起的脸颊喊牙疼的人。",
+    [
+     "牙痛",
+     "蛀牙",
+     "牙医",
+     "疼痛"
+    ]
+   ],
+   "ko": [
+    "치통이 있는 사람",
+    "부은 볼을 감싸 쥔 이가 아픈 사람.",
+    [
+     "치통",
+     "충치",
+     "치과",
+     "통증"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "flu-in-bed",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sick in Bed",
+    "A person with the flu resting in bed with a towel on the forehead.",
+    [
+     "sick in bed",
+     "flu",
+     "cold",
+     "resting"
+    ]
+   ],
+   "ja": [
+    "風邪で寝込む人",
+    "おでこにタオルをのせて布団で寝込む人。",
+    [
+     "風邪",
+     "インフルエンザ",
+     "寝込む",
+     "看病"
+    ]
+   ],
+   "es": [
+    "Enfermo en cama",
+    "Una persona con gripe descansa en la cama con un paño en la frente.",
+    [
+     "enfermo",
+     "gripe",
+     "resfriado",
+     "cama"
+    ]
+   ],
+   "pt": [
+    "Doente de cama",
+    "Uma pessoa gripada descansando na cama com toalha na testa.",
+    [
+     "doente",
+     "gripe",
+     "resfriado",
+     "cama"
+    ]
+   ],
+   "fr": [
+    "Malade au lit",
+    "Une personne grippée se repose au lit avec un linge sur le front.",
+    [
+     "malade",
+     "grippe",
+     "rhume",
+     "lit"
+    ]
+   ],
+   "de": [
+    "Krank im Bett",
+    "Eine grippekranke Person ruht im Bett mit Tuch auf der Stirn.",
+    [
+     "krank",
+     "Grippe",
+     "Erkältung",
+     "Bett"
+    ]
+   ],
+   "zh": [
+    "卧病在床",
+    "额头敷着毛巾躺在床上的病人。",
+    [
+     "生病",
+     "流感",
+     "感冒",
+     "卧床"
+    ]
+   ],
+   "ko": [
+    "앓아누운 사람",
+    "이마에 수건을 얹고 침대에 누운 아픈 사람.",
+    [
+     "감기",
+     "독감",
+     "앓아눕다",
+     "간병"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hay-fever",
+  "cat": "health",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hay Fever Sneeze",
+    "A person sneezing among floating pollen.",
+    [
+     "hay fever",
+     "pollen",
+     "allergy",
+     "sneeze"
+    ]
+   ],
+   "ja": [
+    "花粉症の人",
+    "花粉が舞う中でくしゃみをする人。",
+    [
+     "花粉症",
+     "花粉",
+     "くしゃみ",
+     "アレルギー"
+    ]
+   ],
+   "es": [
+    "Alergia al polen",
+    "Una persona estornuda entre granos de polen.",
+    [
+     "alergia",
+     "polen",
+     "estornudo",
+     "rinitis"
+    ]
+   ],
+   "pt": [
+    "Alergia a pólen",
+    "Uma pessoa espirrando no meio do pólen.",
+    [
+     "alergia",
+     "pólen",
+     "espirro",
+     "rinite"
+    ]
+   ],
+   "fr": [
+    "Rhume des foins",
+    "Une personne éternue au milieu du pollen.",
+    [
+     "rhume des foins",
+     "pollen",
+     "allergie",
+     "éternuer"
+    ]
+   ],
+   "de": [
+    "Heuschnupfen",
+    "Eine Person niest inmitten von fliegendem Pollen.",
+    [
+     "Heuschnupfen",
+     "Pollen",
+     "Allergie",
+     "Niesen"
+    ]
+   ],
+   "zh": [
+    "花粉症",
+    "在飞舞的花粉中打喷嚏的人。",
+    [
+     "花粉症",
+     "花粉",
+     "打喷嚏",
+     "过敏"
+    ]
+   ],
+   "ko": [
+    "꽃가루 알레르기",
+    "꽃가루가 날리는 가운데 재채기하는 사람.",
+    [
+     "꽃가루 알레르기",
+     "꽃가루",
+     "재채기",
+     "알레르기"
+    ]
+   ]
+  }
+ }
+]

@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "cloudy",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Fluffy Clouds",
+    "Soft fluffy clouds with a smiling face on a cloudy day.",
+    [
+     "cloud",
+     "cloudy",
+     "weather",
+     "sky"
+    ]
+   ],
+   "ja": [
+    "もくもく曇り",
+    "にっこり顔のふわふわ雲が浮かぶ曇り空のイラスト。",
+    [
+     "雲",
+     "曇り",
+     "天気",
+     "空"
+    ]
+   ],
+   "es": [
+    "Nubes esponjosas",
+    "Nubes suaves y esponjosas con una cara sonriente en un día nublado.",
+    [
+     "nube",
+     "nublado",
+     "clima",
+     "cielo"
+    ]
+   ],
+   "pt": [
+    "Nuvens fofinhas",
+    "Nuvens fofinhas com carinha sorridente em um dia nublado.",
+    [
+     "nuvem",
+     "nublado",
+     "clima",
+     "céu"
+    ]
+   ],
+   "fr": [
+    "Nuages tout doux",
+    "De gros nuages moelleux au visage souriant par temps couvert.",
+    [
+     "nuage",
+     "nuageux",
+     "météo",
+     "ciel"
+    ]
+   ],
+   "de": [
+    "Flauschige Wolken",
+    "Weiche, flauschige Wolken mit lächelndem Gesicht an einem bewölkten Tag.",
+    [
+     "Wolke",
+     "bewölkt",
+     "Wetter",
+     "Himmel"
+    ]
+   ],
+   "zh": [
+    "软绵绵的云朵",
+    "阴天里带着笑脸的软绵绵云朵插画。",
+    [
+     "云",
+     "多云",
+     "天气",
+     "天空"
+    ]
+   ],
+   "ko": [
+    "몽글몽글 구름",
+    "웃는 얼굴의 폭신한 구름이 떠 있는 흐린 날 일러스트.",
+    [
+     "구름",
+     "흐림",
+     "날씨",
+     "하늘"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "thunder-cloud",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Thunder Cloud",
+    "An angry gray cloud shooting yellow lightning bolts.",
+    [
+     "thunder",
+     "lightning",
+     "thunderstorm",
+     "weather"
+    ]
+   ],
+   "ja": [
+    "かみなり雲",
+    "ぷんぷん怒った灰色の雲から黄色い稲妻が落ちるイラスト。",
+    [
+     "雷",
+     "稲妻",
+     "雷雲",
+     "天気"
+    ]
+   ],
+   "es": [
+    "Nube de tormenta eléctrica",
+    "Una nube gris enojada que lanza rayos amarillos.",
+    [
+     "trueno",
+     "rayo",
+     "tormenta eléctrica",
+     "clima"
+    ]
+   ],
+   "pt": [
+    "Nuvem de trovão",
+    "Uma nuvem cinza brava soltando raios amarelos.",
+    [
+     "trovão",
+     "raio",
+     "tempestade",
+     "clima"
+    ]
+   ],
+   "fr": [
+    "Nuage d'orage",
+    "Un nuage gris en colère qui lance des éclairs jaunes.",
+    [
+     "orage",
+     "éclair",
+     "tonnerre",
+     "météo"
+    ]
+   ],
+   "de": [
+    "Gewitterwolke",
+    "Eine wütende graue Wolke, aus der gelbe Blitze zucken.",
+    [
+     "Gewitter",
+     "Blitz",
+     "Donner",
+     "Wetter"
+    ]
+   ],
+   "zh": [
+    "雷雨云",
+    "生气的灰色云朵劈下黄色闪电的插画。",
+    [
+     "打雷",
+     "闪电",
+     "雷雨",
+     "天气"
+    ]
+   ],
+   "ko": [
+    "천둥 구름",
+    "화난 회색 구름에서 노란 번개가 치는 일러스트.",
+    [
+     "천둥",
+     "번개",
+     "뇌우",
+     "날씨"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "snow-falling",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Falling Snow",
+    "Snowflakes gently falling onto a snowy ground.",
+    [
+     "snow",
+     "snowfall",
+     "winter",
+     "weather"
+    ]
+   ],
+   "ja": [
+    "しんしんと降る雪",
+    "雪の結晶がふわふわと降り積もる冬のイラスト。",
+    [
+     "雪",
+     "降雪",
+     "冬",
+     "天気"
+    ]
+   ],
+   "es": [
+    "Nieve cayendo",
+    "Copos de nieve que caen suavemente sobre el suelo nevado.",
+    [
+     "nieve",
+     "nevada",
+     "invierno",
+     "clima"
+    ]
+   ],
+   "pt": [
+    "Neve caindo",
+    "Flocos de neve caindo devagar sobre o chão coberto de neve.",
+    [
+     "neve",
+     "nevando",
+     "inverno",
+     "clima"
+    ]
+   ],
+   "fr": [
+    "Chute de neige",
+    "Des flocons de neige qui tombent doucement sur le sol enneigé.",
+    [
+     "neige",
+     "flocons",
+     "hiver",
+     "météo"
+    ]
+   ],
+   "de": [
+    "Schneefall",
+    "Schneeflocken rieseln sanft auf den verschneiten Boden.",
+    [
+     "Schnee",
+     "Schneefall",
+     "Winter",
+     "Wetter"
+    ]
+   ],
+   "zh": [
+    "飘雪",
+    "雪花轻轻飘落在雪地上的冬日插画。",
+    [
+     "雪",
+     "下雪",
+     "冬天",
+     "天气"
+    ]
+   ],
+   "ko": [
+    "내리는 눈",
+    "눈송이가 소복소복 쌓이는 겨울 일러스트.",
+    [
+     "눈",
+     "눈 내리는 날",
+     "겨울",
+     "날씨"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "wind",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Blowing Wind",
+    "Swirling gusts of wind blowing colorful leaves around.",
+    [
+     "wind",
+     "windy",
+     "breeze",
+     "weather"
+    ]
+   ],
+   "ja": [
+    "びゅーっと吹く風",
+    "くるくる渦巻く風に葉っぱが舞うイラスト。",
+    [
+     "風",
+     "強風",
+     "そよ風",
+     "天気"
+    ]
+   ],
+   "es": [
+    "Viento soplando",
+    "Ráfagas de viento en espiral que hacen volar hojas de colores.",
+    [
+     "viento",
+     "ventoso",
+     "brisa",
+     "clima"
+    ]
+   ],
+   "pt": [
+    "Vento soprando",
+    "Rajadas de vento em espiral levando folhas coloridas.",
+    [
+     "vento",
+     "ventania",
+     "brisa",
+     "clima"
+    ]
+   ],
+   "fr": [
+    "Coup de vent",
+    "Des rafales de vent en spirale qui emportent des feuilles colorées.",
+    [
+     "vent",
+     "venteux",
+     "brise",
+     "météo"
+    ]
+   ],
+   "de": [
+    "Wehender Wind",
+    "Wirbelnde Windböen wehen bunte Blätter durch die Luft.",
+    [
+     "Wind",
+     "windig",
+     "Brise",
+     "Wetter"
+    ]
+   ],
+   "zh": [
+    "刮风",
+    "打着旋儿的风吹起彩色树叶的插画。",
+    [
+     "风",
+     "大风",
+     "微风",
+     "天气"
+    ]
+   ],
+   "ko": [
+    "바람",
+    "소용돌이치는 바람에 나뭇잎이 날리는 일러스트.",
+    [
+     "바람",
+     "강풍",
+     "산들바람",
+     "날씨"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "storm",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Storm",
+    "A dark storm cloud with heavy slanting rain and strong wind.",
+    [
+     "storm",
+     "heavy rain",
+     "typhoon",
+     "weather"
+    ]
+   ],
+   "ja": [
+    "嵐",
+    "黒い雲から横なぐりの大雨と強い風が吹きつける嵐のイラスト。",
+    [
+     "嵐",
+     "大雨",
+     "台風",
+     "天気"
+    ]
+   ],
+   "es": [
+    "Tormenta",
+    "Una nube oscura con lluvia intensa e inclinada y viento fuerte.",
+    [
+     "tormenta",
+     "lluvia fuerte",
+     "tifón",
+     "clima"
+    ]
+   ],
+   "pt": [
+    "Tempestade",
+    "Uma nuvem escura com chuva forte e inclinada e muito vento.",
+    [
+     "tempestade",
+     "chuva forte",
+     "tufão",
+     "clima"
+    ]
+   ],
+   "fr": [
+    "Tempête",
+    "Un nuage sombre avec une pluie battante et un vent violent.",
+    [
+     "tempête",
+     "forte pluie",
+     "typhon",
+     "météo"
+    ]
+   ],
+   "de": [
+    "Unwetter",
+    "Eine dunkle Sturmwolke mit schrägem Starkregen und kräftigem Wind.",
+    [
+     "Sturm",
+     "Starkregen",
+     "Taifun",
+     "Wetter"
+    ]
+   ],
+   "zh": [
+    "暴风雨",
+    "乌云下斜斜的大雨和狂风的暴风雨插画。",
+    [
+     "暴风雨",
+     "大雨",
+     "台风",
+     "天气"
+    ]
+   ],
+   "ko": [
+    "폭풍",
+    "먹구름에서 비바람이 몰아치는 폭풍 일러스트.",
+    [
+     "폭풍",
+     "폭우",
+     "태풍",
+     "날씨"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "heat-sun",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Scorching Sun",
+    "A blazing hot sun sweating above shimmering heat waves.",
+    [
+     "heat",
+     "heatwave",
+     "hot",
+     "summer"
+    ]
+   ],
+   "ja": [
+    "ギラギラ猛暑の太陽",
+    "汗をかいた太陽とゆらゆら陽炎が立つ真夏のイラスト。",
+    [
+     "猛暑",
+     "暑い",
+     "熱中症",
+     "夏"
+    ]
+   ],
+   "es": [
+    "Sol abrasador",
+    "Un sol ardiente y sudoroso sobre ondas de calor.",
+    [
+     "calor",
+     "ola de calor",
+     "caluroso",
+     "verano"
+    ]
+   ],
+   "pt": [
+    "Sol escaldante",
+    "Um sol muito quente e suado sobre ondas de calor.",
+    [
+     "calor",
+     "onda de calor",
+     "quente",
+     "verão"
+    ]
+   ],
+   "fr": [
+    "Soleil brûlant",
+    "Un soleil brûlant qui transpire au-dessus de vagues de chaleur.",
+    [
+     "chaleur",
+     "canicule",
+     "chaud",
+     "été"
+    ]
+   ],
+   "de": [
+    "Glühende Sonne",
+    "Eine glühend heiße, schwitzende Sonne über flimmernder Hitze.",
+    [
+     "Hitze",
+     "Hitzewelle",
+     "heiß",
+     "Sommer"
+    ]
+   ],
+   "zh": [
+    "火辣辣的太阳",
+    "满头大汗的太阳和蒸腾热浪的盛夏插画。",
+    [
+     "炎热",
+     "高温",
+     "酷暑",
+     "夏天"
+    ]
+   ],
+   "ko": [
+    "쨍쨍 더운 해",
+    "땀 흘리는 해와 아지랑이가 피어오르는 한여름 일러스트.",
+    [
+     "폭염",
+     "더위",
+     "무더위",
+     "여름"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sunrise",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sunrise",
+    "A smiling sun rising over green hills in the morning.",
+    [
+     "sunrise",
+     "morning",
+     "dawn",
+     "sun"
+    ]
+   ],
+   "ja": [
+    "日の出",
+    "緑の丘の向こうからにっこり太陽がのぼる朝のイラスト。",
+    [
+     "日の出",
+     "朝",
+     "夜明け",
+     "太陽"
+    ]
+   ],
+   "es": [
+    "Amanecer",
+    "Un sol sonriente que sale sobre las colinas verdes por la mañana.",
+    [
+     "amanecer",
+     "mañana",
+     "alba",
+     "sol"
+    ]
+   ],
+   "pt": [
+    "Nascer do sol",
+    "Um sol sorridente nascendo atrás de morros verdes pela manhã.",
+    [
+     "nascer do sol",
+     "manhã",
+     "amanhecer",
+     "sol"
+    ]
+   ],
+   "fr": [
+    "Lever du soleil",
+    "Un soleil souriant qui se lève derrière des collines vertes le matin.",
+    [
+     "lever du soleil",
+     "matin",
+     "aube",
+     "soleil"
+    ]
+   ],
+   "de": [
+    "Sonnenaufgang",
+    "Eine lächelnde Sonne geht morgens über grünen Hügeln auf.",
+    [
+     "Sonnenaufgang",
+     "Morgen",
+     "Morgendämmerung",
+     "Sonne"
+    ]
+   ],
+   "zh": [
+    "日出",
+    "笑眯眯的太阳从绿色山丘后升起的清晨插画。",
+    [
+     "日出",
+     "早晨",
+     "黎明",
+     "太阳"
+    ]
+   ],
+   "ko": [
+    "해돋이",
+    "초록 언덕 너머로 웃는 해가 떠오르는 아침 일러스트.",
+    [
+     "해돋이",
+     "아침",
+     "일출",
+     "해"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sunset",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sunset over the Sea",
+    "An orange sun sinking into the sea with a shimmering reflection.",
+    [
+     "sunset",
+     "evening",
+     "sea",
+     "dusk"
+    ]
+   ],
+   "ja": [
+    "海に沈む夕日",
+    "オレンジ色の夕日が海に沈み、水面がきらめくイラスト。",
+    [
+     "夕日",
+     "夕方",
+     "海",
+     "夕焼け"
+    ]
+   ],
+   "es": [
+    "Atardecer en el mar",
+    "Un sol naranja que se oculta en el mar con un reflejo brillante.",
+    [
+     "atardecer",
+     "tarde",
+     "mar",
+     "puesta de sol"
+    ]
+   ],
+   "pt": [
+    "Pôr do sol no mar",
+    "Um sol laranja se pondo no mar com reflexo brilhante na água.",
+    [
+     "pôr do sol",
+     "entardecer",
+     "mar",
+     "fim de tarde"
+    ]
+   ],
+   "fr": [
+    "Coucher de soleil sur la mer",
+    "Un soleil orange qui se couche sur la mer avec un reflet scintillant.",
+    [
+     "coucher de soleil",
+     "soir",
+     "mer",
+     "crépuscule"
+    ]
+   ],
+   "de": [
+    "Sonnenuntergang am Meer",
+    "Eine orange Sonne versinkt im Meer und glitzert auf dem Wasser.",
+    [
+     "Sonnenuntergang",
+     "Abend",
+     "Meer",
+     "Abenddämmerung"
+    ]
+   ],
+   "zh": [
+    "海上日落",
+    "橙色夕阳沉入大海、海面闪闪发光的插画。",
+    [
+     "日落",
+     "傍晚",
+     "大海",
+     "夕阳"
+    ]
+   ],
+   "ko": [
+    "바다 위 노을",
+    "주황빛 해가 바다로 지며 물결이 반짝이는 일러스트.",
+    [
+     "노을",
+     "저녁",
+     "바다",
+     "석양"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tornado",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tornado",
+    "A swirling gray tornado funnel picking up leaves and debris.",
+    [
+     "tornado",
+     "twister",
+     "storm",
+     "natural disaster"
+    ]
+   ],
+   "ja": [
+    "竜巻",
+    "ぐるぐる回る灰色の竜巻が葉っぱや板を巻き上げるイラスト。",
+    [
+     "竜巻",
+     "つむじ風",
+     "嵐",
+     "自然災害"
+    ]
+   ],
+   "es": [
+    "Tornado",
+    "Un embudo de tornado gris girando que levanta hojas y escombros.",
+    [
+     "tornado",
+     "torbellino",
+     "tormenta",
+     "desastre natural"
+    ]
+   ],
+   "pt": [
+    "Tornado",
+    "Um funil de tornado cinza girando e levantando folhas e destroços.",
+    [
+     "tornado",
+     "redemoinho",
+     "tempestade",
+     "desastre natural"
+    ]
+   ],
+   "fr": [
+    "Tornade",
+    "Un entonnoir de tornade grise qui tourbillonne et soulève feuilles et débris.",
+    [
+     "tornade",
+     "tourbillon",
+     "tempête",
+     "catastrophe naturelle"
+    ]
+   ],
+   "de": [
+    "Tornado",
+    "Ein wirbelnder grauer Tornadotrichter, der Blätter und Trümmer aufwirbelt.",
+    [
+     "Tornado",
+     "Wirbelsturm",
+     "Sturm",
+     "Naturkatastrophe"
+    ]
+   ],
+   "zh": [
+    "龙卷风",
+    "旋转的灰色龙卷风卷起树叶和杂物的插画。",
+    [
+     "龙卷风",
+     "旋风",
+     "风暴",
+     "自然灾害"
+    ]
+   ],
+   "ko": [
+    "토네이도",
+    "빙글빙글 도는 회색 토네이도가 나뭇잎과 잔해를 휘감는 일러스트.",
+    [
+     "토네이도",
+     "회오리바람",
+     "폭풍",
+     "자연재해"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "snowflake",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Snowflake",
+    "A single pale blue snowflake crystal with a tiny smile.",
+    [
+     "snowflake",
+     "snow",
+     "winter",
+     "ice crystal"
+    ]
+   ],
+   "ja": [
+    "雪の結晶",
+    "小さな笑顔がついた水色の雪の結晶のイラスト。",
+    [
+     "雪の結晶",
+     "雪",
+     "冬",
+     "結晶"
+    ]
+   ],
+   "es": [
+    "Copo de nieve",
+    "Un copo de nieve azul claro con una pequeña sonrisa.",
+    [
+     "copo de nieve",
+     "nieve",
+     "invierno",
+     "cristal de hielo"
+    ]
+   ],
+   "pt": [
+    "Floco de neve",
+    "Um floco de neve azul-claro com um sorrisinho.",
+    [
+     "floco de neve",
+     "neve",
+     "inverno",
+     "cristal de gelo"
+    ]
+   ],
+   "fr": [
+    "Flocon de neige",
+    "Un flocon de neige bleu clair avec un petit sourire.",
+    [
+     "flocon de neige",
+     "neige",
+     "hiver",
+     "cristal de glace"
+    ]
+   ],
+   "de": [
+    "Schneeflocke",
+    "Ein hellblauer Schneekristall mit einem kleinen Lächeln.",
+    [
+     "Schneeflocke",
+     "Schnee",
+     "Winter",
+     "Eiskristall"
+    ]
+   ],
+   "zh": [
+    "雪花",
+    "带着小小笑脸的浅蓝色雪花结晶插画。",
+    [
+     "雪花",
+     "雪",
+     "冬天",
+     "冰晶"
+    ]
+   ],
+   "ko": [
+    "눈 결정",
+    "작은 미소가 있는 하늘색 눈 결정 일러스트.",
+    [
+     "눈 결정",
+     "눈송이",
+     "겨울",
+     "결정"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "saturn",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Saturn",
+    "A cute ringed planet with a smiling face floating in space.",
+    [
+     "Saturn",
+     "planet",
+     "space",
+     "astronomy"
+    ]
+   ],
+   "ja": [
+    "土星",
+    "にっこり顔の環のある惑星が宇宙に浮かぶイラスト。",
+    [
+     "土星",
+     "惑星",
+     "宇宙",
+     "天体"
+    ]
+   ],
+   "es": [
+    "Saturno",
+    "Un tierno planeta con anillos y cara sonriente flotando en el espacio.",
+    [
+     "Saturno",
+     "planeta",
+     "espacio",
+     "astronomía"
+    ]
+   ],
+   "pt": [
+    "Saturno",
+    "Um planeta fofo com anéis e carinha sorridente flutuando no espaço.",
+    [
+     "Saturno",
+     "planeta",
+     "espaço",
+     "astronomia"
+    ]
+   ],
+   "fr": [
+    "Saturne",
+    "Une jolie planète à anneaux au visage souriant qui flotte dans l'espace.",
+    [
+     "Saturne",
+     "planète",
+     "espace",
+     "astronomie"
+    ]
+   ],
+   "de": [
+    "Saturn",
+    "Ein niedlicher Ringplanet mit lächelndem Gesicht im Weltall.",
+    [
+     "Saturn",
+     "Planet",
+     "Weltraum",
+     "Astronomie"
+    ]
+   ],
+   "zh": [
+    "土星",
+    "带着笑脸、漂浮在太空中的可爱光环行星插画。",
+    [
+     "土星",
+     "行星",
+     "宇宙",
+     "天文"
+    ]
+   ],
+   "ko": [
+    "토성",
+    "웃는 얼굴의 고리 달린 행성이 우주에 떠 있는 일러스트.",
+    [
+     "토성",
+     "행성",
+     "우주",
+     "천문"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "shooting-star",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Shooting Star",
+    "A smiling yellow star streaking across the sky with a colorful tail.",
+    [
+     "shooting star",
+     "wish",
+     "night sky",
+     "star"
+    ]
+   ],
+   "ja": [
+    "流れ星",
+    "カラフルな尾を引いて夜空を流れるにっこり星のイラスト。",
+    [
+     "流れ星",
+     "願い事",
+     "夜空",
+     "星"
+    ]
+   ],
+   "es": [
+    "Estrella fugaz",
+    "Una estrella amarilla sonriente que cruza el cielo con una cola de colores.",
+    [
+     "estrella fugaz",
+     "deseo",
+     "cielo nocturno",
+     "estrella"
+    ]
+   ],
+   "pt": [
+    "Estrela cadente",
+    "Uma estrela amarela sorridente cruzando o céu com uma cauda colorida.",
+    [
+     "estrela cadente",
+     "desejo",
+     "céu noturno",
+     "estrela"
+    ]
+   ],
+   "fr": [
+    "Étoile filante",
+    "Une étoile jaune souriante qui traverse le ciel avec une traînée colorée.",
+    [
+     "étoile filante",
+     "vœu",
+     "ciel nocturne",
+     "étoile"
+    ]
+   ],
+   "de": [
+    "Sternschnuppe",
+    "Ein lächelnder gelber Stern zieht mit buntem Schweif über den Himmel.",
+    [
+     "Sternschnuppe",
+     "Wunsch",
+     "Nachthimmel",
+     "Stern"
+    ]
+   ],
+   "zh": [
+    "流星",
+    "拖着彩色尾巴划过夜空的笑脸星星插画。",
+    [
+     "流星",
+     "许愿",
+     "夜空",
+     "星星"
+    ]
+   ],
+   "ko": [
+    "별똥별",
+    "알록달록한 꼬리를 그리며 밤하늘을 가르는 웃는 별 일러스트.",
+    [
+     "별똥별",
+     "소원",
+     "밤하늘",
+     "별"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ufo",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "UFO",
+    "A flying saucer with colorful lights shining a beam of light downward.",
+    [
+     "UFO",
+     "flying saucer",
+     "alien",
+     "space"
+    ]
+   ],
+   "ja": [
+    "UFO",
+    "カラフルなライトを光らせて光線を出す空飛ぶ円盤のイラスト。",
+    [
+     "UFO",
+     "空飛ぶ円盤",
+     "宇宙人",
+     "宇宙"
+    ]
+   ],
+   "es": [
+    "Ovni",
+    "Un platillo volador con luces de colores que proyecta un rayo de luz.",
+    [
+     "ovni",
+     "platillo volador",
+     "extraterrestre",
+     "espacio"
+    ]
+   ],
+   "pt": [
+    "Óvni",
+    "Um disco voador com luzes coloridas lançando um feixe de luz para baixo.",
+    [
+     "óvni",
+     "disco voador",
+     "alienígena",
+     "espaço"
+    ]
+   ],
+   "fr": [
+    "OVNI",
+    "Une soucoupe volante aux lumières colorées qui projette un rayon lumineux.",
+    [
+     "OVNI",
+     "soucoupe volante",
+     "extraterrestre",
+     "espace"
+    ]
+   ],
+   "de": [
+    "UFO",
+    "Eine fliegende Untertasse mit bunten Lichtern und einem Lichtstrahl nach unten.",
+    [
+     "UFO",
+     "fliegende Untertasse",
+     "Außerirdische",
+     "Weltraum"
+    ]
+   ],
+   "zh": [
+    "UFO",
+    "闪着彩色灯光、向下发射光束的飞碟插画。",
+    [
+     "UFO",
+     "飞碟",
+     "外星人",
+     "宇宙"
+    ]
+   ],
+   "ko": [
+    "UFO",
+    "알록달록 불빛을 내며 빛줄기를 쏘는 비행접시 일러스트.",
+    [
+     "UFO",
+     "비행접시",
+     "외계인",
+     "우주"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "comet",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Comet",
+    "A bright comet with a long glowing tail flying through space.",
+    [
+     "comet",
+     "space",
+     "astronomy",
+     "night sky"
+    ]
+   ],
+   "ja": [
+    "彗星",
+    "長く光る尾をなびかせて宇宙を飛ぶほうき星のイラスト。",
+    [
+     "彗星",
+     "ほうき星",
+     "宇宙",
+     "天体"
+    ]
+   ],
+   "es": [
+    "Cometa",
+    "Un cometa brillante con una larga cola luminosa que cruza el espacio.",
+    [
+     "cometa",
+     "espacio",
+     "astronomía",
+     "cielo nocturno"
+    ]
+   ],
+   "pt": [
+    "Cometa",
+    "Um cometa brilhante com uma longa cauda luminosa cruzando o espaço.",
+    [
+     "cometa",
+     "espaço",
+     "astronomia",
+     "céu noturno"
+    ]
+   ],
+   "fr": [
+    "Comète",
+    "Une comète brillante avec une longue queue lumineuse qui file dans l'espace.",
+    [
+     "comète",
+     "espace",
+     "astronomie",
+     "ciel nocturne"
+    ]
+   ],
+   "de": [
+    "Komet",
+    "Ein heller Komet mit langem, leuchtendem Schweif fliegt durchs All.",
+    [
+     "Komet",
+     "Weltraum",
+     "Astronomie",
+     "Nachthimmel"
+    ]
+   ],
+   "zh": [
+    "彗星",
+    "拖着长长发光尾巴飞过太空的彗星插画。",
+    [
+     "彗星",
+     "扫帚星",
+     "宇宙",
+     "天文"
+    ]
+   ],
+   "ko": [
+    "혜성",
+    "길게 빛나는 꼬리를 휘날리며 우주를 나는 혜성 일러스트.",
+    [
+     "혜성",
+     "우주",
+     "천문",
+     "밤하늘"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "full-moon",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Full Moon",
+    "A round full moon with craters and a sleepy, happy face.",
+    [
+     "full moon",
+     "moon",
+     "night",
+     "moon viewing"
+    ]
+   ],
+   "ja": [
+    "まんまるお月さま",
+    "クレーターのあるまんまるの満月がにっこり笑うイラスト。",
+    [
+     "満月",
+     "月",
+     "夜",
+     "お月見"
+    ]
+   ],
+   "es": [
+    "Luna llena",
+    "Una luna llena redonda con cráteres y una cara feliz.",
+    [
+     "luna llena",
+     "luna",
+     "noche",
+     "astronomía"
+    ]
+   ],
+   "pt": [
+    "Lua cheia",
+    "Uma lua cheia redondinha com crateras e carinha feliz.",
+    [
+     "lua cheia",
+     "lua",
+     "noite",
+     "astronomia"
+    ]
+   ],
+   "fr": [
+    "Pleine lune",
+    "Une pleine lune toute ronde avec des cratères et un visage heureux.",
+    [
+     "pleine lune",
+     "lune",
+     "nuit",
+     "astronomie"
+    ]
+   ],
+   "de": [
+    "Vollmond",
+    "Ein runder Vollmond mit Kratern und einem glücklichen Gesicht.",
+    [
+     "Vollmond",
+     "Mond",
+     "Nacht",
+     "Astronomie"
+    ]
+   ],
+   "zh": [
+    "圆圆的满月",
+    "带着陨石坑、笑眯眯的圆月插画。",
+    [
+     "满月",
+     "月亮",
+     "夜晚",
+     "中秋"
+    ]
+   ],
+   "ko": [
+    "보름달",
+    "크레이터가 있는 동그란 보름달이 방긋 웃는 일러스트.",
+    [
+     "보름달",
+     "달",
+     "밤",
+     "추석"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "stars",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Twinkling Stars",
+    "A smiling star surrounded by little twinkling stars and sparkles.",
+    [
+     "stars",
+     "twinkle",
+     "night sky",
+     "sparkle"
+    ]
+   ],
+   "ja": [
+    "キラキラお星さま",
+    "にっこり笑う星と小さな星がキラキラ輝くイラスト。",
+    [
+     "星",
+     "キラキラ",
+     "夜空",
+     "きらめき"
+    ]
+   ],
+   "es": [
+    "Estrellas brillantes",
+    "Una estrella sonriente rodeada de estrellitas y destellos.",
+    [
+     "estrellas",
+     "brillo",
+     "cielo nocturno",
+     "destello"
+    ]
+   ],
+   "pt": [
+    "Estrelas brilhantes",
+    "Uma estrela sorridente cercada de estrelinhas e brilhos.",
+    [
+     "estrelas",
+     "brilho",
+     "céu noturno",
+     "cintilante"
+    ]
+   ],
+   "fr": [
+    "Étoiles scintillantes",
+    "Une étoile souriante entourée de petites étoiles qui scintillent.",
+    [
+     "étoiles",
+     "scintiller",
+     "ciel nocturne",
+     "paillettes"
+    ]
+   ],
+   "de": [
+    "Funkelnde Sterne",
+    "Ein lächelnder Stern umgeben von kleinen funkelnden Sternen.",
+    [
+     "Sterne",
+     "funkeln",
+     "Nachthimmel",
+     "Glitzer"
+    ]
+   ],
+   "zh": [
+    "闪闪的星星",
+    "笑眯眯的星星和闪烁的小星星插画。",
+    [
+     "星星",
+     "闪亮",
+     "夜空",
+     "闪光"
+    ]
+   ],
+   "ko": [
+    "반짝이는 별",
+    "웃는 별과 작은 별들이 반짝반짝 빛나는 일러스트.",
+    [
+     "별",
+     "반짝반짝",
+     "밤하늘",
+     "반짝임"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rocket",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Rocket in Space",
+    "A red and white rocket blasting off through space with a fiery flame.",
+    [
+     "rocket",
+     "space",
+     "launch",
+     "startup"
+    ]
+   ],
+   "ja": [
+    "宇宙を飛ぶロケット",
+    "炎を噴いて宇宙へ飛び立つ赤と白のロケットのイラスト。",
+    [
+     "ロケット",
+     "宇宙",
+     "打ち上げ",
+     "スタートアップ"
+    ]
+   ],
+   "es": [
+    "Cohete en el espacio",
+    "Un cohete rojo y blanco que despega por el espacio con una llama.",
+    [
+     "cohete",
+     "espacio",
+     "lanzamiento",
+     "emprendimiento"
+    ]
+   ],
+   "pt": [
+    "Foguete no espaço",
+    "Um foguete vermelho e branco decolando pelo espaço com chamas.",
+    [
+     "foguete",
+     "espaço",
+     "lançamento",
+     "startup"
+    ]
+   ],
+   "fr": [
+    "Fusée dans l'espace",
+    "Une fusée rouge et blanche qui file dans l'espace avec une flamme.",
+    [
+     "fusée",
+     "espace",
+     "lancement",
+     "start-up"
+    ]
+   ],
+   "de": [
+    "Rakete im Weltall",
+    "Eine rot-weiße Rakete startet mit feuriger Flamme ins All.",
+    [
+     "Rakete",
+     "Weltraum",
+     "Start",
+     "Start-up"
+    ]
+   ],
+   "zh": [
+    "太空火箭",
+    "喷着火焰飞向太空的红白火箭插画。",
+    [
+     "火箭",
+     "太空",
+     "发射",
+     "创业"
+    ]
+   ],
+   "ko": [
+    "우주 로켓",
+    "불꽃을 뿜으며 우주로 날아가는 빨갛고 하얀 로켓 일러스트.",
+    [
+     "로켓",
+     "우주",
+     "발사",
+     "스타트업"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sunflower",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sunflower",
+    "A bright yellow sunflower with a smiling face and green leaves.",
+    [
+     "sunflower",
+     "flower",
+     "summer",
+     "plant"
+    ]
+   ],
+   "ja": [
+    "ひまわり",
+    "にっこり顔の黄色いひまわりと緑の葉っぱのイラスト。",
+    [
+     "ひまわり",
+     "花",
+     "夏",
+     "植物"
+    ]
+   ],
+   "es": [
+    "Girasol",
+    "Un girasol amarillo brillante con cara sonriente y hojas verdes.",
+    [
+     "girasol",
+     "flor",
+     "verano",
+     "planta"
+    ]
+   ],
+   "pt": [
+    "Girassol",
+    "Um girassol amarelo com carinha sorridente e folhas verdes.",
+    [
+     "girassol",
+     "flor",
+     "verão",
+     "planta"
+    ]
+   ],
+   "fr": [
+    "Tournesol",
+    "Un tournesol jaune vif au visage souriant avec des feuilles vertes.",
+    [
+     "tournesol",
+     "fleur",
+     "été",
+     "plante"
+    ]
+   ],
+   "de": [
+    "Sonnenblume",
+    "Eine leuchtend gelbe Sonnenblume mit lächelndem Gesicht und grünen Blättern.",
+    [
+     "Sonnenblume",
+     "Blume",
+     "Sommer",
+     "Pflanze"
+    ]
+   ],
+   "zh": [
+    "向日葵",
+    "带着笑脸的黄色向日葵和绿叶插画。",
+    [
+     "向日葵",
+     "花",
+     "夏天",
+     "植物"
+    ]
+   ],
+   "ko": [
+    "해바라기",
+    "웃는 얼굴의 노란 해바라기와 초록 잎 일러스트.",
+    [
+     "해바라기",
+     "꽃",
+     "여름",
+     "식물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rose",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Red Rose",
+    "A single red rose with a green stem and leaves.",
+    [
+     "rose",
+     "flower",
+     "love",
+     "Valentine's Day"
+    ]
+   ],
+   "ja": [
+    "赤いバラ",
+    "緑の茎と葉がついた一輪の赤いバラのイラスト。",
+    [
+     "バラ",
+     "花",
+     "愛",
+     "バレンタイン"
+    ]
+   ],
+   "es": [
+    "Rosa roja",
+    "Una rosa roja con tallo y hojas verdes.",
+    [
+     "rosa",
+     "flor",
+     "amor",
+     "San Valentín"
+    ]
+   ],
+   "pt": [
+    "Rosa vermelha",
+    "Uma rosa vermelha com caule e folhas verdes.",
+    [
+     "rosa",
+     "flor",
+     "amor",
+     "Dia dos Namorados"
+    ]
+   ],
+   "fr": [
+    "Rose rouge",
+    "Une rose rouge avec sa tige et ses feuilles vertes.",
+    [
+     "rose",
+     "fleur",
+     "amour",
+     "Saint-Valentin"
+    ]
+   ],
+   "de": [
+    "Rote Rose",
+    "Eine einzelne rote Rose mit grünem Stiel und Blättern.",
+    [
+     "Rose",
+     "Blume",
+     "Liebe",
+     "Valentinstag"
+    ]
+   ],
+   "zh": [
+    "红玫瑰",
+    "一枝带着绿茎和叶子的红玫瑰插画。",
+    [
+     "玫瑰",
+     "花",
+     "爱情",
+     "情人节"
+    ]
+   ],
+   "ko": [
+    "빨간 장미",
+    "초록 줄기와 잎이 달린 빨간 장미 한 송이 일러스트.",
+    [
+     "장미",
+     "꽃",
+     "사랑",
+     "발렌타인데이"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cherry-blossom",
+  "cat": "nature",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cherry Blossom Branch",
+    "A branch of pink cherry blossoms with petals drifting in spring.",
+    [
+     "cherry blossom",
+     "sakura",
+     "spring",
+     "flower"
+    ]
+   ],
+   "ja": [
+    "桜の枝",
+    "ピンクの桜の花が咲き、花びらが舞う枝のイラスト。",
+    [
+     "桜",
+     "お花見",
+     "春",
+     "花"
+    ]
+   ],
+   "es": [
+    "Rama de cerezo en flor",
+    "Una rama con flores de cerezo rosadas y pétalos que caen en primavera.",
+    [
+     "flor de cerezo",
+     "sakura",
+     "primavera",
+     "flor"
+    ]
+   ],
+   "pt": [
+    "Galho de cerejeira",
+    "Um galho com flores de cerejeira cor-de-rosa e pétalas caindo na primavera.",
+    [
+     "cerejeira",
+     "sakura",
+     "primavera",
+     "flor"
+    ]
+   ],
+   "fr": [
+    "Branche de cerisier en fleurs",
+    "Une branche de cerisier aux fleurs roses et pétales qui volent au printemps.",
+    [
+     "fleur de cerisier",
+     "sakura",
+     "printemps",
+     "fleur"
+    ]
+   ],
+   "de": [
+    "Kirschblütenzweig",
+    "Ein Zweig mit rosa Kirschblüten und fliegenden Blütenblättern im Frühling.",
+    [
+     "Kirschblüte",
+     "Sakura",
+     "Frühling",
+     "Blume"
+    ]
+   ],
+   "zh": [
+    "樱花枝",
+    "开满粉色樱花、花瓣飘落的树枝插画。",
+    [
+     "樱花",
+     "赏樱",
+     "春天",
+     "花"
+    ]
+   ],
+   "ko": [
+    "벚꽃 가지",
+    "분홍 벚꽃이 피고 꽃잎이 흩날리는 가지 일러스트.",
+    [
+     "벚꽃",
+     "꽃놀이",
+     "봄",
+     "꽃"
+    ]
+   ]
+  }
+ }
+]

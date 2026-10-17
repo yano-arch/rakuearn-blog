@@ -222,7 +222,7 @@ def page_illust(lang, item):
     body = f"""
 <nav class="crumbs"><a href="{url(lang)}">{e(u['home'])}</a><span>›</span><a href="{url(lang, 'cat', item['cat'])}">{e(u['cats'][item['cat']])}</a><span>›</span><span>{e(title)}</span></nav>
 <article class="detail">
-  <div class="detail-art"><img id="art" src="/images/svg/{s}.svg" alt="{e(title)}" width="480" height="480">{skin_picker(lang, s) if has_skin else ""}</div>
+  <div class="detail-left"><div class="detail-art"><img id="art" src="/images/svg/{s}.svg" alt="{e(title)}" width="480" height="480"></div>{skin_picker(lang, s) if has_skin else ""}</div>
   <div class="detail-info">
     <h1>{e(title)}</h1>
     <p class="desc">{e(desc)}</p>

@@ -138,5 +138,6 @@ h1,h2{text-wrap:balance}
 .sw{width:34px;height:34px;border-radius:50%;border:2.5px solid var(--ink);cursor:pointer;padding:0;box-shadow:2px 2px 0 var(--line);transition:transform .1s}
 .sw:hover{transform:scale(1.08)}
 .sw.on{outline:3px solid var(--coral);outline-offset:3px}
-.detail-art .skin{justify-content:center;background:#fff;border:2px solid var(--line);border-radius:999px;padding:8px 16px;width:fit-content;max-width:100%;margin:16px auto 0}
-@media (max-width:760px){.detail-art{padding:6% 6% 4%}.sws{gap:8px}.sw{width:32px;height:32px}}
+.detail-left{min-width:0}
+.detail-left .skin{justify-content:center;margin:22px 0 0}
+@media (max-width:760px){.sws{gap:8px}.sw{width:32px;height:32px}}

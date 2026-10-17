@@ -12,7 +12,7 @@ def hand(x, y, skin, r=8):
 
 
 # 1. doctor
-SK = '#f1c27d'; HR = '#2b2220'
+SK = '#ffd9b8'; HR = '#2b2220'
 ITEMS['doctor'] = (
     z('path', HR, d='M66 96 Q60 140 74 146 L126 146 Q140 140 134 96Z')
     + body('#ffffff')
@@ -27,7 +27,7 @@ ITEMS['doctor'] = (
 )
 
 # 2. nurse
-SK = '#8d5a3b'; HR = '#2b2220'
+SK = '#ffd9b8'; HR = '#2b2220'
 ITEMS['nurse'] = (
     body('#8fc7e8')
     + s('path', d='M88 138 L100 152 L112 138', stroke_width=2.5)
@@ -60,7 +60,7 @@ ITEMS['chef'] = (
 )
 
 # 4. teacher
-SK = '#c68642'; HR = '#e8e1d8'
+SK = '#ffd9b8'; HR = '#e8e1d8'
 ITEMS['teacher'] = (
     s('path', d='M36 120 L28 180 M88 120 L96 180', stroke_width=4)
     + z('rect', '#8b6b4f', x=22, y=58, width=82, height=66, rx=4)
@@ -101,7 +101,7 @@ ITEMS['firefighter'] = (
 )
 
 # 6. farmer
-SK = '#c68642'; HR = '#5a4033'
+SK = '#ffd9b8'; HR = '#5a4033'
 ITEMS['farmer'] = (
     body('#e8735a')
     + s('path', '#8fb3e0', d='M78 186 L78 150 L122 150 L122 186Z')
@@ -121,7 +121,7 @@ ITEMS['farmer'] = (
 )
 
 # 7. construction-worker
-SK = '#8d5a3b'; HR = '#2b2220'
+SK = '#ffd9b8'; HR = '#2b2220'
 ITEMS['construction-worker'] = (
     body('#8fb3e0')
     + s('path', '#f5b971', d='M64 186 Q66 146 88 138 L90 186Z')
@@ -140,7 +140,7 @@ ITEMS['construction-worker'] = (
 )
 
 # 8. office-worker-laptop
-SK = '#f1c27d'; HR = '#2b2220'
+SK = '#ffd9b8'; HR = '#2b2220'
 ITEMS['office-worker-laptop'] = (
     body('#ffffff', cx=80, top=128, bottom=180)
     + s('path', d='M66 130 L80 140 L94 130', stroke_width=2.5)
@@ -171,7 +171,7 @@ ITEMS['delivery-person'] = (
 )
 
 # 10. scientist
-SK = '#c68642'; HR = '#2b2220'
+SK = '#ffd9b8'; HR = '#2b2220'
 ITEMS['scientist'] = (
     z('circle', HR, cx=70, cy=90, r=14) + z('circle', HR, cx=130, cy=90, r=14)
     + z('circle', HR, cx=74, cy=116, r=12) + z('circle', HR, cx=126, cy=116, r=12)

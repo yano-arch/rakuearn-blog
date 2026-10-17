@@ -152,8 +152,8 @@ ITEMS['basketball'] = (
     + s('path', '#ffffff', d='M62 70 Q70 56 84 50', stroke='#ffffff', stroke_width=4)
 )
 
-# 8. person running (skin #c68642)
-SK = '#c68642'
+# 8. person running (skin #ffd9b8)
+SK = '#ffd9b8'
 ITEMS['person-running'] = (
     s('path', d='M22 92 L40 92 M18 112 L38 112 M24 132 L42 132', stroke_width=3)
     # 後ろ脚

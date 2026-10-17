@@ -16,7 +16,7 @@ def face(cx,cy,skin,hair,mouth='smile'):
 I={}
 I['01_hello']=(z('path','#7cc4b0',d='M66 180 Q68 128 100 126 Q132 128 134 180Z')
  +s('path',d='M128 140 Q146 120 156 92',stroke_width=8)+s('path',d='M128 140 Q146 120 156 92',stroke='#7cc4b0',stroke_width=3)
- +z('circle','#8d5a3b',cx=158,cy=84,r=10)+face(100,82,'#8d5a3b','#2b2220','open'))
+ +z('circle','#ffd9b8',cx=158,cy=84,r=10)+face(100,82,'#ffd9b8','#2b2220','open'))
 I['02_idea']=(z('path','#f5b971',d='M66 186 Q68 140 100 138 Q132 140 134 186Z')+face(100,98,'#ffd9b8','#5a4033','o')
  +z('circle','#ffe27a',cx=152,cy=42,r=18)+s('rect','#b9a99c',x=145,y=60,width=14,height=10,rx=3)
  +s('path',d='M152 12 L152 4 M176 22 L183 16 M128 22 L121 16 M182 44 L190 44',stroke_width=2.5))

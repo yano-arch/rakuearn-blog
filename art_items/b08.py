@@ -141,7 +141,7 @@ ITEMS['ruler-triangle'] = rt
 # 9. student-studying
 st = (s('path', d='M150 126 Q170 96 150 70', stroke='#5b6b7a', stroke_width=0.01))
 st = (z('path', '#9ccf7a', d='M48 134 Q50 100 82 98 Q114 100 116 134Z')
-      + face(82, 68, '#c68642', '#2b2220', 'smile')
+      + face(82, 68, '#ffd9b8', '#2b2220', 'smile')
       + s('path', d='M150 124 L150 92 L138 70', stroke_width=6)
       + s('path', d='M150 124 L150 92 L138 70', stroke='#5b6b7a', stroke_width=2)
       + z('path', '#f5b971', d='M120 64 Q132 44 156 58 L146 72 Z')
@@ -155,7 +155,7 @@ st = (z('path', '#9ccf7a', d='M48 134 Q50 100 82 98 Q114 100 116 134Z')
       + s('path', d='M100 110 L112 92', stroke_width=0.01)
       + s('path', d='M64 112 Q78 124 104 118', stroke_width=7)
       + s('path', d='M64 112 Q78 124 104 118', stroke='#9ccf7a', stroke_width=2.5)
-      + z('circle', '#c68642', cx=106, cy=116, r=7))
+      + z('circle', '#ffd9b8', cx=106, cy=116, r=7))
 st = st.replace(s('path', d='M100 110 L112 92', stroke_width=0.01), '')
 st = st.replace(s('path', d='M100 110 L112 92', stroke='#e8735a', stroke_width=4),
                 s('path', d='M106 116 L118 98', stroke_width=7) + s('path', d='M106 116 L118 98', stroke='#e8735a', stroke_width=2.5))

@@ -1,0 +1,1582 @@
+[
+ {
+  "slug": "potato",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling Potato",
+    "A round brown potato with a happy face.",
+    [
+     "potato",
+     "vegetable",
+     "food"
+    ]
+   ],
+   "ja": [
+    "にっこりじゃがいも",
+    "笑顔のまるいじゃがいものイラスト。",
+    [
+     "じゃがいも",
+     "野菜",
+     "食べ物"
+    ]
+   ],
+   "es": [
+    "Papa sonriente",
+    "Una papa redonda y marrón con cara feliz.",
+    [
+     "papa",
+     "patata",
+     "verdura"
+    ]
+   ],
+   "pt": [
+    "Batata sorridente",
+    "Uma batata redonda e marrom com carinha feliz.",
+    [
+     "batata",
+     "legume",
+     "comida"
+    ]
+   ],
+   "fr": [
+    "Pomme de terre souriante",
+    "Une pomme de terre ronde avec un visage joyeux.",
+    [
+     "pomme de terre",
+     "légume",
+     "nourriture"
+    ]
+   ],
+   "de": [
+    "Lächelnde Kartoffel",
+    "Eine runde braune Kartoffel mit fröhlichem Gesicht.",
+    [
+     "Kartoffel",
+     "Gemüse",
+     "Essen"
+    ]
+   ],
+   "zh": [
+    "微笑的土豆",
+    "一个带着笑脸的圆圆土豆。",
+    [
+     "土豆",
+     "马铃薯",
+     "蔬菜"
+    ]
+   ],
+   "ko": [
+    "웃는 감자",
+    "웃는 얼굴의 동그란 감자 일러스트.",
+    [
+     "감자",
+     "채소",
+     "음식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "eggplant",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Eggplant",
+    "A plump eggplant with a green stem and cap.",
+    [
+     "eggplant",
+     "aubergine",
+     "vegetable"
+    ]
+   ],
+   "ja": [
+    "なす",
+    "ヘタのついたぷっくりしたなすのイラスト。",
+    [
+     "なす",
+     "茄子",
+     "野菜"
+    ]
+   ],
+   "es": [
+    "Berenjena",
+    "Una berenjena regordeta con tallo verde.",
+    [
+     "berenjena",
+     "verdura",
+     "comida"
+    ]
+   ],
+   "pt": [
+    "Berinjela",
+    "Uma berinjela gordinha com cabinho verde.",
+    [
+     "berinjela",
+     "legume",
+     "comida"
+    ]
+   ],
+   "fr": [
+    "Aubergine",
+    "Une aubergine dodue avec sa tige verte.",
+    [
+     "aubergine",
+     "légume",
+     "nourriture"
+    ]
+   ],
+   "de": [
+    "Aubergine",
+    "Eine pralle Aubergine mit grünem Stiel.",
+    [
+     "Aubergine",
+     "Gemüse",
+     "Essen"
+    ]
+   ],
+   "zh": [
+    "茄子",
+    "一个带着绿色茄蒂的饱满茄子。",
+    [
+     "茄子",
+     "蔬菜",
+     "食物"
+    ]
+   ],
+   "ko": [
+    "가지",
+    "초록 꼭지가 달린 통통한 가지.",
+    [
+     "가지",
+     "채소",
+     "음식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cucumber",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cucumber and Slice",
+    "A green cucumber with a round slice beside it.",
+    [
+     "cucumber",
+     "vegetable",
+     "salad"
+    ]
+   ],
+   "ja": [
+    "きゅうりと輪切り",
+    "きゅうり1本と輪切りのイラスト。",
+    [
+     "きゅうり",
+     "野菜",
+     "サラダ"
+    ]
+   ],
+   "es": [
+    "Pepino y rodaja",
+    "Un pepino verde con una rodaja al lado.",
+    [
+     "pepino",
+     "verdura",
+     "ensalada"
+    ]
+   ],
+   "pt": [
+    "Pepino e rodela",
+    "Um pepino verde com uma rodela ao lado.",
+    [
+     "pepino",
+     "legume",
+     "salada"
+    ]
+   ],
+   "fr": [
+    "Concombre et rondelle",
+    "Un concombre vert avec une rondelle à côté.",
+    [
+     "concombre",
+     "légume",
+     "salade"
+    ]
+   ],
+   "de": [
+    "Gurke mit Scheibe",
+    "Eine grüne Gurke mit einer Scheibe daneben.",
+    [
+     "Gurke",
+     "Gemüse",
+     "Salat"
+    ]
+   ],
+   "zh": [
+    "黄瓜和黄瓜片",
+    "一根绿色黄瓜和一片切好的黄瓜。",
+    [
+     "黄瓜",
+     "蔬菜",
+     "沙拉"
+    ]
+   ],
+   "ko": [
+    "오이와 오이 슬라이스",
+    "초록 오이와 동그랗게 썬 조각.",
+    [
+     "오이",
+     "채소",
+     "샐러드"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "corn",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Corn on the Cob",
+    "A yellow ear of corn wrapped in green husks.",
+    [
+     "corn",
+     "corn on the cob",
+     "vegetable"
+    ]
+   ],
+   "ja": [
+    "とうもろこし",
+    "緑の皮につつまれた黄色いとうもろこし。",
+    [
+     "とうもろこし",
+     "野菜",
+     "夏"
+    ]
+   ],
+   "es": [
+    "Mazorca de maíz",
+    "Una mazorca amarilla con hojas verdes.",
+    [
+     "maíz",
+     "elote",
+     "mazorca"
+    ]
+   ],
+   "pt": [
+    "Espiga de milho",
+    "Uma espiga de milho amarela com palha verde.",
+    [
+     "milho",
+     "espiga",
+     "legume"
+    ]
+   ],
+   "fr": [
+    "Épi de maïs",
+    "Un épi de maïs jaune dans ses feuilles vertes.",
+    [
+     "maïs",
+     "épi",
+     "légume"
+    ]
+   ],
+   "de": [
+    "Maiskolben",
+    "Ein gelber Maiskolben mit grünen Blättern.",
+    [
+     "Mais",
+     "Maiskolben",
+     "Gemüse"
+    ]
+   ],
+   "zh": [
+    "玉米棒",
+    "包着绿色玉米叶的黄色玉米棒。",
+    [
+     "玉米",
+     "蔬菜",
+     "粮食"
+    ]
+   ],
+   "ko": [
+    "옥수수",
+    "초록 껍질에 싸인 노란 옥수수.",
+    [
+     "옥수수",
+     "채소",
+     "여름"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "green-pepper",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Green Bell Pepper",
+    "A shiny green bell pepper with a stem.",
+    [
+     "green pepper",
+     "bell pepper",
+     "vegetable"
+    ]
+   ],
+   "ja": [
+    "ピーマン",
+    "ヘタのついたつやつやのピーマン。",
+    [
+     "ピーマン",
+     "野菜",
+     "食べ物"
+    ]
+   ],
+   "es": [
+    "Pimiento verde",
+    "Un pimiento verde brillante con su tallo.",
+    [
+     "pimiento",
+     "morrón",
+     "verdura"
+    ]
+   ],
+   "pt": [
+    "Pimentão verde",
+    "Um pimentão verde brilhante com cabinho.",
+    [
+     "pimentão",
+     "legume",
+     "comida"
+    ]
+   ],
+   "fr": [
+    "Poivron vert",
+    "Un poivron vert brillant avec sa queue.",
+    [
+     "poivron",
+     "légume",
+     "nourriture"
+    ]
+   ],
+   "de": [
+    "Grüne Paprika",
+    "Eine glänzende grüne Paprika mit Stiel.",
+    [
+     "Paprika",
+     "Gemüse",
+     "Essen"
+    ]
+   ],
+   "zh": [
+    "青椒",
+    "一个带蒂的亮绿色青椒。",
+    [
+     "青椒",
+     "甜椒",
+     "蔬菜"
+    ]
+   ],
+   "ko": [
+    "피망",
+    "꼭지가 달린 반짝이는 초록 피망.",
+    [
+     "피망",
+     "파프리카",
+     "채소"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mushroom",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cute Mushroom",
+    "A red-capped mushroom with white spots and a smile.",
+    [
+     "mushroom",
+     "fungi",
+     "cute"
+    ]
+   ],
+   "ja": [
+    "かわいいきのこ",
+    "白い水玉の赤いかさのにっこりきのこ。",
+    [
+     "きのこ",
+     "キノコ",
+     "かわいい"
+    ]
+   ],
+   "es": [
+    "Hongo tierno",
+    "Un hongo de sombrero rojo con puntos blancos y sonrisa.",
+    [
+     "hongo",
+     "seta",
+     "champiñón"
+    ]
+   ],
+   "pt": [
+    "Cogumelo fofo",
+    "Um cogumelo de chapéu vermelho com bolinhas brancas.",
+    [
+     "cogumelo",
+     "fofo",
+     "natureza"
+    ]
+   ],
+   "fr": [
+    "Champignon mignon",
+    "Un champignon au chapeau rouge à pois blancs qui sourit.",
+    [
+     "champignon",
+     "mignon",
+     "forêt"
+    ]
+   ],
+   "de": [
+    "Süßer Pilz",
+    "Ein Pilz mit rotem Hut, weißen Punkten und Lächeln.",
+    [
+     "Pilz",
+     "niedlich",
+     "Wald"
+    ]
+   ],
+   "zh": [
+    "可爱的蘑菇",
+    "红色菌盖带白点、笑眯眯的蘑菇。",
+    [
+     "蘑菇",
+     "菌类",
+     "可爱"
+    ]
+   ],
+   "ko": [
+    "귀여운 버섯",
+    "하얀 점무늬 빨간 갓의 웃는 버섯.",
+    [
+     "버섯",
+     "귀여운",
+     "숲"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "garlic",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Garlic Bulb",
+    "A white bulb of garlic with a cute face.",
+    [
+     "garlic",
+     "seasoning",
+     "vegetable"
+    ]
+   ],
+   "ja": [
+    "にんにく",
+    "かわいい顔の白いにんにく。",
+    [
+     "にんにく",
+     "ニンニク",
+     "薬味"
+    ]
+   ],
+   "es": [
+    "Cabeza de ajo",
+    "Una cabeza de ajo blanca con cara tierna.",
+    [
+     "ajo",
+     "condimento",
+     "verdura"
+    ]
+   ],
+   "pt": [
+    "Cabeça de alho",
+    "Uma cabeça de alho branca com carinha fofa.",
+    [
+     "alho",
+     "tempero",
+     "comida"
+    ]
+   ],
+   "fr": [
+    "Tête d'ail",
+    "Une tête d'ail blanche avec un visage mignon.",
+    [
+     "ail",
+     "condiment",
+     "légume"
+    ]
+   ],
+   "de": [
+    "Knoblauchknolle",
+    "Eine weiße Knoblauchknolle mit süßem Gesicht.",
+    [
+     "Knoblauch",
+     "Gewürz",
+     "Gemüse"
+    ]
+   ],
+   "zh": [
+    "大蒜",
+    "一颗带着可爱表情的白色大蒜。",
+    [
+     "大蒜",
+     "蒜头",
+     "调味料"
+    ]
+   ],
+   "ko": [
+    "마늘",
+    "귀여운 얼굴의 하얀 통마늘.",
+    [
+     "마늘",
+     "양념",
+     "채소"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "daikon-radish",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Daikon Radish",
+    "A white daikon radish with green leaves and a smile.",
+    [
+     "daikon",
+     "radish",
+     "vegetable"
+    ]
+   ],
+   "ja": [
+    "だいこん",
+    "緑の葉がついたにっこりだいこん。",
+    [
+     "だいこん",
+     "大根",
+     "野菜"
+    ]
+   ],
+   "es": [
+    "Rábano daikon",
+    "Un rábano daikon blanco con hojas verdes.",
+    [
+     "daikon",
+     "rábano",
+     "verdura"
+    ]
+   ],
+   "pt": [
+    "Nabo daikon",
+    "Um nabo daikon branco com folhas verdes.",
+    [
+     "nabo",
+     "daikon",
+     "legume"
+    ]
+   ],
+   "fr": [
+    "Radis daikon",
+    "Un radis daikon blanc avec ses feuilles vertes.",
+    [
+     "daikon",
+     "radis",
+     "légume"
+    ]
+   ],
+   "de": [
+    "Rettich",
+    "Ein weißer Daikon-Rettich mit grünen Blättern.",
+    [
+     "Rettich",
+     "Daikon",
+     "Gemüse"
+    ]
+   ],
+   "zh": [
+    "白萝卜",
+    "带着绿叶、笑眯眯的白萝卜。",
+    [
+     "白萝卜",
+     "萝卜",
+     "蔬菜"
+    ]
+   ],
+   "ko": [
+    "무",
+    "초록 잎이 달린 웃는 하얀 무.",
+    [
+     "무",
+     "채소",
+     "음식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "lettuce",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Head of Lettuce",
+    "A fresh round head of green lettuce.",
+    [
+     "lettuce",
+     "salad",
+     "vegetable"
+    ]
+   ],
+   "ja": [
+    "レタス",
+    "みずみずしい丸いレタス。",
+    [
+     "レタス",
+     "野菜",
+     "サラダ"
+    ]
+   ],
+   "es": [
+    "Lechuga",
+    "Una lechuga verde, fresca y redonda.",
+    [
+     "lechuga",
+     "ensalada",
+     "verdura"
+    ]
+   ],
+   "pt": [
+    "Pé de alface",
+    "Um pé de alface verde e fresquinho.",
+    [
+     "alface",
+     "salada",
+     "verdura"
+    ]
+   ],
+   "fr": [
+    "Laitue",
+    "Une laitue verte bien fraîche et ronde.",
+    [
+     "laitue",
+     "salade",
+     "légume"
+    ]
+   ],
+   "de": [
+    "Kopfsalat",
+    "Ein frischer, runder grüner Salatkopf.",
+    [
+     "Salat",
+     "Kopfsalat",
+     "Gemüse"
+    ]
+   ],
+   "zh": [
+    "生菜",
+    "一颗新鲜圆润的绿色生菜。",
+    [
+     "生菜",
+     "蔬菜",
+     "沙拉"
+    ]
+   ],
+   "ko": [
+    "양상추",
+    "싱싱하고 동그란 초록 양상추.",
+    [
+     "양상추",
+     "샐러드",
+     "채소"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sweet-potato",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling Sweet Potato",
+    "A plump reddish sweet potato with a happy face.",
+    [
+     "sweet potato",
+     "yam",
+     "autumn"
+    ]
+   ],
+   "ja": [
+    "にっこりさつまいも",
+    "笑顔のぷっくりしたさつまいも。",
+    [
+     "さつまいも",
+     "いも",
+     "秋"
+    ]
+   ],
+   "es": [
+    "Camote sonriente",
+    "Un camote rojizo y regordete con cara feliz.",
+    [
+     "camote",
+     "batata",
+     "boniato"
+    ]
+   ],
+   "pt": [
+    "Batata-doce sorridente",
+    "Uma batata-doce roxinha e gordinha com carinha feliz.",
+    [
+     "batata-doce",
+     "legume",
+     "outono"
+    ]
+   ],
+   "fr": [
+    "Patate douce souriante",
+    "Une patate douce rose et dodue au visage joyeux.",
+    [
+     "patate douce",
+     "légume",
+     "automne"
+    ]
+   ],
+   "de": [
+    "Lächelnde Süßkartoffel",
+    "Eine pralle rötliche Süßkartoffel mit fröhlichem Gesicht.",
+    [
+     "Süßkartoffel",
+     "Gemüse",
+     "Herbst"
+    ]
+   ],
+   "zh": [
+    "微笑的红薯",
+    "一个胖乎乎、带着笑脸的红薯。",
+    [
+     "红薯",
+     "地瓜",
+     "秋天"
+    ]
+   ],
+   "ko": [
+    "웃는 고구마",
+    "웃는 얼굴의 통통한 고구마.",
+    [
+     "고구마",
+     "가을",
+     "간식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pea-pod",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Peas in a Pod",
+    "An open green pod with four little smiling peas.",
+    [
+     "peas",
+     "pea pod",
+     "vegetable"
+    ]
+   ],
+   "ja": [
+    "さやえんどうとまめ",
+    "さやの中にならぶにっこりグリーンピース。",
+    [
+     "グリーンピース",
+     "えんどう豆",
+     "野菜"
+    ]
+   ],
+   "es": [
+    "Vaina de chícharos",
+    "Una vaina abierta con cuatro chícharos sonrientes.",
+    [
+     "chícharos",
+     "guisantes",
+     "arvejas"
+    ]
+   ],
+   "pt": [
+    "Vagem de ervilha",
+    "Uma vagem aberta com quatro ervilhas sorridentes.",
+    [
+     "ervilha",
+     "vagem",
+     "legume"
+    ]
+   ],
+   "fr": [
+    "Petits pois en cosse",
+    "Une cosse ouverte avec quatre petits pois souriants.",
+    [
+     "petits pois",
+     "cosse",
+     "légume"
+    ]
+   ],
+   "de": [
+    "Erbsenschote",
+    "Eine offene Schote mit vier lächelnden Erbsen.",
+    [
+     "Erbsen",
+     "Erbsenschote",
+     "Gemüse"
+    ]
+   ],
+   "zh": [
+    "豌豆荚",
+    "打开的豆荚里排着四颗笑眯眯的豌豆。",
+    [
+     "豌豆",
+     "豆荚",
+     "蔬菜"
+    ]
+   ],
+   "ko": [
+    "완두콩 꼬투리",
+    "열린 꼬투리 속 웃는 완두콩 네 알.",
+    [
+     "완두콩",
+     "콩",
+     "채소"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "curry-rice",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Curry and Rice",
+    "A plate of rice with curry, carrots and potatoes.",
+    [
+     "curry",
+     "curry rice",
+     "dinner"
+    ]
+   ],
+   "ja": [
+    "カレーライス",
+    "にんじんとじゃがいもの入ったカレーライス。",
+    [
+     "カレー",
+     "カレーライス",
+     "夕ごはん"
+    ]
+   ],
+   "es": [
+    "Arroz con curry",
+    "Un plato de arroz con curry, zanahoria y papa.",
+    [
+     "curry",
+     "arroz",
+     "comida"
+    ]
+   ],
+   "pt": [
+    "Arroz com curry",
+    "Um prato de arroz com curry, cenoura e batata.",
+    [
+     "curry",
+     "arroz",
+     "almoço"
+    ]
+   ],
+   "fr": [
+    "Riz au curry",
+    "Une assiette de riz au curry avec carottes et pommes de terre.",
+    [
+     "curry",
+     "riz",
+     "repas"
+    ]
+   ],
+   "de": [
+    "Curryreis",
+    "Ein Teller Reis mit Curry, Karotten und Kartoffeln.",
+    [
+     "Curry",
+     "Reis",
+     "Abendessen"
+    ]
+   ],
+   "zh": [
+    "咖喱饭",
+    "一盘配有胡萝卜和土豆的咖喱饭。",
+    [
+     "咖喱饭",
+     "咖喱",
+     "晚饭"
+    ]
+   ],
+   "ko": [
+    "카레라이스",
+    "당근과 감자가 들어간 카레라이스.",
+    [
+     "카레",
+     "카레라이스",
+     "저녁"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "fried-egg",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Fried Egg",
+    "A sunny-side-up fried egg with a smiling yolk.",
+    [
+     "fried egg",
+     "egg",
+     "breakfast"
+    ]
+   ],
+   "ja": [
+    "目玉焼き",
+    "黄身がにっこりした目玉焼き。",
+    [
+     "目玉焼き",
+     "たまご",
+     "朝ごはん"
+    ]
+   ],
+   "es": [
+    "Huevo frito",
+    "Un huevo frito estrellado con la yema sonriente.",
+    [
+     "huevo frito",
+     "huevo",
+     "desayuno"
+    ]
+   ],
+   "pt": [
+    "Ovo frito",
+    "Um ovo frito com a gema sorridente.",
+    [
+     "ovo frito",
+     "ovo",
+     "café da manhã"
+    ]
+   ],
+   "fr": [
+    "Œuf au plat",
+    "Un œuf au plat avec un jaune souriant.",
+    [
+     "œuf au plat",
+     "œuf",
+     "petit-déjeuner"
+    ]
+   ],
+   "de": [
+    "Spiegelei",
+    "Ein Spiegelei mit lächelndem Eigelb.",
+    [
+     "Spiegelei",
+     "Ei",
+     "Frühstück"
+    ]
+   ],
+   "zh": [
+    "煎蛋",
+    "蛋黄笑眯眯的单面煎蛋。",
+    [
+     "煎蛋",
+     "荷包蛋",
+     "早餐"
+    ]
+   ],
+   "ko": [
+    "계란 프라이",
+    "노른자가 웃고 있는 계란 프라이.",
+    [
+     "계란 프라이",
+     "달걀",
+     "아침밥"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "omurice",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Omurice",
+    "Fluffy omelette rice topped with a ketchup heart.",
+    [
+     "omurice",
+     "omelette rice",
+     "Japanese food"
+    ]
+   ],
+   "ja": [
+    "オムライス",
+    "ケチャップのハートをのせたふわふわオムライス。",
+    [
+     "オムライス",
+     "洋食",
+     "ケチャップ"
+    ]
+   ],
+   "es": [
+    "Omurice",
+    "Arroz con omelette y un corazón de cátsup encima.",
+    [
+     "omurice",
+     "omelette",
+     "arroz"
+    ]
+   ],
+   "pt": [
+    "Omurice",
+    "Arroz com omelete e um coração de ketchup.",
+    [
+     "omurice",
+     "omelete",
+     "arroz"
+    ]
+   ],
+   "fr": [
+    "Omurice",
+    "Riz en omelette décoré d'un cœur de ketchup.",
+    [
+     "omurice",
+     "omelette",
+     "riz"
+    ]
+   ],
+   "de": [
+    "Omurice",
+    "Omelett-Reis mit einem Ketchup-Herz obendrauf.",
+    [
+     "Omurice",
+     "Omelett",
+     "Reis"
+    ]
+   ],
+   "zh": [
+    "蛋包饭",
+    "淋着番茄酱爱心的松软蛋包饭。",
+    [
+     "蛋包饭",
+     "番茄酱",
+     "日式料理"
+    ]
+   ],
+   "ko": [
+    "오므라이스",
+    "케첩 하트를 올린 폭신한 오므라이스.",
+    [
+     "오므라이스",
+     "케첩",
+     "양식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "spaghetti",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Spaghetti with Tomato Sauce",
+    "A plate of spaghetti with tomato sauce and a fork.",
+    [
+     "spaghetti",
+     "pasta",
+     "Italian food"
+    ]
+   ],
+   "ja": [
+    "ミートソーススパゲッティ",
+    "トマトソースのスパゲッティとフォーク。",
+    [
+     "スパゲッティ",
+     "パスタ",
+     "イタリアン"
+    ]
+   ],
+   "es": [
+    "Espagueti con salsa de tomate",
+    "Un plato de espagueti con salsa de tomate y tenedor.",
+    [
+     "espagueti",
+     "pasta",
+     "comida italiana"
+    ]
+   ],
+   "pt": [
+    "Espaguete ao molho de tomate",
+    "Um prato de espaguete com molho de tomate e garfo.",
+    [
+     "espaguete",
+     "macarrão",
+     "massa"
+    ]
+   ],
+   "fr": [
+    "Spaghetti sauce tomate",
+    "Une assiette de spaghetti à la sauce tomate avec une fourchette.",
+    [
+     "spaghetti",
+     "pâtes",
+     "cuisine italienne"
+    ]
+   ],
+   "de": [
+    "Spaghetti mit Tomatensoße",
+    "Ein Teller Spaghetti mit Tomatensoße und Gabel.",
+    [
+     "Spaghetti",
+     "Nudeln",
+     "Pasta"
+    ]
+   ],
+   "zh": [
+    "番茄意大利面",
+    "一盘配着叉子的番茄酱意大利面。",
+    [
+     "意大利面",
+     "意面",
+     "西餐"
+    ]
+   ],
+   "ko": [
+    "토마토 스파게티",
+    "토마토소스 스파게티와 포크.",
+    [
+     "스파게티",
+     "파스타",
+     "양식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "salad-bowl",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Salad Bowl",
+    "A bowl of fresh green salad with tomatoes and cucumber.",
+    [
+     "salad",
+     "healthy",
+     "vegetables"
+    ]
+   ],
+   "ja": [
+    "サラダボウル",
+    "トマトときゅうりのせ新鮮なサラダ。",
+    [
+     "サラダ",
+     "ヘルシー",
+     "野菜"
+    ]
+   ],
+   "es": [
+    "Tazón de ensalada",
+    "Un tazón de ensalada fresca con jitomate y pepino.",
+    [
+     "ensalada",
+     "saludable",
+     "verduras"
+    ]
+   ],
+   "pt": [
+    "Tigela de salada",
+    "Uma tigela de salada fresca com tomate e pepino.",
+    [
+     "salada",
+     "saudável",
+     "verduras"
+    ]
+   ],
+   "fr": [
+    "Saladier",
+    "Un bol de salade verte avec tomates et concombre.",
+    [
+     "salade",
+     "sain",
+     "légumes"
+    ]
+   ],
+   "de": [
+    "Salatschüssel",
+    "Eine Schüssel frischer Salat mit Tomaten und Gurke.",
+    [
+     "Salat",
+     "gesund",
+     "Gemüse"
+    ]
+   ],
+   "zh": [
+    "沙拉碗",
+    "一碗加了番茄和黄瓜的新鲜蔬菜沙拉。",
+    [
+     "沙拉",
+     "健康",
+     "蔬菜"
+    ]
+   ],
+   "ko": [
+    "샐러드 볼",
+    "토마토와 오이를 올린 신선한 샐러드.",
+    [
+     "샐러드",
+     "건강식",
+     "채소"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "soup-bowl",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bowl of Soup",
+    "A steaming bowl of warm soup with a spoon.",
+    [
+     "soup",
+     "warm",
+     "meal"
+    ]
+   ],
+   "ja": [
+    "スープ",
+    "湯気の立つあたたかいスープとスプーン。",
+    [
+     "スープ",
+     "あたたかい",
+     "食事"
+    ]
+   ],
+   "es": [
+    "Plato de sopa",
+    "Un tazón de sopa caliente humeante con cuchara.",
+    [
+     "sopa",
+     "caliente",
+     "comida"
+    ]
+   ],
+   "pt": [
+    "Tigela de sopa",
+    "Uma tigela de sopa quentinha com colher.",
+    [
+     "sopa",
+     "quentinho",
+     "refeição"
+    ]
+   ],
+   "fr": [
+    "Bol de soupe",
+    "Un bol de soupe chaude et fumante avec une cuillère.",
+    [
+     "soupe",
+     "chaud",
+     "repas"
+    ]
+   ],
+   "de": [
+    "Suppenschüssel",
+    "Eine dampfende Schüssel warme Suppe mit Löffel.",
+    [
+     "Suppe",
+     "warm",
+     "Mahlzeit"
+    ]
+   ],
+   "zh": [
+    "一碗汤",
+    "冒着热气的一碗汤和勺子。",
+    [
+     "汤",
+     "热汤",
+     "饭菜"
+    ]
+   ],
+   "ko": [
+    "수프 한 그릇",
+    "김이 모락모락 나는 따뜻한 수프와 숟가락.",
+    [
+     "수프",
+     "따뜻한",
+     "식사"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sandwich",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sandwich",
+    "A triangle sandwich with lettuce, cheese and tomato.",
+    [
+     "sandwich",
+     "lunch",
+     "bread"
+    ]
+   ],
+   "ja": [
+    "サンドイッチ",
+    "レタス・チーズ・トマトの三角サンドイッチ。",
+    [
+     "サンドイッチ",
+     "ランチ",
+     "パン"
+    ]
+   ],
+   "es": [
+    "Sándwich",
+    "Un sándwich triangular con lechuga, queso y jitomate.",
+    [
+     "sándwich",
+     "almuerzo",
+     "pan"
+    ]
+   ],
+   "pt": [
+    "Sanduíche",
+    "Um sanduíche triangular com alface, queijo e tomate.",
+    [
+     "sanduíche",
+     "lanche",
+     "pão"
+    ]
+   ],
+   "fr": [
+    "Sandwich",
+    "Un sandwich triangle avec salade, fromage et tomate.",
+    [
+     "sandwich",
+     "déjeuner",
+     "pain"
+    ]
+   ],
+   "de": [
+    "Sandwich",
+    "Ein dreieckiges Sandwich mit Salat, Käse und Tomate.",
+    [
+     "Sandwich",
+     "Mittagessen",
+     "Brot"
+    ]
+   ],
+   "zh": [
+    "三明治",
+    "夹着生菜、芝士和番茄的三角三明治。",
+    [
+     "三明治",
+     "午餐",
+     "面包"
+    ]
+   ],
+   "ko": [
+    "샌드위치",
+    "양상추·치즈·토마토를 넣은 삼각 샌드위치.",
+    [
+     "샌드위치",
+     "점심",
+     "빵"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "hot-dog",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Hot Dog",
+    "A hot dog in a bun with a zigzag of mustard.",
+    [
+     "hot dog",
+     "fast food",
+     "sausage"
+    ]
+   ],
+   "ja": [
+    "ホットドッグ",
+    "マスタードをかけたホットドッグ。",
+    [
+     "ホットドッグ",
+     "ファストフード",
+     "ソーセージ"
+    ]
+   ],
+   "es": [
+    "Hot dog",
+    "Un hot dog en su pan con mostaza en zigzag.",
+    [
+     "hot dog",
+     "perro caliente",
+     "comida rápida"
+    ]
+   ],
+   "pt": [
+    "Cachorro-quente",
+    "Um cachorro-quente no pão com mostarda em zigue-zague.",
+    [
+     "cachorro-quente",
+     "salsicha",
+     "lanche"
+    ]
+   ],
+   "fr": [
+    "Hot-dog",
+    "Un hot-dog dans son pain avec un zigzag de moutarde.",
+    [
+     "hot-dog",
+     "fast-food",
+     "saucisse"
+    ]
+   ],
+   "de": [
+    "Hotdog",
+    "Ein Hotdog im Brötchen mit Senf im Zickzack.",
+    [
+     "Hotdog",
+     "Fast Food",
+     "Würstchen"
+    ]
+   ],
+   "zh": [
+    "热狗",
+    "挤上芥末酱的热狗面包。",
+    [
+     "热狗",
+     "快餐",
+     "香肠"
+    ]
+   ],
+   "ko": [
+    "핫도그",
+    "머스터드를 지그재그로 뿌린 핫도그.",
+    [
+     "핫도그",
+     "패스트푸드",
+     "소시지"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "french-fries",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "French Fries",
+    "Golden french fries in a red carton with a smile.",
+    [
+     "french fries",
+     "fries",
+     "fast food"
+    ]
+   ],
+   "ja": [
+    "フライドポテト",
+    "赤いケースに入ったにっこりフライドポテト。",
+    [
+     "フライドポテト",
+     "ポテト",
+     "ファストフード"
+    ]
+   ],
+   "es": [
+    "Papas fritas",
+    "Papas fritas doradas en un cartón rojo sonriente.",
+    [
+     "papas fritas",
+     "comida rápida",
+     "snack"
+    ]
+   ],
+   "pt": [
+    "Batata frita",
+    "Batatas fritas douradas numa caixinha vermelha sorridente.",
+    [
+     "batata frita",
+     "fritas",
+     "lanche"
+    ]
+   ],
+   "fr": [
+    "Frites",
+    "Des frites dorées dans un cornet rouge souriant.",
+    [
+     "frites",
+     "fast-food",
+     "snack"
+    ]
+   ],
+   "de": [
+    "Pommes frites",
+    "Goldene Pommes in einer lächelnden roten Schachtel.",
+    [
+     "Pommes",
+     "Pommes frites",
+     "Fast Food"
+    ]
+   ],
+   "zh": [
+    "薯条",
+    "装在笑脸红色纸盒里的金黄薯条。",
+    [
+     "薯条",
+     "炸薯条",
+     "快餐"
+    ]
+   ],
+   "ko": [
+    "감자튀김",
+    "웃는 빨간 상자에 담긴 바삭한 감자튀김.",
+    [
+     "감자튀김",
+     "프렌치프라이",
+     "패스트푸드"
+    ]
+   ]
+  }
+ }
+]

@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "firefly",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Glowing firefly",
+    "A cute firefly with a softly glowing yellow tail.",
+    [
+     "firefly",
+     "insect",
+     "summer",
+     "glow"
+    ]
+   ],
+   "ja": [
+    "光るホタル",
+    "おしりがふんわり黄色く光るかわいいホタル。",
+    [
+     "ホタル",
+     "蛍",
+     "虫",
+     "夏"
+    ]
+   ],
+   "es": [
+    "Luciérnaga brillante",
+    "Una luciérnaga adorable con la cola brillando en amarillo.",
+    [
+     "luciérnaga",
+     "insecto",
+     "verano",
+     "brillo"
+    ]
+   ],
+   "pt": [
+    "Vaga-lume brilhando",
+    "Um vaga-lume fofo com a cauda brilhando em amarelo.",
+    [
+     "vaga-lume",
+     "inseto",
+     "verão",
+     "brilho"
+    ]
+   ],
+   "fr": [
+    "Luciole lumineuse",
+    "Une jolie luciole dont l'abdomen brille d'une douce lumière jaune.",
+    [
+     "luciole",
+     "insecte",
+     "été",
+     "lumière"
+    ]
+   ],
+   "de": [
+    "Leuchtendes Glühwürmchen",
+    "Ein niedliches Glühwürmchen mit sanft gelb leuchtendem Hinterleib.",
+    [
+     "Glühwürmchen",
+     "Insekt",
+     "Sommer",
+     "Leuchten"
+    ]
+   ],
+   "zh": [
+    "发光的萤火虫",
+    "尾巴发出柔和黄光的可爱萤火虫。",
+    [
+     "萤火虫",
+     "昆虫",
+     "夏天",
+     "发光"
+    ]
+   ],
+   "ko": [
+    "빛나는 반딧불이",
+    "꼬리가 노랗게 빛나는 귀여운 반딧불이.",
+    [
+     "반딧불이",
+     "곤충",
+     "여름",
+     "빛"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cicada",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cicada on a tree",
+    "A cute green cicada clinging to a tree trunk.",
+    [
+     "cicada",
+     "insect",
+     "summer",
+     "tree"
+    ]
+   ],
+   "ja": [
+    "木にとまるセミ",
+    "木の幹にとまっているかわいいセミ。",
+    [
+     "セミ",
+     "蝉",
+     "虫",
+     "夏"
+    ]
+   ],
+   "es": [
+    "Cigarra en un árbol",
+    "Una cigarra verde y simpática agarrada al tronco de un árbol.",
+    [
+     "cigarra",
+     "insecto",
+     "verano",
+     "árbol"
+    ]
+   ],
+   "pt": [
+    "Cigarra na árvore",
+    "Uma cigarra verde fofa agarrada ao tronco de uma árvore.",
+    [
+     "cigarra",
+     "inseto",
+     "verão",
+     "árvore"
+    ]
+   ],
+   "fr": [
+    "Cigale sur un arbre",
+    "Une jolie cigale verte accrochée au tronc d'un arbre.",
+    [
+     "cigale",
+     "insecte",
+     "été",
+     "arbre"
+    ]
+   ],
+   "de": [
+    "Zikade am Baum",
+    "Eine niedliche grüne Zikade, die an einem Baumstamm sitzt.",
+    [
+     "Zikade",
+     "Insekt",
+     "Sommer",
+     "Baum"
+    ]
+   ],
+   "zh": [
+    "树上的蝉",
+    "趴在树干上的可爱绿色知了。",
+    [
+     "蝉",
+     "知了",
+     "昆虫",
+     "夏天"
+    ]
+   ],
+   "ko": [
+    "나무에 붙은 매미",
+    "나무 줄기에 붙어 있는 귀여운 초록 매미.",
+    [
+     "매미",
+     "곤충",
+     "여름",
+     "나무"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "grasshopper",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Grasshopper",
+    "A cheerful green grasshopper with long hind legs.",
+    [
+     "grasshopper",
+     "insect",
+     "bug",
+     "nature"
+    ]
+   ],
+   "ja": [
+    "バッタ",
+    "長い後ろ足がチャームポイントの緑色のバッタ。",
+    [
+     "バッタ",
+     "虫",
+     "昆虫",
+     "草むら"
+    ]
+   ],
+   "es": [
+    "Saltamontes",
+    "Un saltamontes verde y alegre con largas patas traseras.",
+    [
+     "saltamontes",
+     "insecto",
+     "bicho",
+     "naturaleza"
+    ]
+   ],
+   "pt": [
+    "Gafanhoto",
+    "Um gafanhoto verde e alegre com pernas traseiras compridas.",
+    [
+     "gafanhoto",
+     "inseto",
+     "bichinho",
+     "natureza"
+    ]
+   ],
+   "fr": [
+    "Sauterelle",
+    "Une sauterelle verte et joyeuse aux longues pattes arrière.",
+    [
+     "sauterelle",
+     "criquet",
+     "insecte",
+     "nature"
+    ]
+   ],
+   "de": [
+    "Grashüpfer",
+    "Ein fröhlicher grüner Grashüpfer mit langen Hinterbeinen.",
+    [
+     "Grashüpfer",
+     "Heuschrecke",
+     "Insekt",
+     "Natur"
+    ]
+   ],
+   "zh": [
+    "蚱蜢",
+    "长着长长后腿的绿色小蚱蜢。",
+    [
+     "蚱蜢",
+     "蝗虫",
+     "昆虫",
+     "草丛"
+    ]
+   ],
+   "ko": [
+    "메뚜기",
+    "긴 뒷다리를 가진 초록색 메뚜기.",
+    [
+     "메뚜기",
+     "곤충",
+     "벌레",
+     "풀밭"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "spider",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cute spider on a web",
+    "A friendly little spider hanging in the middle of its web.",
+    [
+     "spider",
+     "web",
+     "bug",
+     "Halloween"
+    ]
+   ],
+   "ja": [
+    "巣にいるクモ",
+    "クモの巣の真ん中にぶら下がるかわいいクモ。",
+    [
+     "クモ",
+     "蜘蛛",
+     "クモの巣",
+     "虫"
+    ]
+   ],
+   "es": [
+    "Araña en su telaraña",
+    "Una arañita simpática colgando en medio de su telaraña.",
+    [
+     "araña",
+     "telaraña",
+     "bicho",
+     "Halloween"
+    ]
+   ],
+   "pt": [
+    "Aranha na teia",
+    "Uma aranhinha fofa pendurada no meio da teia.",
+    [
+     "aranha",
+     "teia",
+     "bichinho",
+     "Halloween"
+    ]
+   ],
+   "fr": [
+    "Araignée sur sa toile",
+    "Une gentille petite araignée suspendue au milieu de sa toile.",
+    [
+     "araignée",
+     "toile d'araignée",
+     "insecte",
+     "Halloween"
+    ]
+   ],
+   "de": [
+    "Spinne im Netz",
+    "Eine freundliche kleine Spinne, die mitten in ihrem Netz hängt.",
+    [
+     "Spinne",
+     "Spinnennetz",
+     "Krabbeltier",
+     "Halloween"
+    ]
+   ],
+   "zh": [
+    "蜘蛛网上的小蜘蛛",
+    "挂在蜘蛛网中央的可爱小蜘蛛。",
+    [
+     "蜘蛛",
+     "蜘蛛网",
+     "虫子",
+     "万圣节"
+    ]
+   ],
+   "ko": [
+    "거미줄 위의 거미",
+    "거미줄 한가운데에 매달린 귀여운 거미.",
+    [
+     "거미",
+     "거미줄",
+     "벌레",
+     "할로윈"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "snake",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Friendly snake",
+    "A smiling green snake coiled up with its tongue out.",
+    [
+     "snake",
+     "reptile",
+     "animal",
+     "year of the snake"
+    ]
+   ],
+   "ja": [
+    "にっこりヘビ",
+    "とぐろを巻いて舌をちょろっと出すやさしいヘビ。",
+    [
+     "ヘビ",
+     "蛇",
+     "巳年",
+     "爬虫類"
+    ]
+   ],
+   "es": [
+    "Serpiente amigable",
+    "Una serpiente verde sonriente enroscada y sacando la lengua.",
+    [
+     "serpiente",
+     "culebra",
+     "reptil",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Cobra simpática",
+    "Uma cobra verde sorridente enrolada e mostrando a língua.",
+    [
+     "cobra",
+     "serpente",
+     "réptil",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Serpent sympathique",
+    "Un serpent vert souriant enroulé sur lui-même, langue tirée.",
+    [
+     "serpent",
+     "reptile",
+     "animal",
+     "année du serpent"
+    ]
+   ],
+   "de": [
+    "Freundliche Schlange",
+    "Eine lächelnde grüne Schlange, zusammengerollt mit herausgestreckter Zunge.",
+    [
+     "Schlange",
+     "Reptil",
+     "Tier",
+     "Jahr der Schlange"
+    ]
+   ],
+   "zh": [
+    "友善的小蛇",
+    "盘成一圈、吐着舌头微笑的绿色小蛇。",
+    [
+     "蛇",
+     "蛇年",
+     "爬行动物",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "친근한 뱀",
+    "똬리를 틀고 혀를 내민 웃는 초록 뱀.",
+    [
+     "뱀",
+     "뱀띠",
+     "파충류",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "crocodile",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Crocodile",
+    "A smiling green crocodile with a long snout.",
+    [
+     "crocodile",
+     "alligator",
+     "reptile",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "ワニ",
+    "長い口でにっこり笑う緑色のワニ。",
+    [
+     "ワニ",
+     "鰐",
+     "爬虫類",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Cocodrilo",
+    "Un cocodrilo verde sonriente con un hocico largo.",
+    [
+     "cocodrilo",
+     "caimán",
+     "reptil",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Crocodilo",
+    "Um crocodilo verde sorridente com focinho comprido.",
+    [
+     "crocodilo",
+     "jacaré",
+     "réptil",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Crocodile",
+    "Un crocodile vert souriant au long museau.",
+    [
+     "crocodile",
+     "alligator",
+     "reptile",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Krokodil",
+    "Ein lächelndes grünes Krokodil mit langer Schnauze.",
+    [
+     "Krokodil",
+     "Alligator",
+     "Reptil",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "鳄鱼",
+    "长着长嘴巴、笑眯眯的绿色鳄鱼。",
+    [
+     "鳄鱼",
+     "爬行动物",
+     "动物",
+     "可爱"
+    ]
+   ],
+   "ko": [
+    "악어",
+    "긴 주둥이로 웃고 있는 초록 악어.",
+    [
+     "악어",
+     "파충류",
+     "동물",
+     "귀여운"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "chameleon",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Chameleon on a branch",
+    "A green chameleon with a curly tail resting on a branch.",
+    [
+     "chameleon",
+     "lizard",
+     "reptile",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "枝の上のカメレオン",
+    "くるんとしたしっぽで枝につかまるカメレオン。",
+    [
+     "カメレオン",
+     "トカゲ",
+     "爬虫類",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Camaleón en una rama",
+    "Un camaleón verde con la cola enroscada descansando en una rama.",
+    [
+     "camaleón",
+     "lagarto",
+     "reptil",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Camaleão no galho",
+    "Um camaleão verde de rabo enrolado descansando num galho.",
+    [
+     "camaleão",
+     "lagarto",
+     "réptil",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Caméléon sur une branche",
+    "Un caméléon vert à la queue enroulée posé sur une branche.",
+    [
+     "caméléon",
+     "lézard",
+     "reptile",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Chamäleon auf einem Ast",
+    "Ein grünes Chamäleon mit eingerolltem Schwanz auf einem Ast.",
+    [
+     "Chamäleon",
+     "Echse",
+     "Reptil",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "树枝上的变色龙",
+    "卷着尾巴趴在树枝上的绿色变色龙。",
+    [
+     "变色龙",
+     "蜥蜴",
+     "爬行动物",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "나뭇가지 위 카멜레온",
+    "꼬리를 돌돌 말고 나뭇가지에 앉은 초록 카멜레온.",
+    [
+     "카멜레온",
+     "도마뱀",
+     "파충류",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "dinosaur",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Friendly dinosaur",
+    "A smiling long-necked dinosaur with spots on its back.",
+    [
+     "dinosaur",
+     "dino",
+     "prehistoric",
+     "kids"
+    ]
+   ],
+   "ja": [
+    "にこにこ恐竜",
+    "首の長いにっこり笑顔のやさしい恐竜。",
+    [
+     "恐竜",
+     "きょうりゅう",
+     "首長竜",
+     "子ども"
+    ]
+   ],
+   "es": [
+    "Dinosaurio amigable",
+    "Un dinosaurio de cuello largo sonriente con manchas en el lomo.",
+    [
+     "dinosaurio",
+     "dino",
+     "prehistoria",
+     "niños"
+    ]
+   ],
+   "pt": [
+    "Dinossauro simpático",
+    "Um dinossauro pescoçudo e sorridente com manchas nas costas.",
+    [
+     "dinossauro",
+     "dino",
+     "pré-histórico",
+     "crianças"
+    ]
+   ],
+   "fr": [
+    "Dinosaure sympathique",
+    "Un dinosaure au long cou, souriant, avec des taches sur le dos.",
+    [
+     "dinosaure",
+     "dino",
+     "préhistoire",
+     "enfants"
+    ]
+   ],
+   "de": [
+    "Freundlicher Dinosaurier",
+    "Ein lächelnder Langhals-Dinosaurier mit Punkten auf dem Rücken.",
+    [
+     "Dinosaurier",
+     "Dino",
+     "Urzeit",
+     "Kinder"
+    ]
+   ],
+   "zh": [
+    "友善的恐龙",
+    "背上有斑点、笑眯眯的长脖子恐龙。",
+    [
+     "恐龙",
+     "长颈龙",
+     "史前",
+     "儿童"
+    ]
+   ],
+   "ko": [
+    "친근한 공룡",
+    "등에 점무늬가 있는 웃는 목 긴 공룡.",
+    [
+     "공룡",
+     "목긴공룡",
+     "아이",
+     "귀여운"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "penguin-chick",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Fluffy baby penguin",
+    "A fluffy gray penguin chick with a little beak and flippers.",
+    [
+     "penguin",
+     "chick",
+     "baby animal",
+     "winter"
+    ]
+   ],
+   "ja": [
+    "ペンギンのヒナ",
+    "ふわふわの灰色の毛につつまれたペンギンの赤ちゃん。",
+    [
+     "ペンギン",
+     "ヒナ",
+     "赤ちゃん",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Pingüino bebé esponjoso",
+    "Un pollito de pingüino gris y esponjoso con alitas.",
+    [
+     "pingüino",
+     "polluelo",
+     "cría",
+     "invierno"
+    ]
+   ],
+   "pt": [
+    "Filhote de pinguim fofinho",
+    "Um filhote de pinguim cinza e fofinho com suas asinhas.",
+    [
+     "pinguim",
+     "filhote",
+     "bebê",
+     "inverno"
+    ]
+   ],
+   "fr": [
+    "Bébé manchot duveteux",
+    "Un poussin de manchot gris tout duveteux avec ses petits ailerons.",
+    [
+     "manchot",
+     "pingouin",
+     "poussin",
+     "bébé animal"
+    ]
+   ],
+   "de": [
+    "Flauschiges Pinguinküken",
+    "Ein flauschiges graues Pinguinküken mit kleinen Flügeln.",
+    [
+     "Pinguin",
+     "Küken",
+     "Tierbaby",
+     "Winter"
+    ]
+   ],
+   "zh": [
+    "毛茸茸的企鹅宝宝",
+    "全身灰色绒毛、圆滚滚的企鹅宝宝。",
+    [
+     "企鹅",
+     "企鹅宝宝",
+     "幼崽",
+     "冬天"
+    ]
+   ],
+   "ko": [
+    "솜털 아기 펭귄",
+    "회색 솜털로 덮인 동글동글한 아기 펭귄.",
+    [
+     "펭귄",
+     "아기 펭귄",
+     "아기 동물",
+     "겨울"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "swallow-bird",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Swallow flying",
+    "A swallow with a forked tail flying through the sky.",
+    [
+     "swallow",
+     "bird",
+     "spring",
+     "flying"
+    ]
+   ],
+   "ja": [
+    "飛ぶツバメ",
+    "二股のしっぽで空を飛ぶツバメ。",
+    [
+     "ツバメ",
+     "燕",
+     "鳥",
+     "春"
+    ]
+   ],
+   "es": [
+    "Golondrina volando",
+    "Una golondrina con cola de tijera volando por el cielo.",
+    [
+     "golondrina",
+     "pájaro",
+     "primavera",
+     "volar"
+    ]
+   ],
+   "pt": [
+    "Andorinha voando",
+    "Uma andorinha de cauda bifurcada voando pelo céu.",
+    [
+     "andorinha",
+     "pássaro",
+     "primavera",
+     "voar"
+    ]
+   ],
+   "fr": [
+    "Hirondelle en vol",
+    "Une hirondelle à la queue fourchue qui vole dans le ciel.",
+    [
+     "hirondelle",
+     "oiseau",
+     "printemps",
+     "vol"
+    ]
+   ],
+   "de": [
+    "Fliegende Schwalbe",
+    "Eine Schwalbe mit gegabeltem Schwanz, die durch den Himmel fliegt.",
+    [
+     "Schwalbe",
+     "Vogel",
+     "Frühling",
+     "fliegen"
+    ]
+   ],
+   "zh": [
+    "飞翔的燕子",
+    "剪刀尾巴的燕子在天空中飞翔。",
+    [
+     "燕子",
+     "小鸟",
+     "春天",
+     "飞翔"
+    ]
+   ],
+   "ko": [
+    "날아가는 제비",
+    "갈라진 꼬리로 하늘을 나는 제비.",
+    [
+     "제비",
+     "새",
+     "봄",
+     "비행"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mole",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Mole popping out",
+    "A cute mole poking its head out of a mound of dirt.",
+    [
+     "mole",
+     "animal",
+     "ground",
+     "garden"
+    ]
+   ],
+   "ja": [
+    "土から顔を出すモグラ",
+    "土の中からひょっこり顔を出すかわいいモグラ。",
+    [
+     "モグラ",
+     "土",
+     "動物",
+     "ひょっこり"
+    ]
+   ],
+   "es": [
+    "Topo saliendo de la tierra",
+    "Un topo adorable asomando la cabeza de un montículo de tierra.",
+    [
+     "topo",
+     "animal",
+     "tierra",
+     "jardín"
+    ]
+   ],
+   "pt": [
+    "Toupeira saindo da terra",
+    "Uma toupeira fofa colocando a cabeça para fora da terra.",
+    [
+     "toupeira",
+     "animal",
+     "terra",
+     "jardim"
+    ]
+   ],
+   "fr": [
+    "Taupe qui sort de terre",
+    "Une jolie taupe qui sort la tête d'un monticule de terre.",
+    [
+     "taupe",
+     "animal",
+     "terre",
+     "jardin"
+    ]
+   ],
+   "de": [
+    "Maulwurf schaut heraus",
+    "Ein niedlicher Maulwurf, der den Kopf aus einem Erdhügel streckt.",
+    [
+     "Maulwurf",
+     "Tier",
+     "Erde",
+     "Garten"
+    ]
+   ],
+   "zh": [
+    "探出头的鼹鼠",
+    "从土堆里探出脑袋的可爱鼹鼠。",
+    [
+     "鼹鼠",
+     "动物",
+     "泥土",
+     "探头"
+    ]
+   ],
+   "ko": [
+    "땅에서 나온 두더지",
+    "흙더미에서 고개를 쏙 내민 귀여운 두더지.",
+    [
+     "두더지",
+     "동물",
+     "땅",
+     "흙"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "lobster",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Lobster",
+    "A smiling red lobster raising its big claws.",
+    [
+     "lobster",
+     "seafood",
+     "sea creature",
+     "ocean"
+    ]
+   ],
+   "ja": [
+    "ロブスター",
+    "大きなハサミを上げたにっこり顔の赤いロブスター。",
+    [
+     "ロブスター",
+     "エビ",
+     "海の生き物",
+     "海"
+    ]
+   ],
+   "es": [
+    "Langosta",
+    "Una langosta roja sonriente levantando sus grandes pinzas.",
+    [
+     "langosta",
+     "bogavante",
+     "marisco",
+     "mar"
+    ]
+   ],
+   "pt": [
+    "Lagosta",
+    "Uma lagosta vermelha sorridente levantando as garras grandes.",
+    [
+     "lagosta",
+     "frutos do mar",
+     "animal marinho",
+     "mar"
+    ]
+   ],
+   "fr": [
+    "Homard",
+    "Un homard rouge souriant qui lève ses grosses pinces.",
+    [
+     "homard",
+     "fruits de mer",
+     "animal marin",
+     "mer"
+    ]
+   ],
+   "de": [
+    "Hummer",
+    "Ein lächelnder roter Hummer, der seine großen Scheren hebt.",
+    [
+     "Hummer",
+     "Meeresfrüchte",
+     "Meerestier",
+     "Meer"
+    ]
+   ],
+   "zh": [
+    "龙虾",
+    "举起大钳子、笑眯眯的红色龙虾。",
+    [
+     "龙虾",
+     "海鲜",
+     "海洋生物",
+     "大海"
+    ]
+   ],
+   "ko": [
+    "바닷가재",
+    "커다란 집게를 든 웃는 빨간 바닷가재.",
+    [
+     "바닷가재",
+     "랍스터",
+     "해산물",
+     "바다"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "puppy-kitten-friends",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Puppy and kitten friends",
+    "A puppy and a kitten sitting side by side as best friends.",
+    [
+     "puppy",
+     "kitten",
+     "friends",
+     "pets"
+    ]
+   ],
+   "ja": [
+    "なかよしの子犬と子猫",
+    "となりに並んでおすわりする仲よしの子犬と子猫。",
+    [
+     "犬",
+     "猫",
+     "なかよし",
+     "ペット"
+    ]
+   ],
+   "es": [
+    "Cachorrito y gatito amigos",
+    "Un cachorrito y un gatito sentados juntos como mejores amigos.",
+    [
+     "perro",
+     "gato",
+     "amigos",
+     "mascotas"
+    ]
+   ],
+   "pt": [
+    "Cachorrinho e gatinho amigos",
+    "Um cachorrinho e um gatinho sentados juntos como melhores amigos.",
+    [
+     "cachorro",
+     "gato",
+     "amigos",
+     "pets"
+    ]
+   ],
+   "fr": [
+    "Chiot et chaton amis",
+    "Un chiot et un chaton assis côte à côte, meilleurs amis.",
+    [
+     "chiot",
+     "chaton",
+     "amitié",
+     "animaux de compagnie"
+    ]
+   ],
+   "de": [
+    "Welpe und Kätzchen",
+    "Ein Welpe und ein Kätzchen sitzen als beste Freunde nebeneinander.",
+    [
+     "Hund",
+     "Katze",
+     "Freunde",
+     "Haustiere"
+    ]
+   ],
+   "zh": [
+    "小狗和小猫好朋友",
+    "并排坐在一起的好朋友小狗和小猫。",
+    [
+     "小狗",
+     "小猫",
+     "好朋友",
+     "宠物"
+    ]
+   ],
+   "ko": [
+    "강아지와 고양이 친구",
+    "나란히 앉아 있는 단짝 강아지와 아기 고양이.",
+    [
+     "강아지",
+     "고양이",
+     "친구",
+     "반려동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "dog-bone",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Dog with a bone",
+    "A happy puppy holding a big bone in its mouth.",
+    [
+     "dog",
+     "bone",
+     "puppy",
+     "pet"
+    ]
+   ],
+   "ja": [
+    "骨をくわえた犬",
+    "大きな骨をくわえてうれしそうな子犬。",
+    [
+     "犬",
+     "骨",
+     "いぬ",
+     "ペット"
+    ]
+   ],
+   "es": [
+    "Perro con un hueso",
+    "Un perrito feliz sujetando un hueso grande con la boca.",
+    [
+     "perro",
+     "hueso",
+     "cachorro",
+     "mascota"
+    ]
+   ],
+   "pt": [
+    "Cachorro com osso",
+    "Um cachorrinho feliz segurando um osso grande na boca.",
+    [
+     "cachorro",
+     "osso",
+     "filhote",
+     "pet"
+    ]
+   ],
+   "fr": [
+    "Chien avec un os",
+    "Un chiot tout content qui tient un gros os dans sa gueule.",
+    [
+     "chien",
+     "os",
+     "chiot",
+     "animal de compagnie"
+    ]
+   ],
+   "de": [
+    "Hund mit Knochen",
+    "Ein fröhlicher Welpe, der einen großen Knochen im Maul trägt.",
+    [
+     "Hund",
+     "Knochen",
+     "Welpe",
+     "Haustier"
+    ]
+   ],
+   "zh": [
+    "叼着骨头的小狗",
+    "嘴里叼着大骨头、开心的小狗。",
+    [
+     "小狗",
+     "骨头",
+     "狗狗",
+     "宠物"
+    ]
+   ],
+   "ko": [
+    "뼈다귀 문 강아지",
+    "커다란 뼈다귀를 입에 문 신난 강아지.",
+    [
+     "강아지",
+     "뼈다귀",
+     "개",
+     "반려견"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cat-box",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cat in a cardboard box",
+    "A gray cat peeking out of a cardboard box.",
+    [
+     "cat",
+     "box",
+     "cardboard",
+     "pet"
+    ]
+   ],
+   "ja": [
+    "段ボール箱に入った猫",
+    "段ボール箱からひょっこり顔を出す灰色の猫。",
+    [
+     "猫",
+     "段ボール",
+     "箱",
+     "ペット"
+    ]
+   ],
+   "es": [
+    "Gato en una caja de cartón",
+    "Un gato gris asomándose desde una caja de cartón.",
+    [
+     "gato",
+     "caja",
+     "cartón",
+     "mascota"
+    ]
+   ],
+   "pt": [
+    "Gato na caixa de papelão",
+    "Um gato cinza espiando de dentro de uma caixa de papelão.",
+    [
+     "gato",
+     "caixa",
+     "papelão",
+     "pet"
+    ]
+   ],
+   "fr": [
+    "Chat dans un carton",
+    "Un chat gris qui sort la tête d'un carton.",
+    [
+     "chat",
+     "carton",
+     "boîte",
+     "animal de compagnie"
+    ]
+   ],
+   "de": [
+    "Katze im Karton",
+    "Eine graue Katze, die aus einem Pappkarton schaut.",
+    [
+     "Katze",
+     "Karton",
+     "Kiste",
+     "Haustier"
+    ]
+   ],
+   "zh": [
+    "纸箱里的猫",
+    "从纸箱里探出头来的灰色猫咪。",
+    [
+     "猫",
+     "纸箱",
+     "箱子",
+     "宠物"
+    ]
+   ],
+   "ko": [
+    "상자 속 고양이",
+    "종이 상자에서 고개를 내민 회색 고양이.",
+    [
+     "고양이",
+     "상자",
+     "택배 상자",
+     "반려묘"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bird-nest",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bird nest with eggs",
+    "A mother bird watching over blue eggs in her nest.",
+    [
+     "bird",
+     "nest",
+     "eggs",
+     "spring"
+    ]
+   ],
+   "ja": [
+    "卵のある鳥の巣",
+    "巣の中の青い卵を見守るお母さん鳥。",
+    [
+     "鳥",
+     "巣",
+     "卵",
+     "春"
+    ]
+   ],
+   "es": [
+    "Nido con huevos",
+    "Una mamá pájaro cuidando sus huevos azules en el nido.",
+    [
+     "pájaro",
+     "nido",
+     "huevos",
+     "primavera"
+    ]
+   ],
+   "pt": [
+    "Ninho com ovos",
+    "Uma mamãe passarinho cuidando dos ovos azuis no ninho.",
+    [
+     "passarinho",
+     "ninho",
+     "ovos",
+     "primavera"
+    ]
+   ],
+   "fr": [
+    "Nid avec des œufs",
+    "Une maman oiseau qui veille sur ses œufs bleus dans le nid.",
+    [
+     "oiseau",
+     "nid",
+     "œufs",
+     "printemps"
+    ]
+   ],
+   "de": [
+    "Vogelnest mit Eiern",
+    "Eine Vogelmutter, die im Nest auf ihre blauen Eier aufpasst.",
+    [
+     "Vogel",
+     "Nest",
+     "Eier",
+     "Frühling"
+    ]
+   ],
+   "zh": [
+    "鸟巢和鸟蛋",
+    "守护着巢里蓝色鸟蛋的鸟妈妈。",
+    [
+     "小鸟",
+     "鸟巢",
+     "鸟蛋",
+     "春天"
+    ]
+   ],
+   "ko": [
+    "알이 있는 새 둥지",
+    "둥지 속 파란 알을 지켜보는 엄마 새.",
+    [
+     "새",
+     "둥지",
+     "알",
+     "봄"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "fish-school",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "School of fish",
+    "A school of small blue fish swimming together behind an orange leader.",
+    [
+     "fish",
+     "school of fish",
+     "ocean",
+     "teamwork"
+    ]
+   ],
+   "ja": [
+    "魚の群れ",
+    "オレンジの魚を先頭にいっしょに泳ぐ小さな魚の群れ。",
+    [
+     "魚",
+     "群れ",
+     "海",
+     "チームワーク"
+    ]
+   ],
+   "es": [
+    "Banco de peces",
+    "Un banco de pececitos azules nadando juntos tras un líder naranja.",
+    [
+     "peces",
+     "banco de peces",
+     "mar",
+     "trabajo en equipo"
+    ]
+   ],
+   "pt": [
+    "Cardume de peixes",
+    "Um cardume de peixinhos azuis nadando juntos atrás de um líder laranja.",
+    [
+     "peixe",
+     "cardume",
+     "mar",
+     "trabalho em equipe"
+    ]
+   ],
+   "fr": [
+    "Banc de poissons",
+    "Un banc de petits poissons bleus qui nagent ensemble derrière un chef orange.",
+    [
+     "poisson",
+     "banc de poissons",
+     "mer",
+     "travail d'équipe"
+    ]
+   ],
+   "de": [
+    "Fischschwarm",
+    "Ein Schwarm kleiner blauer Fische schwimmt hinter einem orangefarbenen Anführer.",
+    [
+     "Fisch",
+     "Fischschwarm",
+     "Meer",
+     "Teamwork"
+    ]
+   ],
+   "zh": [
+    "鱼群",
+    "跟着橙色领头鱼一起游泳的蓝色小鱼群。",
+    [
+     "鱼",
+     "鱼群",
+     "大海",
+     "团队合作"
+    ]
+   ],
+   "ko": [
+    "물고기 떼",
+    "주황색 물고기를 따라 함께 헤엄치는 작은 물고기 떼.",
+    [
+     "물고기",
+     "물고기 떼",
+     "바다",
+     "팀워크"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "duckling-line",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Duck and ducklings in a line",
+    "A mother duck leading her ducklings in a neat line.",
+    [
+     "duck",
+     "ducklings",
+     "family",
+     "spring"
+    ]
+   ],
+   "ja": [
+    "親ガモと子ガモの行列",
+    "お母さんガモのうしろに一列に並んで歩く子ガモたち。",
+    [
+     "カモ",
+     "アヒル",
+     "親子",
+     "行列"
+    ]
+   ],
+   "es": [
+    "Pata con patitos en fila",
+    "Una mamá pata guiando a sus patitos en fila.",
+    [
+     "pato",
+     "patitos",
+     "familia",
+     "primavera"
+    ]
+   ],
+   "pt": [
+    "Pata com patinhos em fila",
+    "Uma mamãe pata guiando os patinhos em fila.",
+    [
+     "pato",
+     "patinhos",
+     "família",
+     "primavera"
+    ]
+   ],
+   "fr": [
+    "Cane et canetons en file",
+    "Une maman cane qui guide ses canetons en file indienne.",
+    [
+     "canard",
+     "canetons",
+     "famille",
+     "printemps"
+    ]
+   ],
+   "de": [
+    "Entenmutter mit Küken",
+    "Eine Entenmutter führt ihre Küken in einer Reihe an.",
+    [
+     "Ente",
+     "Entenküken",
+     "Familie",
+     "Frühling"
+    ]
+   ],
+   "zh": [
+    "鸭妈妈和排队的小鸭子",
+    "鸭妈妈带着排成一列的小鸭子散步。",
+    [
+     "鸭子",
+     "小鸭子",
+     "亲子",
+     "排队"
+    ]
+   ],
+   "ko": [
+    "엄마 오리와 아기 오리들",
+    "엄마 오리를 따라 한 줄로 걷는 아기 오리들.",
+    [
+     "오리",
+     "아기 오리",
+     "가족",
+     "봄"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "paw-print",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Paw prints",
+    "A trail of cute paw prints from a dog or cat.",
+    [
+     "paw print",
+     "footprints",
+     "pet",
+     "dog"
+    ]
+   ],
+   "ja": [
+    "肉球の足あと",
+    "犬や猫のかわいい肉球の足あと。",
+    [
+     "足あと",
+     "肉球",
+     "ペット",
+     "犬"
+    ]
+   ],
+   "es": [
+    "Huellas de patas",
+    "Un rastro de huellas de patitas de perro o gato.",
+    [
+     "huellas",
+     "patitas",
+     "mascota",
+     "perro"
+    ]
+   ],
+   "pt": [
+    "Pegadas de patinhas",
+    "Um rastro de pegadas fofas de patinhas de cachorro ou gato.",
+    [
+     "pegadas",
+     "patinhas",
+     "pet",
+     "cachorro"
+    ]
+   ],
+   "fr": [
+    "Empreintes de pattes",
+    "Une série de jolies empreintes de pattes de chien ou de chat.",
+    [
+     "empreintes",
+     "pattes",
+     "animal de compagnie",
+     "chien"
+    ]
+   ],
+   "de": [
+    "Pfotenabdrücke",
+    "Eine Spur aus niedlichen Pfotenabdrücken von Hund oder Katze.",
+    [
+     "Pfotenabdruck",
+     "Pfoten",
+     "Haustier",
+     "Hund"
+    ]
+   ],
+   "zh": [
+    "爪印",
+    "小狗或小猫留下的一串可爱爪印。",
+    [
+     "爪印",
+     "脚印",
+     "宠物",
+     "狗"
+    ]
+   ],
+   "ko": [
+    "발자국",
+    "강아지나 고양이의 귀여운 발바닥 발자국.",
+    [
+     "발자국",
+     "발바닥",
+     "반려동물",
+     "젤리"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "puffin",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Puffin",
+    "A cute puffin with a colorful orange beak.",
+    [
+     "puffin",
+     "seabird",
+     "bird",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "ニシツノメドリ",
+    "オレンジのくちばしがかわいいニシツノメドリ（パフィン）。",
+    [
+     "パフィン",
+     "ニシツノメドリ",
+     "海鳥",
+     "鳥"
+    ]
+   ],
+   "es": [
+    "Frailecillo",
+    "Un frailecillo adorable con un pico naranja colorido.",
+    [
+     "frailecillo",
+     "ave marina",
+     "pájaro",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Papagaio-do-mar",
+    "Um papagaio-do-mar fofo com bico laranja colorido.",
+    [
+     "papagaio-do-mar",
+     "ave marinha",
+     "pássaro",
+     "puffin"
+    ]
+   ],
+   "fr": [
+    "Macareux",
+    "Un adorable macareux au bec orange coloré.",
+    [
+     "macareux",
+     "oiseau marin",
+     "oiseau",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Papageitaucher",
+    "Ein niedlicher Papageitaucher mit buntem orangefarbenem Schnabel.",
+    [
+     "Papageitaucher",
+     "Seevogel",
+     "Vogel",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "海鹦",
+    "长着彩色橙嘴巴的可爱海鹦。",
+    [
+     "海鹦",
+     "海鸟",
+     "小鸟",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "퍼핀",
+    "주황색 부리가 귀여운 퍼핀(코뿔바다오리).",
+    [
+     "퍼핀",
+     "코뿔바다오리",
+     "바닷새",
+     "새"
+    ]
+   ]
+  }
+ }
+]

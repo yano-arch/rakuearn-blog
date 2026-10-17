@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "fried-chicken",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Fried chicken drumsticks",
+    "Two crispy golden fried chicken drumsticks on a plate with lettuce and lemon.",
+    [
+     "fried chicken",
+     "drumstick",
+     "chicken",
+     "party food"
+    ]
+   ],
+   "ja": [
+    "フライドチキン",
+    "レタスとレモンを添えた、カリッと揚がった骨付きフライドチキン。",
+    [
+     "フライドチキン",
+     "からあげ",
+     "チキン",
+     "パーティー"
+    ]
+   ],
+   "es": [
+    "Pollo frito",
+    "Dos muslos de pollo frito dorados y crujientes en un plato con lechuga y limón.",
+    [
+     "pollo frito",
+     "muslo de pollo",
+     "pollo",
+     "comida rápida"
+    ]
+   ],
+   "pt": [
+    "Frango frito",
+    "Duas coxinhas de frango frito douradas e crocantes num prato com alface e limão.",
+    [
+     "frango frito",
+     "coxa de frango",
+     "frango",
+     "comida de festa"
+    ]
+   ],
+   "fr": [
+    "Poulet frit",
+    "Deux pilons de poulet frit dorés et croustillants dans une assiette avec salade et citron.",
+    [
+     "poulet frit",
+     "pilon de poulet",
+     "poulet",
+     "repas de fête"
+    ]
+   ],
+   "de": [
+    "Frittiertes Hähnchen",
+    "Zwei knusprige, goldbraune Hähnchenschenkel auf einem Teller mit Salat und Zitrone.",
+    [
+     "Brathähnchen",
+     "Hähnchenschenkel",
+     "Hähnchen",
+     "Partyessen"
+    ]
+   ],
+   "zh": [
+    "炸鸡腿",
+    "盘子里两只金黄酥脆的炸鸡腿，配生菜和柠檬。",
+    [
+     "炸鸡",
+     "鸡腿",
+     "鸡肉",
+     "聚会美食"
+    ]
+   ],
+   "ko": [
+    "후라이드 치킨",
+    "상추와 레몬을 곁들인 바삭한 황금빛 닭다리 튀김.",
+    [
+     "치킨",
+     "후라이드 치킨",
+     "닭다리",
+     "파티 음식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "steak",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Steak on a plate",
+    "A juicy grilled steak with grill marks, carrot and broccoli on the side.",
+    [
+     "steak",
+     "beef",
+     "grilled meat",
+     "dinner"
+    ]
+   ],
+   "ja": [
+    "ステーキ",
+    "焼き目のついたジューシーなステーキに、にんじんとブロッコリーを添えて。",
+    [
+     "ステーキ",
+     "牛肉",
+     "肉料理",
+     "ディナー"
+    ]
+   ],
+   "es": [
+    "Bistec en el plato",
+    "Un jugoso bistec a la parrilla con marcas de la plancha, zanahoria y brócoli.",
+    [
+     "bistec",
+     "carne de res",
+     "carne asada",
+     "cena"
+    ]
+   ],
+   "pt": [
+    "Bife no prato",
+    "Um bife suculento grelhado com marcas da grelha, cenoura e brócolis.",
+    [
+     "bife",
+     "carne",
+     "churrasco",
+     "jantar"
+    ]
+   ],
+   "fr": [
+    "Steak dans l'assiette",
+    "Un steak grillé et juteux avec des marques de grill, carotte et brocoli.",
+    [
+     "steak",
+     "bœuf",
+     "viande grillée",
+     "dîner"
+    ]
+   ],
+   "de": [
+    "Steak auf dem Teller",
+    "Ein saftiges gegrilltes Steak mit Grillstreifen, Karotte und Brokkoli.",
+    [
+     "Steak",
+     "Rindfleisch",
+     "Grillfleisch",
+     "Abendessen"
+    ]
+   ],
+   "zh": [
+    "牛排",
+    "带烤痕的多汁牛排，配胡萝卜和西兰花。",
+    [
+     "牛排",
+     "牛肉",
+     "烤肉",
+     "晚餐"
+    ]
+   ],
+   "ko": [
+    "스테이크",
+    "그릴 자국이 있는 육즙 가득한 스테이크와 당근, 브로콜리.",
+    [
+     "스테이크",
+     "소고기",
+     "고기 요리",
+     "저녁 식사"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tacos",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Tacos",
+    "Two crunchy tacos filled with meat, lettuce, tomato and cheese.",
+    [
+     "tacos",
+     "Mexican food",
+     "taco",
+     "street food"
+    ]
+   ],
+   "ja": [
+    "タコス",
+    "お肉、レタス、トマト、チーズをはさんだパリパリのタコス2つ。",
+    [
+     "タコス",
+     "メキシコ料理",
+     "トルティーヤ",
+     "ファストフード"
+    ]
+   ],
+   "es": [
+    "Tacos",
+    "Dos tacos crujientes rellenos de carne, lechuga, tomate y queso.",
+    [
+     "tacos",
+     "comida mexicana",
+     "taco",
+     "antojitos"
+    ]
+   ],
+   "pt": [
+    "Tacos",
+    "Dois tacos crocantes recheados com carne, alface, tomate e queijo.",
+    [
+     "tacos",
+     "comida mexicana",
+     "taco",
+     "lanche"
+    ]
+   ],
+   "fr": [
+    "Tacos",
+    "Deux tacos croustillants garnis de viande, salade, tomate et fromage.",
+    [
+     "tacos",
+     "cuisine mexicaine",
+     "taco",
+     "street food"
+    ]
+   ],
+   "de": [
+    "Tacos",
+    "Zwei knusprige Tacos mit Fleisch, Salat, Tomate und Käse.",
+    [
+     "Tacos",
+     "mexikanisches Essen",
+     "Taco",
+     "Streetfood"
+    ]
+   ],
+   "zh": [
+    "墨西哥卷饼",
+    "两个夹着肉、生菜、番茄和奶酪的脆皮塔可。",
+    [
+     "塔可",
+     "墨西哥卷饼",
+     "墨西哥菜",
+     "小吃"
+    ]
+   ],
+   "ko": [
+    "타코",
+    "고기, 양상추, 토마토, 치즈를 넣은 바삭한 타코 두 개.",
+    [
+     "타코",
+     "멕시코 음식",
+     "또띠아",
+     "길거리 음식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "gyoza",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Gyoza dumplings",
+    "Pan-fried gyoza dumplings with crispy bottoms and a small dish of dipping sauce.",
+    [
+     "gyoza",
+     "dumplings",
+     "potstickers",
+     "Chinese food"
+    ]
+   ],
+   "ja": [
+    "餃子",
+    "こんがり焼き目のついた焼き餃子と、たれの小皿。",
+    [
+     "餃子",
+     "ギョーザ",
+     "焼き餃子",
+     "中華"
+    ]
+   ],
+   "es": [
+    "Gyozas",
+    "Gyozas a la plancha con la base crujiente y un platito de salsa.",
+    [
+     "gyoza",
+     "empanadillas",
+     "dumplings",
+     "comida asiática"
+    ]
+   ],
+   "pt": [
+    "Guioza",
+    "Guiozas grelhados com fundo crocante e um potinho de molho.",
+    [
+     "guioza",
+     "gyoza",
+     "pastel chinês",
+     "comida asiática"
+    ]
+   ],
+   "fr": [
+    "Gyozas",
+    "Des gyozas grillés au fond croustillant avec une coupelle de sauce.",
+    [
+     "gyoza",
+     "raviolis",
+     "raviolis chinois",
+     "cuisine asiatique"
+    ]
+   ],
+   "de": [
+    "Gyoza",
+    "Gebratene Gyoza mit knuspriger Unterseite und einem Schälchen Dip-Soße.",
+    [
+     "Gyoza",
+     "Teigtaschen",
+     "Dumplings",
+     "asiatisches Essen"
+    ]
+   ],
+   "zh": [
+    "煎饺",
+    "底部煎得金黄酥脆的煎饺，配一小碟蘸料。",
+    [
+     "饺子",
+     "煎饺",
+     "锅贴",
+     "中餐"
+    ]
+   ],
+   "ko": [
+    "군만두",
+    "바닥이 바삭하게 구워진 교자 만두와 간장 소스.",
+    [
+     "만두",
+     "교자",
+     "군만두",
+     "중식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bento-box",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bento lunch box",
+    "A colorful bento box with rice, rolled omelet, sausages and vegetables.",
+    [
+     "bento",
+     "lunch box",
+     "packed lunch",
+     "Japanese food"
+    ]
+   ],
+   "ja": [
+    "お弁当",
+    "ごはん、卵焼き、ウインナー、野菜が入ったカラフルなお弁当箱。",
+    [
+     "お弁当",
+     "弁当箱",
+     "ランチ",
+     "和食"
+    ]
+   ],
+   "es": [
+    "Caja bento",
+    "Una colorida caja bento con arroz, tortilla enrollada, salchichas y verduras.",
+    [
+     "bento",
+     "fiambrera",
+     "almuerzo",
+     "comida japonesa"
+    ]
+   ],
+   "pt": [
+    "Marmita bento",
+    "Uma marmita bento colorida com arroz, omelete enrolado, salsichas e legumes.",
+    [
+     "bento",
+     "marmita",
+     "almoço",
+     "comida japonesa"
+    ]
+   ],
+   "fr": [
+    "Boîte bento",
+    "Une boîte bento colorée avec riz, omelette roulée, saucisses et légumes.",
+    [
+     "bento",
+     "boîte à lunch",
+     "déjeuner",
+     "cuisine japonaise"
+    ]
+   ],
+   "de": [
+    "Bento-Box",
+    "Eine bunte Bento-Box mit Reis, Omelettröllchen, Würstchen und Gemüse.",
+    [
+     "Bento",
+     "Brotdose",
+     "Mittagessen",
+     "japanisches Essen"
+    ]
+   ],
+   "zh": [
+    "便当",
+    "装有米饭、玉子烧、香肠和蔬菜的彩色便当盒。",
+    [
+     "便当",
+     "午餐盒",
+     "午餐",
+     "日本料理"
+    ]
+   ],
+   "ko": [
+    "도시락",
+    "밥, 계란말이, 소시지, 채소가 담긴 알록달록한 도시락.",
+    [
+     "도시락",
+     "벤토",
+     "점심",
+     "일식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "takoyaki",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Takoyaki",
+    "Round takoyaki octopus balls with sauce, mayo and green laver in a paper boat.",
+    [
+     "takoyaki",
+     "octopus balls",
+     "Japanese street food",
+     "festival food"
+    ]
+   ],
+   "ja": [
+    "たこ焼き",
+    "ソースとマヨネーズ、青のりをかけた舟皿のたこ焼き。",
+    [
+     "たこ焼き",
+     "屋台",
+     "お祭り",
+     "粉もの"
+    ]
+   ],
+   "es": [
+    "Takoyaki",
+    "Bolitas de pulpo takoyaki con salsa, mayonesa y alga en una bandejita.",
+    [
+     "takoyaki",
+     "bolitas de pulpo",
+     "comida callejera japonesa",
+     "comida japonesa"
+    ]
+   ],
+   "pt": [
+    "Takoyaki",
+    "Bolinhos de polvo takoyaki com molho, maionese e alga numa barquinha de papel.",
+    [
+     "takoyaki",
+     "bolinho de polvo",
+     "comida de rua japonesa",
+     "comida japonesa"
+    ]
+   ],
+   "fr": [
+    "Takoyaki",
+    "Des boulettes de poulpe takoyaki avec sauce, mayonnaise et algues dans une barquette.",
+    [
+     "takoyaki",
+     "boulettes de poulpe",
+     "street food japonaise",
+     "cuisine japonaise"
+    ]
+   ],
+   "de": [
+    "Takoyaki",
+    "Runde Takoyaki-Oktopusbällchen mit Soße, Mayo und Algen in einer Papierschale.",
+    [
+     "Takoyaki",
+     "Oktopusbällchen",
+     "japanisches Streetfood",
+     "Festessen"
+    ]
+   ],
+   "zh": [
+    "章鱼小丸子",
+    "装在小纸船里、淋上酱汁和蛋黄酱撒海苔的章鱼烧。",
+    [
+     "章鱼小丸子",
+     "章鱼烧",
+     "日本小吃",
+     "街头小吃"
+    ]
+   ],
+   "ko": [
+    "타코야키",
+    "소스와 마요네즈, 파래가루를 뿌린 종이 접시 위 타코야키.",
+    [
+     "타코야키",
+     "문어빵",
+     "일본 길거리 음식",
+     "축제 음식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rice-bowl",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bowl of rice",
+    "A smiling bowl of fluffy white rice with chopsticks.",
+    [
+     "rice",
+     "rice bowl",
+     "chopsticks",
+     "Japanese food"
+    ]
+   ],
+   "ja": [
+    "ごはん茶碗",
+    "ほかほかの白いごはんをよそった、にっこり笑顔のお茶碗とお箸。",
+    [
+     "ごはん",
+     "白米",
+     "茶碗",
+     "お箸"
+    ]
+   ],
+   "es": [
+    "Tazón de arroz",
+    "Un tazón sonriente de arroz blanco con palillos.",
+    [
+     "arroz",
+     "tazón de arroz",
+     "palillos",
+     "comida japonesa"
+    ]
+   ],
+   "pt": [
+    "Tigela de arroz",
+    "Uma tigela sorridente de arroz branco fofinho com hashi.",
+    [
+     "arroz",
+     "tigela de arroz",
+     "hashi",
+     "comida japonesa"
+    ]
+   ],
+   "fr": [
+    "Bol de riz",
+    "Un bol souriant de riz blanc avec des baguettes.",
+    [
+     "riz",
+     "bol de riz",
+     "baguettes",
+     "cuisine japonaise"
+    ]
+   ],
+   "de": [
+    "Schale Reis",
+    "Eine lächelnde Schale mit lockerem weißem Reis und Essstäbchen.",
+    [
+     "Reis",
+     "Reisschale",
+     "Essstäbchen",
+     "japanisches Essen"
+    ]
+   ],
+   "zh": [
+    "一碗米饭",
+    "一碗热腾腾的白米饭，配一双筷子。",
+    [
+     "米饭",
+     "饭碗",
+     "筷子",
+     "主食"
+    ]
+   ],
+   "ko": [
+    "밥 한 공기",
+    "젓가락과 함께 있는 웃는 얼굴의 하얀 쌀밥 한 공기.",
+    [
+     "밥",
+     "공깃밥",
+     "젓가락",
+     "한 끼"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "miso-soup",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Miso soup",
+    "A warm bowl of miso soup with tofu, seaweed and green onions.",
+    [
+     "miso soup",
+     "soup",
+     "tofu",
+     "Japanese food"
+    ]
+   ],
+   "ja": [
+    "みそ汁",
+    "豆腐、わかめ、ねぎが入った湯気の立つおみそ汁。",
+    [
+     "みそ汁",
+     "味噌汁",
+     "和食",
+     "朝ごはん"
+    ]
+   ],
+   "es": [
+    "Sopa de miso",
+    "Un tazón caliente de sopa de miso con tofu, algas y cebollín.",
+    [
+     "sopa de miso",
+     "sopa",
+     "tofu",
+     "comida japonesa"
+    ]
+   ],
+   "pt": [
+    "Sopa de missô",
+    "Uma tigela quentinha de sopa de missô com tofu, alga e cebolinha.",
+    [
+     "sopa de missô",
+     "sopa",
+     "tofu",
+     "comida japonesa"
+    ]
+   ],
+   "fr": [
+    "Soupe miso",
+    "Un bol chaud de soupe miso avec tofu, algues et ciboule.",
+    [
+     "soupe miso",
+     "soupe",
+     "tofu",
+     "cuisine japonaise"
+    ]
+   ],
+   "de": [
+    "Misosuppe",
+    "Eine warme Schale Misosuppe mit Tofu, Seetang und Frühlingszwiebeln.",
+    [
+     "Misosuppe",
+     "Suppe",
+     "Tofu",
+     "japanisches Essen"
+    ]
+   ],
+   "zh": [
+    "味噌汤",
+    "一碗热腾腾的味噌汤，里面有豆腐、海带和葱花。",
+    [
+     "味噌汤",
+     "汤",
+     "豆腐",
+     "日本料理"
+    ]
+   ],
+   "ko": [
+    "미소된장국",
+    "두부, 미역, 파가 들어간 따끈한 미소된장국.",
+    [
+     "미소된장국",
+     "미소시루",
+     "된장국",
+     "일식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tempura",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Shrimp tempura",
+    "Two crispy shrimp tempura on paper on a plate.",
+    [
+     "tempura",
+     "shrimp tempura",
+     "fried shrimp",
+     "Japanese food"
+    ]
+   ],
+   "ja": [
+    "えびの天ぷら",
+    "お皿の上の、サクサクのえび天ぷら2本。",
+    [
+     "天ぷら",
+     "えび天",
+     "エビフライ",
+     "和食"
+    ]
+   ],
+   "es": [
+    "Tempura de camarón",
+    "Dos camarones en tempura crujientes sobre papel en un plato.",
+    [
+     "tempura",
+     "camarón",
+     "gambas fritas",
+     "comida japonesa"
+    ]
+   ],
+   "pt": [
+    "Tempurá de camarão",
+    "Dois camarões empanados no tempurá, crocantes, num prato.",
+    [
+     "tempurá",
+     "camarão empanado",
+     "camarão frito",
+     "comida japonesa"
+    ]
+   ],
+   "fr": [
+    "Tempura de crevettes",
+    "Deux crevettes tempura croustillantes sur du papier dans une assiette.",
+    [
+     "tempura",
+     "crevettes frites",
+     "beignets de crevettes",
+     "cuisine japonaise"
+    ]
+   ],
+   "de": [
+    "Garnelen-Tempura",
+    "Zwei knusprige Garnelen-Tempura auf Papier auf einem Teller.",
+    [
+     "Tempura",
+     "Garnelen",
+     "frittierte Garnelen",
+     "japanisches Essen"
+    ]
+   ],
+   "zh": [
+    "天妇罗炸虾",
+    "盘子里两只酥脆的天妇罗炸虾。",
+    [
+     "天妇罗",
+     "炸虾",
+     "日本料理",
+     "油炸"
+    ]
+   ],
+   "ko": [
+    "새우튀김",
+    "접시 위 바삭한 새우 튀김 두 개.",
+    [
+     "새우튀김",
+     "덴푸라",
+     "튀김",
+     "일식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "grilled-fish",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Grilled fish",
+    "A salt-grilled fish on a long plate with grated radish and lemon.",
+    [
+     "grilled fish",
+     "fish",
+     "Japanese breakfast",
+     "seafood"
+    ]
+   ],
+   "ja": [
+    "焼き魚",
+    "大根おろしとレモンを添えた、細長いお皿の焼き魚。",
+    [
+     "焼き魚",
+     "魚",
+     "塩焼き",
+     "和食"
+    ]
+   ],
+   "es": [
+    "Pescado a la parrilla",
+    "Un pescado asado con sal en un plato alargado con rábano rallado y limón.",
+    [
+     "pescado asado",
+     "pescado",
+     "mariscos",
+     "comida japonesa"
+    ]
+   ],
+   "pt": [
+    "Peixe grelhado",
+    "Um peixe grelhado no sal em um prato comprido com nabo ralado e limão.",
+    [
+     "peixe grelhado",
+     "peixe",
+     "frutos do mar",
+     "comida japonesa"
+    ]
+   ],
+   "fr": [
+    "Poisson grillé",
+    "Un poisson grillé au sel sur un plat long avec du radis râpé et du citron.",
+    [
+     "poisson grillé",
+     "poisson",
+     "fruits de mer",
+     "cuisine japonaise"
+    ]
+   ],
+   "de": [
+    "Gegrillter Fisch",
+    "Ein salzgegrillter Fisch auf einem länglichen Teller mit geriebenem Rettich und Zitrone.",
+    [
+     "gegrillter Fisch",
+     "Fisch",
+     "Meeresfrüchte",
+     "japanisches Essen"
+    ]
+   ],
+   "zh": [
+    "烤鱼",
+    "长盘里的盐烤鱼，配萝卜泥和柠檬。",
+    [
+     "烤鱼",
+     "鱼",
+     "盐烤",
+     "日本料理"
+    ]
+   ],
+   "ko": [
+    "생선구이",
+    "무즙과 레몬을 곁들인 긴 접시 위의 소금구이 생선.",
+    [
+     "생선구이",
+     "생선",
+     "소금구이",
+     "일식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pancakes",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Stack of pancakes",
+    "A tall stack of fluffy pancakes topped with butter and syrup.",
+    [
+     "pancakes",
+     "breakfast",
+     "syrup",
+     "hotcakes"
+    ]
+   ],
+   "ja": [
+    "パンケーキ",
+    "バターとシロップをのせた、ふわふわのパンケーキの重ね焼き。",
+    [
+     "パンケーキ",
+     "ホットケーキ",
+     "朝ごはん",
+     "スイーツ"
+    ]
+   ],
+   "es": [
+    "Pila de panqueques",
+    "Una pila de panqueques esponjosos con mantequilla y sirope.",
+    [
+     "panqueques",
+     "tortitas",
+     "desayuno",
+     "hot cakes"
+    ]
+   ],
+   "pt": [
+    "Pilha de panquecas",
+    "Uma pilha de panquecas fofinhas com manteiga e calda.",
+    [
+     "panquecas",
+     "café da manhã",
+     "calda",
+     "doce"
+    ]
+   ],
+   "fr": [
+    "Pile de pancakes",
+    "Une pile de pancakes moelleux avec du beurre et du sirop.",
+    [
+     "pancakes",
+     "crêpes américaines",
+     "petit-déjeuner",
+     "sirop d'érable"
+    ]
+   ],
+   "de": [
+    "Pfannkuchenstapel",
+    "Ein Stapel fluffiger Pancakes mit Butter und Sirup.",
+    [
+     "Pancakes",
+     "Pfannkuchen",
+     "Frühstück",
+     "Sirup"
+    ]
+   ],
+   "zh": [
+    "松饼",
+    "一叠淋上糖浆、放着黄油的松软松饼。",
+    [
+     "松饼",
+     "煎饼",
+     "早餐",
+     "甜点"
+    ]
+   ],
+   "ko": [
+    "팬케이크",
+    "버터와 시럽을 올린 폭신한 팬케이크.",
+    [
+     "팬케이크",
+     "핫케이크",
+     "아침 식사",
+     "디저트"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "croissant",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Croissant",
+    "A flaky golden croissant with a cheerful face.",
+    [
+     "croissant",
+     "bread",
+     "bakery",
+     "breakfast"
+    ]
+   ],
+   "ja": [
+    "クロワッサン",
+    "にっこり笑顔の、こんがりサクサクのクロワッサン。",
+    [
+     "クロワッサン",
+     "パン",
+     "パン屋",
+     "朝食"
+    ]
+   ],
+   "es": [
+    "Cruasán",
+    "Un cruasán dorado y hojaldrado con una carita alegre.",
+    [
+     "cruasán",
+     "croissant",
+     "panadería",
+     "desayuno"
+    ]
+   ],
+   "pt": [
+    "Croissant",
+    "Um croissant dourado e folhado com uma carinha alegre.",
+    [
+     "croissant",
+     "pão",
+     "padaria",
+     "café da manhã"
+    ]
+   ],
+   "fr": [
+    "Croissant",
+    "Un croissant doré et feuilleté avec un visage joyeux.",
+    [
+     "croissant",
+     "viennoiserie",
+     "boulangerie",
+     "petit-déjeuner"
+    ]
+   ],
+   "de": [
+    "Croissant",
+    "Ein goldenes, blättriges Croissant mit fröhlichem Gesicht.",
+    [
+     "Croissant",
+     "Gebäck",
+     "Bäckerei",
+     "Frühstück"
+    ]
+   ],
+   "zh": [
+    "牛角面包",
+    "笑眯眯的金黄酥脆牛角面包。",
+    [
+     "牛角面包",
+     "可颂",
+     "面包",
+     "早餐"
+    ]
+   ],
+   "ko": [
+    "크루아상",
+    "웃는 얼굴의 노릇하고 바삭한 크루아상.",
+    [
+     "크루아상",
+     "빵",
+     "베이커리",
+     "아침 식사"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "toast-butter",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Toast with butter",
+    "A slice of toast with melting butter and a happy face.",
+    [
+     "toast",
+     "butter",
+     "bread",
+     "breakfast"
+    ]
+   ],
+   "ja": [
+    "バタートースト",
+    "バターがとろりととける、にこにこ顔の食パン。",
+    [
+     "トースト",
+     "バター",
+     "食パン",
+     "朝ごはん"
+    ]
+   ],
+   "es": [
+    "Tostada con mantequilla",
+    "Una rebanada de pan tostado con mantequilla derritiéndose y cara feliz.",
+    [
+     "tostada",
+     "mantequilla",
+     "pan",
+     "desayuno"
+    ]
+   ],
+   "pt": [
+    "Torrada com manteiga",
+    "Uma fatia de pão torrado com manteiga derretendo e carinha feliz.",
+    [
+     "torrada",
+     "manteiga",
+     "pão de forma",
+     "café da manhã"
+    ]
+   ],
+   "fr": [
+    "Tartine beurrée",
+    "Une tranche de pain grillé avec du beurre fondant et un visage content.",
+    [
+     "toast",
+     "beurre",
+     "pain de mie",
+     "petit-déjeuner"
+    ]
+   ],
+   "de": [
+    "Toast mit Butter",
+    "Eine Scheibe Toast mit schmelzender Butter und fröhlichem Gesicht.",
+    [
+     "Toast",
+     "Butter",
+     "Brot",
+     "Frühstück"
+    ]
+   ],
+   "zh": [
+    "黄油吐司",
+    "一片涂着融化黄油的笑脸吐司。",
+    [
+     "吐司",
+     "黄油",
+     "面包",
+     "早餐"
+    ]
+   ],
+   "ko": [
+    "버터 토스트",
+    "버터가 사르르 녹는 웃는 얼굴의 식빵.",
+    [
+     "토스트",
+     "버터",
+     "식빵",
+     "아침 식사"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cereal-bowl",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cereal with milk",
+    "A bowl of colorful ring cereal with milk and a spoon.",
+    [
+     "cereal",
+     "breakfast",
+     "milk",
+     "bowl"
+    ]
+   ],
+   "ja": [
+    "シリアル",
+    "牛乳をかけたカラフルなリングシリアルとスプーン。",
+    [
+     "シリアル",
+     "朝ごはん",
+     "牛乳",
+     "コーンフレーク"
+    ]
+   ],
+   "es": [
+    "Cereal con leche",
+    "Un tazón de cereal de aros de colores con leche y una cuchara.",
+    [
+     "cereal",
+     "desayuno",
+     "leche",
+     "tazón"
+    ]
+   ],
+   "pt": [
+    "Cereal com leite",
+    "Uma tigela de cereal colorido em anéis com leite e uma colher.",
+    [
+     "cereal",
+     "café da manhã",
+     "leite",
+     "sucrilhos"
+    ]
+   ],
+   "fr": [
+    "Céréales au lait",
+    "Un bol de céréales en anneaux colorés avec du lait et une cuillère.",
+    [
+     "céréales",
+     "petit-déjeuner",
+     "lait",
+     "bol"
+    ]
+   ],
+   "de": [
+    "Müsli mit Milch",
+    "Eine Schüssel bunter Cerealien-Ringe mit Milch und Löffel.",
+    [
+     "Cerealien",
+     "Frühstück",
+     "Milch",
+     "Frühstücksflocken"
+    ]
+   ],
+   "zh": [
+    "牛奶麦片",
+    "一碗加了牛奶的彩色圈圈麦片和勺子。",
+    [
+     "麦片",
+     "早餐",
+     "牛奶",
+     "谷物"
+    ]
+   ],
+   "ko": [
+    "시리얼",
+    "우유를 부은 알록달록한 링 시리얼과 숟가락.",
+    [
+     "시리얼",
+     "아침 식사",
+     "우유",
+     "콘플레이크"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "donut",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Donut with sprinkles",
+    "A pink frosted donut covered with colorful sprinkles.",
+    [
+     "donut",
+     "doughnut",
+     "sprinkles",
+     "sweets"
+    ]
+   ],
+   "ja": [
+    "カラフルドーナツ",
+    "カラフルなスプリンクルをちらした、ピンクのチョコがけドーナツ。",
+    [
+     "ドーナツ",
+     "スイーツ",
+     "おやつ",
+     "スプリンクル"
+    ]
+   ],
+   "es": [
+    "Dona con chispas",
+    "Una dona glaseada rosa cubierta de chispas de colores.",
+    [
+     "dona",
+     "rosquilla",
+     "donut",
+     "dulces"
+    ]
+   ],
+   "pt": [
+    "Donut com granulado",
+    "Um donut com cobertura rosa e granulado colorido.",
+    [
+     "donut",
+     "rosquinha",
+     "granulado",
+     "doce"
+    ]
+   ],
+   "fr": [
+    "Donut aux vermicelles",
+    "Un donut glacé rose recouvert de vermicelles colorés.",
+    [
+     "donut",
+     "beignet",
+     "vermicelles",
+     "sucreries"
+    ]
+   ],
+   "de": [
+    "Donut mit Streuseln",
+    "Ein rosa glasierter Donut mit bunten Zuckerstreuseln.",
+    [
+     "Donut",
+     "Krapfen",
+     "Streusel",
+     "Süßigkeiten"
+    ]
+   ],
+   "zh": [
+    "彩针甜甜圈",
+    "撒满彩色糖针的粉色糖霜甜甜圈。",
+    [
+     "甜甜圈",
+     "甜点",
+     "糖霜",
+     "零食"
+    ]
+   ],
+   "ko": [
+    "스프링클 도넛",
+    "알록달록 스프링클을 뿌린 핑크 글레이즈 도넛.",
+    [
+     "도넛",
+     "디저트",
+     "간식",
+     "스프링클"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cupcake",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cupcake",
+    "A smiling cupcake with pink frosting and a cherry on top.",
+    [
+     "cupcake",
+     "dessert",
+     "sweets",
+     "party"
+    ]
+   ],
+   "ja": [
+    "カップケーキ",
+    "ピンクのクリームとさくらんぼをのせた、にっこりカップケーキ。",
+    [
+     "カップケーキ",
+     "スイーツ",
+     "お菓子",
+     "パーティー"
+    ]
+   ],
+   "es": [
+    "Cupcake",
+    "Un cupcake sonriente con betún rosa y una cereza encima.",
+    [
+     "cupcake",
+     "magdalena",
+     "postre",
+     "fiesta"
+    ]
+   ],
+   "pt": [
+    "Cupcake",
+    "Um cupcake sorridente com cobertura rosa e uma cereja em cima.",
+    [
+     "cupcake",
+     "bolinho",
+     "doce",
+     "festa"
+    ]
+   ],
+   "fr": [
+    "Cupcake",
+    "Un cupcake souriant avec un glaçage rose et une cerise sur le dessus.",
+    [
+     "cupcake",
+     "dessert",
+     "gâteau",
+     "fête"
+    ]
+   ],
+   "de": [
+    "Cupcake",
+    "Ein lächelnder Cupcake mit rosa Creme und einer Kirsche obendrauf.",
+    [
+     "Cupcake",
+     "Muffin",
+     "Dessert",
+     "Party"
+    ]
+   ],
+   "zh": [
+    "纸杯蛋糕",
+    "顶着粉色奶油和樱桃的笑脸纸杯蛋糕。",
+    [
+     "纸杯蛋糕",
+     "甜点",
+     "蛋糕",
+     "派对"
+    ]
+   ],
+   "ko": [
+    "컵케이크",
+    "분홍 크림과 체리를 올린 웃는 얼굴의 컵케이크.",
+    [
+     "컵케이크",
+     "디저트",
+     "케이크",
+     "파티"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cake-slice",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Strawberry shortcake slice",
+    "A slice of strawberry shortcake with whipped cream and a strawberry on top.",
+    [
+     "cake",
+     "strawberry shortcake",
+     "dessert",
+     "slice of cake"
+    ]
+   ],
+   "ja": [
+    "ショートケーキ",
+    "生クリームといちごをのせた、いちごのショートケーキ。",
+    [
+     "ショートケーキ",
+     "ケーキ",
+     "いちご",
+     "スイーツ"
+    ]
+   ],
+   "es": [
+    "Rebanada de pastel de fresa",
+    "Una rebanada de pastel de fresas con crema batida y una fresa encima.",
+    [
+     "pastel",
+     "pastel de fresa",
+     "postre",
+     "rebanada"
+    ]
+   ],
+   "pt": [
+    "Fatia de bolo de morango",
+    "Uma fatia de bolo de morango com chantilly e um morango em cima.",
+    [
+     "bolo",
+     "bolo de morango",
+     "sobremesa",
+     "fatia de bolo"
+    ]
+   ],
+   "fr": [
+    "Part de fraisier",
+    "Une part de gâteau aux fraises avec crème fouettée et une fraise sur le dessus.",
+    [
+     "gâteau",
+     "fraisier",
+     "dessert",
+     "part de gâteau"
+    ]
+   ],
+   "de": [
+    "Erdbeertortenstück",
+    "Ein Stück Erdbeer-Sahnetorte mit Schlagsahne und einer Erdbeere obendrauf.",
+    [
+     "Kuchen",
+     "Erdbeertorte",
+     "Dessert",
+     "Tortenstück"
+    ]
+   ],
+   "zh": [
+    "草莓奶油蛋糕",
+    "一块铺着奶油和草莓的草莓蛋糕。",
+    [
+     "蛋糕",
+     "草莓蛋糕",
+     "甜点",
+     "奶油蛋糕"
+    ]
+   ],
+   "ko": [
+    "딸기 쇼트케이크",
+    "생크림과 딸기를 올린 딸기 케이크 한 조각.",
+    [
+     "케이크",
+     "딸기 케이크",
+     "디저트",
+     "조각 케이크"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pudding",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Custard pudding",
+    "A wobbly custard pudding with caramel sauce, cream and a cherry.",
+    [
+     "pudding",
+     "custard",
+     "flan",
+     "dessert"
+    ]
+   ],
+   "ja": [
+    "プリン",
+    "カラメルソースに生クリームとさくらんぼをのせた、にっこりプリン。",
+    [
+     "プリン",
+     "カスタードプリン",
+     "スイーツ",
+     "おやつ"
+    ]
+   ],
+   "es": [
+    "Flan",
+    "Un flan tembloroso con caramelo, crema y una cereza.",
+    [
+     "flan",
+     "pudín",
+     "postre",
+     "caramelo"
+    ]
+   ],
+   "pt": [
+    "Pudim",
+    "Um pudim de leite com calda de caramelo, chantilly e uma cereja.",
+    [
+     "pudim",
+     "pudim de leite",
+     "sobremesa",
+     "caramelo"
+    ]
+   ],
+   "fr": [
+    "Crème caramel",
+    "Une crème caramel tremblotante avec crème chantilly et une cerise.",
+    [
+     "crème caramel",
+     "flan",
+     "dessert",
+     "pudding"
+    ]
+   ],
+   "de": [
+    "Karamellpudding",
+    "Ein wackeliger Karamellpudding mit Sahne und einer Kirsche.",
+    [
+     "Pudding",
+     "Karamellpudding",
+     "Dessert",
+     "Flan"
+    ]
+   ],
+   "zh": [
+    "焦糖布丁",
+    "淋着焦糖、顶着奶油和樱桃的布丁。",
+    [
+     "布丁",
+     "焦糖布丁",
+     "甜点",
+     "蛋奶布丁"
+    ]
+   ],
+   "ko": [
+    "푸딩",
+    "캐러멜 소스에 생크림과 체리를 올린 커스터드 푸딩.",
+    [
+     "푸딩",
+     "커스터드 푸딩",
+     "디저트",
+     "간식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "macarons",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Macarons",
+    "Three colorful macarons in pink, green and yellow.",
+    [
+     "macarons",
+     "French dessert",
+     "sweets",
+     "pastel"
+    ]
+   ],
+   "ja": [
+    "マカロン",
+    "ピンク・緑・黄色の3つのカラフルなマカロン。",
+    [
+     "マカロン",
+     "スイーツ",
+     "お菓子",
+     "パステルカラー"
+    ]
+   ],
+   "es": [
+    "Macarons",
+    "Tres macarons de colores rosa, verde y amarillo.",
+    [
+     "macarons",
+     "postre francés",
+     "dulces",
+     "pastel"
+    ]
+   ],
+   "pt": [
+    "Macarons",
+    "Três macarons coloridos em rosa, verde e amarelo.",
+    [
+     "macarons",
+     "doce francês",
+     "doces",
+     "confeitaria"
+    ]
+   ],
+   "fr": [
+    "Macarons",
+    "Trois macarons colorés rose, vert et jaune.",
+    [
+     "macarons",
+     "pâtisserie",
+     "douceurs",
+     "gourmandise"
+    ]
+   ],
+   "de": [
+    "Macarons",
+    "Drei bunte Macarons in Rosa, Grün und Gelb.",
+    [
+     "Macarons",
+     "französisches Gebäck",
+     "Süßigkeiten",
+     "Pastell"
+    ]
+   ],
+   "zh": [
+    "马卡龙",
+    "粉色、绿色和黄色三个彩色马卡龙。",
+    [
+     "马卡龙",
+     "法式甜点",
+     "甜点",
+     "下午茶"
+    ]
+   ],
+   "ko": [
+    "마카롱",
+    "분홍, 초록, 노랑 세 가지 색의 마카롱.",
+    [
+     "마카롱",
+     "디저트",
+     "과자",
+     "파스텔"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cookies",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Chocolate chip cookies",
+    "Three chocolate chip cookies with a smiling one in front.",
+    [
+     "cookies",
+     "chocolate chip cookie",
+     "snack",
+     "baking"
+    ]
+   ],
+   "ja": [
+    "クッキー",
+    "にっこり笑顔のチョコチップクッキーと仲間たち。",
+    [
+     "クッキー",
+     "チョコチップクッキー",
+     "おやつ",
+     "お菓子"
+    ]
+   ],
+   "es": [
+    "Galletas",
+    "Tres galletas con chispas de chocolate, una sonriente al frente.",
+    [
+     "galletas",
+     "galletas con chispas de chocolate",
+     "merienda",
+     "repostería"
+    ]
+   ],
+   "pt": [
+    "Cookies",
+    "Três cookies com gotas de chocolate, um sorridente na frente.",
+    [
+     "cookies",
+     "biscoito",
+     "gotas de chocolate",
+     "lanche"
+    ]
+   ],
+   "fr": [
+    "Cookies",
+    "Trois cookies aux pépites de chocolat, dont un souriant devant.",
+    [
+     "cookies",
+     "biscuits",
+     "pépites de chocolat",
+     "goûter"
+    ]
+   ],
+   "de": [
+    "Kekse",
+    "Drei Schokoladenkekse, vorne einer mit lächelndem Gesicht.",
+    [
+     "Kekse",
+     "Cookies",
+     "Schokokekse",
+     "Backen"
+    ]
+   ],
+   "zh": [
+    "曲奇饼干",
+    "三块巧克力豆曲奇，前面一块在微笑。",
+    [
+     "曲奇",
+     "饼干",
+     "巧克力豆",
+     "零食"
+    ]
+   ],
+   "ko": [
+    "쿠키",
+    "초코칩 쿠키 세 개, 앞에 있는 쿠키가 웃고 있어요.",
+    [
+     "쿠키",
+     "초코칩 쿠키",
+     "간식",
+     "과자"
+    ]
+   ]
+  }
+ }
+]

@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "polar-bear",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Polar bear",
+    "A cute white polar bear sitting with a happy smile.",
+    [
+     "polar bear",
+     "bear",
+     "arctic",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "しろくま",
+    "にっこり笑っておすわりするかわいいしろくま。",
+    [
+     "しろくま",
+     "ホッキョクグマ",
+     "北極",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Oso polar",
+    "Un tierno oso polar blanco sentado y sonriente.",
+    [
+     "oso polar",
+     "oso",
+     "ártico",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Urso-polar",
+    "Um urso-polar branco fofo sentado e sorrindo.",
+    [
+     "urso-polar",
+     "urso",
+     "ártico",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Ours polaire",
+    "Un adorable ours polaire blanc assis avec un grand sourire.",
+    [
+     "ours polaire",
+     "ours",
+     "arctique",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Eisbär",
+    "Ein niedlicher weißer Eisbär, der sitzt und fröhlich lächelt.",
+    [
+     "Eisbär",
+     "Bär",
+     "Arktis",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "北极熊",
+    "一只坐着开心微笑的可爱白色北极熊。",
+    [
+     "北极熊",
+     "熊",
+     "北极",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "북극곰",
+    "앉아서 환하게 웃는 귀여운 하얀 북극곰.",
+    [
+     "북극곰",
+     "곰",
+     "북극",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "red-panda",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Red panda",
+    "A cute red panda with a fluffy striped tail.",
+    [
+     "red panda",
+     "panda",
+     "zoo",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "レッサーパンダ",
+    "しましまのふわふわしっぽのかわいいレッサーパンダ。",
+    [
+     "レッサーパンダ",
+     "パンダ",
+     "動物園",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Panda rojo",
+    "Un adorable panda rojo con su cola esponjosa a rayas.",
+    [
+     "panda rojo",
+     "panda",
+     "zoológico",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Panda-vermelho",
+    "Um panda-vermelho fofo com rabo listrado e peludo.",
+    [
+     "panda-vermelho",
+     "panda",
+     "zoológico",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Panda roux",
+    "Un adorable panda roux avec sa queue rayée toute douce.",
+    [
+     "panda roux",
+     "panda",
+     "zoo",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Roter Panda",
+    "Ein niedlicher Roter Panda mit flauschigem, gestreiftem Schwanz.",
+    [
+     "Roter Panda",
+     "Panda",
+     "Zoo",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "小熊猫",
+    "一只长着蓬松条纹尾巴的可爱小熊猫。",
+    [
+     "小熊猫",
+     "熊猫",
+     "动物园",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "레서판다",
+    "줄무늬 복슬복슬 꼬리를 가진 귀여운 레서판다.",
+    [
+     "레서판다",
+     "판다",
+     "동물원",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "otter",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Otter floating",
+    "A sea otter floating on its back holding a shell.",
+    [
+     "otter",
+     "sea otter",
+     "sea",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "ぷかぷか浮かぶラッコ",
+    "貝をおなかに乗せて仰向けにぷかぷか浮かぶラッコ。",
+    [
+     "ラッコ",
+     "カワウソ",
+     "海",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Nutria flotando",
+    "Una nutria marina flotando boca arriba con una concha.",
+    [
+     "nutria",
+     "nutria marina",
+     "mar",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Lontra boiando",
+    "Uma lontra-marinha boiando de costas segurando uma concha.",
+    [
+     "lontra",
+     "lontra-marinha",
+     "mar",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Loutre qui flotte",
+    "Une loutre de mer qui flotte sur le dos avec un coquillage.",
+    [
+     "loutre",
+     "loutre de mer",
+     "mer",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Schwimmender Otter",
+    "Ein Seeotter, der mit einer Muschel auf dem Rücken treibt.",
+    [
+     "Otter",
+     "Seeotter",
+     "Meer",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "漂浮的海獭",
+    "抱着贝壳仰面漂浮在水上的海獭。",
+    [
+     "海獭",
+     "水獭",
+     "大海",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "둥둥 떠 있는 해달",
+    "조개를 배 위에 올리고 누워서 떠 있는 해달.",
+    [
+     "해달",
+     "수달",
+     "바다",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "beaver",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Beaver",
+    "A cute beaver with big front teeth holding a log.",
+    [
+     "beaver",
+     "rodent",
+     "forest",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "ビーバー",
+    "丸太をかかえた前歯の大きなかわいいビーバー。",
+    [
+     "ビーバー",
+     "げっ歯類",
+     "森",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Castor",
+    "Un castor adorable con dientes grandes sujetando un tronco.",
+    [
+     "castor",
+     "roedor",
+     "bosque",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Castor",
+    "Um castor fofo de dentes grandes segurando um tronco.",
+    [
+     "castor",
+     "roedor",
+     "floresta",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Castor",
+    "Un adorable castor aux grandes dents qui tient une bûche.",
+    [
+     "castor",
+     "rongeur",
+     "forêt",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Biber",
+    "Ein niedlicher Biber mit großen Zähnen, der einen Holzstamm hält.",
+    [
+     "Biber",
+     "Nagetier",
+     "Wald",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "河狸",
+    "抱着木头、长着大门牙的可爱河狸。",
+    [
+     "河狸",
+     "海狸",
+     "森林",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "비버",
+    "통나무를 안고 있는 앞니가 큰 귀여운 비버.",
+    [
+     "비버",
+     "설치류",
+     "숲",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "bat",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Cute bat",
+    "A cute little bat spreading its wings.",
+    [
+     "bat",
+     "Halloween",
+     "night",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "かわいいコウモリ",
+    "つばさを広げたかわいい小さなコウモリ。",
+    [
+     "コウモリ",
+     "ハロウィン",
+     "夜",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Murciélago tierno",
+    "Un pequeño murciélago adorable con las alas abiertas.",
+    [
+     "murciélago",
+     "Halloween",
+     "noche",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Morcego fofo",
+    "Um morceguinho fofo de asas abertas.",
+    [
+     "morcego",
+     "Halloween",
+     "noite",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Chauve-souris mignonne",
+    "Une petite chauve-souris adorable qui déploie ses ailes.",
+    [
+     "chauve-souris",
+     "Halloween",
+     "nuit",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Süße Fledermaus",
+    "Eine kleine, süße Fledermaus mit ausgebreiteten Flügeln.",
+    [
+     "Fledermaus",
+     "Halloween",
+     "Nacht",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "可爱的蝙蝠",
+    "张开翅膀的可爱小蝙蝠。",
+    [
+     "蝙蝠",
+     "万圣节",
+     "夜晚",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "귀여운 박쥐",
+    "날개를 활짝 편 귀여운 작은 박쥐.",
+    [
+     "박쥐",
+     "할로윈",
+     "밤",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "camel",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Camel",
+    "A friendly two-humped camel standing in the desert.",
+    [
+     "camel",
+     "desert",
+     "travel",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "ラクダ",
+    "こぶが2つあるやさしい顔のラクダ。",
+    [
+     "ラクダ",
+     "砂漠",
+     "旅行",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Camello",
+    "Un camello amigable de dos jorobas.",
+    [
+     "camello",
+     "desierto",
+     "viaje",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Camelo",
+    "Um camelo simpático de duas corcovas.",
+    [
+     "camelo",
+     "deserto",
+     "viagem",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Chameau",
+    "Un gentil chameau à deux bosses.",
+    [
+     "chameau",
+     "désert",
+     "voyage",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Kamel",
+    "Ein freundliches Kamel mit zwei Höckern.",
+    [
+     "Kamel",
+     "Wüste",
+     "Reise",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "骆驼",
+    "一只有两个驼峰、表情温和的骆驼。",
+    [
+     "骆驼",
+     "沙漠",
+     "旅行",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "낙타",
+    "혹이 두 개 있는 순한 표정의 낙타.",
+    [
+     "낙타",
+     "사막",
+     "여행",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "alpaca",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Alpaca",
+    "A fluffy cream-colored alpaca with a long neck.",
+    [
+     "alpaca",
+     "llama",
+     "fluffy",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "アルパカ",
+    "もこもこの毛と長い首のクリーム色のアルパカ。",
+    [
+     "アルパカ",
+     "リャマ",
+     "もふもふ",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Alpaca",
+    "Una alpaca esponjosa de color crema con cuello largo.",
+    [
+     "alpaca",
+     "llama",
+     "esponjoso",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Alpaca",
+    "Uma alpaca fofinha cor creme de pescoço comprido.",
+    [
+     "alpaca",
+     "lhama",
+     "fofinho",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Alpaga",
+    "Un alpaga tout doux couleur crème au long cou.",
+    [
+     "alpaga",
+     "lama",
+     "tout doux",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Alpaka",
+    "Ein flauschiges, cremefarbenes Alpaka mit langem Hals.",
+    [
+     "Alpaka",
+     "Lama",
+     "flauschig",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "羊驼",
+    "毛茸茸、脖子长长的奶油色羊驼。",
+    [
+     "羊驼",
+     "草泥马",
+     "毛茸茸",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "알파카",
+    "복슬복슬한 털과 긴 목을 가진 크림색 알파카.",
+    [
+     "알파카",
+     "라마",
+     "복슬복슬",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mouse",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Mouse",
+    "A cute little gray mouse with big round ears.",
+    [
+     "mouse",
+     "rodent",
+     "small animal",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "ねずみ",
+    "大きな丸い耳のかわいい灰色のねずみ。",
+    [
+     "ねずみ",
+     "ネズミ",
+     "子年",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Ratón",
+    "Un ratoncito gris adorable con orejas grandes y redondas.",
+    [
+     "ratón",
+     "roedor",
+     "animal pequeño",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Ratinho",
+    "Um ratinho cinza fofo com orelhas grandes e redondas.",
+    [
+     "rato",
+     "ratinho",
+     "roedor",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Souris",
+    "Une adorable petite souris grise aux grandes oreilles rondes.",
+    [
+     "souris",
+     "rongeur",
+     "petit animal",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Maus",
+    "Eine niedliche kleine graue Maus mit großen runden Ohren.",
+    [
+     "Maus",
+     "Nagetier",
+     "Kleintier",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "小老鼠",
+    "长着大圆耳朵的可爱灰色小老鼠。",
+    [
+     "老鼠",
+     "鼠年",
+     "小动物",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "생쥐",
+    "크고 동그란 귀를 가진 귀여운 회색 생쥐.",
+    [
+     "쥐",
+     "생쥐",
+     "쥐띠",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "dolphin",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Dolphin jumping",
+    "A happy dolphin leaping out of the water.",
+    [
+     "dolphin",
+     "sea",
+     "ocean",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "ジャンプするイルカ",
+    "海から元気にジャンプするイルカ。",
+    [
+     "イルカ",
+     "海",
+     "水族館",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Delfín saltando",
+    "Un delfín feliz saltando fuera del agua.",
+    [
+     "delfín",
+     "mar",
+     "océano",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Golfinho pulando",
+    "Um golfinho feliz saltando para fora da água.",
+    [
+     "golfinho",
+     "mar",
+     "oceano",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Dauphin qui saute",
+    "Un dauphin joyeux qui bondit hors de l'eau.",
+    [
+     "dauphin",
+     "mer",
+     "océan",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Springender Delfin",
+    "Ein fröhlicher Delfin, der aus dem Wasser springt.",
+    [
+     "Delfin",
+     "Meer",
+     "Ozean",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "跳跃的海豚",
+    "一只开心地跃出水面的海豚。",
+    [
+     "海豚",
+     "大海",
+     "海洋",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "점프하는 돌고래",
+    "물 위로 신나게 점프하는 돌고래.",
+    [
+     "돌고래",
+     "바다",
+     "해양",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "whale",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Whale",
+    "A big friendly whale spouting water.",
+    [
+     "whale",
+     "sea",
+     "ocean",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "しおをふくクジラ",
+    "頭から潮をふく大きくてやさしいクジラ。",
+    [
+     "クジラ",
+     "くじら",
+     "海",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Ballena",
+    "Una ballena grande y simpática echando un chorro de agua.",
+    [
+     "ballena",
+     "mar",
+     "océano",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Baleia",
+    "Uma baleia grande e simpática soltando um jato de água.",
+    [
+     "baleia",
+     "mar",
+     "oceano",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Baleine",
+    "Une grosse baleine sympathique qui souffle un jet d'eau.",
+    [
+     "baleine",
+     "mer",
+     "océan",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Wal",
+    "Ein großer, freundlicher Wal mit einer Wasserfontäne.",
+    [
+     "Wal",
+     "Meer",
+     "Ozean",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "喷水的鲸鱼",
+    "一头正在喷水的友善大鲸鱼。",
+    [
+     "鲸鱼",
+     "大海",
+     "海洋",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "물을 뿜는 고래",
+    "머리에서 물을 뿜는 크고 다정한 고래.",
+    [
+     "고래",
+     "바다",
+     "해양",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "shark",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Friendly shark",
+    "A friendly smiling shark swimming in the sea.",
+    [
+     "shark",
+     "sea",
+     "ocean",
+     "fish"
+    ]
+   ],
+   "ja": [
+    "やさしいサメ",
+    "にっこり笑って泳ぐやさしいサメ。",
+    [
+     "サメ",
+     "海",
+     "魚",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Tiburón amigable",
+    "Un tiburón amigable y sonriente nadando en el mar.",
+    [
+     "tiburón",
+     "mar",
+     "océano",
+     "pez"
+    ]
+   ],
+   "pt": [
+    "Tubarão simpático",
+    "Um tubarão simpático e sorridente nadando no mar.",
+    [
+     "tubarão",
+     "mar",
+     "oceano",
+     "peixe"
+    ]
+   ],
+   "fr": [
+    "Requin gentil",
+    "Un requin souriant et gentil qui nage dans la mer.",
+    [
+     "requin",
+     "mer",
+     "océan",
+     "poisson"
+    ]
+   ],
+   "de": [
+    "Freundlicher Hai",
+    "Ein freundlich lächelnder Hai, der im Meer schwimmt.",
+    [
+     "Hai",
+     "Meer",
+     "Ozean",
+     "Fisch"
+    ]
+   ],
+   "zh": [
+    "友善的鲨鱼",
+    "一条笑眯眯地在海里游泳的友善鲨鱼。",
+    [
+     "鲨鱼",
+     "大海",
+     "海洋",
+     "鱼"
+    ]
+   ],
+   "ko": [
+    "착한 상어",
+    "방긋 웃으며 바다를 헤엄치는 착한 상어.",
+    [
+     "상어",
+     "바다",
+     "해양",
+     "물고기"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "octopus",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Octopus",
+    "A cute red octopus with wavy tentacles.",
+    [
+     "octopus",
+     "sea",
+     "ocean",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "タコ",
+    "くねくね足のかわいい赤いタコ。",
+    [
+     "タコ",
+     "たこ",
+     "海",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Pulpo",
+    "Un pulpo rojo adorable con tentáculos ondulados.",
+    [
+     "pulpo",
+     "mar",
+     "océano",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Polvo",
+    "Um polvo vermelho fofo com tentáculos ondulados.",
+    [
+     "polvo",
+     "mar",
+     "oceano",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Pieuvre",
+    "Une adorable pieuvre rouge aux tentacules ondulés.",
+    [
+     "pieuvre",
+     "poulpe",
+     "mer",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Krake",
+    "Ein niedlicher roter Krake mit welligen Tentakeln.",
+    [
+     "Krake",
+     "Oktopus",
+     "Meer",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "章鱼",
+    "长着弯弯触手的可爱红色章鱼。",
+    [
+     "章鱼",
+     "大海",
+     "海洋",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "문어",
+    "꼬불꼬불 다리를 가진 귀여운 빨간 문어.",
+    [
+     "문어",
+     "바다",
+     "해양",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "squid",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Squid",
+    "A cute white squid with triangle fins and long tentacles.",
+    [
+     "squid",
+     "sea",
+     "ocean",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "イカ",
+    "三角のひれと長い足のかわいい白いイカ。",
+    [
+     "イカ",
+     "いか",
+     "海",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Calamar",
+    "Un calamar blanco adorable con aletas triangulares y tentáculos largos.",
+    [
+     "calamar",
+     "mar",
+     "océano",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Lula",
+    "Uma lula branca fofa com nadadeiras triangulares e tentáculos longos.",
+    [
+     "lula",
+     "mar",
+     "oceano",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Calmar",
+    "Un adorable calmar blanc aux nageoires triangulaires et aux longs tentacules.",
+    [
+     "calmar",
+     "encornet",
+     "mer",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Tintenfisch",
+    "Ein niedlicher weißer Tintenfisch mit dreieckigen Flossen und langen Fangarmen.",
+    [
+     "Tintenfisch",
+     "Kalmar",
+     "Meer",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "鱿鱼",
+    "长着三角鳍和长触手的可爱白色鱿鱼。",
+    [
+     "鱿鱼",
+     "乌贼",
+     "大海",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "오징어",
+    "세모 지느러미와 긴 다리를 가진 귀여운 하얀 오징어.",
+    [
+     "오징어",
+     "바다",
+     "해양",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "crab",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Crab",
+    "A cute red crab raising its claws.",
+    [
+     "crab",
+     "beach",
+     "sea",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "カニ",
+    "はさみを上げたかわいい赤いカニ。",
+    [
+     "カニ",
+     "かに",
+     "海",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Cangrejo",
+    "Un cangrejo rojo adorable levantando sus pinzas.",
+    [
+     "cangrejo",
+     "playa",
+     "mar",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Caranguejo",
+    "Um caranguejo vermelho fofo levantando as garras.",
+    [
+     "caranguejo",
+     "praia",
+     "mar",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Crabe",
+    "Un adorable crabe rouge qui lève ses pinces.",
+    [
+     "crabe",
+     "plage",
+     "mer",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Krabbe",
+    "Eine niedliche rote Krabbe, die ihre Scheren hebt.",
+    [
+     "Krabbe",
+     "Strand",
+     "Meer",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "螃蟹",
+    "举起钳子的可爱红色螃蟹。",
+    [
+     "螃蟹",
+     "海滩",
+     "大海",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "게",
+    "집게발을 번쩍 든 귀여운 빨간 게.",
+    [
+     "게",
+     "꽃게",
+     "바다",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "jellyfish",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Jellyfish",
+    "A cute pink jellyfish drifting with wavy tentacles.",
+    [
+     "jellyfish",
+     "sea",
+     "aquarium",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "クラゲ",
+    "ゆらゆら足をのばしてただようかわいいピンクのクラゲ。",
+    [
+     "クラゲ",
+     "くらげ",
+     "海",
+     "水族館"
+    ]
+   ],
+   "es": [
+    "Medusa",
+    "Una medusa rosa adorable flotando con tentáculos ondulados.",
+    [
+     "medusa",
+     "mar",
+     "acuario",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Água-viva",
+    "Uma água-viva rosa fofa flutuando com tentáculos ondulados.",
+    [
+     "água-viva",
+     "mar",
+     "aquário",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Méduse",
+    "Une adorable méduse rose qui flotte avec ses tentacules ondulés.",
+    [
+     "méduse",
+     "mer",
+     "aquarium",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Qualle",
+    "Eine niedliche rosa Qualle, die mit welligen Tentakeln treibt.",
+    [
+     "Qualle",
+     "Meer",
+     "Aquarium",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "水母",
+    "飘动着波浪触手的可爱粉色水母。",
+    [
+     "水母",
+     "大海",
+     "水族馆",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "해파리",
+    "하늘하늘 촉수를 늘어뜨리고 떠다니는 귀여운 분홍 해파리.",
+    [
+     "해파리",
+     "바다",
+     "아쿠아리움",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "seal",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Seal",
+    "A cute gray seal lying down with its head up.",
+    [
+     "seal",
+     "sea",
+     "aquarium",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "アザラシ",
+    "ねそべって顔を上げるかわいい灰色のアザラシ。",
+    [
+     "アザラシ",
+     "あざらし",
+     "海",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Foca",
+    "Una foca gris adorable tumbada con la cabeza levantada.",
+    [
+     "foca",
+     "mar",
+     "acuario",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Foca",
+    "Uma foca cinza fofa deitada com a cabeça erguida.",
+    [
+     "foca",
+     "mar",
+     "aquário",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Phoque",
+    "Un adorable phoque gris allongé, la tête relevée.",
+    [
+     "phoque",
+     "mer",
+     "aquarium",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Robbe",
+    "Eine niedliche graue Robbe, die liegt und den Kopf hebt.",
+    [
+     "Robbe",
+     "Seehund",
+     "Meer",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "海豹",
+    "趴着抬起头的可爱灰色海豹。",
+    [
+     "海豹",
+     "大海",
+     "水族馆",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "물범",
+    "엎드려서 고개를 든 귀여운 회색 물범.",
+    [
+     "물범",
+     "바다표범",
+     "바다",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sea-turtle",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sea turtle swimming",
+    "A green sea turtle swimming happily in the ocean.",
+    [
+     "sea turtle",
+     "turtle",
+     "ocean",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "泳ぐウミガメ",
+    "海をすいすい泳ぐ緑のウミガメ。",
+    [
+     "ウミガメ",
+     "カメ",
+     "海",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Tortuga marina nadando",
+    "Una tortuga marina verde nadando feliz en el océano.",
+    [
+     "tortuga marina",
+     "tortuga",
+     "océano",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Tartaruga marinha nadando",
+    "Uma tartaruga marinha verde nadando feliz no oceano.",
+    [
+     "tartaruga marinha",
+     "tartaruga",
+     "oceano",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Tortue de mer qui nage",
+    "Une tortue de mer verte qui nage joyeusement dans l'océan.",
+    [
+     "tortue de mer",
+     "tortue",
+     "océan",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Schwimmende Meeresschildkröte",
+    "Eine grüne Meeresschildkröte, die fröhlich im Ozean schwimmt.",
+    [
+     "Meeresschildkröte",
+     "Schildkröte",
+     "Ozean",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "游泳的海龟",
+    "在海里开心游泳的绿色海龟。",
+    [
+     "海龟",
+     "乌龟",
+     "海洋",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "헤엄치는 바다거북",
+    "바다를 신나게 헤엄치는 초록 바다거북.",
+    [
+     "바다거북",
+     "거북이",
+     "바다",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "clownfish",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Clownfish",
+    "A cute orange clownfish with white stripes.",
+    [
+     "clownfish",
+     "fish",
+     "sea",
+     "aquarium"
+    ]
+   ],
+   "ja": [
+    "クマノミ",
+    "白いしましまのかわいいオレンジ色のクマノミ。",
+    [
+     "クマノミ",
+     "魚",
+     "海",
+     "水族館"
+    ]
+   ],
+   "es": [
+    "Pez payaso",
+    "Un pez payaso naranja adorable con franjas blancas.",
+    [
+     "pez payaso",
+     "pez",
+     "mar",
+     "acuario"
+    ]
+   ],
+   "pt": [
+    "Peixe-palhaço",
+    "Um peixe-palhaço laranja fofo com listras brancas.",
+    [
+     "peixe-palhaço",
+     "peixe",
+     "mar",
+     "aquário"
+    ]
+   ],
+   "fr": [
+    "Poisson-clown",
+    "Un adorable poisson-clown orange aux rayures blanches.",
+    [
+     "poisson-clown",
+     "poisson",
+     "mer",
+     "aquarium"
+    ]
+   ],
+   "de": [
+    "Clownfisch",
+    "Ein niedlicher orangefarbener Clownfisch mit weißen Streifen.",
+    [
+     "Clownfisch",
+     "Fisch",
+     "Meer",
+     "Aquarium"
+    ]
+   ],
+   "zh": [
+    "小丑鱼",
+    "带白色条纹的可爱橙色小丑鱼。",
+    [
+     "小丑鱼",
+     "鱼",
+     "大海",
+     "水族馆"
+    ]
+   ],
+   "ko": [
+    "흰동가리",
+    "하얀 줄무늬가 있는 귀여운 주황색 흰동가리.",
+    [
+     "흰동가리",
+     "니모",
+     "물고기",
+     "바다"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pufferfish",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pufferfish",
+    "A round, puffed-up pufferfish covered in spikes.",
+    [
+     "pufferfish",
+     "blowfish",
+     "fish",
+     "sea"
+    ]
+   ],
+   "ja": [
+    "フグ",
+    "ぷくっとふくらんだトゲトゲの丸いフグ。",
+    [
+     "フグ",
+     "ふぐ",
+     "魚",
+     "海"
+    ]
+   ],
+   "es": [
+    "Pez globo",
+    "Un pez globo redondo e inflado lleno de espinas.",
+    [
+     "pez globo",
+     "pez",
+     "mar",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Baiacu",
+    "Um baiacu redondo e inflado coberto de espinhos.",
+    [
+     "baiacu",
+     "peixe",
+     "mar",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Poisson-globe",
+    "Un poisson-globe tout rond et gonflé, couvert de piquants.",
+    [
+     "poisson-globe",
+     "poisson",
+     "mer",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Kugelfisch",
+    "Ein runder, aufgeblasener Kugelfisch voller Stacheln.",
+    [
+     "Kugelfisch",
+     "Fisch",
+     "Meer",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "河豚",
+    "鼓得圆圆的、浑身是刺的河豚。",
+    [
+     "河豚",
+     "鱼",
+     "大海",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "복어",
+    "빵빵하게 부푼 가시투성이 동그란 복어.",
+    [
+     "복어",
+     "물고기",
+     "바다",
+     "동물"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "starfish",
+  "cat": "animals",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Starfish",
+    "A cute smiling orange starfish.",
+    [
+     "starfish",
+     "beach",
+     "sea",
+     "animal"
+    ]
+   ],
+   "ja": [
+    "ヒトデ",
+    "にっこり笑うかわいいオレンジ色のヒトデ。",
+    [
+     "ヒトデ",
+     "ひとで",
+     "海",
+     "動物"
+    ]
+   ],
+   "es": [
+    "Estrella de mar",
+    "Una estrella de mar naranja adorable y sonriente.",
+    [
+     "estrella de mar",
+     "playa",
+     "mar",
+     "animal"
+    ]
+   ],
+   "pt": [
+    "Estrela-do-mar",
+    "Uma estrela-do-mar laranja fofa e sorridente.",
+    [
+     "estrela-do-mar",
+     "praia",
+     "mar",
+     "animal"
+    ]
+   ],
+   "fr": [
+    "Étoile de mer",
+    "Une adorable étoile de mer orange qui sourit.",
+    [
+     "étoile de mer",
+     "plage",
+     "mer",
+     "animal"
+    ]
+   ],
+   "de": [
+    "Seestern",
+    "Ein niedlicher, lächelnder orangefarbener Seestern.",
+    [
+     "Seestern",
+     "Strand",
+     "Meer",
+     "Tier"
+    ]
+   ],
+   "zh": [
+    "海星",
+    "笑眯眯的可爱橙色海星。",
+    [
+     "海星",
+     "海滩",
+     "大海",
+     "动物"
+    ]
+   ],
+   "ko": [
+    "불가사리",
+    "방긋 웃는 귀여운 주황색 불가사리.",
+    [
+     "불가사리",
+     "해변",
+     "바다",
+     "동물"
+    ]
+   ]
+  }
+ }
+]

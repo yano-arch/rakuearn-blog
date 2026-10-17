@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "strawberry",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling strawberry",
+    "A cute red strawberry with green leaves and a happy face.",
+    [
+     "strawberry",
+     "fruit",
+     "berry",
+     "sweet"
+    ]
+   ],
+   "ja": [
+    "にっこりいちご",
+    "緑のヘタがついた、笑顔のかわいい赤いいちご。",
+    [
+     "いちご",
+     "苺",
+     "フルーツ",
+     "果物"
+    ]
+   ],
+   "es": [
+    "Fresa sonriente",
+    "Una fresa roja y tierna con hojas verdes y carita feliz.",
+    [
+     "fresa",
+     "fruta",
+     "frutilla",
+     "dulce"
+    ]
+   ],
+   "pt": [
+    "Morango sorridente",
+    "Um morango vermelho fofinho com folhinhas verdes e carinha feliz.",
+    [
+     "morango",
+     "fruta",
+     "frutas vermelhas",
+     "doce"
+    ]
+   ],
+   "fr": [
+    "Fraise souriante",
+    "Une jolie fraise rouge avec ses feuilles vertes et un visage joyeux.",
+    [
+     "fraise",
+     "fruit",
+     "fruits rouges",
+     "sucré"
+    ]
+   ],
+   "de": [
+    "Lächelnde Erdbeere",
+    "Eine niedliche rote Erdbeere mit grünen Blättchen und fröhlichem Gesicht.",
+    [
+     "Erdbeere",
+     "Obst",
+     "Frucht",
+     "Beere"
+    ]
+   ],
+   "zh": [
+    "微笑草莓",
+    "带着绿色叶子、笑眯眯的可爱红草莓。",
+    [
+     "草莓",
+     "水果",
+     "莓果",
+     "甜食"
+    ]
+   ],
+   "ko": [
+    "웃는 딸기",
+    "초록 꼭지가 달린 귀여운 빨간 딸기.",
+    [
+     "딸기",
+     "과일",
+     "베리",
+     "디저트"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "grapes",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Bunch of grapes",
+    "A cute bunch of green grapes with a leaf and a little smiling face.",
+    [
+     "grapes",
+     "fruit",
+     "green grapes",
+     "muscat"
+    ]
+   ],
+   "ja": [
+    "ぶどうのふさ",
+    "葉っぱがついた、にっこり顔の緑のぶどう。",
+    [
+     "ぶどう",
+     "葡萄",
+     "マスカット",
+     "フルーツ"
+    ]
+   ],
+   "es": [
+    "Racimo de uvas",
+    "Un tierno racimo de uvas verdes con una hoja y carita sonriente.",
+    [
+     "uvas",
+     "fruta",
+     "racimo",
+     "uva verde"
+    ]
+   ],
+   "pt": [
+    "Cacho de uvas",
+    "Um cacho fofinho de uvas verdes com folha e carinha sorridente.",
+    [
+     "uva",
+     "fruta",
+     "cacho de uva",
+     "uva verde"
+    ]
+   ],
+   "fr": [
+    "Grappe de raisin",
+    "Une jolie grappe de raisin vert avec une feuille et un petit sourire.",
+    [
+     "raisin",
+     "fruit",
+     "grappe",
+     "raisin blanc"
+    ]
+   ],
+   "de": [
+    "Weintraube",
+    "Eine niedliche grüne Weintraube mit Blatt und kleinem Lächeln.",
+    [
+     "Weintrauben",
+     "Obst",
+     "Trauben",
+     "Frucht"
+    ]
+   ],
+   "zh": [
+    "一串葡萄",
+    "带着叶子、露出笑脸的可爱绿葡萄。",
+    [
+     "葡萄",
+     "水果",
+     "青提",
+     "阳光玫瑰"
+    ]
+   ],
+   "ko": [
+    "포도 송이",
+    "잎사귀가 달린, 웃는 얼굴의 귀여운 청포도.",
+    [
+     "포도",
+     "청포도",
+     "과일",
+     "샤인머스캣"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "orange",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling orange",
+    "A round, juicy orange with a leaf and a cheerful face.",
+    [
+     "orange",
+     "citrus",
+     "fruit",
+     "vitamin C"
+    ]
+   ],
+   "ja": [
+    "にっこりオレンジ",
+    "葉っぱがついた、まんまるで笑顔のオレンジ。",
+    [
+     "オレンジ",
+     "みかん",
+     "柑橘",
+     "フルーツ"
+    ]
+   ],
+   "es": [
+    "Naranja sonriente",
+    "Una naranja redonda y jugosa con una hoja y cara alegre.",
+    [
+     "naranja",
+     "cítrico",
+     "fruta",
+     "vitamina C"
+    ]
+   ],
+   "pt": [
+    "Laranja sorridente",
+    "Uma laranja redondinha e suculenta com folha e carinha alegre.",
+    [
+     "laranja",
+     "cítrico",
+     "fruta",
+     "vitamina C"
+    ]
+   ],
+   "fr": [
+    "Orange souriante",
+    "Une orange bien ronde et juteuse avec une feuille et un air joyeux.",
+    [
+     "orange",
+     "agrume",
+     "fruit",
+     "vitamine C"
+    ]
+   ],
+   "de": [
+    "Lächelnde Orange",
+    "Eine runde, saftige Orange mit Blatt und fröhlichem Gesicht.",
+    [
+     "Orange",
+     "Zitrusfrucht",
+     "Obst",
+     "Vitamin C"
+    ]
+   ],
+   "zh": [
+    "微笑橙子",
+    "带着叶子、圆滚滚的笑脸橙子。",
+    [
+     "橙子",
+     "柑橘",
+     "水果",
+     "维生素C"
+    ]
+   ],
+   "ko": [
+    "웃는 오렌지",
+    "잎사귀가 달린 동글동글한 웃는 오렌지.",
+    [
+     "오렌지",
+     "귤",
+     "시트러스",
+     "과일"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "lemon",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling lemon",
+    "A bright yellow lemon with a green leaf and a sweet face.",
+    [
+     "lemon",
+     "citrus",
+     "fruit",
+     "sour"
+    ]
+   ],
+   "ja": [
+    "にっこりレモン",
+    "緑の葉っぱがついた、明るい黄色のレモン。",
+    [
+     "レモン",
+     "柑橘",
+     "フルーツ",
+     "すっぱい"
+    ]
+   ],
+   "es": [
+    "Limón sonriente",
+    "Un limón amarillo brillante con una hoja verde y carita dulce.",
+    [
+     "limón",
+     "cítrico",
+     "fruta",
+     "ácido"
+    ]
+   ],
+   "pt": [
+    "Limão-siciliano sorridente",
+    "Um limão amarelinho com folha verde e carinha fofa.",
+    [
+     "limão-siciliano",
+     "limão",
+     "cítrico",
+     "fruta"
+    ]
+   ],
+   "fr": [
+    "Citron souriant",
+    "Un citron jaune vif avec une feuille verte et un doux visage.",
+    [
+     "citron",
+     "agrume",
+     "fruit",
+     "acide"
+    ]
+   ],
+   "de": [
+    "Lächelnde Zitrone",
+    "Eine leuchtend gelbe Zitrone mit grünem Blatt und süßem Gesicht.",
+    [
+     "Zitrone",
+     "Zitrusfrucht",
+     "Obst",
+     "sauer"
+    ]
+   ],
+   "zh": [
+    "微笑柠檬",
+    "带着绿叶、亮黄色的可爱柠檬。",
+    [
+     "柠檬",
+     "柑橘",
+     "水果",
+     "酸"
+    ]
+   ],
+   "ko": [
+    "웃는 레몬",
+    "초록 잎이 달린 샛노란 귀여운 레몬.",
+    [
+     "레몬",
+     "시트러스",
+     "과일",
+     "새콤"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "watermelon",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Watermelon slice",
+    "A juicy half-moon slice of watermelon with seeds and a smile.",
+    [
+     "watermelon",
+     "summer",
+     "fruit",
+     "slice"
+    ]
+   ],
+   "ja": [
+    "すいかのひと切れ",
+    "種のある、にっこり顔の半月形のすいか。",
+    [
+     "すいか",
+     "スイカ",
+     "夏",
+     "フルーツ"
+    ]
+   ],
+   "es": [
+    "Rebanada de sandía",
+    "Una jugosa rebanada de sandía con semillas y una sonrisa.",
+    [
+     "sandía",
+     "verano",
+     "fruta",
+     "patilla"
+    ]
+   ],
+   "pt": [
+    "Fatia de melancia",
+    "Uma fatia suculenta de melancia com sementes e um sorriso.",
+    [
+     "melancia",
+     "verão",
+     "fruta",
+     "fatia"
+    ]
+   ],
+   "fr": [
+    "Tranche de pastèque",
+    "Une tranche juteuse de pastèque avec ses pépins et un sourire.",
+    [
+     "pastèque",
+     "été",
+     "fruit",
+     "tranche"
+    ]
+   ],
+   "de": [
+    "Wassermelonenscheibe",
+    "Eine saftige Scheibe Wassermelone mit Kernen und Lächeln.",
+    [
+     "Wassermelone",
+     "Sommer",
+     "Obst",
+     "Melone"
+    ]
+   ],
+   "zh": [
+    "一片西瓜",
+    "带着西瓜籽、笑眯眯的半月形西瓜片。",
+    [
+     "西瓜",
+     "夏天",
+     "水果",
+     "西瓜片"
+    ]
+   ],
+   "ko": [
+    "수박 한 조각",
+    "씨가 콕콕 박힌, 웃는 반달 모양 수박.",
+    [
+     "수박",
+     "여름",
+     "과일",
+     "수박 조각"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "peach",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling peach",
+    "A soft pink peach with two leaves and rosy cheeks.",
+    [
+     "peach",
+     "fruit",
+     "pink",
+     "summer"
+    ]
+   ],
+   "ja": [
+    "にっこりもも",
+    "葉っぱが2枚ついた、ほんのりピンクのもも。",
+    [
+     "もも",
+     "桃",
+     "ピーチ",
+     "フルーツ"
+    ]
+   ],
+   "es": [
+    "Durazno sonriente",
+    "Un durazno rosado y suave con dos hojas y mejillas sonrojadas.",
+    [
+     "durazno",
+     "melocotón",
+     "fruta",
+     "rosa"
+    ]
+   ],
+   "pt": [
+    "Pêssego sorridente",
+    "Um pêssego rosinha e macio com duas folhas e bochechas coradas.",
+    [
+     "pêssego",
+     "fruta",
+     "rosa",
+     "verão"
+    ]
+   ],
+   "fr": [
+    "Pêche souriante",
+    "Une douce pêche rose avec deux feuilles et des joues roses.",
+    [
+     "pêche",
+     "fruit",
+     "rose",
+     "été"
+    ]
+   ],
+   "de": [
+    "Lächelnder Pfirsich",
+    "Ein zartrosa Pfirsich mit zwei Blättern und roten Bäckchen.",
+    [
+     "Pfirsich",
+     "Obst",
+     "rosa",
+     "Sommer"
+    ]
+   ],
+   "zh": [
+    "微笑桃子",
+    "带着两片叶子、粉嫩可爱的桃子。",
+    [
+     "桃子",
+     "水蜜桃",
+     "水果",
+     "粉色"
+    ]
+   ],
+   "ko": [
+    "웃는 복숭아",
+    "잎사귀 두 장이 달린 분홍빛 복숭아.",
+    [
+     "복숭아",
+     "과일",
+     "분홍",
+     "여름"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cherries",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Pair of cherries",
+    "Two shiny red cherries joined at the stem, both smiling.",
+    [
+     "cherries",
+     "cherry",
+     "fruit",
+     "red"
+    ]
+   ],
+   "ja": [
+    "さくらんぼ",
+    "軸でつながった、つやつやで笑顔の2つのさくらんぼ。",
+    [
+     "さくらんぼ",
+     "チェリー",
+     "フルーツ",
+     "赤"
+    ]
+   ],
+   "es": [
+    "Par de cerezas",
+    "Dos cerezas rojas y brillantes unidas por el tallo, ambas sonriendo.",
+    [
+     "cerezas",
+     "cereza",
+     "fruta",
+     "rojo"
+    ]
+   ],
+   "pt": [
+    "Par de cerejas",
+    "Duas cerejas vermelhas e brilhantes unidas pelo cabinho, sorrindo.",
+    [
+     "cereja",
+     "cerejas",
+     "fruta",
+     "vermelho"
+    ]
+   ],
+   "fr": [
+    "Paire de cerises",
+    "Deux cerises rouges et brillantes reliées par la queue, toutes souriantes.",
+    [
+     "cerises",
+     "cerise",
+     "fruit",
+     "rouge"
+    ]
+   ],
+   "de": [
+    "Kirschpaar",
+    "Zwei glänzend rote Kirschen am gemeinsamen Stiel, beide lächelnd.",
+    [
+     "Kirschen",
+     "Kirsche",
+     "Obst",
+     "rot"
+    ]
+   ],
+   "zh": [
+    "一对樱桃",
+    "连在一根梗上、亮晶晶的两颗笑脸樱桃。",
+    [
+     "樱桃",
+     "车厘子",
+     "水果",
+     "红色"
+    ]
+   ],
+   "ko": [
+    "체리 한 쌍",
+    "꼭지가 이어진 반짝반짝 웃는 빨간 체리 두 알.",
+    [
+     "체리",
+     "앵두",
+     "과일",
+     "빨강"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pineapple",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling pineapple",
+    "A cheerful pineapple with a spiky green crown.",
+    [
+     "pineapple",
+     "tropical fruit",
+     "fruit",
+     "summer"
+    ]
+   ],
+   "ja": [
+    "にっこりパイナップル",
+    "とげとげの緑の葉がついた、ごきげんなパイナップル。",
+    [
+     "パイナップル",
+     "パイン",
+     "南国フルーツ",
+     "フルーツ"
+    ]
+   ],
+   "es": [
+    "Piña sonriente",
+    "Una piña alegre con su corona verde y puntiaguda.",
+    [
+     "piña",
+     "ananá",
+     "fruta tropical",
+     "fruta"
+    ]
+   ],
+   "pt": [
+    "Abacaxi sorridente",
+    "Um abacaxi alegre com sua coroa verde e pontuda.",
+    [
+     "abacaxi",
+     "fruta tropical",
+     "fruta",
+     "verão"
+    ]
+   ],
+   "fr": [
+    "Ananas souriant",
+    "Un ananas joyeux avec sa couronne verte en pointes.",
+    [
+     "ananas",
+     "fruit tropical",
+     "fruit",
+     "été"
+    ]
+   ],
+   "de": [
+    "Lächelnde Ananas",
+    "Eine fröhliche Ananas mit stacheliger grüner Krone.",
+    [
+     "Ananas",
+     "tropische Frucht",
+     "Obst",
+     "Sommer"
+    ]
+   ],
+   "zh": [
+    "微笑菠萝",
+    "顶着尖尖绿叶、开心的菠萝。",
+    [
+     "菠萝",
+     "凤梨",
+     "热带水果",
+     "水果"
+    ]
+   ],
+   "ko": [
+    "웃는 파인애플",
+    "뾰족한 초록 잎을 단 신나는 파인애플.",
+    [
+     "파인애플",
+     "열대과일",
+     "과일",
+     "여름"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "melon",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling melon",
+    "A round green muskmelon with a net pattern and a T-shaped stem.",
+    [
+     "melon",
+     "muskmelon",
+     "fruit",
+     "green"
+    ]
+   ],
+   "ja": [
+    "にっこりメロン",
+    "網目もようとT字のツルがついた、まんまるメロン。",
+    [
+     "メロン",
+     "マスクメロン",
+     "フルーツ",
+     "高級フルーツ"
+    ]
+   ],
+   "es": [
+    "Melón sonriente",
+    "Un melón verde y redondo con piel reticulada y tallo en forma de T.",
+    [
+     "melón",
+     "melón cantalupo",
+     "fruta",
+     "verde"
+    ]
+   ],
+   "pt": [
+    "Melão sorridente",
+    "Um melão verde e redondo com casca rendada e cabinho em T.",
+    [
+     "melão",
+     "melão japonês",
+     "fruta",
+     "verde"
+    ]
+   ],
+   "fr": [
+    "Melon souriant",
+    "Un melon vert bien rond à l'écorce brodée avec une queue en T.",
+    [
+     "melon",
+     "melon brodé",
+     "fruit",
+     "vert"
+    ]
+   ],
+   "de": [
+    "Lächelnde Melone",
+    "Eine runde grüne Netzmelone mit T-förmigem Stiel.",
+    [
+     "Melone",
+     "Netzmelone",
+     "Obst",
+     "grün"
+    ]
+   ],
+   "zh": [
+    "微笑哈密瓜",
+    "带网纹和T字形瓜蒂的圆滚滚绿色网纹瓜。",
+    [
+     "哈密瓜",
+     "网纹瓜",
+     "水果",
+     "甜瓜"
+    ]
+   ],
+   "ko": [
+    "웃는 멜론",
+    "그물 무늬와 T자 꼭지가 있는 동그란 머스크멜론.",
+    [
+     "멜론",
+     "머스크멜론",
+     "과일",
+     "초록"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "kiwi",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Kiwi fruit and slice",
+    "A fuzzy whole kiwi beside a green cut half with tiny black seeds.",
+    [
+     "kiwi",
+     "kiwi fruit",
+     "fruit",
+     "green"
+    ]
+   ],
+   "ja": [
+    "キウイと断面",
+    "にっこり顔のキウイと、種が並ぶ緑の切り口。",
+    [
+     "キウイ",
+     "キウイフルーツ",
+     "フルーツ",
+     "断面"
+    ]
+   ],
+   "es": [
+    "Kiwi y rodaja",
+    "Un kiwi entero junto a una mitad verde con semillitas negras.",
+    [
+     "kiwi",
+     "fruta",
+     "verde",
+     "rodaja"
+    ]
+   ],
+   "pt": [
+    "Kiwi e fatia",
+    "Um kiwi inteiro ao lado de uma metade verde com sementinhas pretas.",
+    [
+     "kiwi",
+     "fruta",
+     "verde",
+     "fatia"
+    ]
+   ],
+   "fr": [
+    "Kiwi et demi-kiwi",
+    "Un kiwi entier à côté d'une moitié verte avec ses petits pépins noirs.",
+    [
+     "kiwi",
+     "fruit",
+     "vert",
+     "tranche"
+    ]
+   ],
+   "de": [
+    "Kiwi mit Schnittfläche",
+    "Eine ganze Kiwi neben einer grünen Hälfte mit kleinen schwarzen Kernen.",
+    [
+     "Kiwi",
+     "Obst",
+     "grün",
+     "Frucht"
+    ]
+   ],
+   "zh": [
+    "猕猴桃和切面",
+    "笑脸猕猴桃旁边是一半带黑籽的绿色切面。",
+    [
+     "猕猴桃",
+     "奇异果",
+     "水果",
+     "切面"
+    ]
+   ],
+   "ko": [
+    "키위와 단면",
+    "웃는 키위와 까만 씨가 콕콕 박힌 초록 단면.",
+    [
+     "키위",
+     "과일",
+     "초록",
+     "단면"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "pear",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling pear",
+    "A plump yellow pear with a stem, a leaf and a gentle smile.",
+    [
+     "pear",
+     "fruit",
+     "autumn",
+     "yellow"
+    ]
+   ],
+   "ja": [
+    "にっこり洋なし",
+    "軸と葉っぱがついた、ふっくら黄色い洋なし。",
+    [
+     "洋なし",
+     "洋梨",
+     "なし",
+     "フルーツ"
+    ]
+   ],
+   "es": [
+    "Pera sonriente",
+    "Una pera amarilla y regordeta con tallo, hoja y una dulce sonrisa.",
+    [
+     "pera",
+     "fruta",
+     "otoño",
+     "amarillo"
+    ]
+   ],
+   "pt": [
+    "Pera sorridente",
+    "Uma pera amarela e gordinha com cabinho, folha e um sorriso.",
+    [
+     "pera",
+     "fruta",
+     "outono",
+     "amarelo"
+    ]
+   ],
+   "fr": [
+    "Poire souriante",
+    "Une poire jaune et dodue avec sa queue, une feuille et un doux sourire.",
+    [
+     "poire",
+     "fruit",
+     "automne",
+     "jaune"
+    ]
+   ],
+   "de": [
+    "Lächelnde Birne",
+    "Eine pralle gelbe Birne mit Stiel, Blatt und sanftem Lächeln.",
+    [
+     "Birne",
+     "Obst",
+     "Herbst",
+     "gelb"
+    ]
+   ],
+   "zh": [
+    "微笑西洋梨",
+    "带梗和叶子、胖嘟嘟的黄色西洋梨。",
+    [
+     "梨",
+     "西洋梨",
+     "水果",
+     "秋天"
+    ]
+   ],
+   "ko": [
+    "웃는 서양배",
+    "꼭지와 잎이 달린 통통한 노란 서양배.",
+    [
+     "배",
+     "서양배",
+     "과일",
+     "가을"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "mango",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling mango",
+    "A ripe yellow mango with a red blush and a green leaf.",
+    [
+     "mango",
+     "tropical fruit",
+     "fruit",
+     "summer"
+    ]
+   ],
+   "ja": [
+    "にっこりマンゴー",
+    "赤く色づいた、葉っぱつきの完熟マンゴー。",
+    [
+     "マンゴー",
+     "南国フルーツ",
+     "フルーツ",
+     "夏"
+    ]
+   ],
+   "es": [
+    "Mango sonriente",
+    "Un mango maduro y amarillo con un toque rojo y una hoja verde.",
+    [
+     "mango",
+     "fruta tropical",
+     "fruta",
+     "verano"
+    ]
+   ],
+   "pt": [
+    "Manga sorridente",
+    "Uma manga madura e amarela com tom avermelhado e folha verde.",
+    [
+     "manga",
+     "fruta tropical",
+     "fruta",
+     "verão"
+    ]
+   ],
+   "fr": [
+    "Mangue souriante",
+    "Une mangue jaune bien mûre, rougissante, avec une feuille verte.",
+    [
+     "mangue",
+     "fruit tropical",
+     "fruit",
+     "été"
+    ]
+   ],
+   "de": [
+    "Lächelnde Mango",
+    "Eine reife gelbe Mango mit rötlicher Seite und grünem Blatt.",
+    [
+     "Mango",
+     "tropische Frucht",
+     "Obst",
+     "Sommer"
+    ]
+   ],
+   "zh": [
+    "微笑芒果",
+    "泛着红晕、带绿叶的熟透黄芒果。",
+    [
+     "芒果",
+     "热带水果",
+     "水果",
+     "夏天"
+    ]
+   ],
+   "ko": [
+    "웃는 망고",
+    "붉게 물든 잘 익은 노란 망고와 초록 잎.",
+    [
+     "망고",
+     "열대과일",
+     "과일",
+     "여름"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "blueberries",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Blueberries",
+    "Three plump blueberries with little crowns and a leaf.",
+    [
+     "blueberries",
+     "berries",
+     "fruit",
+     "blueberry"
+    ]
+   ],
+   "ja": [
+    "ブルーベリー",
+    "小さなヘタと葉っぱがついた、ころんとしたブルーベリー。",
+    [
+     "ブルーベリー",
+     "ベリー",
+     "フルーツ",
+     "木の実"
+    ]
+   ],
+   "es": [
+    "Arándanos",
+    "Tres arándanos redonditos con su coronita y una hoja.",
+    [
+     "arándanos",
+     "arándano azul",
+     "frutos rojos",
+     "fruta"
+    ]
+   ],
+   "pt": [
+    "Mirtilos",
+    "Três mirtilos gordinhos com coroinha e uma folha.",
+    [
+     "mirtilo",
+     "blueberry",
+     "frutas vermelhas",
+     "fruta"
+    ]
+   ],
+   "fr": [
+    "Myrtilles",
+    "Trois myrtilles bien rondes avec leur petite couronne et une feuille.",
+    [
+     "myrtilles",
+     "myrtille",
+     "baies",
+     "fruit"
+    ]
+   ],
+   "de": [
+    "Heidelbeeren",
+    "Drei pralle Heidelbeeren mit kleinem Krönchen und einem Blatt.",
+    [
+     "Heidelbeeren",
+     "Blaubeeren",
+     "Beeren",
+     "Obst"
+    ]
+   ],
+   "zh": [
+    "蓝莓",
+    "三颗圆滚滚、带小花萼和叶子的蓝莓。",
+    [
+     "蓝莓",
+     "莓果",
+     "水果",
+     "浆果"
+    ]
+   ],
+   "ko": [
+    "블루베리",
+    "작은 꼭지와 잎이 달린 동글동글한 블루베리 세 알.",
+    [
+     "블루베리",
+     "베리",
+     "과일",
+     "열매"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "avocado",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Avocado half",
+    "A halved avocado with a round smiling pit.",
+    [
+     "avocado",
+     "avocado half",
+     "healthy food",
+     "vegetable"
+    ]
+   ],
+   "ja": [
+    "半分のアボカド",
+    "まんまるの種がにっこりしている、切ったアボカド。",
+    [
+     "アボカド",
+     "断面",
+     "ヘルシー",
+     "野菜"
+    ]
+   ],
+   "es": [
+    "Medio aguacate",
+    "Un aguacate partido por la mitad con un hueso redondo y sonriente.",
+    [
+     "aguacate",
+     "palta",
+     "comida saludable",
+     "fruta"
+    ]
+   ],
+   "pt": [
+    "Meio abacate",
+    "Um abacate cortado ao meio com um caroço redondo e sorridente.",
+    [
+     "abacate",
+     "comida saudável",
+     "fruta",
+     "metade"
+    ]
+   ],
+   "fr": [
+    "Demi-avocat",
+    "Un avocat coupé en deux avec un noyau tout rond et souriant.",
+    [
+     "avocat",
+     "demi-avocat",
+     "alimentation saine",
+     "fruit"
+    ]
+   ],
+   "de": [
+    "Halbe Avocado",
+    "Eine halbierte Avocado mit rundem, lächelndem Kern.",
+    [
+     "Avocado",
+     "gesunde Ernährung",
+     "Frucht",
+     "Kern"
+    ]
+   ],
+   "zh": [
+    "半个牛油果",
+    "切开的牛油果，圆圆的果核在微笑。",
+    [
+     "牛油果",
+     "鳄梨",
+     "健康食品",
+     "水果"
+    ]
+   ],
+   "ko": [
+    "반으로 자른 아보카도",
+    "동그란 씨가 웃고 있는 반쪽 아보카도.",
+    [
+     "아보카도",
+     "단면",
+     "건강식",
+     "과일"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "persimmon",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling persimmon",
+    "A round orange persimmon with a four-leaf green cap.",
+    [
+     "persimmon",
+     "kaki",
+     "autumn fruit",
+     "fruit"
+    ]
+   ],
+   "ja": [
+    "にっこり柿",
+    "4枚のヘタがついた、まんまるのオレンジ色の柿。",
+    [
+     "柿",
+     "かき",
+     "秋の味覚",
+     "フルーツ"
+    ]
+   ],
+   "es": [
+    "Caqui sonriente",
+    "Un caqui redondo y anaranjado con su cáliz verde de cuatro hojas.",
+    [
+     "caqui",
+     "kaki",
+     "fruta de otoño",
+     "fruta"
+    ]
+   ],
+   "pt": [
+    "Caqui sorridente",
+    "Um caqui redondinho e laranja com cabinho verde de quatro folhas.",
+    [
+     "caqui",
+     "fruta de outono",
+     "fruta",
+     "laranja"
+    ]
+   ],
+   "fr": [
+    "Kaki souriant",
+    "Un kaki rond et orangé coiffé de quatre feuilles vertes.",
+    [
+     "kaki",
+     "plaquemine",
+     "fruit d'automne",
+     "fruit"
+    ]
+   ],
+   "de": [
+    "Lächelnde Kakifrucht",
+    "Eine runde orange Kaki mit grünem, vierblättrigem Kelch.",
+    [
+     "Kaki",
+     "Kakifrucht",
+     "Herbstobst",
+     "Obst"
+    ]
+   ],
+   "zh": [
+    "微笑柿子",
+    "顶着四片绿萼、圆滚滚的橙色柿子。",
+    [
+     "柿子",
+     "秋天",
+     "水果",
+     "秋季水果"
+    ]
+   ],
+   "ko": [
+    "웃는 감",
+    "네 잎 꼭지가 달린 동그란 주황색 감.",
+    [
+     "감",
+     "단감",
+     "가을 과일",
+     "과일"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "carrot",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling carrot",
+    "An orange carrot with leafy green tops and a happy face.",
+    [
+     "carrot",
+     "vegetable",
+     "veggie",
+     "orange"
+    ]
+   ],
+   "ja": [
+    "にっこりにんじん",
+    "緑の葉がついた、笑顔のオレンジ色のにんじん。",
+    [
+     "にんじん",
+     "人参",
+     "野菜",
+     "やさい"
+    ]
+   ],
+   "es": [
+    "Zanahoria sonriente",
+    "Una zanahoria naranja con hojas verdes y una carita feliz.",
+    [
+     "zanahoria",
+     "verdura",
+     "hortaliza",
+     "naranja"
+    ]
+   ],
+   "pt": [
+    "Cenoura sorridente",
+    "Uma cenoura laranja com folhinhas verdes e carinha feliz.",
+    [
+     "cenoura",
+     "legume",
+     "verdura",
+     "laranja"
+    ]
+   ],
+   "fr": [
+    "Carotte souriante",
+    "Une carotte orange avec ses fanes vertes et un visage joyeux.",
+    [
+     "carotte",
+     "légume",
+     "potager",
+     "orange"
+    ]
+   ],
+   "de": [
+    "Lächelnde Karotte",
+    "Eine orange Karotte mit grünem Kraut und fröhlichem Gesicht.",
+    [
+     "Karotte",
+     "Möhre",
+     "Gemüse",
+     "orange"
+    ]
+   ],
+   "zh": [
+    "微笑胡萝卜",
+    "带着绿叶、笑眯眯的橙色胡萝卜。",
+    [
+     "胡萝卜",
+     "蔬菜",
+     "红萝卜",
+     "橙色"
+    ]
+   ],
+   "ko": [
+    "웃는 당근",
+    "초록 잎이 달린 웃는 주황색 당근.",
+    [
+     "당근",
+     "채소",
+     "야채",
+     "주황"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "tomato",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling tomato",
+    "A ripe red tomato with a green star-shaped cap.",
+    [
+     "tomato",
+     "vegetable",
+     "red",
+     "salad"
+    ]
+   ],
+   "ja": [
+    "にっこりトマト",
+    "星形の緑のヘタがついた、真っ赤なトマト。",
+    [
+     "トマト",
+     "野菜",
+     "夏野菜",
+     "赤"
+    ]
+   ],
+   "es": [
+    "Tomate sonriente",
+    "Un tomate rojo y maduro con su cáliz verde en forma de estrella.",
+    [
+     "tomate",
+     "verdura",
+     "rojo",
+     "ensalada"
+    ]
+   ],
+   "pt": [
+    "Tomate sorridente",
+    "Um tomate vermelho e maduro com cabinho verde em forma de estrela.",
+    [
+     "tomate",
+     "legume",
+     "vermelho",
+     "salada"
+    ]
+   ],
+   "fr": [
+    "Tomate souriante",
+    "Une tomate rouge bien mûre avec sa collerette verte en étoile.",
+    [
+     "tomate",
+     "légume",
+     "rouge",
+     "salade"
+    ]
+   ],
+   "de": [
+    "Lächelnde Tomate",
+    "Eine reife rote Tomate mit grünem, sternförmigem Kelch.",
+    [
+     "Tomate",
+     "Gemüse",
+     "rot",
+     "Salat"
+    ]
+   ],
+   "zh": [
+    "微笑番茄",
+    "顶着星形绿蒂、红彤彤的熟番茄。",
+    [
+     "番茄",
+     "西红柿",
+     "蔬菜",
+     "红色"
+    ]
+   ],
+   "ko": [
+    "웃는 토마토",
+    "별 모양 초록 꼭지가 달린 잘 익은 빨간 토마토.",
+    [
+     "토마토",
+     "채소",
+     "빨강",
+     "샐러드"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "broccoli",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling broccoli",
+    "A fluffy green head of broccoli with a smiling stalk.",
+    [
+     "broccoli",
+     "vegetable",
+     "green",
+     "healthy food"
+    ]
+   ],
+   "ja": [
+    "にっこりブロッコリー",
+    "もこもこの房と、にっこり顔の茎のブロッコリー。",
+    [
+     "ブロッコリー",
+     "野菜",
+     "緑黄色野菜",
+     "ヘルシー"
+    ]
+   ],
+   "es": [
+    "Brócoli sonriente",
+    "Un brócoli verde y esponjoso con un tallo sonriente.",
+    [
+     "brócoli",
+     "verdura",
+     "verde",
+     "comida saludable"
+    ]
+   ],
+   "pt": [
+    "Brócolis sorridente",
+    "Um brócolis verde e fofinho com talo sorridente.",
+    [
+     "brócolis",
+     "legume",
+     "verdura",
+     "comida saudável"
+    ]
+   ],
+   "fr": [
+    "Brocoli souriant",
+    "Un brocoli vert tout moelleux avec une tige souriante.",
+    [
+     "brocoli",
+     "légume",
+     "vert",
+     "alimentation saine"
+    ]
+   ],
+   "de": [
+    "Lächelnder Brokkoli",
+    "Ein flauschiger grüner Brokkoli mit lächelndem Stiel.",
+    [
+     "Brokkoli",
+     "Gemüse",
+     "grün",
+     "gesunde Ernährung"
+    ]
+   ],
+   "zh": [
+    "微笑西兰花",
+    "毛茸茸的绿色花球配上笑脸茎的西兰花。",
+    [
+     "西兰花",
+     "西蓝花",
+     "蔬菜",
+     "健康食品"
+    ]
+   ],
+   "ko": [
+    "웃는 브로콜리",
+    "몽글몽글한 초록 송이와 웃는 줄기의 브로콜리.",
+    [
+     "브로콜리",
+     "채소",
+     "야채",
+     "건강식"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cabbage",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling cabbage",
+    "A round green cabbage wrapped in big outer leaves.",
+    [
+     "cabbage",
+     "vegetable",
+     "green",
+     "leafy vegetable"
+    ]
+   ],
+   "ja": [
+    "にっこりキャベツ",
+    "大きな外葉に包まれた、まんまるのキャベツ。",
+    [
+     "キャベツ",
+     "野菜",
+     "葉物野菜",
+     "緑"
+    ]
+   ],
+   "es": [
+    "Repollo sonriente",
+    "Un repollo verde y redondo envuelto en grandes hojas.",
+    [
+     "repollo",
+     "col",
+     "verdura",
+     "verde"
+    ]
+   ],
+   "pt": [
+    "Repolho sorridente",
+    "Um repolho verde e redondo envolto em folhas grandes.",
+    [
+     "repolho",
+     "legume",
+     "verdura",
+     "verde"
+    ]
+   ],
+   "fr": [
+    "Chou souriant",
+    "Un chou vert tout rond enveloppé de grandes feuilles.",
+    [
+     "chou",
+     "légume",
+     "vert",
+     "légume-feuille"
+    ]
+   ],
+   "de": [
+    "Lächelnder Kohl",
+    "Ein runder grüner Kohlkopf mit großen Außenblättern.",
+    [
+     "Kohl",
+     "Weißkohl",
+     "Gemüse",
+     "grün"
+    ]
+   ],
+   "zh": [
+    "微笑卷心菜",
+    "被大片外叶包着的圆滚滚绿色卷心菜。",
+    [
+     "卷心菜",
+     "包菜",
+     "圆白菜",
+     "蔬菜"
+    ]
+   ],
+   "ko": [
+    "웃는 양배추",
+    "커다란 겉잎에 싸인 동그란 초록 양배추.",
+    [
+     "양배추",
+     "채소",
+     "야채",
+     "초록"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "onion",
+  "cat": "food",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Smiling onion",
+    "A golden onion bulb with roots and a little sprout on top.",
+    [
+     "onion",
+     "vegetable",
+     "cooking",
+     "ingredient"
+    ]
+   ],
+   "ja": [
+    "にっこり玉ねぎ",
+    "ひげ根とちょこんとした芽がある、黄色い玉ねぎ。",
+    [
+     "玉ねぎ",
+     "たまねぎ",
+     "野菜",
+     "料理"
+    ]
+   ],
+   "es": [
+    "Cebolla sonriente",
+    "Una cebolla dorada con raicitas y un brote en la punta.",
+    [
+     "cebolla",
+     "verdura",
+     "cocina",
+     "ingrediente"
+    ]
+   ],
+   "pt": [
+    "Cebola sorridente",
+    "Uma cebola dourada com raizinhas e um brotinho no topo.",
+    [
+     "cebola",
+     "legume",
+     "cozinha",
+     "ingrediente"
+    ]
+   ],
+   "fr": [
+    "Oignon souriant",
+    "Un oignon doré avec ses radicelles et une petite pousse au sommet.",
+    [
+     "oignon",
+     "légume",
+     "cuisine",
+     "ingrédient"
+    ]
+   ],
+   "de": [
+    "Lächelnde Zwiebel",
+    "Eine goldgelbe Zwiebel mit Wurzeln und kleinem Trieb oben.",
+    [
+     "Zwiebel",
+     "Gemüse",
+     "Kochen",
+     "Zutat"
+    ]
+   ],
+   "zh": [
+    "微笑洋葱",
+    "带着根须、顶上冒尖的金黄色洋葱。",
+    [
+     "洋葱",
+     "蔬菜",
+     "烹饪",
+     "食材"
+    ]
+   ],
+   "ko": [
+    "웃는 양파",
+    "잔뿌리와 뾰족한 싹이 있는 노란 양파.",
+    [
+     "양파",
+     "채소",
+     "요리",
+     "식재료"
+    ]
+   ]
+  }
+ }
+]

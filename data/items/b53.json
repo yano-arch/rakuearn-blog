@@ -1,0 +1,1742 @@
+[
+ {
+  "slug": "baseball",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Baseball Bat and Ball",
+    "A wooden baseball bat with a smiling baseball.",
+    [
+     "baseball",
+     "bat",
+     "ball",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "野球のバットとボール",
+    "木のバットとにっこり笑う野球ボールのイラスト。",
+    [
+     "野球",
+     "バット",
+     "ボール",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Bate y pelota de béisbol",
+    "Un bate de madera junto a una pelota de béisbol sonriente.",
+    [
+     "béisbol",
+     "bate",
+     "pelota",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Taco e bola de beisebol",
+    "Um taco de madeira ao lado de uma bola de beisebol sorridente.",
+    [
+     "beisebol",
+     "taco",
+     "bola",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Batte et balle de baseball",
+    "Une batte en bois et une balle de baseball souriante.",
+    [
+     "baseball",
+     "batte",
+     "balle",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Baseballschläger und Ball",
+    "Ein Baseballschläger aus Holz und ein lächelnder Baseball.",
+    [
+     "baseball",
+     "schläger",
+     "ball",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "棒球棒和棒球",
+    "木制球棒和一颗微笑的棒球。",
+    [
+     "棒球",
+     "球棒",
+     "球",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "야구 방망이와 공",
+    "나무 방망이와 웃고 있는 야구공 일러스트.",
+    [
+     "야구",
+     "방망이",
+     "야구공",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "volleyball",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Volleyball",
+    "A colorful volleyball with blue and yellow panels.",
+    [
+     "volleyball",
+     "ball",
+     "beach",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "バレーボール",
+    "青と黄色のパネルのカラフルなバレーボールのイラスト。",
+    [
+     "バレーボール",
+     "ボール",
+     "球技",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Balón de voleibol",
+    "Un balón de voleibol colorido con paneles azules y amarillos.",
+    [
+     "voleibol",
+     "balón",
+     "playa",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Bola de vôlei",
+    "Uma bola de vôlei colorida com gomos azuis e amarelos.",
+    [
+     "vôlei",
+     "bola",
+     "praia",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Ballon de volley",
+    "Un ballon de volley coloré aux panneaux bleus et jaunes.",
+    [
+     "volley",
+     "ballon",
+     "plage",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Volleyball",
+    "Ein bunter Volleyball mit blauen und gelben Feldern.",
+    [
+     "volleyball",
+     "ball",
+     "beachvolleyball",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "排球",
+    "蓝黄相间的彩色排球。",
+    [
+     "排球",
+     "球",
+     "沙滩",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "배구공",
+    "파란색과 노란색 패널의 알록달록한 배구공.",
+    [
+     "배구",
+     "배구공",
+     "공",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "american-football",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "American Football",
+    "A brown American football with white laces.",
+    [
+     "american football",
+     "football",
+     "ball",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "アメフトのボール",
+    "白いひもが付いた茶色いアメリカンフットボールのボール。",
+    [
+     "アメフト",
+     "アメリカンフットボール",
+     "ボール",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Balón de fútbol americano",
+    "Un balón marrón de fútbol americano con cordones blancos.",
+    [
+     "fútbol americano",
+     "balón",
+     "NFL",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Bola de futebol americano",
+    "Uma bola marrom de futebol americano com cadarço branco.",
+    [
+     "futebol americano",
+     "bola",
+     "NFL",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Ballon de football américain",
+    "Un ballon de football américain marron aux lacets blancs.",
+    [
+     "football américain",
+     "ballon",
+     "NFL",
+     "sport"
+    ]
+   ],
+   "de": [
+    "American Football",
+    "Ein brauner American-Football-Ball mit weißer Schnürung.",
+    [
+     "american football",
+     "football",
+     "ball",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "美式橄榄球",
+    "带白色缝线的棕色美式橄榄球。",
+    [
+     "美式橄榄球",
+     "橄榄球",
+     "球",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "미식축구공",
+    "흰색 끈이 달린 갈색 미식축구공.",
+    [
+     "미식축구",
+     "풋볼",
+     "공",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "rugby",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Rugby Ball",
+    "A smiling white rugby ball with orange stripes.",
+    [
+     "rugby",
+     "rugby ball",
+     "ball",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "ラグビーボール",
+    "オレンジのラインが入った、笑顔のラグビーボール。",
+    [
+     "ラグビー",
+     "ラグビーボール",
+     "ボール",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Balón de rugby",
+    "Un balón de rugby blanco y sonriente con franjas naranjas.",
+    [
+     "rugby",
+     "balón",
+     "pelota",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Bola de rúgbi",
+    "Uma bola de rúgbi branca e sorridente com listras laranja.",
+    [
+     "rúgbi",
+     "rugby",
+     "bola",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Ballon de rugby",
+    "Un ballon de rugby blanc et souriant à bandes orange.",
+    [
+     "rugby",
+     "ballon",
+     "ovale",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Rugbyball",
+    "Ein lächelnder weißer Rugbyball mit orangefarbenen Streifen.",
+    [
+     "rugby",
+     "rugbyball",
+     "ball",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "英式橄榄球",
+    "带橙色条纹、面带微笑的白色橄榄球。",
+    [
+     "橄榄球",
+     "英式橄榄球",
+     "球",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "럭비공",
+    "주황색 줄무늬가 있는 웃는 흰색 럭비공.",
+    [
+     "럭비",
+     "럭비공",
+     "공",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "golf",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Golf Club and Ball",
+    "A golf club and a ball on a tee, with a flag on the green.",
+    [
+     "golf",
+     "golf club",
+     "golf ball",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "ゴルフクラブとボール",
+    "ティーにのったボールとクラブ、グリーンの旗のイラスト。",
+    [
+     "ゴルフ",
+     "ゴルフクラブ",
+     "ゴルフボール",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Palo y pelota de golf",
+    "Un palo de golf y una pelota sobre el tee, con una bandera en el green.",
+    [
+     "golf",
+     "palo de golf",
+     "pelota",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Taco e bola de golfe",
+    "Um taco de golfe e uma bola no tee, com a bandeira no green.",
+    [
+     "golfe",
+     "taco de golfe",
+     "bola",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Club et balle de golf",
+    "Un club de golf et une balle sur un tee, avec un drapeau sur le green.",
+    [
+     "golf",
+     "club de golf",
+     "balle",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Golfschläger und Ball",
+    "Ein Golfschläger und ein Ball auf dem Tee, dazu eine Fahne auf dem Grün.",
+    [
+     "golf",
+     "golfschläger",
+     "golfball",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "高尔夫球杆和球",
+    "球杆、球座上的高尔夫球和果岭上的旗杆。",
+    [
+     "高尔夫",
+     "球杆",
+     "高尔夫球",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "골프채와 골프공",
+    "티 위의 골프공과 골프채, 그린 위의 깃발.",
+    [
+     "골프",
+     "골프채",
+     "골프공",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "table-tennis",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Table Tennis Paddle and Ball",
+    "A smiling red ping-pong paddle with an orange ball flying by.",
+    [
+     "table tennis",
+     "ping pong",
+     "paddle",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "卓球のラケットとボール",
+    "笑顔の赤い卓球ラケットと飛んでいくボール。",
+    [
+     "卓球",
+     "ピンポン",
+     "ラケット",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Pala y pelota de ping-pong",
+    "Una pala roja de ping-pong sonriente y una pelota naranja en el aire.",
+    [
+     "ping-pong",
+     "tenis de mesa",
+     "pala",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Raquete e bolinha de pingue-pongue",
+    "Uma raquete vermelha de pingue-pongue sorridente e uma bolinha laranja no ar.",
+    [
+     "tênis de mesa",
+     "pingue-pongue",
+     "raquete",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Raquette et balle de ping-pong",
+    "Une raquette de ping-pong rouge et souriante avec une balle orange.",
+    [
+     "tennis de table",
+     "ping-pong",
+     "raquette",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Tischtennisschläger und Ball",
+    "Ein lächelnder roter Tischtennisschläger mit fliegendem orangem Ball.",
+    [
+     "tischtennis",
+     "ping pong",
+     "schläger",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "乒乓球拍和乒乓球",
+    "微笑的红色乒乓球拍和飞来的橙色乒乓球。",
+    [
+     "乒乓球",
+     "球拍",
+     "国球",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "탁구채와 탁구공",
+    "웃는 빨간 탁구채와 날아가는 주황색 탁구공.",
+    [
+     "탁구",
+     "탁구채",
+     "탁구공",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "badminton",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Badminton Racket and Shuttlecock",
+    "A badminton racket hitting a flying shuttlecock.",
+    [
+     "badminton",
+     "racket",
+     "shuttlecock",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "バドミントンのラケットとシャトル",
+    "飛んでくるシャトルを打つバドミントンラケット。",
+    [
+     "バドミントン",
+     "ラケット",
+     "シャトル",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Raqueta y volante de bádminton",
+    "Una raqueta de bádminton golpeando un volante en el aire.",
+    [
+     "bádminton",
+     "raqueta",
+     "volante",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Raquete e peteca de badminton",
+    "Uma raquete de badminton rebatendo uma peteca no ar.",
+    [
+     "badminton",
+     "raquete",
+     "peteca",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Raquette et volant de badminton",
+    "Une raquette de badminton qui frappe un volant.",
+    [
+     "badminton",
+     "raquette",
+     "volant",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Badmintonschläger und Federball",
+    "Ein Badmintonschläger, der einen fliegenden Federball schlägt.",
+    [
+     "badminton",
+     "federball",
+     "schläger",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "羽毛球拍和羽毛球",
+    "羽毛球拍正在击打飞来的羽毛球。",
+    [
+     "羽毛球",
+     "球拍",
+     "羽毛球运动",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "배드민턴 라켓과 셔틀콕",
+    "날아오는 셔틀콕을 치는 배드민턴 라켓.",
+    [
+     "배드민턴",
+     "라켓",
+     "셔틀콕",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "swimming",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Swimmer",
+    "A swimmer in a cap and goggles raising an arm out of the water.",
+    [
+     "swimming",
+     "swimmer",
+     "pool",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "水泳をする人",
+    "水泳帽とゴーグルを付けて泳ぐ人のイラスト。",
+    [
+     "水泳",
+     "スイミング",
+     "プール",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Persona nadando",
+    "Un nadador con gorro y gafas sacando el brazo del agua.",
+    [
+     "natación",
+     "nadar",
+     "piscina",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Pessoa nadando",
+    "Um nadador de touca e óculos levantando o braço da água.",
+    [
+     "natação",
+     "nadar",
+     "piscina",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Nageur",
+    "Un nageur avec bonnet et lunettes qui sort le bras de l'eau.",
+    [
+     "natation",
+     "nager",
+     "piscine",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Schwimmer",
+    "Ein Schwimmer mit Badekappe und Schwimmbrille im Wasser.",
+    [
+     "schwimmen",
+     "schwimmer",
+     "schwimmbad",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "游泳的人",
+    "戴着泳帽和泳镜在水中游泳的人。",
+    [
+     "游泳",
+     "泳池",
+     "泳镜",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "수영하는 사람",
+    "수영모와 물안경을 쓰고 헤엄치는 사람.",
+    [
+     "수영",
+     "수영장",
+     "물놀이",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "cycling-race",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Racing Cyclist",
+    "A cyclist in a helmet speeding along on a road bike.",
+    [
+     "cycling",
+     "road bike",
+     "bicycle race",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "自転車レース",
+    "ヘルメットをかぶってロードバイクで走る選手。",
+    [
+     "自転車",
+     "ロードバイク",
+     "サイクリング",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Ciclista de carrera",
+    "Un ciclista con casco a toda velocidad en bicicleta de ruta.",
+    [
+     "ciclismo",
+     "bicicleta",
+     "carrera",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Ciclista de corrida",
+    "Um ciclista de capacete pedalando rápido numa speed.",
+    [
+     "ciclismo",
+     "bicicleta",
+     "speed",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Cycliste en course",
+    "Un cycliste casqué qui file sur son vélo de route.",
+    [
+     "cyclisme",
+     "vélo",
+     "course",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Radrennfahrer",
+    "Ein Radfahrer mit Helm rast auf seinem Rennrad.",
+    [
+     "radsport",
+     "rennrad",
+     "radrennen",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "自行车比赛",
+    "戴着头盔骑公路车飞驰的车手。",
+    [
+     "自行车",
+     "公路车",
+     "骑行",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "사이클 경주",
+    "헬멧을 쓰고 로드바이크로 달리는 선수.",
+    [
+     "사이클",
+     "자전거",
+     "로드바이크",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "skiing",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Skier",
+    "A happy skier gliding down a snowy slope with poles.",
+    [
+     "skiing",
+     "ski",
+     "snow",
+     "winter sports"
+    ]
+   ],
+   "ja": [
+    "スキーをする人",
+    "ストックを持って雪の斜面をすべるスキーヤー。",
+    [
+     "スキー",
+     "雪",
+     "ゲレンデ",
+     "ウィンタースポーツ"
+    ]
+   ],
+   "es": [
+    "Esquiador",
+    "Un esquiador feliz bajando por una pista nevada con bastones.",
+    [
+     "esquí",
+     "nieve",
+     "pista",
+     "deportes de invierno"
+    ]
+   ],
+   "pt": [
+    "Esquiador",
+    "Um esquiador feliz descendo uma pista de neve com bastões.",
+    [
+     "esqui",
+     "neve",
+     "montanha",
+     "esportes de inverno"
+    ]
+   ],
+   "fr": [
+    "Skieur",
+    "Un skieur joyeux qui descend une piste enneigée avec ses bâtons.",
+    [
+     "ski",
+     "neige",
+     "piste",
+     "sports d'hiver"
+    ]
+   ],
+   "de": [
+    "Skifahrer",
+    "Ein fröhlicher Skifahrer fährt mit Stöcken die verschneite Piste hinab.",
+    [
+     "ski",
+     "skifahren",
+     "schnee",
+     "wintersport"
+    ]
+   ],
+   "zh": [
+    "滑雪的人",
+    "拿着雪杖从雪坡上滑下来的滑雪者。",
+    [
+     "滑雪",
+     "雪",
+     "雪场",
+     "冬季运动"
+    ]
+   ],
+   "ko": [
+    "스키 타는 사람",
+    "스키 폴을 들고 눈 덮인 슬로프를 내려가는 스키어.",
+    [
+     "스키",
+     "눈",
+     "스키장",
+     "겨울 스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "snowboarding",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Snowboarder",
+    "A snowboarder riding with arms spread wide, kicking up snow.",
+    [
+     "snowboard",
+     "snowboarding",
+     "snow",
+     "winter sports"
+    ]
+   ],
+   "ja": [
+    "スノーボードをする人",
+    "両手を広げて雪を舞い上げるスノーボーダー。",
+    [
+     "スノーボード",
+     "スノボ",
+     "雪",
+     "ウィンタースポーツ"
+    ]
+   ],
+   "es": [
+    "Snowboarder",
+    "Un snowboarder con los brazos abiertos levantando nieve.",
+    [
+     "snowboard",
+     "nieve",
+     "montaña",
+     "deportes de invierno"
+    ]
+   ],
+   "pt": [
+    "Snowboarder",
+    "Um snowboarder de braços abertos levantando neve.",
+    [
+     "snowboard",
+     "neve",
+     "montanha",
+     "esportes de inverno"
+    ]
+   ],
+   "fr": [
+    "Snowboardeur",
+    "Un snowboardeur bras écartés qui soulève de la neige.",
+    [
+     "snowboard",
+     "neige",
+     "glisse",
+     "sports d'hiver"
+    ]
+   ],
+   "de": [
+    "Snowboarder",
+    "Ein Snowboarder mit ausgebreiteten Armen wirbelt Schnee auf.",
+    [
+     "snowboard",
+     "snowboarden",
+     "schnee",
+     "wintersport"
+    ]
+   ],
+   "zh": [
+    "单板滑雪",
+    "张开双臂、扬起雪花的单板滑雪者。",
+    [
+     "单板滑雪",
+     "滑雪板",
+     "雪",
+     "冬季运动"
+    ]
+   ],
+   "ko": [
+    "스노보드 타는 사람",
+    "두 팔을 벌리고 눈을 날리며 타는 스노보더.",
+    [
+     "스노보드",
+     "보드",
+     "눈",
+     "겨울 스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "ice-skating",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Ice Skater",
+    "A figure skater gliding gracefully on one leg across the ice.",
+    [
+     "ice skating",
+     "figure skating",
+     "skates",
+     "winter sports"
+    ]
+   ],
+   "ja": [
+    "アイススケート",
+    "片足で氷の上をすべるフィギュアスケーター。",
+    [
+     "スケート",
+     "フィギュアスケート",
+     "氷",
+     "ウィンタースポーツ"
+    ]
+   ],
+   "es": [
+    "Patinadora sobre hielo",
+    "Una patinadora deslizándose con elegancia sobre una pierna.",
+    [
+     "patinaje",
+     "patinaje artístico",
+     "hielo",
+     "deportes de invierno"
+    ]
+   ],
+   "pt": [
+    "Patinadora no gelo",
+    "Uma patinadora deslizando com elegância em uma perna só.",
+    [
+     "patinação no gelo",
+     "patinação artística",
+     "gelo",
+     "esportes de inverno"
+    ]
+   ],
+   "fr": [
+    "Patineuse sur glace",
+    "Une patineuse qui glisse avec grâce sur une jambe.",
+    [
+     "patinage",
+     "patinage artistique",
+     "glace",
+     "sports d'hiver"
+    ]
+   ],
+   "de": [
+    "Eiskunstläuferin",
+    "Eine Eiskunstläuferin gleitet elegant auf einem Bein übers Eis.",
+    [
+     "eislaufen",
+     "eiskunstlauf",
+     "schlittschuhe",
+     "wintersport"
+    ]
+   ],
+   "zh": [
+    "花样滑冰",
+    "单脚在冰面上优雅滑行的花样滑冰选手。",
+    [
+     "滑冰",
+     "花样滑冰",
+     "冰场",
+     "冬季运动"
+    ]
+   ],
+   "ko": [
+    "피겨 스케이팅",
+    "한 발로 우아하게 빙판을 미끄러지는 스케이터.",
+    [
+     "스케이트",
+     "피겨",
+     "빙판",
+     "겨울 스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "surfing",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Surfer on a Wave",
+    "A surfer riding a big curling wave on a yellow surfboard.",
+    [
+     "surfing",
+     "surfboard",
+     "wave",
+     "summer"
+    ]
+   ],
+   "ja": [
+    "波に乗るサーファー",
+    "黄色いサーフボードで大きな波に乗るサーファー。",
+    [
+     "サーフィン",
+     "サーフボード",
+     "波",
+     "夏"
+    ]
+   ],
+   "es": [
+    "Surfista en una ola",
+    "Un surfista montando una gran ola sobre una tabla amarilla.",
+    [
+     "surf",
+     "tabla de surf",
+     "ola",
+     "verano"
+    ]
+   ],
+   "pt": [
+    "Surfista na onda",
+    "Um surfista pegando uma onda grande numa prancha amarela.",
+    [
+     "surfe",
+     "prancha",
+     "onda",
+     "verão"
+    ]
+   ],
+   "fr": [
+    "Surfeur sur une vague",
+    "Un surfeur qui glisse sur une grosse vague avec une planche jaune.",
+    [
+     "surf",
+     "planche de surf",
+     "vague",
+     "été"
+    ]
+   ],
+   "de": [
+    "Surfer auf der Welle",
+    "Ein Surfer reitet mit gelbem Surfbrett eine große Welle.",
+    [
+     "surfen",
+     "surfbrett",
+     "welle",
+     "sommer"
+    ]
+   ],
+   "zh": [
+    "冲浪的人",
+    "踩着黄色冲浪板乘风破浪的冲浪者。",
+    [
+     "冲浪",
+     "冲浪板",
+     "海浪",
+     "夏天"
+    ]
+   ],
+   "ko": [
+    "파도 타는 서퍼",
+    "노란 서핑보드로 큰 파도를 타는 서퍼.",
+    [
+     "서핑",
+     "서핑보드",
+     "파도",
+     "여름"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "skateboarding",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Skateboarder",
+    "A kid in a cap riding a skateboard with arms out for balance.",
+    [
+     "skateboard",
+     "skateboarding",
+     "skater",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "スケートボードに乗る人",
+    "キャップをかぶってスケボーに乗る子ども。",
+    [
+     "スケボー",
+     "スケートボード",
+     "ストリート",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Niño en patineta",
+    "Un niño con gorra montando en patineta con los brazos abiertos.",
+    [
+     "patineta",
+     "skate",
+     "monopatín",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Skatista",
+    "Uma criança de boné andando de skate com os braços abertos.",
+    [
+     "skate",
+     "skatista",
+     "manobra",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Skateur",
+    "Un enfant à casquette sur un skateboard, bras écartés.",
+    [
+     "skateboard",
+     "skate",
+     "planche à roulettes",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Skateboarder",
+    "Ein Kind mit Kappe fährt Skateboard und hält die Balance.",
+    [
+     "skateboard",
+     "skaten",
+     "skater",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "玩滑板的人",
+    "戴着帽子张开双臂踩滑板的孩子。",
+    [
+     "滑板",
+     "滑板少年",
+     "街头运动",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "스케이트보드 타는 아이",
+    "모자를 쓰고 팔을 벌려 스케이트보드를 타는 아이.",
+    [
+     "스케이트보드",
+     "보드",
+     "스트리트",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "boxing",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Boxing Gloves",
+    "A pair of red boxing gloves tied together with a lace.",
+    [
+     "boxing",
+     "boxing gloves",
+     "fight",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "ボクシンググローブ",
+    "ひもでつながった赤いボクシンググローブ。",
+    [
+     "ボクシング",
+     "グローブ",
+     "格闘技",
+     "スポーツ"
+    ]
+   ],
+   "es": [
+    "Guantes de boxeo",
+    "Un par de guantes de boxeo rojos atados con un cordón.",
+    [
+     "boxeo",
+     "guantes de boxeo",
+     "pelea",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Luvas de boxe",
+    "Um par de luvas de boxe vermelhas amarradas por um cordão.",
+    [
+     "boxe",
+     "luvas de boxe",
+     "luta",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Gants de boxe",
+    "Une paire de gants de boxe rouges reliés par un lacet.",
+    [
+     "boxe",
+     "gants de boxe",
+     "combat",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Boxhandschuhe",
+    "Ein Paar rote Boxhandschuhe, mit einer Schnur verbunden.",
+    [
+     "boxen",
+     "boxhandschuhe",
+     "kampfsport",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "拳击手套",
+    "用绳子连在一起的一副红色拳击手套。",
+    [
+     "拳击",
+     "拳击手套",
+     "格斗",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "권투 글러브",
+    "끈으로 묶인 빨간 권투 글러브 한 쌍.",
+    [
+     "권투",
+     "복싱",
+     "글러브",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "karate",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Karate Kid",
+    "A child in a white karate uniform and black belt throwing a kick.",
+    [
+     "karate",
+     "martial arts",
+     "kick",
+     "kids"
+    ]
+   ],
+   "ja": [
+    "空手をする子ども",
+    "白い道着に黒帯で蹴りを出す子どものイラスト。",
+    [
+     "空手",
+     "武道",
+     "道着",
+     "格闘技"
+    ]
+   ],
+   "es": [
+    "Niño haciendo karate",
+    "Un niño con kimono blanco y cinturón negro dando una patada.",
+    [
+     "karate",
+     "artes marciales",
+     "patada",
+     "niños"
+    ]
+   ],
+   "pt": [
+    "Criança no caratê",
+    "Uma criança de quimono branco e faixa preta dando um chute.",
+    [
+     "caratê",
+     "artes marciais",
+     "chute",
+     "criança"
+    ]
+   ],
+   "fr": [
+    "Enfant au karaté",
+    "Un enfant en kimono blanc et ceinture noire qui donne un coup de pied.",
+    [
+     "karaté",
+     "arts martiaux",
+     "coup de pied",
+     "enfant"
+    ]
+   ],
+   "de": [
+    "Karate-Kind",
+    "Ein Kind im weißen Karateanzug mit schwarzem Gürtel tritt zu.",
+    [
+     "karate",
+     "kampfkunst",
+     "tritt",
+     "kinder"
+    ]
+   ],
+   "zh": [
+    "练空手道的孩子",
+    "穿白色道服系黑带、正在踢腿的孩子。",
+    [
+     "空手道",
+     "武术",
+     "道服",
+     "儿童"
+    ]
+   ],
+   "ko": [
+    "가라테 하는 아이",
+    "흰 도복에 검은 띠를 매고 발차기를 하는 아이.",
+    [
+     "가라테",
+     "무술",
+     "도복",
+     "어린이"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "judo",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Judo Throw",
+    "A judoka in white throwing an opponent in blue over the shoulder.",
+    [
+     "judo",
+     "martial arts",
+     "throw",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "柔道の投げ技",
+    "白い道着の選手が青い道着の相手を背負い投げするイラスト。",
+    [
+     "柔道",
+     "背負い投げ",
+     "武道",
+     "格闘技"
+    ]
+   ],
+   "es": [
+    "Lanzamiento de judo",
+    "Un judoca de blanco lanzando por encima del hombro a su rival de azul.",
+    [
+     "judo",
+     "artes marciales",
+     "lanzamiento",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Golpe de judô",
+    "Um judoca de branco arremessando o adversário de azul por cima do ombro.",
+    [
+     "judô",
+     "artes marciais",
+     "golpe",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Projection de judo",
+    "Un judoka en blanc qui projette son adversaire en bleu par-dessus l'épaule.",
+    [
+     "judo",
+     "arts martiaux",
+     "projection",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Judo-Wurf",
+    "Ein Judoka in Weiß wirft seinen Gegner in Blau über die Schulter.",
+    [
+     "judo",
+     "kampfsport",
+     "wurf",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "柔道过肩摔",
+    "白色道服的选手把蓝色道服的对手过肩摔。",
+    [
+     "柔道",
+     "过肩摔",
+     "武术",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "유도 업어치기",
+    "흰 도복 선수가 파란 도복 상대를 업어치기 하는 모습.",
+    [
+     "유도",
+     "업어치기",
+     "무술",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "sumo",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Sumo Wrestlers",
+    "Two sumo wrestlers pushing against each other in the ring.",
+    [
+     "sumo",
+     "wrestling",
+     "japan",
+     "sports"
+    ]
+   ],
+   "ja": [
+    "相撲をとる力士",
+    "土俵の上でぶつかり合う二人の力士。",
+    [
+     "相撲",
+     "力士",
+     "土俵",
+     "国技"
+    ]
+   ],
+   "es": [
+    "Luchadores de sumo",
+    "Dos luchadores de sumo empujándose en el ring.",
+    [
+     "sumo",
+     "lucha",
+     "japón",
+     "deporte"
+    ]
+   ],
+   "pt": [
+    "Lutadores de sumô",
+    "Dois lutadores de sumô se empurrando no ringue.",
+    [
+     "sumô",
+     "luta",
+     "japão",
+     "esporte"
+    ]
+   ],
+   "fr": [
+    "Lutteurs de sumo",
+    "Deux lutteurs de sumo qui se poussent dans l'arène.",
+    [
+     "sumo",
+     "lutte",
+     "japon",
+     "sport"
+    ]
+   ],
+   "de": [
+    "Sumoringer",
+    "Zwei Sumoringer drücken im Ring gegeneinander.",
+    [
+     "sumo",
+     "ringen",
+     "japan",
+     "sport"
+    ]
+   ],
+   "zh": [
+    "相扑选手",
+    "在土俵上互相推挤的两名相扑力士。",
+    [
+     "相扑",
+     "力士",
+     "日本",
+     "运动"
+    ]
+   ],
+   "ko": [
+    "스모 선수",
+    "씨름판 위에서 서로 밀어붙이는 두 스모 선수.",
+    [
+     "스모",
+     "씨름",
+     "일본",
+     "스포츠"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "kendo",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Kendo",
+    "A kendo fighter in armor and face mask holding a bamboo sword.",
+    [
+     "kendo",
+     "martial arts",
+     "bamboo sword",
+     "japan"
+    ]
+   ],
+   "ja": [
+    "剣道",
+    "防具と面を着けて竹刀を構える剣士。",
+    [
+     "剣道",
+     "竹刀",
+     "防具",
+     "武道"
+    ]
+   ],
+   "es": [
+    "Kendo",
+    "Un practicante de kendo con armadura y máscara sosteniendo una espada de bambú.",
+    [
+     "kendo",
+     "artes marciales",
+     "espada de bambú",
+     "japón"
+    ]
+   ],
+   "pt": [
+    "Kendô",
+    "Um praticante de kendô com armadura e máscara segurando uma espada de bambu.",
+    [
+     "kendô",
+     "artes marciais",
+     "espada de bambu",
+     "japão"
+    ]
+   ],
+   "fr": [
+    "Kendo",
+    "Un pratiquant de kendo en armure et masque qui tient un sabre en bambou.",
+    [
+     "kendo",
+     "arts martiaux",
+     "sabre en bambou",
+     "japon"
+    ]
+   ],
+   "de": [
+    "Kendo",
+    "Ein Kendoka in Rüstung und Maske hält ein Bambusschwert.",
+    [
+     "kendo",
+     "kampfkunst",
+     "bambusschwert",
+     "japan"
+    ]
+   ],
+   "zh": [
+    "剑道",
+    "身穿护具、戴着面罩手持竹剑的剑士。",
+    [
+     "剑道",
+     "竹剑",
+     "武道",
+     "日本"
+    ]
+   ],
+   "ko": [
+    "검도",
+    "호구와 호면을 쓰고 죽도를 든 검도 선수.",
+    [
+     "검도",
+     "죽도",
+     "무술",
+     "일본"
+    ]
+   ]
+  }
+ },
+ {
+  "slug": "yoga",
+  "cat": "sports",
+  "date": "2026-10-17",
+  "t": {
+   "en": [
+    "Person Doing Yoga",
+    "A calm person meditating cross-legged on a yoga mat.",
+    [
+     "yoga",
+     "meditation",
+     "relax",
+     "fitness"
+    ]
+   ],
+   "ja": [
+    "ヨガをする人",
+    "ヨガマットの上であぐらをかいて瞑想する人。",
+    [
+     "ヨガ",
+     "瞑想",
+     "リラックス",
+     "健康"
+    ]
+   ],
+   "es": [
+    "Persona haciendo yoga",
+    "Una persona tranquila meditando con las piernas cruzadas sobre una esterilla.",
+    [
+     "yoga",
+     "meditación",
+     "relajación",
+     "bienestar"
+    ]
+   ],
+   "pt": [
+    "Pessoa fazendo yoga",
+    "Uma pessoa tranquila meditando de pernas cruzadas no tapetinho.",
+    [
+     "yoga",
+     "meditação",
+     "relaxar",
+     "bem-estar"
+    ]
+   ],
+   "fr": [
+    "Personne qui fait du yoga",
+    "Une personne sereine qui médite en tailleur sur un tapis de yoga.",
+    [
+     "yoga",
+     "méditation",
+     "détente",
+     "bien-être"
+    ]
+   ],
+   "de": [
+    "Person beim Yoga",
+    "Eine ruhige Person meditiert im Schneidersitz auf der Yogamatte.",
+    [
+     "yoga",
+     "meditation",
+     "entspannung",
+     "fitness"
+    ]
+   ],
+   "zh": [
+    "做瑜伽的人",
+    "在瑜伽垫上盘腿冥想的人。",
+    [
+     "瑜伽",
+     "冥想",
+     "放松",
+     "健身"
+    ]
+   ],
+   "ko": [
+    "요가하는 사람",
+    "요가 매트 위에서 가부좌를 틀고 명상하는 사람.",
+    [
+     "요가",
+     "명상",
+     "힐링",
+     "운동"
+    ]
+   ]
+  }
+ }
+]

@@ -70,3 +70,14 @@ def drawings():
     for m in sorted(pkgutil.iter_modules(art_items.__path__), key=lambda m: m.name):
         d.update(importlib.import_module(f"art_items.{m.name}").ITEMS)
     return d
+
+import json as _json, os as _os, re as _re
+_FIX = _json.load(open(_os.path.join(_os.path.dirname(__file__), 'data/fixes.json'))) if _os.path.exists(_os.path.join(_os.path.dirname(__file__), 'data/fixes.json')) else {}
+def fix(slug, body):
+    """data/fixes.json の補正（浮いた頭の下の体を縦に伸ばす）を当てる"""
+    for f in _FIX.get(slug, []):
+        a = _re.escape(f['match'])
+        pat = _re.compile(r'<g transform="translate\(4 4\)"><(\w+) ' + a + r' fill="([^"]+)" stroke="none"/></g><\1 ' + a + r' fill="none"/>')
+        tr = f'translate(0 {f["anchor"]}) scale(1 {f["k"]}) translate(0 {-f["anchor"]})'
+        body = pat.sub(lambda m: f'<g transform="{tr}">{m.group(0)}</g>', body, count=1)
+    return body

@@ -166,7 +166,7 @@ def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None, full_
 <footer class="site-footer"><div class="wrap">
   <p>{e(u['footer'])}</p>
   <p class="links"><a href="{url(lang, 'about-us')}">{e(u['about-us'])}</a><a href="{url(lang, 'faq')}">{e(u['faq'])}</a><a href="{url(lang, 'license')}">{e(u['license'])}</a><a href="{url(lang, 'privacy')}">{e(u['privacy'])}</a><a href="{url(lang, 'contact')}">{e(u['contact'])}</a></p>
-  <p class="copy">© {date.today().year} {SITE_NAME}</p>
+  <p class="copy">© {date.today().year} {SITE_NAME} ・ {e(u['operator'])}</p>
 </div></footer>
 <script src="/static/app.js?v={ASSET_V['app.js']}" defer></script>
 </body>
@@ -270,7 +270,9 @@ def page_home(lang):
          "potentialAction": {"@type": "SearchAction", "target": f"{SITE_URL}{url(lang)}?q={{search_term_string}}",
                              "query-input": "required name=search_term_string"}},
         {"@type": "Organization", "@id": f"{SITE_URL}/#org", "name": SITE_NAME, "url": SITE_URL,
-         "logo": f"{SITE_URL}/favicon.svg", "email": CONTACT_EMAIL}]}
+         "logo": f"{SITE_URL}/favicon.svg", "email": CONTACT_EMAIL,
+         "parentOrganization": {"@type": "Organization", "name": "株式会社StudyShort", "alternateName": "StudyShort Inc.",
+                                "url": "https://www.studyshort.co.jp"}}]}
     return layout(lang, "home", None, SITE_NAME, home_desc, body, jsonld=jsonld)
 
 

@@ -127,7 +127,7 @@
    ],
    [
     "Site information",
-    "Site name: FuwaFuwa / URL: https://rakuearn.com / Contact: support@studyshort.co.jp"
+    "Site name: FuwaFuwa / Operated by: StudyShort Inc. (株式会社StudyShort, https://www.studyshort.co.jp) / URL: https://rakuearn.com / Contact: support@studyshort.co.jp"
    ]
   ],
   "faq": "FAQ",
@@ -181,7 +181,8 @@
     "If your question is about using an illustration, please include the URL of the illustration page and how you plan to use it (for example, a flyer or product packaging)."
    ]
   ],
-  "root_intro": "Soft, cute illustrations you can download for free. Commercial use OK, no sign-up, no credit required."
+  "root_intro": "Soft, cute illustrations you can download for free. Commercial use OK, no sign-up, no credit required.",
+  "operator": "Operated by StudyShort Inc."
  },
  "ja": {
   "lang_name": "日本語",
@@ -311,7 +312,7 @@
    ],
    [
     "運営者情報",
-    "サイト名：FuwaFuwa　／　URL：https://rakuearn.com　／　お問い合わせ：support@studyshort.co.jp"
+    "サイト名：FuwaFuwa　／　運営会社：株式会社StudyShort（https://www.studyshort.co.jp）　／　URL：https://rakuearn.com　／　お問い合わせ：support@studyshort.co.jp"
    ]
   ],
   "faq": "よくある質問",
@@ -365,7 +366,8 @@
     "使い方についてのご質問は、使う予定のイラストのページURLと、使い道（例：チラシ、商品パッケージなど）を書き添えていただくと、スムーズにお答えできます。"
    ]
   ],
-  "root_intro": "ゆるくてかわいい、無料のイラスト素材サイトです。商用利用OK・登録不要・クレジット表記不要。"
+  "root_intro": "ゆるくてかわいい、無料のイラスト素材サイトです。商用利用OK・登録不要・クレジット表記不要。",
+  "operator": "運営：株式会社StudyShort"
  },
  "es": {
   "lang_name": "Español",
@@ -495,7 +497,7 @@
    ],
    [
     "Información del sitio",
-    "Nombre: FuwaFuwa / URL: https://rakuearn.com / Contacto: support@studyshort.co.jp"
+    "Nombre: FuwaFuwa / Operado por: StudyShort Inc. (株式会社StudyShort, https://www.studyshort.co.jp) / URL: https://rakuearn.com / Contacto: support@studyshort.co.jp"
    ]
   ],
   "faq": "Preguntas frecuentes",
@@ -549,7 +551,8 @@
     "Si tu pregunta es sobre el uso de una ilustración, incluye la URL de su página y cómo piensas usarla (por ejemplo, en un folleto o un empaque)."
    ]
   ],
-  "root_intro": "Ilustraciones suaves y lindas para descargar gratis. Uso comercial permitido, sin registro y sin atribución."
+  "root_intro": "Ilustraciones suaves y lindas para descargar gratis. Uso comercial permitido, sin registro y sin atribución.",
+  "operator": "Operado por StudyShort Inc."
  },
  "pt": {
   "lang_name": "Português",
@@ -679,7 +682,7 @@
    ],
    [
     "Informações do site",
-    "Nome: FuwaFuwa / URL: https://rakuearn.com / Contato: support@studyshort.co.jp"
+    "Nome: FuwaFuwa / Operado por: StudyShort Inc. (株式会社StudyShort, https://www.studyshort.co.jp) / URL: https://rakuearn.com / Contato: support@studyshort.co.jp"
    ]
   ],
   "faq": "Perguntas frequentes",
@@ -733,7 +736,8 @@
     "Se a dúvida for sobre o uso de uma ilustração, inclua a URL da página dela e como pretende usá-la (por exemplo, em um panfleto ou embalagem)."
    ]
   ],
-  "root_intro": "Ilustrações fofas para baixar de graça. Uso comercial liberado, sem cadastro e sem crédito."
+  "root_intro": "Ilustrações fofas para baixar de graça. Uso comercial liberado, sem cadastro e sem crédito.",
+  "operator": "Operado por StudyShort Inc."
  },
  "fr": {
   "lang_name": "Français",
@@ -863,7 +867,7 @@
    ],
    [
     "Informations sur le site",
-    "Nom : FuwaFuwa / URL : https://rakuearn.com / Contact : support@studyshort.co.jp"
+    "Nom : FuwaFuwa / Exploité par : StudyShort Inc. (株式会社StudyShort, https://www.studyshort.co.jp) / URL : https://rakuearn.com / Contact : support@studyshort.co.jp"
    ]
   ],
   "faq": "FAQ",
@@ -917,7 +921,8 @@
     "Si votre question concerne l’utilisation d’une illustration, indiquez l’URL de sa page et l’usage prévu (par exemple un flyer ou un emballage)."
    ]
   ],
-  "root_intro": "Des illustrations douces et mignonnes à télécharger gratuitement. Usage commercial autorisé, sans inscription ni crédit."
+  "root_intro": "Des illustrations douces et mignonnes à télécharger gratuitement. Usage commercial autorisé, sans inscription ni crédit.",
+  "operator": "Exploité par StudyShort Inc."
  },
  "de": {
   "lang_name": "Deutsch",
@@ -1047,7 +1052,7 @@
    ],
    [
     "Angaben zur Website",
-    "Name: FuwaFuwa / URL: https://rakuearn.com / Kontakt: support@studyshort.co.jp"
+    "Name: FuwaFuwa / Betreiber: StudyShort Inc. (株式会社StudyShort, https://www.studyshort.co.jp) / URL: https://rakuearn.com / Kontakt: support@studyshort.co.jp"
    ]
   ],
   "faq": "FAQ",
@@ -1101,7 +1106,8 @@
     "Wenn es um die Nutzung einer Illustration geht, nenne bitte die URL der Illustrationsseite und den geplanten Einsatz (z. B. Flyer oder Verpackung)."
    ]
   ],
-  "root_intro": "Sanfte, niedliche Illustrationen zum kostenlosen Download. Kommerzielle Nutzung erlaubt, ohne Anmeldung und ohne Quellenangabe."
+  "root_intro": "Sanfte, niedliche Illustrationen zum kostenlosen Download. Kommerzielle Nutzung erlaubt, ohne Anmeldung und ohne Quellenangabe.",
+  "operator": "Betrieben von StudyShort Inc."
  },
  "zh": {
   "lang_name": "简体中文",
@@ -1231,7 +1237,7 @@
    ],
    [
     "网站信息",
-    "网站名称：FuwaFuwa ／ 网址：https://rakuearn.com ／ 联系方式：support@studyshort.co.jp"
+    "网站名称：FuwaFuwa ／ 运营公司：StudyShort Inc.（株式会社StudyShort，https://www.studyshort.co.jp） ／ 网址：https://rakuearn.com ／ 联系方式：support@studyshort.co.jp"
    ]
   ],
   "faq": "常见问题",
@@ -1285,7 +1291,8 @@
     "如果是关于使用方法的问题，请附上计划使用的插画页面网址和用途（例如传单、商品包装等），以便我们顺利解答。"
    ]
   ],
-  "root_intro": "柔和可爱的免费插画素材网站。可商用、无需注册、无需注明出处。"
+  "root_intro": "柔和可爱的免费插画素材网站。可商用、无需注册、无需注明出处。",
+  "operator": "运营：StudyShort Inc."
  },
  "ko": {
   "lang_name": "한국어",
@@ -1415,7 +1422,7 @@
    ],
    [
     "사이트 정보",
-    "사이트 이름: FuwaFuwa / URL: https://rakuearn.com / 문의: support@studyshort.co.jp"
+    "사이트 이름: FuwaFuwa / 운영사: StudyShort Inc.(株式会社StudyShort, https://www.studyshort.co.jp) / URL: https://rakuearn.com / 문의: support@studyshort.co.jp"
    ]
   ],
   "faq": "자주 묻는 질문",
@@ -1469,6 +1476,7 @@
     "사용 방법에 관한 질문이라면 사용할 일러스트 페이지의 URL과 용도(예: 전단지, 상품 패키지 등)를 함께 적어 주시면 원활하게 답변드릴 수 있습니다."
    ]
   ],
-  "root_intro": "부드럽고 귀여운 무료 일러스트 소재 사이트입니다. 상업적 이용 가능, 회원가입·출처 표기 불필요."
+  "root_intro": "부드럽고 귀여운 무료 일러스트 소재 사이트입니다. 상업적 이용 가능, 회원가입·출처 표기 불필요.",
+  "operator": "운영: StudyShort Inc."
  }
 }

@@ -9,6 +9,7 @@ for b in "$@"; do
     git add -f "public/images/svg/$s.svg" "public/images/png/$s.png"
   done
 done
+python3 tools/readings.py > /dev/null && git add data/readings_ja.json
 python3 build.py
 git -c user.name="yano-arch" -c user.email="yano@studyshort.co.jp" commit -qm "Add illustrations: $*
 

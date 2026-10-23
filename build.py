@@ -308,10 +308,14 @@ def page_cat(lang, c, p=1):
     return layout(lang, "cat", c if p == 1 else f"{c}/{p}", name, desc, body, jsonld=jsonld)
 
 
+READINGS = json.load(open("data/readings_ja.json", encoding="utf-8")) if os.path.exists("data/readings_ja.json") else {}
+
+
 def search_index(lang):
     # 英語のタイトル・タグも入れて、どの言語のページでも英語で探せるようにする
     # [slug, タイトル, タグ・カテゴリ・英語, 説明文, カテゴリ]
-    return json.dumps([[i["slug"], t(i, lang)[0], " ".join(t(i, lang)[2] + [t(i, "en")[0]] + t(i, "en")[2] + [UI[lang]["cats"][i["cat"]]]),
+    return json.dumps([[i["slug"], t(i, lang)[0], " ".join(t(i, lang)[2] + [t(i, "en")[0]] + t(i, "en")[2] + [UI[lang]["cats"][i["cat"]]]
+                                 + ([READINGS.get(i["slug"], "")] if lang == "ja" else [])),
                         t(i, lang)[1], i["cat"]] for i in NEWEST],
                       ensure_ascii=False, separators=(",", ":"))
 

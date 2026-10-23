@@ -1,866 +1,1474 @@
 {
-  "en": {
-    "lang_name": "English",
-    "html_lang": "en",
-    "tagline": "Free, soft & cute illustrations",
-    "hero_title": "Soft, friendly illustrations. Free for commercial use.",
-    "hero_sub": "Download PNG or SVG instantly. No sign-up, no credit required.",
-    "search": "Search illustrations",
-    "no_results": "No illustrations found.",
-    "all": "All",
-    "latest": "New illustrations",
-    "count": "{n} illustrations",
-    "download_png": "Download PNG",
-    "download_svg": "Download SVG",
-    "badge_free": "Free for commercial use",
-    "badge_credit": "No credit needed",
-    "badge_formats": "PNG / SVG",
-    "tags": "Tags",
-    "category": "Category",
-    "related": "You may also like",
-    "license": "License",
-    "privacy": "Privacy policy",
-    "home": "Home",
-    "language": "Language",
-    "contact": "Contact",
-    "footer": "All illustrations are original works by FuwaFuwa.",
-    "meta_desc": "Free, cute illustrations you can use in commercial projects. Download PNG and SVG without signing up.",
-    "license_short": "Free for personal and commercial use. Please read the license before use.",
-    "cats": {
-      "people": "People",
-      "animals": "Animals",
-      "nature": "Nature",
-      "travel": "Travel",
-      "home": "Home & life",
-      "tech": "Technology",
-      "events": "Events",
-      "work": "Work & jobs",
-      "food": "Food",
-      "school": "School",
-      "sports": "Sports",
-      "health": "Health",
-      "hobby": "Hobbies & music"
-    },
-    "license_title": "License & terms of use",
-    "license_body": [
-      [
-        "What you can do",
-        "Use the illustrations for free in personal and commercial projects: websites, social media, presentations, flyers, product packaging, videos and more. You may resize, recolor and edit them. Credit is appreciated but not required."
-      ],
-      [
-        "What you can't do",
-        "Do not redistribute or sell the illustrations as they are (for example as a stock or clip-art collection, or as NFTs). Do not register them as a trademark or logo. Do not use them in content that is illegal, hateful or misleading, or that damages anyone's reputation."
-      ],
-      [
-        "Using many illustrations",
-        "If a single product (such as a book or an app) uses 21 or more illustrations, please contact us first."
-      ],
-      [
-        "Disclaimer",
-        "The illustrations are provided as is. We are not responsible for any damage arising from their use. These terms may be updated without notice."
-      ]
-    ],
-    "privacy_title": "Privacy policy",
-    "privacy_body": [
-      [
-        "Advertising",
-        "This site uses third-party advertising services such as Google AdSense. These providers may use cookies to show ads based on your visits to this and other websites. You can turn off personalized ads in Google's Ads Settings."
-      ],
-      [
-        "Analytics",
-        "We may use analytics tools that collect traffic data through cookies. This data is collected anonymously and does not identify you personally."
-      ],
-      [
-        "Contact",
-        "If you have any questions, please email us at the address below."
-      ]
-    ],
-    "ad_label": "Advertisement",
-    "rw_title": "Watch a short ad to download",
-    "rw_body": "FuwaFuwa is free thanks to ads. Watch a short ad and your download will start automatically.",
-    "rw_watch": "Watch ad & download",
-    "rw_cancel": "Cancel",
-    "rw_loading": "Loading the ad…",
-    "rw_closed": "Your download starts once the ad finishes. You can try again anytime.",
-    "rw_thanks": "Thank you! Your download is starting.",
-    "skin_label": "Skin tone",
-    "browse": "Browse by category",
-    "results": "Search results",
-    "prev": "Previous",
-    "next": "Next",
-    "home_title": "FuwaFuwa – Free Cute Illustrations & Clipart (Commercial Use OK)",
-    "title_illust": "{t} – Free Clipart Illustration (PNG/SVG)",
-    "title_cat": "{c} – Free Clipart & Illustrations",
-    "cat_h1": "{c} illustrations",
-    "cat_desc": "Free {c} clipart and cute illustrations you can use commercially. {n} images including {ex}. Download PNG and SVG with no sign-up.",
-    "seo_short": "Free for commercial use, no credit needed. Download PNG/SVG instantly.",
-    "sep": ", ",
-    "home_desc": "Free cute illustrations and clipart you can use commercially. {n}+ images of people, animals, food, events and more. Download PNG/SVG with no sign-up or credit.",
-    "title_illust2": "{t} Clipart – Free {k} Illustration (Commercial Use OK)",
-    "kw_desc": "Free {ks} clipart. Free for commercial use with no credit needed — download PNG/SVG instantly.",
-    "about_h": "About this illustration",
-    "about": "A free {ks} illustration you can use in personal and commercial projects. No sign-up or credit required — download it as PNG or SVG.",
-    "tag_title": "{k} Clipart – Free {k} Illustrations (Commercial Use OK)",
-    "tag_h1": "{k} illustrations",
-    "tag_desc": "{n} free {k} clipart illustrations, including {ex}. Free for commercial use, no sign-up or credit needed. Download PNG/SVG.",
-    "popular": "Popular keywords",
-    "alt": "{t} – free {k} clipart",
-    "kjoin": ", "
+ "en": {
+  "lang_name": "English",
+  "html_lang": "en",
+  "tagline": "Free, soft & cute illustrations",
+  "hero_title": "Soft, friendly illustrations. Free for commercial use.",
+  "hero_sub": "Download PNG or SVG instantly. No sign-up, no credit required.",
+  "search": "Search illustrations",
+  "no_results": "No illustrations found.",
+  "all": "All",
+  "latest": "New illustrations",
+  "count": "{n} illustrations",
+  "download_png": "Download PNG",
+  "download_svg": "Download SVG",
+  "badge_free": "Free for commercial use",
+  "badge_credit": "No credit needed",
+  "badge_formats": "PNG / SVG",
+  "tags": "Tags",
+  "category": "Category",
+  "related": "You may also like",
+  "license": "License",
+  "privacy": "Privacy policy",
+  "home": "Home",
+  "language": "Language",
+  "contact": "Contact",
+  "footer": "All illustrations are original works by FuwaFuwa.",
+  "meta_desc": "Free, cute illustrations you can use in commercial projects. Download PNG and SVG without signing up.",
+  "license_short": "Free for personal and commercial use. Please read the license before use.",
+  "cats": {
+   "people": "People",
+   "animals": "Animals",
+   "nature": "Nature",
+   "travel": "Travel",
+   "home": "Home & life",
+   "tech": "Technology",
+   "events": "Events",
+   "work": "Work & jobs",
+   "food": "Food",
+   "school": "School",
+   "sports": "Sports",
+   "health": "Health",
+   "hobby": "Hobbies & music"
   },
-  "ja": {
-    "lang_name": "日本語",
-    "html_lang": "ja",
-    "tagline": "ゆるくてかわいい、無料のイラスト",
-    "hero_title": "やさしいイラスト、商用利用も無料。",
-    "hero_sub": "PNG・SVGですぐダウンロード。登録もクレジット表記も不要です。",
-    "search": "イラストを検索",
-    "no_results": "イラストが見つかりませんでした。",
-    "all": "すべて",
-    "latest": "新着イラスト",
-    "count": "{n}点のイラスト",
-    "download_png": "PNGをダウンロード",
-    "download_svg": "SVGをダウンロード",
-    "badge_free": "商用利用OK",
-    "badge_credit": "クレジット表記不要",
-    "badge_formats": "PNG / SVG",
-    "tags": "タグ",
-    "category": "カテゴリー",
-    "related": "こちらもおすすめ",
-    "license": "利用規約",
-    "privacy": "プライバシーポリシー",
-    "home": "ホーム",
-    "language": "言語",
-    "contact": "お問い合わせ",
-    "footer": "掲載イラストはすべてFuwaFuwaのオリジナル作品です。",
-    "meta_desc": "商用利用もできる、ゆるくてかわいい無料イラスト素材。登録不要でPNG・SVGをダウンロードできます。",
-    "license_short": "個人・商用ともに無料でご利用いただけます。ご利用前に利用規約をお読みください。",
-    "cats": {
-      "people": "人物",
-      "animals": "動物",
-      "nature": "自然",
-      "travel": "旅行",
-      "home": "家・暮らし",
-      "tech": "テクノロジー",
-      "events": "イベント",
-      "work": "仕事・職業",
-      "food": "食べもの",
-      "school": "学校・勉強",
-      "sports": "スポーツ",
-      "health": "健康・医療",
-      "hobby": "趣味・音楽"
-    },
-    "license_title": "利用規約・ライセンス",
-    "license_body": [
-      [
-        "できること",
-        "個人・商用を問わず、Webサイト、SNS、プレゼン資料、チラシ、商品パッケージ、動画などに無料でお使いいただけます。サイズ変更・色の変更・加工も自由です。クレジット表記は歓迎しますが必須ではありません。"
-      ],
-      [
-        "禁止事項",
-        "イラストをそのままの形で再配布・販売すること（素材集・クリップアートとしての配布、NFT化など）は禁止です。商標やロゴとしての登録、違法・差別的・誤解を招く内容や、他者の名誉を傷つける用途での使用もお控えください。"
-      ],
-      [
-        "たくさん使う場合",
-        "ひとつの制作物（書籍やアプリなど）で21点以上を使用する場合は、事前にお問い合わせください。"
-      ],
-      [
-        "免責事項",
-        "イラストは現状のまま提供されます。ご利用により生じた損害について当サイトは責任を負いません。本規約は予告なく変更されることがあります。"
-      ]
-    ],
-    "privacy_title": "プライバシーポリシー",
-    "privacy_body": [
-      [
-        "広告について",
-        "当サイトはGoogle AdSenseなどの第三者配信の広告サービスを利用しています。広告配信事業者は、当サイトや他サイトへのアクセス情報をもとに、Cookieを使用して興味に応じた広告を表示することがあります。パーソナライズ広告はGoogleの広告設定から無効にできます。"
-      ],
-      [
-        "アクセス解析について",
-        "当サイトでは、Cookieを利用してトラフィックデータを収集するアクセス解析ツールを使用する場合があります。このデータは匿名で収集され、個人を特定するものではありません。"
-      ],
-      [
-        "お問い合わせ",
-        "ご質問は下記のメールアドレスまでご連絡ください。"
-      ]
-    ],
-    "ad_label": "広告",
-    "rw_title": "短い広告を見てダウンロード",
-    "rw_body": "FuwaFuwaは広告のおかげで無料で使えます。短い広告を見ると、自動でダウンロードが始まります。",
-    "rw_watch": "広告を見てダウンロード",
-    "rw_cancel": "キャンセル",
-    "rw_loading": "広告を読み込んでいます…",
-    "rw_closed": "広告を最後まで見るとダウンロードが始まります。もう一度お試しいただけます。",
-    "rw_thanks": "ありがとうございます！ダウンロードを開始します。",
-    "skin_label": "肌の色",
-    "browse": "カテゴリーから探す",
-    "results": "検索結果",
-    "prev": "前へ",
-    "next": "次へ",
-    "home_title": "FuwaFuwa｜ゆるくてかわいい無料イラスト・フリー素材（商用利用OK）",
-    "title_illust": "{t}のイラスト（無料・商用OK）",
-    "title_cat": "{c}の無料イラスト・フリー素材",
-    "cat_h1": "{c}のイラスト",
-    "cat_desc": "{c}のかわいい無料イラスト・フリー素材{n}点。{ex}など、商用利用OK・登録不要でPNG・SVGをダウンロードできます。",
-    "seo_short": "無料・商用利用OK・クレジット表記不要のフリー素材。PNG・SVGですぐダウンロードできます。",
-    "sep": "、",
-    "home_desc": "商用利用OKの、ゆるくてかわいい無料イラスト・フリー素材サイト。人物・動物・食べもの・季節行事など{n}点以上を、登録不要・クレジット表記不要でPNG・SVGダウンロードできます。",
-    "title_illust2": "{t}のイラスト｜{k}のフリー素材・無料イラスト（商用利用可）",
-    "kw_desc": "{ks}のフリーイラスト。無料・商用利用可能、クレジット表記不要でPNG・SVGをダウンロードできます。",
-    "about_h": "このイラストについて",
-    "about": "「{ks}」のフリーイラストです。個人・商用を問わず無料で使えて、登録やクレジット表記も不要。PNG・SVGでダウンロードできます。",
-    "tag_title": "{k}のフリーイラスト・無料素材（商用利用可）",
-    "tag_h1": "{k}のイラスト",
-    "tag_desc": "{k}のかわいいフリーイラスト{n}点。{ex}など、無料・商用利用可能で登録不要。PNG・SVGをダウンロードできます。",
-    "popular": "人気のキーワード",
-    "alt": "{t}（{k}のフリーイラスト）",
-    "kjoin": "・"
+  "license_title": "License & terms of use",
+  "license_body": [
+   [
+    "What you can do",
+    "Use the illustrations for free in personal and commercial projects: websites, social media, presentations, flyers, product packaging, videos and more. You may resize, recolor and edit them. Credit is appreciated but not required."
+   ],
+   [
+    "What you can't do",
+    "Do not redistribute or sell the illustrations as they are (for example as a stock or clip-art collection, or as NFTs). Do not register them as a trademark or logo. Do not use them in content that is illegal, hateful or misleading, or that damages anyone's reputation."
+   ],
+   [
+    "Using many illustrations",
+    "If a single product (such as a book or an app) uses 21 or more illustrations, please contact us first."
+   ],
+   [
+    "Disclaimer",
+    "The illustrations are provided as is. We are not responsible for any damage arising from their use. These terms may be updated without notice."
+   ]
+  ],
+  "privacy_title": "Privacy policy",
+  "privacy_body": [
+   [
+    "Advertising",
+    "This site uses third-party advertising services such as Google AdSense. These providers may use cookies to show ads based on your visits to this and other websites. You can turn off personalized ads in Google's Ads Settings."
+   ],
+   [
+    "Analytics",
+    "We may use analytics tools that collect traffic data through cookies. This data is collected anonymously and does not identify you personally."
+   ],
+   [
+    "Contact",
+    "If you have any questions, please email us at the address below."
+   ]
+  ],
+  "ad_label": "Advertisement",
+  "rw_title": "Watch a short ad to download",
+  "rw_body": "FuwaFuwa is free thanks to ads. Watch a short ad and your download will start automatically.",
+  "rw_watch": "Watch ad & download",
+  "rw_cancel": "Cancel",
+  "rw_loading": "Loading the ad…",
+  "rw_closed": "Your download starts once the ad finishes. You can try again anytime.",
+  "rw_thanks": "Thank you! Your download is starting.",
+  "skin_label": "Skin tone",
+  "browse": "Browse by category",
+  "results": "Search results",
+  "prev": "Previous",
+  "next": "Next",
+  "home_title": "FuwaFuwa – Free Cute Illustrations & Clipart (Commercial Use OK)",
+  "title_illust": "{t} – Free Clipart Illustration (PNG/SVG)",
+  "title_cat": "{c} – Free Clipart & Illustrations",
+  "cat_h1": "{c} illustrations",
+  "cat_desc": "Free {c} clipart and cute illustrations you can use commercially. {n} images including {ex}. Download PNG and SVG with no sign-up.",
+  "seo_short": "Free for commercial use, no credit needed. Download PNG/SVG instantly.",
+  "sep": ", ",
+  "home_desc": "Free cute illustrations and clipart you can use commercially. {n}+ images of people, animals, food, events and more. Download PNG/SVG with no sign-up or credit.",
+  "title_illust2": "{t} Clipart – Free {k} Illustration (Commercial Use OK)",
+  "kw_desc": "Free {ks} clipart. Free for commercial use with no credit needed — download PNG/SVG instantly.",
+  "about_h": "About this illustration",
+  "about": "A free {ks} illustration you can use in personal and commercial projects. No sign-up or credit required — download it as PNG or SVG.",
+  "tag_title": "{k} Clipart – Free {k} Illustrations (Commercial Use OK)",
+  "tag_h1": "{k} illustrations",
+  "tag_desc": "{n} free {k} clipart illustrations, including {ex}. Free for commercial use, no sign-up or credit needed. Download PNG/SVG.",
+  "popular": "Popular keywords",
+  "alt": "{t} – free {k} clipart",
+  "kjoin": ", ",
+  "about-us": "About",
+  "about-us_title": "About FuwaFuwa",
+  "about-us_body": [
+   [
+    "What is FuwaFuwa?",
+    "FuwaFuwa is a free illustration site that shares soft, friendly, original artwork. We publish over {n} illustrations on everyday themes — people, work, animals, food, seasonal events and more — so you can easily find pictures for documents, presentations, social posts and websites."
+   ],
+   [
+    "Our style",
+    "Every illustration is an original work made for this site. They share one hand-drawn look, with the color fill slightly offset from the line art, so any illustrations you combine will feel consistent. Backgrounds are transparent, and each image is available as a 1000×1000 PNG and as an SVG that stays sharp at any size. For illustrations of people, you can choose from five skin tones before downloading."
+   ],
+   [
+    "Eight languages",
+    "The site is available in English, Japanese, Spanish, Portuguese, French, German, Chinese and Korean, so people around the world can search for illustrations in their own language."
+   ],
+   [
+    "How we stay free",
+    "FuwaFuwa is supported by the ads shown on its pages. See our privacy policy for details about ads and cookies."
+   ],
+   [
+    "Site information",
+    "Site name: FuwaFuwa / URL: https://rakuearn.com / Contact: support@studyshort.co.jp"
+   ]
+  ],
+  "faq": "FAQ",
+  "faq_title": "Frequently asked questions",
+  "faq_body": [
+   [
+    "Is it really free?",
+    "Yes. Every illustration can be downloaded and used for free, with no sign-up required."
+   ],
+   [
+    "Can I use the illustrations commercially?",
+    "Yes. You can use them in commercial work such as company websites, ads, flyers, presentations, videos and product packaging."
+   ],
+   [
+    "Do I need to give credit?",
+    "No. Mentioning “FuwaFuwa” is appreciated but entirely optional."
+   ],
+   [
+    "Can I change the colors or edit the illustrations?",
+    "Yes, feel free. With the SVG format you can edit colors and shapes in tools like Illustrator, Figma or Inkscape."
+   ],
+   [
+    "What is the difference between PNG and SVG?",
+    "PNG is a 1000×1000 pixel image with a transparent background that you can drop straight into documents or social posts. SVG is vector data, so it never gets blurry when enlarged — ideal for printing and large displays."
+   ],
+   [
+    "Is there anything I can't do?",
+    "You may not redistribute or sell the illustrations as they are, register them as trademarks or logos, or use them for illegal or discriminatory purposes. Please see the license page for details."
+   ],
+   [
+    "Can I use a lot of illustrations?",
+    "If you plan to use 21 or more illustrations in a single product, please contact us first."
+   ],
+   [
+    "Can I request an illustration?",
+    "Yes — send us your idea at the email address on the contact page. We use requests to plan new illustrations."
+   ]
+  ],
+  "contact_title": "Contact us",
+  "contact_body": [
+   [
+    "How to reach us",
+    "For questions, suggestions, illustration requests or bug reports, please email us at the address below."
+   ],
+   [
+    "Replies",
+    "We usually reply within three business days. Some inquiries may take longer, and we may not be able to answer every message."
+   ],
+   [
+    "Helpful details",
+    "If your question is about using an illustration, please include the URL of the illustration page and how you plan to use it (for example, a flyer or product packaging)."
+   ]
+  ],
+  "root_intro": "Soft, cute illustrations you can download for free. Commercial use OK, no sign-up, no credit required."
+ },
+ "ja": {
+  "lang_name": "日本語",
+  "html_lang": "ja",
+  "tagline": "ゆるくてかわいい、無料のイラスト",
+  "hero_title": "やさしいイラスト、商用利用も無料。",
+  "hero_sub": "PNG・SVGですぐダウンロード。登録もクレジット表記も不要です。",
+  "search": "イラストを検索",
+  "no_results": "イラストが見つかりませんでした。",
+  "all": "すべて",
+  "latest": "新着イラスト",
+  "count": "{n}点のイラスト",
+  "download_png": "PNGをダウンロード",
+  "download_svg": "SVGをダウンロード",
+  "badge_free": "商用利用OK",
+  "badge_credit": "クレジット表記不要",
+  "badge_formats": "PNG / SVG",
+  "tags": "タグ",
+  "category": "カテゴリー",
+  "related": "こちらもおすすめ",
+  "license": "利用規約",
+  "privacy": "プライバシーポリシー",
+  "home": "ホーム",
+  "language": "言語",
+  "contact": "お問い合わせ",
+  "footer": "掲載イラストはすべてFuwaFuwaのオリジナル作品です。",
+  "meta_desc": "商用利用もできる、ゆるくてかわいい無料イラスト素材。登録不要でPNG・SVGをダウンロードできます。",
+  "license_short": "個人・商用ともに無料でご利用いただけます。ご利用前に利用規約をお読みください。",
+  "cats": {
+   "people": "人物",
+   "animals": "動物",
+   "nature": "自然",
+   "travel": "旅行",
+   "home": "家・暮らし",
+   "tech": "テクノロジー",
+   "events": "イベント",
+   "work": "仕事・職業",
+   "food": "食べもの",
+   "school": "学校・勉強",
+   "sports": "スポーツ",
+   "health": "健康・医療",
+   "hobby": "趣味・音楽"
   },
-  "es": {
-    "lang_name": "Español",
-    "html_lang": "es",
-    "tagline": "Ilustraciones gratis, suaves y adorables",
-    "hero_title": "Ilustraciones tiernas y amables. Gratis para uso comercial.",
-    "hero_sub": "Descarga PNG o SVG al instante. Sin registro y sin necesidad de dar crédito.",
-    "search": "Buscar ilustraciones",
-    "no_results": "No se encontraron ilustraciones.",
-    "all": "Todas",
-    "latest": "Nuevas ilustraciones",
-    "count": "{n} ilustraciones",
-    "download_png": "Descargar PNG",
-    "download_svg": "Descargar SVG",
-    "badge_free": "Uso comercial gratis",
-    "badge_credit": "Sin atribución",
-    "badge_formats": "PNG / SVG",
-    "tags": "Etiquetas",
-    "category": "Categoría",
-    "related": "También te puede gustar",
-    "license": "Licencia",
-    "privacy": "Política de privacidad",
-    "home": "Inicio",
-    "language": "Idioma",
-    "contact": "Contacto",
-    "footer": "Todas las ilustraciones son obras originales de FuwaFuwa.",
-    "meta_desc": "Ilustraciones gratis y adorables que puedes usar en proyectos comerciales. Descarga PNG y SVG sin registrarte.",
-    "license_short": "Gratis para uso personal y comercial. Lee la licencia antes de usarlas.",
-    "cats": {
-      "people": "Personas",
-      "animals": "Animales",
-      "nature": "Naturaleza",
-      "travel": "Viajes",
-      "home": "Hogar y vida",
-      "tech": "Tecnología",
-      "events": "Eventos",
-      "work": "Trabajo",
-      "food": "Comida",
-      "school": "Escuela",
-      "sports": "Deportes",
-      "health": "Salud",
-      "hobby": "Aficiones y música"
-    },
-    "license_title": "Licencia y condiciones de uso",
-    "license_body": [
-      [
-        "Lo que puedes hacer",
-        "Usa las ilustraciones gratis en proyectos personales y comerciales: sitios web, redes sociales, presentaciones, folletos, envases de productos, vídeos y más. Puedes cambiar su tamaño, colores y editarlas. Agradecemos la atribución, pero no es obligatoria."
-      ],
-      [
-        "Lo que no puedes hacer",
-        "No redistribuyas ni vendas las ilustraciones tal cual (por ejemplo, como colección de stock o clip art, o como NFT). No las registres como marca o logotipo. No las uses en contenido ilegal, de odio, engañoso o que dañe la reputación de otras personas."
-      ],
-      [
-        "Uso de muchas ilustraciones",
-        "Si un solo producto (como un libro o una app) usa 21 ilustraciones o más, contáctanos antes."
-      ],
-      [
-        "Exención de responsabilidad",
-        "Las ilustraciones se ofrecen tal cual. No nos hacemos responsables de ningún daño derivado de su uso. Estas condiciones pueden cambiar sin previo aviso."
-      ]
-    ],
-    "privacy_title": "Política de privacidad",
-    "privacy_body": [
-      [
-        "Publicidad",
-        "Este sitio utiliza servicios de publicidad de terceros como Google AdSense. Estos proveedores pueden usar cookies para mostrar anuncios basados en tus visitas a este y otros sitios web. Puedes desactivar los anuncios personalizados en la Configuración de anuncios de Google."
-      ],
-      [
-        "Analítica",
-        "Podemos usar herramientas de analítica que recopilan datos de tráfico mediante cookies. Estos datos son anónimos y no te identifican personalmente."
-      ],
-      [
-        "Contacto",
-        "Si tienes alguna pregunta, escríbenos a la dirección de abajo."
-      ]
-    ],
-    "ad_label": "Publicidad",
-    "rw_title": "Mira un anuncio corto para descargar",
-    "rw_body": "FuwaFuwa es gratis gracias a los anuncios. Mira un anuncio corto y la descarga empezará automáticamente.",
-    "rw_watch": "Ver anuncio y descargar",
-    "rw_cancel": "Cancelar",
-    "rw_loading": "Cargando el anuncio…",
-    "rw_closed": "La descarga empieza cuando termina el anuncio. Puedes intentarlo de nuevo cuando quieras.",
-    "rw_thanks": "¡Gracias! Tu descarga está comenzando.",
-    "skin_label": "Tono de piel",
-    "browse": "Explorar por categoría",
-    "results": "Resultados de búsqueda",
-    "prev": "Anterior",
-    "next": "Siguiente",
-    "home_title": "FuwaFuwa – Ilustraciones gratis y bonitas (uso comercial permitido)",
-    "title_illust": "{t} – ilustración gratis (PNG/SVG)",
-    "title_cat": "{c} – ilustraciones y clipart gratis",
-    "cat_h1": "{c}: ilustraciones",
-    "cat_desc": "Ilustraciones y clipart gratis de {c} para uso comercial. {n} imágenes, como {ex}. Descarga PNG y SVG sin registro.",
-    "seo_short": "Gratis para uso comercial, sin atribución. Descarga PNG/SVG al instante.",
-    "sep": ", ",
-    "home_desc": "Ilustraciones y clipart gratis y bonitos para uso comercial. Más de {n} imágenes de personas, animales, comida y eventos. Descarga PNG/SVG sin registro ni atribución.",
-    "title_illust2": "{t} – ilustración gratis de {k} (uso comercial)",
-    "kw_desc": "Clipart gratis de {ks}. Uso comercial permitido, sin atribución. Descarga PNG/SVG al instante.",
-    "about_h": "Sobre esta ilustración",
-    "about": "Ilustración gratis de {ks} para proyectos personales y comerciales. Sin registro ni atribución. Descárgala en PNG o SVG.",
-    "tag_title": "{k}: ilustraciones y clipart gratis (uso comercial)",
-    "tag_h1": "{k}: ilustraciones",
-    "tag_desc": "{n} ilustraciones gratis de {k}, como {ex}. Uso comercial permitido, sin registro. Descarga PNG/SVG.",
-    "popular": "Palabras clave populares",
-    "alt": "{t} – clipart gratis de {k}",
-    "kjoin": ", "
+  "license_title": "利用規約・ライセンス",
+  "license_body": [
+   [
+    "できること",
+    "個人・商用を問わず、Webサイト、SNS、プレゼン資料、チラシ、商品パッケージ、動画などに無料でお使いいただけます。サイズ変更・色の変更・加工も自由です。クレジット表記は歓迎しますが必須ではありません。"
+   ],
+   [
+    "禁止事項",
+    "イラストをそのままの形で再配布・販売すること（素材集・クリップアートとしての配布、NFT化など）は禁止です。商標やロゴとしての登録、違法・差別的・誤解を招く内容や、他者の名誉を傷つける用途での使用もお控えください。"
+   ],
+   [
+    "たくさん使う場合",
+    "ひとつの制作物（書籍やアプリなど）で21点以上を使用する場合は、事前にお問い合わせください。"
+   ],
+   [
+    "免責事項",
+    "イラストは現状のまま提供されます。ご利用により生じた損害について当サイトは責任を負いません。本規約は予告なく変更されることがあります。"
+   ]
+  ],
+  "privacy_title": "プライバシーポリシー",
+  "privacy_body": [
+   [
+    "広告について",
+    "当サイトはGoogle AdSenseなどの第三者配信の広告サービスを利用しています。広告配信事業者は、当サイトや他サイトへのアクセス情報をもとに、Cookieを使用して興味に応じた広告を表示することがあります。パーソナライズ広告はGoogleの広告設定から無効にできます。"
+   ],
+   [
+    "アクセス解析について",
+    "当サイトでは、Cookieを利用してトラフィックデータを収集するアクセス解析ツールを使用する場合があります。このデータは匿名で収集され、個人を特定するものではありません。"
+   ],
+   [
+    "お問い合わせ",
+    "ご質問は下記のメールアドレスまでご連絡ください。"
+   ]
+  ],
+  "ad_label": "広告",
+  "rw_title": "短い広告を見てダウンロード",
+  "rw_body": "FuwaFuwaは広告のおかげで無料で使えます。短い広告を見ると、自動でダウンロードが始まります。",
+  "rw_watch": "広告を見てダウンロード",
+  "rw_cancel": "キャンセル",
+  "rw_loading": "広告を読み込んでいます…",
+  "rw_closed": "広告を最後まで見るとダウンロードが始まります。もう一度お試しいただけます。",
+  "rw_thanks": "ありがとうございます！ダウンロードを開始します。",
+  "skin_label": "肌の色",
+  "browse": "カテゴリーから探す",
+  "results": "検索結果",
+  "prev": "前へ",
+  "next": "次へ",
+  "home_title": "FuwaFuwa｜ゆるくてかわいい無料イラスト・フリー素材（商用利用OK）",
+  "title_illust": "{t}のイラスト（無料・商用OK）",
+  "title_cat": "{c}の無料イラスト・フリー素材",
+  "cat_h1": "{c}のイラスト",
+  "cat_desc": "{c}のかわいい無料イラスト・フリー素材{n}点。{ex}など、商用利用OK・登録不要でPNG・SVGをダウンロードできます。",
+  "seo_short": "無料・商用利用OK・クレジット表記不要のフリー素材。PNG・SVGですぐダウンロードできます。",
+  "sep": "、",
+  "home_desc": "商用利用OKの、ゆるくてかわいい無料イラスト・フリー素材サイト。人物・動物・食べもの・季節行事など{n}点以上を、登録不要・クレジット表記不要でPNG・SVGダウンロードできます。",
+  "title_illust2": "{t}のイラスト｜{k}のフリー素材・無料イラスト（商用利用可）",
+  "kw_desc": "{ks}のフリーイラスト。無料・商用利用可能、クレジット表記不要でPNG・SVGをダウンロードできます。",
+  "about_h": "このイラストについて",
+  "about": "「{ks}」のフリーイラストです。個人・商用を問わず無料で使えて、登録やクレジット表記も不要。PNG・SVGでダウンロードできます。",
+  "tag_title": "{k}のフリーイラスト・無料素材（商用利用可）",
+  "tag_h1": "{k}のイラスト",
+  "tag_desc": "{k}のかわいいフリーイラスト{n}点。{ex}など、無料・商用利用可能で登録不要。PNG・SVGをダウンロードできます。",
+  "popular": "人気のキーワード",
+  "alt": "{t}（{k}のフリーイラスト）",
+  "kjoin": "・",
+  "about-us": "FuwaFuwaについて",
+  "about-us_title": "FuwaFuwaについて（運営者情報）",
+  "about-us_body": [
+   [
+    "FuwaFuwaとは",
+    "FuwaFuwaは、ゆるくてやさしい雰囲気のオリジナルイラストを無料で配布しているフリー素材サイトです。人物・仕事・動物・食べもの・季節の行事など、毎日の資料づくりや情報発信で使いやすいテーマを中心に、{n}点以上のイラストを公開しています。"
+   ],
+   [
+    "イラストの特徴",
+    "すべてのイラストは当サイトのオリジナル作品です。線と色をあえて少しずらした手描き風のタッチで統一しているので、どの絵を組み合わせても雰囲気がそろいます。背景は透明で、PNG（1000×1000ピクセル）と、拡大しても劣化しないSVGの2つの形式でダウンロードできます。人物のイラストは、肌の色を5段階から選んでダウンロードできます。"
+   ],
+   [
+    "8つの言語に対応",
+    "日本語・英語・スペイン語・ポルトガル語・フランス語・ドイツ語・中国語・韓国語に対応しています。世界中のどなたでも、自分の言葉でイラストを探して使えます。"
+   ],
+   [
+    "無料で続けるために",
+    "当サイトは、ページ内に表示される広告の収益で運営しています。広告とCookieの扱いについてはプライバシーポリシーをご覧ください。"
+   ],
+   [
+    "運営者情報",
+    "サイト名：FuwaFuwa　／　URL：https://rakuearn.com　／　お問い合わせ：support@studyshort.co.jp"
+   ]
+  ],
+  "faq": "よくある質問",
+  "faq_title": "よくある質問",
+  "faq_body": [
+   [
+    "本当に無料で使えますか？",
+    "はい。すべてのイラストを無料でダウンロードしてお使いいただけます。会員登録も不要です。"
+   ],
+   [
+    "商用利用はできますか？",
+    "できます。会社のWebサイトや広告、チラシ、プレゼン資料、動画、商品パッケージなど、商用の制作物にもお使いいただけます。"
+   ],
+   [
+    "クレジット表記は必要ですか？",
+    "必要ありません。「FuwaFuwa」と書いていただけるとうれしいですが、任意です。"
+   ],
+   [
+    "色を変えたり、加工したりしてもいいですか？",
+    "自由に加工していただけます。SVG形式なら、IllustratorやFigma、Inkscapeなどのソフトで色や形を細かく編集できます。"
+   ],
+   [
+    "PNGとSVGはどう違いますか？",
+    "PNGは背景が透明な1000×1000ピクセルの画像で、そのまま資料やSNSに貼りつけられます。SVGは線と図形のデータなので、どれだけ拡大してもぼやけず、印刷や大きな掲示物に向いています。"
+   ],
+   [
+    "してはいけない使い方はありますか？",
+    "イラストをそのまま再配布・販売すること、商標やロゴとして登録すること、違法・差別的な用途などは禁止しています。詳しくは利用規約をご覧ください。"
+   ],
+   [
+    "たくさんのイラストを使ってもいいですか？",
+    "ひとつの制作物で21点以上を使う場合は、事前にお問い合わせください。"
+   ],
+   [
+    "イラストのリクエストはできますか？",
+    "お問い合わせページのメールアドレスから、ご希望のテーマをお送りください。今後の制作の参考にさせていただきます。"
+   ]
+  ],
+  "contact_title": "お問い合わせ",
+  "contact_body": [
+   [
+    "お問い合わせ方法",
+    "ご質問・ご要望・イラストのリクエスト・不具合のご報告は、下記のメールアドレスまでお送りください。"
+   ],
+   [
+    "お返事について",
+    "通常3営業日以内にお返事します。内容によってはお時間をいただく場合や、お返事できない場合があります。"
+   ],
+   [
+    "書いていただきたいこと",
+    "使い方についてのご質問は、使う予定のイラストのページURLと、使い道（例：チラシ、商品パッケージなど）を書き添えていただくと、スムーズにお答えできます。"
+   ]
+  ],
+  "root_intro": "ゆるくてかわいい、無料のイラスト素材サイトです。商用利用OK・登録不要・クレジット表記不要。"
+ },
+ "es": {
+  "lang_name": "Español",
+  "html_lang": "es",
+  "tagline": "Ilustraciones gratis, suaves y adorables",
+  "hero_title": "Ilustraciones tiernas y amables. Gratis para uso comercial.",
+  "hero_sub": "Descarga PNG o SVG al instante. Sin registro y sin necesidad de dar crédito.",
+  "search": "Buscar ilustraciones",
+  "no_results": "No se encontraron ilustraciones.",
+  "all": "Todas",
+  "latest": "Nuevas ilustraciones",
+  "count": "{n} ilustraciones",
+  "download_png": "Descargar PNG",
+  "download_svg": "Descargar SVG",
+  "badge_free": "Uso comercial gratis",
+  "badge_credit": "Sin atribución",
+  "badge_formats": "PNG / SVG",
+  "tags": "Etiquetas",
+  "category": "Categoría",
+  "related": "También te puede gustar",
+  "license": "Licencia",
+  "privacy": "Política de privacidad",
+  "home": "Inicio",
+  "language": "Idioma",
+  "contact": "Contacto",
+  "footer": "Todas las ilustraciones son obras originales de FuwaFuwa.",
+  "meta_desc": "Ilustraciones gratis y adorables que puedes usar en proyectos comerciales. Descarga PNG y SVG sin registrarte.",
+  "license_short": "Gratis para uso personal y comercial. Lee la licencia antes de usarlas.",
+  "cats": {
+   "people": "Personas",
+   "animals": "Animales",
+   "nature": "Naturaleza",
+   "travel": "Viajes",
+   "home": "Hogar y vida",
+   "tech": "Tecnología",
+   "events": "Eventos",
+   "work": "Trabajo",
+   "food": "Comida",
+   "school": "Escuela",
+   "sports": "Deportes",
+   "health": "Salud",
+   "hobby": "Aficiones y música"
   },
-  "pt": {
-    "lang_name": "Português",
-    "html_lang": "pt-BR",
-    "tagline": "Ilustrações grátis, fofas e suaves",
-    "hero_title": "Ilustrações fofas e amigáveis. Grátis para uso comercial.",
-    "hero_sub": "Baixe PNG ou SVG na hora. Sem cadastro e sem precisar dar crédito.",
-    "search": "Buscar ilustrações",
-    "no_results": "Nenhuma ilustração encontrada.",
-    "all": "Todas",
-    "latest": "Novas ilustrações",
-    "count": "{n} ilustrações",
-    "download_png": "Baixar PNG",
-    "download_svg": "Baixar SVG",
-    "badge_free": "Uso comercial grátis",
-    "badge_credit": "Sem crédito obrigatório",
-    "badge_formats": "PNG / SVG",
-    "tags": "Tags",
-    "category": "Categoria",
-    "related": "Você também pode gostar",
-    "license": "Licença",
-    "privacy": "Política de privacidade",
-    "home": "Início",
-    "language": "Idioma",
-    "contact": "Contato",
-    "footer": "Todas as ilustrações são obras originais do FuwaFuwa.",
-    "meta_desc": "Ilustrações grátis e fofas para usar em projetos comerciais. Baixe PNG e SVG sem cadastro.",
-    "license_short": "Grátis para uso pessoal e comercial. Leia a licença antes de usar.",
-    "cats": {
-      "people": "Pessoas",
-      "animals": "Animais",
-      "nature": "Natureza",
-      "travel": "Viagem",
-      "home": "Casa e vida",
-      "tech": "Tecnologia",
-      "events": "Eventos",
-      "work": "Trabalho",
-      "food": "Comida",
-      "school": "Escola",
-      "sports": "Esportes",
-      "health": "Saúde",
-      "hobby": "Hobbies e música"
-    },
-    "license_title": "Licença e termos de uso",
-    "license_body": [
-      [
-        "O que você pode fazer",
-        "Use as ilustrações de graça em projetos pessoais e comerciais: sites, redes sociais, apresentações, panfletos, embalagens, vídeos e muito mais. Você pode redimensionar, mudar as cores e editar. O crédito é bem-vindo, mas não é obrigatório."
-      ],
-      [
-        "O que você não pode fazer",
-        "Não redistribua nem venda as ilustrações do jeito que estão (por exemplo, como banco de imagens, clip art ou NFT). Não registre como marca ou logotipo. Não use em conteúdo ilegal, de ódio, enganoso ou que prejudique a reputação de alguém."
-      ],
-      [
-        "Uso de muitas ilustrações",
-        "Se um único produto (como um livro ou um app) usar 21 ilustrações ou mais, entre em contato antes."
-      ],
-      [
-        "Isenção de responsabilidade",
-        "As ilustrações são fornecidas como estão. Não nos responsabilizamos por danos decorrentes do uso. Estes termos podem mudar sem aviso prévio."
-      ]
-    ],
-    "privacy_title": "Política de privacidade",
-    "privacy_body": [
-      [
-        "Publicidade",
-        "Este site usa serviços de publicidade de terceiros, como o Google AdSense. Esses provedores podem usar cookies para exibir anúncios com base nas suas visitas a este e a outros sites. Você pode desativar os anúncios personalizados nas Configurações de anúncios do Google."
-      ],
-      [
-        "Análise de acesso",
-        "Podemos usar ferramentas de análise que coletam dados de tráfego por meio de cookies. Esses dados são anônimos e não identificam você pessoalmente."
-      ],
-      [
-        "Contato",
-        "Em caso de dúvidas, envie um e-mail para o endereço abaixo."
-      ]
-    ],
-    "ad_label": "Publicidade",
-    "rw_title": "Assista a um anúncio curto para baixar",
-    "rw_body": "O FuwaFuwa é grátis graças aos anúncios. Assista a um anúncio curto e o download começa automaticamente.",
-    "rw_watch": "Assistir e baixar",
-    "rw_cancel": "Cancelar",
-    "rw_loading": "Carregando o anúncio…",
-    "rw_closed": "O download começa quando o anúncio termina. Você pode tentar de novo quando quiser.",
-    "rw_thanks": "Obrigado! Seu download está começando.",
-    "skin_label": "Tom de pele",
-    "browse": "Explorar por categoria",
-    "results": "Resultados da busca",
-    "prev": "Anterior",
-    "next": "Próxima",
-    "home_title": "FuwaFuwa – Ilustrações fofas grátis (uso comercial permitido)",
-    "title_illust": "{t} – ilustração grátis (PNG/SVG)",
-    "title_cat": "{c} – ilustrações e cliparts grátis",
-    "cat_h1": "{c}: ilustrações",
-    "cat_desc": "Ilustrações e cliparts grátis de {c} para uso comercial. {n} imagens, como {ex}. Baixe PNG e SVG sem cadastro.",
-    "seo_short": "Grátis para uso comercial, sem crédito obrigatório. Baixe PNG/SVG na hora.",
-    "sep": ", ",
-    "home_desc": "Ilustrações e cliparts fofos grátis para uso comercial. Mais de {n} imagens de pessoas, animais, comida e eventos. Baixe PNG/SVG sem cadastro nem crédito.",
-    "title_illust2": "{t} – ilustração grátis de {k} (uso comercial)",
-    "kw_desc": "Clipart grátis de {ks}. Uso comercial liberado, sem crédito. Baixe PNG/SVG na hora.",
-    "about_h": "Sobre esta ilustração",
-    "about": "Ilustração grátis de {ks} para projetos pessoais e comerciais. Sem cadastro nem crédito. Baixe em PNG ou SVG.",
-    "tag_title": "{k}: ilustrações e cliparts grátis (uso comercial)",
-    "tag_h1": "{k}: ilustrações",
-    "tag_desc": "{n} ilustrações grátis de {k}, como {ex}. Uso comercial liberado, sem cadastro. Baixe PNG/SVG.",
-    "popular": "Palavras-chave populares",
-    "alt": "{t} – clipart grátis de {k}",
-    "kjoin": ", "
+  "license_title": "Licencia y condiciones de uso",
+  "license_body": [
+   [
+    "Lo que puedes hacer",
+    "Usa las ilustraciones gratis en proyectos personales y comerciales: sitios web, redes sociales, presentaciones, folletos, envases de productos, vídeos y más. Puedes cambiar su tamaño, colores y editarlas. Agradecemos la atribución, pero no es obligatoria."
+   ],
+   [
+    "Lo que no puedes hacer",
+    "No redistribuyas ni vendas las ilustraciones tal cual (por ejemplo, como colección de stock o clip art, o como NFT). No las registres como marca o logotipo. No las uses en contenido ilegal, de odio, engañoso o que dañe la reputación de otras personas."
+   ],
+   [
+    "Uso de muchas ilustraciones",
+    "Si un solo producto (como un libro o una app) usa 21 ilustraciones o más, contáctanos antes."
+   ],
+   [
+    "Exención de responsabilidad",
+    "Las ilustraciones se ofrecen tal cual. No nos hacemos responsables de ningún daño derivado de su uso. Estas condiciones pueden cambiar sin previo aviso."
+   ]
+  ],
+  "privacy_title": "Política de privacidad",
+  "privacy_body": [
+   [
+    "Publicidad",
+    "Este sitio utiliza servicios de publicidad de terceros como Google AdSense. Estos proveedores pueden usar cookies para mostrar anuncios basados en tus visitas a este y otros sitios web. Puedes desactivar los anuncios personalizados en la Configuración de anuncios de Google."
+   ],
+   [
+    "Analítica",
+    "Podemos usar herramientas de analítica que recopilan datos de tráfico mediante cookies. Estos datos son anónimos y no te identifican personalmente."
+   ],
+   [
+    "Contacto",
+    "Si tienes alguna pregunta, escríbenos a la dirección de abajo."
+   ]
+  ],
+  "ad_label": "Publicidad",
+  "rw_title": "Mira un anuncio corto para descargar",
+  "rw_body": "FuwaFuwa es gratis gracias a los anuncios. Mira un anuncio corto y la descarga empezará automáticamente.",
+  "rw_watch": "Ver anuncio y descargar",
+  "rw_cancel": "Cancelar",
+  "rw_loading": "Cargando el anuncio…",
+  "rw_closed": "La descarga empieza cuando termina el anuncio. Puedes intentarlo de nuevo cuando quieras.",
+  "rw_thanks": "¡Gracias! Tu descarga está comenzando.",
+  "skin_label": "Tono de piel",
+  "browse": "Explorar por categoría",
+  "results": "Resultados de búsqueda",
+  "prev": "Anterior",
+  "next": "Siguiente",
+  "home_title": "FuwaFuwa – Ilustraciones gratis y bonitas (uso comercial permitido)",
+  "title_illust": "{t} – ilustración gratis (PNG/SVG)",
+  "title_cat": "{c} – ilustraciones y clipart gratis",
+  "cat_h1": "{c}: ilustraciones",
+  "cat_desc": "Ilustraciones y clipart gratis de {c} para uso comercial. {n} imágenes, como {ex}. Descarga PNG y SVG sin registro.",
+  "seo_short": "Gratis para uso comercial, sin atribución. Descarga PNG/SVG al instante.",
+  "sep": ", ",
+  "home_desc": "Ilustraciones y clipart gratis y bonitos para uso comercial. Más de {n} imágenes de personas, animales, comida y eventos. Descarga PNG/SVG sin registro ni atribución.",
+  "title_illust2": "{t} – ilustración gratis de {k} (uso comercial)",
+  "kw_desc": "Clipart gratis de {ks}. Uso comercial permitido, sin atribución. Descarga PNG/SVG al instante.",
+  "about_h": "Sobre esta ilustración",
+  "about": "Ilustración gratis de {ks} para proyectos personales y comerciales. Sin registro ni atribución. Descárgala en PNG o SVG.",
+  "tag_title": "{k}: ilustraciones y clipart gratis (uso comercial)",
+  "tag_h1": "{k}: ilustraciones",
+  "tag_desc": "{n} ilustraciones gratis de {k}, como {ex}. Uso comercial permitido, sin registro. Descarga PNG/SVG.",
+  "popular": "Palabras clave populares",
+  "alt": "{t} – clipart gratis de {k}",
+  "kjoin": ", ",
+  "about-us": "Acerca de",
+  "about-us_title": "Acerca de FuwaFuwa",
+  "about-us_body": [
+   [
+    "¿Qué es FuwaFuwa?",
+    "FuwaFuwa es un sitio de ilustraciones gratuitas con un estilo suave y amable, todas originales. Publicamos más de {n} ilustraciones sobre temas cotidianos —personas, trabajo, animales, comida, fiestas de temporada y más— para que encuentres fácilmente imágenes para documentos, presentaciones, redes sociales y sitios web."
+   ],
+   [
+    "Nuestro estilo",
+    "Cada ilustración es una obra original creada para este sitio. Todas comparten un aspecto dibujado a mano, con el color ligeramente desplazado respecto al contorno, para que cualquier combinación se vea coherente. Los fondos son transparentes y cada imagen está disponible en PNG de 1000×1000 y en SVG, que se mantiene nítido a cualquier tamaño. En las ilustraciones de personas puedes elegir entre cinco tonos de piel antes de descargar."
+   ],
+   [
+    "Ocho idiomas",
+    "El sitio está disponible en español, inglés, japonés, portugués, francés, alemán, chino y coreano, para que personas de todo el mundo busquen ilustraciones en su propio idioma."
+   ],
+   [
+    "Cómo seguimos siendo gratuitos",
+    "FuwaFuwa se mantiene gracias a los anuncios que se muestran en sus páginas. Consulta la política de privacidad para conocer el uso de anuncios y cookies."
+   ],
+   [
+    "Información del sitio",
+    "Nombre: FuwaFuwa / URL: https://rakuearn.com / Contacto: support@studyshort.co.jp"
+   ]
+  ],
+  "faq": "Preguntas frecuentes",
+  "faq_title": "Preguntas frecuentes",
+  "faq_body": [
+   [
+    "¿De verdad es gratis?",
+    "Sí. Puedes descargar y usar todas las ilustraciones gratis y sin registrarte."
+   ],
+   [
+    "¿Puedo usarlas con fines comerciales?",
+    "Sí. Puedes usarlas en trabajos comerciales como sitios web de empresas, anuncios, folletos, presentaciones, videos y empaques de productos."
+   ],
+   [
+    "¿Tengo que dar crédito?",
+    "No. Mencionar «FuwaFuwa» se agradece, pero es totalmente opcional."
+   ],
+   [
+    "¿Puedo cambiar los colores o editarlas?",
+    "Sí, con total libertad. Con el formato SVG puedes editar colores y formas en programas como Illustrator, Figma o Inkscape."
+   ],
+   [
+    "¿Qué diferencia hay entre PNG y SVG?",
+    "El PNG es una imagen de 1000×1000 píxeles con fondo transparente, lista para documentos o redes sociales. El SVG es un formato vectorial que nunca se ve borroso al ampliarlo, ideal para imprimir y para formatos grandes."
+   ],
+   [
+    "¿Hay algo que no pueda hacer?",
+    "No puedes redistribuir ni vender las ilustraciones tal cual, registrarlas como marcas o logotipos, ni usarlas con fines ilegales o discriminatorios. Consulta la página de licencia para más detalles."
+   ],
+   [
+    "¿Puedo usar muchas ilustraciones?",
+    "Si piensas usar 21 o más ilustraciones en un mismo producto, contáctanos antes."
+   ],
+   [
+    "¿Puedo pedir una ilustración?",
+    "Sí. Envíanos tu idea al correo de la página de contacto; usamos las peticiones para planear nuevas ilustraciones."
+   ]
+  ],
+  "contact_title": "Contacto",
+  "contact_body": [
+   [
+    "Cómo contactarnos",
+    "Para preguntas, sugerencias, peticiones de ilustraciones o reportes de errores, escríbenos al correo de abajo."
+   ],
+   [
+    "Respuestas",
+    "Normalmente respondemos en un plazo de tres días hábiles. Algunas consultas pueden tardar más y quizá no podamos responder a todos los mensajes."
+   ],
+   [
+    "Datos útiles",
+    "Si tu pregunta es sobre el uso de una ilustración, incluye la URL de su página y cómo piensas usarla (por ejemplo, en un folleto o un empaque)."
+   ]
+  ],
+  "root_intro": "Ilustraciones suaves y lindas para descargar gratis. Uso comercial permitido, sin registro y sin atribución."
+ },
+ "pt": {
+  "lang_name": "Português",
+  "html_lang": "pt-BR",
+  "tagline": "Ilustrações grátis, fofas e suaves",
+  "hero_title": "Ilustrações fofas e amigáveis. Grátis para uso comercial.",
+  "hero_sub": "Baixe PNG ou SVG na hora. Sem cadastro e sem precisar dar crédito.",
+  "search": "Buscar ilustrações",
+  "no_results": "Nenhuma ilustração encontrada.",
+  "all": "Todas",
+  "latest": "Novas ilustrações",
+  "count": "{n} ilustrações",
+  "download_png": "Baixar PNG",
+  "download_svg": "Baixar SVG",
+  "badge_free": "Uso comercial grátis",
+  "badge_credit": "Sem crédito obrigatório",
+  "badge_formats": "PNG / SVG",
+  "tags": "Tags",
+  "category": "Categoria",
+  "related": "Você também pode gostar",
+  "license": "Licença",
+  "privacy": "Política de privacidade",
+  "home": "Início",
+  "language": "Idioma",
+  "contact": "Contato",
+  "footer": "Todas as ilustrações são obras originais do FuwaFuwa.",
+  "meta_desc": "Ilustrações grátis e fofas para usar em projetos comerciais. Baixe PNG e SVG sem cadastro.",
+  "license_short": "Grátis para uso pessoal e comercial. Leia a licença antes de usar.",
+  "cats": {
+   "people": "Pessoas",
+   "animals": "Animais",
+   "nature": "Natureza",
+   "travel": "Viagem",
+   "home": "Casa e vida",
+   "tech": "Tecnologia",
+   "events": "Eventos",
+   "work": "Trabalho",
+   "food": "Comida",
+   "school": "Escola",
+   "sports": "Esportes",
+   "health": "Saúde",
+   "hobby": "Hobbies e música"
   },
-  "fr": {
-    "lang_name": "Français",
-    "html_lang": "fr",
-    "tagline": "Illustrations gratuites, douces et mignonnes",
-    "hero_title": "Des illustrations douces et sympathiques. Gratuites pour un usage commercial.",
-    "hero_sub": "Téléchargez en PNG ou SVG instantanément. Sans inscription, sans attribution obligatoire.",
-    "search": "Rechercher des illustrations",
-    "no_results": "Aucune illustration trouvée.",
-    "all": "Toutes",
-    "latest": "Nouvelles illustrations",
-    "count": "{n} illustrations",
-    "download_png": "Télécharger en PNG",
-    "download_svg": "Télécharger en SVG",
-    "badge_free": "Usage commercial gratuit",
-    "badge_credit": "Sans attribution",
-    "badge_formats": "PNG / SVG",
-    "tags": "Mots-clés",
-    "category": "Catégorie",
-    "related": "Vous aimerez aussi",
-    "license": "Licence",
-    "privacy": "Politique de confidentialité",
-    "home": "Accueil",
-    "language": "Langue",
-    "contact": "Contact",
-    "footer": "Toutes les illustrations sont des œuvres originales de FuwaFuwa.",
-    "meta_desc": "Des illustrations gratuites et mignonnes, utilisables dans des projets commerciaux. Téléchargez en PNG et SVG sans inscription.",
-    "license_short": "Gratuites pour un usage personnel et commercial. Merci de lire la licence avant utilisation.",
-    "cats": {
-      "people": "Personnes",
-      "animals": "Animaux",
-      "nature": "Nature",
-      "travel": "Voyage",
-      "home": "Maison et vie",
-      "tech": "Technologie",
-      "events": "Événements",
-      "work": "Travail et métiers",
-      "food": "Nourriture",
-      "school": "École",
-      "sports": "Sports",
-      "health": "Santé",
-      "hobby": "Loisirs et musique"
-    },
-    "license_title": "Licence et conditions d'utilisation",
-    "license_body": [
-      [
-        "Ce que vous pouvez faire",
-        "Utilisez gratuitement les illustrations dans vos projets personnels et commerciaux : sites web, réseaux sociaux, présentations, flyers, emballages, vidéos et plus encore. Vous pouvez les redimensionner, changer leurs couleurs et les modifier. Une mention est appréciée mais pas obligatoire."
-      ],
-      [
-        "Ce que vous ne pouvez pas faire",
-        "Ne redistribuez pas et ne vendez pas les illustrations telles quelles (par exemple sous forme de banque d'images, de clip art ou de NFT). Ne les déposez pas comme marque ou logo. Ne les utilisez pas dans des contenus illégaux, haineux, trompeurs ou portant atteinte à la réputation d'autrui."
-      ],
-      [
-        "Utilisation de nombreuses illustrations",
-        "Si un même produit (un livre ou une application, par exemple) utilise 21 illustrations ou plus, contactez-nous au préalable."
-      ],
-      [
-        "Avertissement",
-        "Les illustrations sont fournies en l'état. Nous déclinons toute responsabilité pour les dommages liés à leur utilisation. Ces conditions peuvent être modifiées sans préavis."
-      ]
-    ],
-    "privacy_title": "Politique de confidentialité",
-    "privacy_body": [
-      [
-        "Publicité",
-        "Ce site utilise des services publicitaires tiers comme Google AdSense. Ces fournisseurs peuvent utiliser des cookies pour afficher des annonces en fonction de vos visites sur ce site et d'autres sites. Vous pouvez désactiver les annonces personnalisées dans les paramètres des annonces Google."
-      ],
-      [
-        "Mesure d'audience",
-        "Nous pouvons utiliser des outils de mesure d'audience qui collectent des données de trafic à l'aide de cookies. Ces données sont anonymes et ne permettent pas de vous identifier."
-      ],
-      [
-        "Contact",
-        "Pour toute question, écrivez-nous à l'adresse ci-dessous."
-      ]
-    ],
-    "ad_label": "Publicité",
-    "rw_title": "Regardez une courte publicité pour télécharger",
-    "rw_body": "FuwaFuwa est gratuit grâce à la publicité. Regardez une courte annonce et le téléchargement démarrera automatiquement.",
-    "rw_watch": "Regarder et télécharger",
-    "rw_cancel": "Annuler",
-    "rw_loading": "Chargement de la publicité…",
-    "rw_closed": "Le téléchargement démarre à la fin de la publicité. Vous pouvez réessayer à tout moment.",
-    "rw_thanks": "Merci ! Votre téléchargement commence.",
-    "skin_label": "Teint",
-    "browse": "Parcourir par catégorie",
-    "results": "Résultats de recherche",
-    "prev": "Précédent",
-    "next": "Suivant",
-    "home_title": "FuwaFuwa – Illustrations mignonnes gratuites (usage commercial autorisé)",
-    "title_illust": "{t} – illustration gratuite (PNG/SVG)",
-    "title_cat": "{c} – illustrations et cliparts gratuits",
-    "cat_h1": "{c} : illustrations",
-    "cat_desc": "Illustrations et cliparts gratuits ({c}) utilisables commercialement. {n} images, dont {ex}. Téléchargez en PNG et SVG sans inscription.",
-    "seo_short": "Gratuit pour un usage commercial, sans attribution. Téléchargement PNG/SVG immédiat.",
-    "sep": ", ",
-    "home_desc": "Illustrations et cliparts mignons gratuits, utilisables commercialement. Plus de {n} images : personnes, animaux, nourriture, fêtes… Téléchargez en PNG/SVG sans inscription ni attribution.",
-    "title_illust2": "{t} – illustration gratuite {k} (usage commercial)",
-    "kw_desc": "Clipart gratuit : {ks}. Usage commercial autorisé, sans attribution. Téléchargez en PNG/SVG.",
-    "about_h": "À propos de cette illustration",
-    "about": "Illustration gratuite ({ks}) pour vos projets personnels et commerciaux. Sans inscription ni attribution. Téléchargez-la en PNG ou SVG.",
-    "tag_title": "{k} : illustrations et cliparts gratuits (usage commercial)",
-    "tag_h1": "{k} : illustrations",
-    "tag_desc": "{n} illustrations gratuites « {k} », dont {ex}. Usage commercial autorisé, sans inscription. PNG/SVG.",
-    "popular": "Mots-clés populaires",
-    "alt": "{t} – clipart gratuit {k}",
-    "kjoin": ", "
+  "license_title": "Licença e termos de uso",
+  "license_body": [
+   [
+    "O que você pode fazer",
+    "Use as ilustrações de graça em projetos pessoais e comerciais: sites, redes sociais, apresentações, panfletos, embalagens, vídeos e muito mais. Você pode redimensionar, mudar as cores e editar. O crédito é bem-vindo, mas não é obrigatório."
+   ],
+   [
+    "O que você não pode fazer",
+    "Não redistribua nem venda as ilustrações do jeito que estão (por exemplo, como banco de imagens, clip art ou NFT). Não registre como marca ou logotipo. Não use em conteúdo ilegal, de ódio, enganoso ou que prejudique a reputação de alguém."
+   ],
+   [
+    "Uso de muitas ilustrações",
+    "Se um único produto (como um livro ou um app) usar 21 ilustrações ou mais, entre em contato antes."
+   ],
+   [
+    "Isenção de responsabilidade",
+    "As ilustrações são fornecidas como estão. Não nos responsabilizamos por danos decorrentes do uso. Estes termos podem mudar sem aviso prévio."
+   ]
+  ],
+  "privacy_title": "Política de privacidade",
+  "privacy_body": [
+   [
+    "Publicidade",
+    "Este site usa serviços de publicidade de terceiros, como o Google AdSense. Esses provedores podem usar cookies para exibir anúncios com base nas suas visitas a este e a outros sites. Você pode desativar os anúncios personalizados nas Configurações de anúncios do Google."
+   ],
+   [
+    "Análise de acesso",
+    "Podemos usar ferramentas de análise que coletam dados de tráfego por meio de cookies. Esses dados são anônimos e não identificam você pessoalmente."
+   ],
+   [
+    "Contato",
+    "Em caso de dúvidas, envie um e-mail para o endereço abaixo."
+   ]
+  ],
+  "ad_label": "Publicidade",
+  "rw_title": "Assista a um anúncio curto para baixar",
+  "rw_body": "O FuwaFuwa é grátis graças aos anúncios. Assista a um anúncio curto e o download começa automaticamente.",
+  "rw_watch": "Assistir e baixar",
+  "rw_cancel": "Cancelar",
+  "rw_loading": "Carregando o anúncio…",
+  "rw_closed": "O download começa quando o anúncio termina. Você pode tentar de novo quando quiser.",
+  "rw_thanks": "Obrigado! Seu download está começando.",
+  "skin_label": "Tom de pele",
+  "browse": "Explorar por categoria",
+  "results": "Resultados da busca",
+  "prev": "Anterior",
+  "next": "Próxima",
+  "home_title": "FuwaFuwa – Ilustrações fofas grátis (uso comercial permitido)",
+  "title_illust": "{t} – ilustração grátis (PNG/SVG)",
+  "title_cat": "{c} – ilustrações e cliparts grátis",
+  "cat_h1": "{c}: ilustrações",
+  "cat_desc": "Ilustrações e cliparts grátis de {c} para uso comercial. {n} imagens, como {ex}. Baixe PNG e SVG sem cadastro.",
+  "seo_short": "Grátis para uso comercial, sem crédito obrigatório. Baixe PNG/SVG na hora.",
+  "sep": ", ",
+  "home_desc": "Ilustrações e cliparts fofos grátis para uso comercial. Mais de {n} imagens de pessoas, animais, comida e eventos. Baixe PNG/SVG sem cadastro nem crédito.",
+  "title_illust2": "{t} – ilustração grátis de {k} (uso comercial)",
+  "kw_desc": "Clipart grátis de {ks}. Uso comercial liberado, sem crédito. Baixe PNG/SVG na hora.",
+  "about_h": "Sobre esta ilustração",
+  "about": "Ilustração grátis de {ks} para projetos pessoais e comerciais. Sem cadastro nem crédito. Baixe em PNG ou SVG.",
+  "tag_title": "{k}: ilustrações e cliparts grátis (uso comercial)",
+  "tag_h1": "{k}: ilustrações",
+  "tag_desc": "{n} ilustrações grátis de {k}, como {ex}. Uso comercial liberado, sem cadastro. Baixe PNG/SVG.",
+  "popular": "Palavras-chave populares",
+  "alt": "{t} – clipart grátis de {k}",
+  "kjoin": ", ",
+  "about-us": "Sobre",
+  "about-us_title": "Sobre o FuwaFuwa",
+  "about-us_body": [
+   [
+    "O que é o FuwaFuwa?",
+    "O FuwaFuwa é um site de ilustrações gratuitas com um estilo fofo e acolhedor, todas originais. Publicamos mais de {n} ilustrações sobre temas do dia a dia — pessoas, trabalho, animais, comida, datas comemorativas e muito mais — para você encontrar facilmente imagens para documentos, apresentações, redes sociais e sites."
+   ],
+   [
+    "Nosso estilo",
+    "Cada ilustração é uma obra original feita para este site. Todas têm o mesmo visual desenhado à mão, com a cor levemente deslocada do contorno, então qualquer combinação fica harmoniosa. Os fundos são transparentes e cada imagem está disponível em PNG de 1000×1000 e em SVG, que fica nítido em qualquer tamanho. Nas ilustrações de pessoas, você pode escolher entre cinco tons de pele antes de baixar."
+   ],
+   [
+    "Oito idiomas",
+    "O site está disponível em português, inglês, japonês, espanhol, francês, alemão, chinês e coreano, para que pessoas do mundo todo busquem ilustrações no próprio idioma."
+   ],
+   [
+    "Como continuamos gratuitos",
+    "O FuwaFuwa é mantido pelos anúncios exibidos nas páginas. Veja a política de privacidade para saber mais sobre anúncios e cookies."
+   ],
+   [
+    "Informações do site",
+    "Nome: FuwaFuwa / URL: https://rakuearn.com / Contato: support@studyshort.co.jp"
+   ]
+  ],
+  "faq": "Perguntas frequentes",
+  "faq_title": "Perguntas frequentes",
+  "faq_body": [
+   [
+    "É grátis mesmo?",
+    "Sim. Todas as ilustrações podem ser baixadas e usadas de graça, sem cadastro."
+   ],
+   [
+    "Posso usar comercialmente?",
+    "Sim. Você pode usá-las em trabalhos comerciais como sites de empresas, anúncios, panfletos, apresentações, vídeos e embalagens de produtos."
+   ],
+   [
+    "Preciso dar crédito?",
+    "Não. Mencionar “FuwaFuwa” é bem-vindo, mas totalmente opcional."
+   ],
+   [
+    "Posso mudar as cores ou editar?",
+    "Sim, à vontade. Com o formato SVG você pode editar cores e formas em programas como Illustrator, Figma ou Inkscape."
+   ],
+   [
+    "Qual a diferença entre PNG e SVG?",
+    "O PNG é uma imagem de 1000×1000 pixels com fundo transparente, pronta para documentos e redes sociais. O SVG é vetorial e nunca perde a nitidez ao ampliar — ideal para impressão e peças grandes."
+   ],
+   [
+    "Existe algo que não posso fazer?",
+    "Não é permitido redistribuir ou vender as ilustrações como estão, registrá-las como marca ou logotipo, nem usá-las para fins ilegais ou discriminatórios. Veja a página de licença para mais detalhes."
+   ],
+   [
+    "Posso usar muitas ilustrações?",
+    "Se você pretende usar 21 ou mais ilustrações em um mesmo produto, entre em contato antes."
+   ],
+   [
+    "Posso pedir uma ilustração?",
+    "Sim. Envie sua ideia para o e-mail da página de contato; usamos os pedidos para planejar novas ilustrações."
+   ]
+  ],
+  "contact_title": "Contato",
+  "contact_body": [
+   [
+    "Como falar com a gente",
+    "Para dúvidas, sugestões, pedidos de ilustrações ou relatos de erros, envie um e-mail para o endereço abaixo."
+   ],
+   [
+    "Respostas",
+    "Normalmente respondemos em até três dias úteis. Algumas mensagens podem levar mais tempo, e talvez não seja possível responder a todas."
+   ],
+   [
+    "Informações úteis",
+    "Se a dúvida for sobre o uso de uma ilustração, inclua a URL da página dela e como pretende usá-la (por exemplo, em um panfleto ou embalagem)."
+   ]
+  ],
+  "root_intro": "Ilustrações fofas para baixar de graça. Uso comercial liberado, sem cadastro e sem crédito."
+ },
+ "fr": {
+  "lang_name": "Français",
+  "html_lang": "fr",
+  "tagline": "Illustrations gratuites, douces et mignonnes",
+  "hero_title": "Des illustrations douces et sympathiques. Gratuites pour un usage commercial.",
+  "hero_sub": "Téléchargez en PNG ou SVG instantanément. Sans inscription, sans attribution obligatoire.",
+  "search": "Rechercher des illustrations",
+  "no_results": "Aucune illustration trouvée.",
+  "all": "Toutes",
+  "latest": "Nouvelles illustrations",
+  "count": "{n} illustrations",
+  "download_png": "Télécharger en PNG",
+  "download_svg": "Télécharger en SVG",
+  "badge_free": "Usage commercial gratuit",
+  "badge_credit": "Sans attribution",
+  "badge_formats": "PNG / SVG",
+  "tags": "Mots-clés",
+  "category": "Catégorie",
+  "related": "Vous aimerez aussi",
+  "license": "Licence",
+  "privacy": "Politique de confidentialité",
+  "home": "Accueil",
+  "language": "Langue",
+  "contact": "Contact",
+  "footer": "Toutes les illustrations sont des œuvres originales de FuwaFuwa.",
+  "meta_desc": "Des illustrations gratuites et mignonnes, utilisables dans des projets commerciaux. Téléchargez en PNG et SVG sans inscription.",
+  "license_short": "Gratuites pour un usage personnel et commercial. Merci de lire la licence avant utilisation.",
+  "cats": {
+   "people": "Personnes",
+   "animals": "Animaux",
+   "nature": "Nature",
+   "travel": "Voyage",
+   "home": "Maison et vie",
+   "tech": "Technologie",
+   "events": "Événements",
+   "work": "Travail et métiers",
+   "food": "Nourriture",
+   "school": "École",
+   "sports": "Sports",
+   "health": "Santé",
+   "hobby": "Loisirs et musique"
   },
-  "de": {
-    "lang_name": "Deutsch",
-    "html_lang": "de",
-    "tagline": "Kostenlose, sanfte und niedliche Illustrationen",
-    "hero_title": "Sanfte, freundliche Illustrationen. Kostenlos auch für kommerzielle Nutzung.",
-    "hero_sub": "PNG oder SVG sofort herunterladen. Ohne Anmeldung, ohne Namensnennung.",
-    "search": "Illustrationen suchen",
-    "no_results": "Keine Illustrationen gefunden.",
-    "all": "Alle",
-    "latest": "Neue Illustrationen",
-    "count": "{n} Illustrationen",
-    "download_png": "PNG herunterladen",
-    "download_svg": "SVG herunterladen",
-    "badge_free": "Kommerziell nutzbar",
-    "badge_credit": "Keine Namensnennung nötig",
-    "badge_formats": "PNG / SVG",
-    "tags": "Schlagwörter",
-    "category": "Kategorie",
-    "related": "Das könnte dir auch gefallen",
-    "license": "Lizenz",
-    "privacy": "Datenschutz",
-    "home": "Startseite",
-    "language": "Sprache",
-    "contact": "Kontakt",
-    "footer": "Alle Illustrationen sind Originalwerke von FuwaFuwa.",
-    "meta_desc": "Kostenlose, niedliche Illustrationen für kommerzielle Projekte. PNG und SVG ohne Anmeldung herunterladen.",
-    "license_short": "Kostenlos für private und kommerzielle Nutzung. Bitte lies vor der Nutzung die Lizenz.",
-    "cats": {
-      "people": "Menschen",
-      "animals": "Tiere",
-      "nature": "Natur",
-      "travel": "Reisen",
-      "home": "Zuhause & Alltag",
-      "tech": "Technik",
-      "events": "Anlässe",
-      "work": "Arbeit & Berufe",
-      "food": "Essen",
-      "school": "Schule",
-      "sports": "Sport",
-      "health": "Gesundheit",
-      "hobby": "Hobbys & Musik"
-    },
-    "license_title": "Lizenz und Nutzungsbedingungen",
-    "license_body": [
-      [
-        "Was du darfst",
-        "Nutze die Illustrationen kostenlos für private und kommerzielle Projekte: Websites, soziale Medien, Präsentationen, Flyer, Produktverpackungen, Videos und mehr. Du darfst die Größe und Farben ändern und sie bearbeiten. Eine Namensnennung freut uns, ist aber nicht erforderlich."
-      ],
-      [
-        "Was du nicht darfst",
-        "Die Illustrationen dürfen nicht unverändert weiterverbreitet oder verkauft werden (zum Beispiel als Stock- oder Clipart-Sammlung oder als NFT). Sie dürfen nicht als Marke oder Logo eingetragen werden. Keine Verwendung in rechtswidrigen, hasserfüllten oder irreführenden Inhalten oder in Inhalten, die dem Ruf anderer schaden."
-      ],
-      [
-        "Nutzung vieler Illustrationen",
-        "Wenn ein einzelnes Produkt (etwa ein Buch oder eine App) 21 oder mehr Illustrationen verwendet, kontaktiere uns bitte vorher."
-      ],
-      [
-        "Haftungsausschluss",
-        "Die Illustrationen werden ohne Gewähr bereitgestellt. Wir haften nicht für Schäden, die aus ihrer Nutzung entstehen. Diese Bedingungen können ohne Ankündigung geändert werden."
-      ]
-    ],
-    "privacy_title": "Datenschutzerklärung",
-    "privacy_body": [
-      [
-        "Werbung",
-        "Diese Website nutzt Werbedienste von Drittanbietern wie Google AdSense. Diese Anbieter können Cookies verwenden, um Anzeigen auf Grundlage deiner Besuche auf dieser und anderen Websites anzuzeigen. Personalisierte Werbung kannst du in den Google-Anzeigeneinstellungen deaktivieren."
-      ],
-      [
-        "Analyse",
-        "Wir können Analysetools einsetzen, die mithilfe von Cookies Zugriffsdaten erfassen. Diese Daten werden anonym erhoben und lassen keine Rückschlüsse auf deine Person zu."
-      ],
-      [
-        "Kontakt",
-        "Bei Fragen schreib uns bitte an die unten stehende Adresse."
-      ]
-    ],
-    "ad_label": "Anzeige",
-    "rw_title": "Kurze Anzeige ansehen und herunterladen",
-    "rw_body": "FuwaFuwa ist dank Werbung kostenlos. Sieh dir eine kurze Anzeige an, dann startet der Download automatisch.",
-    "rw_watch": "Anzeige ansehen & herunterladen",
-    "rw_cancel": "Abbrechen",
-    "rw_loading": "Anzeige wird geladen…",
-    "rw_closed": "Der Download startet, sobald die Anzeige zu Ende ist. Du kannst es jederzeit erneut versuchen.",
-    "rw_thanks": "Danke! Dein Download startet.",
-    "skin_label": "Hautton",
-    "browse": "Nach Kategorie stöbern",
-    "results": "Suchergebnisse",
-    "prev": "Zurück",
-    "next": "Weiter",
-    "home_title": "FuwaFuwa – Kostenlose niedliche Illustrationen (kommerziell nutzbar)",
-    "title_illust": "{t} – kostenlose Illustration (PNG/SVG)",
-    "title_cat": "{c} – kostenlose Illustrationen & Cliparts",
-    "cat_h1": "{c}: Illustrationen",
-    "cat_desc": "Kostenlose Illustrationen und Cliparts zum Thema {c}, auch kommerziell nutzbar. {n} Bilder, z. B. {ex}. PNG und SVG ohne Anmeldung herunterladen.",
-    "seo_short": "Kostenlos auch für kommerzielle Nutzung, ohne Namensnennung. PNG/SVG sofort herunterladen.",
-    "sep": ", ",
-    "home_desc": "Kostenlose niedliche Illustrationen und Cliparts, auch kommerziell nutzbar. Über {n} Bilder von Menschen, Tieren, Essen, Anlässen und mehr. PNG/SVG ohne Anmeldung und Namensnennung herunterladen.",
-    "title_illust2": "{t} – kostenlose {k}-Illustration (kommerziell nutzbar)",
-    "kw_desc": "Kostenlose Cliparts: {ks}. Kommerziell nutzbar, ohne Namensnennung. PNG/SVG sofort herunterladen.",
-    "about_h": "Über diese Illustration",
-    "about": "Kostenlose Illustration ({ks}) für private und kommerzielle Projekte. Ohne Anmeldung und Namensnennung. Als PNG oder SVG herunterladen.",
-    "tag_title": "{k} – kostenlose Illustrationen & Cliparts (kommerziell nutzbar)",
-    "tag_h1": "{k}: Illustrationen",
-    "tag_desc": "{n} kostenlose Illustrationen zum Thema {k}, z. B. {ex}. Kommerziell nutzbar, ohne Anmeldung. PNG/SVG.",
-    "popular": "Beliebte Stichwörter",
-    "alt": "{t} – kostenloses {k}-Clipart",
-    "kjoin": ", "
+  "license_title": "Licence et conditions d'utilisation",
+  "license_body": [
+   [
+    "Ce que vous pouvez faire",
+    "Utilisez gratuitement les illustrations dans vos projets personnels et commerciaux : sites web, réseaux sociaux, présentations, flyers, emballages, vidéos et plus encore. Vous pouvez les redimensionner, changer leurs couleurs et les modifier. Une mention est appréciée mais pas obligatoire."
+   ],
+   [
+    "Ce que vous ne pouvez pas faire",
+    "Ne redistribuez pas et ne vendez pas les illustrations telles quelles (par exemple sous forme de banque d'images, de clip art ou de NFT). Ne les déposez pas comme marque ou logo. Ne les utilisez pas dans des contenus illégaux, haineux, trompeurs ou portant atteinte à la réputation d'autrui."
+   ],
+   [
+    "Utilisation de nombreuses illustrations",
+    "Si un même produit (un livre ou une application, par exemple) utilise 21 illustrations ou plus, contactez-nous au préalable."
+   ],
+   [
+    "Avertissement",
+    "Les illustrations sont fournies en l'état. Nous déclinons toute responsabilité pour les dommages liés à leur utilisation. Ces conditions peuvent être modifiées sans préavis."
+   ]
+  ],
+  "privacy_title": "Politique de confidentialité",
+  "privacy_body": [
+   [
+    "Publicité",
+    "Ce site utilise des services publicitaires tiers comme Google AdSense. Ces fournisseurs peuvent utiliser des cookies pour afficher des annonces en fonction de vos visites sur ce site et d'autres sites. Vous pouvez désactiver les annonces personnalisées dans les paramètres des annonces Google."
+   ],
+   [
+    "Mesure d'audience",
+    "Nous pouvons utiliser des outils de mesure d'audience qui collectent des données de trafic à l'aide de cookies. Ces données sont anonymes et ne permettent pas de vous identifier."
+   ],
+   [
+    "Contact",
+    "Pour toute question, écrivez-nous à l'adresse ci-dessous."
+   ]
+  ],
+  "ad_label": "Publicité",
+  "rw_title": "Regardez une courte publicité pour télécharger",
+  "rw_body": "FuwaFuwa est gratuit grâce à la publicité. Regardez une courte annonce et le téléchargement démarrera automatiquement.",
+  "rw_watch": "Regarder et télécharger",
+  "rw_cancel": "Annuler",
+  "rw_loading": "Chargement de la publicité…",
+  "rw_closed": "Le téléchargement démarre à la fin de la publicité. Vous pouvez réessayer à tout moment.",
+  "rw_thanks": "Merci ! Votre téléchargement commence.",
+  "skin_label": "Teint",
+  "browse": "Parcourir par catégorie",
+  "results": "Résultats de recherche",
+  "prev": "Précédent",
+  "next": "Suivant",
+  "home_title": "FuwaFuwa – Illustrations mignonnes gratuites (usage commercial autorisé)",
+  "title_illust": "{t} – illustration gratuite (PNG/SVG)",
+  "title_cat": "{c} – illustrations et cliparts gratuits",
+  "cat_h1": "{c} : illustrations",
+  "cat_desc": "Illustrations et cliparts gratuits ({c}) utilisables commercialement. {n} images, dont {ex}. Téléchargez en PNG et SVG sans inscription.",
+  "seo_short": "Gratuit pour un usage commercial, sans attribution. Téléchargement PNG/SVG immédiat.",
+  "sep": ", ",
+  "home_desc": "Illustrations et cliparts mignons gratuits, utilisables commercialement. Plus de {n} images : personnes, animaux, nourriture, fêtes… Téléchargez en PNG/SVG sans inscription ni attribution.",
+  "title_illust2": "{t} – illustration gratuite {k} (usage commercial)",
+  "kw_desc": "Clipart gratuit : {ks}. Usage commercial autorisé, sans attribution. Téléchargez en PNG/SVG.",
+  "about_h": "À propos de cette illustration",
+  "about": "Illustration gratuite ({ks}) pour vos projets personnels et commerciaux. Sans inscription ni attribution. Téléchargez-la en PNG ou SVG.",
+  "tag_title": "{k} : illustrations et cliparts gratuits (usage commercial)",
+  "tag_h1": "{k} : illustrations",
+  "tag_desc": "{n} illustrations gratuites « {k} », dont {ex}. Usage commercial autorisé, sans inscription. PNG/SVG.",
+  "popular": "Mots-clés populaires",
+  "alt": "{t} – clipart gratuit {k}",
+  "kjoin": ", ",
+  "about-us": "À propos",
+  "about-us_title": "À propos de FuwaFuwa",
+  "about-us_body": [
+   [
+    "Qu’est-ce que FuwaFuwa ?",
+    "FuwaFuwa est un site d’illustrations gratuites au style doux et chaleureux, toutes originales. Nous publions plus de {n} illustrations sur des thèmes du quotidien — personnes, travail, animaux, nourriture, fêtes de saison et plus encore — pour trouver facilement des images pour vos documents, présentations, réseaux sociaux et sites web."
+   ],
+   [
+    "Notre style",
+    "Chaque illustration est une œuvre originale créée pour ce site. Elles partagent un même aspect dessiné à la main, avec la couleur légèrement décalée du trait, pour que toutes les combinaisons restent harmonieuses. Les fonds sont transparents et chaque image est disponible en PNG 1000×1000 et en SVG, net à toutes les tailles. Pour les illustrations de personnes, vous pouvez choisir parmi cinq teintes de peau avant de télécharger."
+   ],
+   [
+    "Huit langues",
+    "Le site est disponible en français, anglais, japonais, espagnol, portugais, allemand, chinois et coréen, pour que chacun puisse chercher des illustrations dans sa propre langue."
+   ],
+   [
+    "Comment nous restons gratuits",
+    "FuwaFuwa est financé par les publicités affichées sur ses pages. Consultez la politique de confidentialité pour en savoir plus sur les publicités et les cookies."
+   ],
+   [
+    "Informations sur le site",
+    "Nom : FuwaFuwa / URL : https://rakuearn.com / Contact : support@studyshort.co.jp"
+   ]
+  ],
+  "faq": "FAQ",
+  "faq_title": "Questions fréquentes",
+  "faq_body": [
+   [
+    "Est-ce vraiment gratuit ?",
+    "Oui. Toutes les illustrations peuvent être téléchargées et utilisées gratuitement, sans inscription."
+   ],
+   [
+    "Puis-je les utiliser à des fins commerciales ?",
+    "Oui. Vous pouvez les utiliser dans des projets commerciaux : sites d’entreprise, publicités, flyers, présentations, vidéos, emballages de produits…"
+   ],
+   [
+    "Dois-je créditer FuwaFuwa ?",
+    "Non. Mentionner « FuwaFuwa » fait plaisir, mais c’est entièrement facultatif."
+   ],
+   [
+    "Puis-je changer les couleurs ou modifier les illustrations ?",
+    "Oui, librement. Avec le format SVG, vous pouvez modifier couleurs et formes dans Illustrator, Figma ou Inkscape."
+   ],
+   [
+    "Quelle différence entre PNG et SVG ?",
+    "Le PNG est une image de 1000×1000 pixels à fond transparent, prête pour vos documents ou réseaux sociaux. Le SVG est vectoriel : il reste net même agrandi, idéal pour l’impression et les grands formats."
+   ],
+   [
+    "Y a-t-il des usages interdits ?",
+    "Il est interdit de redistribuer ou vendre les illustrations telles quelles, de les déposer comme marque ou logo, ou de les utiliser à des fins illégales ou discriminatoires. Voir la page de licence pour plus de détails."
+   ],
+   [
+    "Puis-je utiliser beaucoup d’illustrations ?",
+    "Si vous prévoyez d’utiliser 21 illustrations ou plus dans un même produit, contactez-nous au préalable."
+   ],
+   [
+    "Puis-je demander une illustration ?",
+    "Oui : envoyez votre idée à l’adresse de la page contact. Les demandes nous aident à choisir les prochaines illustrations."
+   ]
+  ],
+  "contact_title": "Contact",
+  "contact_body": [
+   [
+    "Nous contacter",
+    "Pour toute question, suggestion, demande d’illustration ou signalement de bug, écrivez-nous à l’adresse ci-dessous."
+   ],
+   [
+    "Réponses",
+    "Nous répondons généralement sous trois jours ouvrés. Certaines demandes peuvent prendre plus de temps et nous ne pourrons peut-être pas répondre à tous les messages."
+   ],
+   [
+    "Informations utiles",
+    "Si votre question concerne l’utilisation d’une illustration, indiquez l’URL de sa page et l’usage prévu (par exemple un flyer ou un emballage)."
+   ]
+  ],
+  "root_intro": "Des illustrations douces et mignonnes à télécharger gratuitement. Usage commercial autorisé, sans inscription ni crédit."
+ },
+ "de": {
+  "lang_name": "Deutsch",
+  "html_lang": "de",
+  "tagline": "Kostenlose, sanfte und niedliche Illustrationen",
+  "hero_title": "Sanfte, freundliche Illustrationen. Kostenlos auch für kommerzielle Nutzung.",
+  "hero_sub": "PNG oder SVG sofort herunterladen. Ohne Anmeldung, ohne Namensnennung.",
+  "search": "Illustrationen suchen",
+  "no_results": "Keine Illustrationen gefunden.",
+  "all": "Alle",
+  "latest": "Neue Illustrationen",
+  "count": "{n} Illustrationen",
+  "download_png": "PNG herunterladen",
+  "download_svg": "SVG herunterladen",
+  "badge_free": "Kommerziell nutzbar",
+  "badge_credit": "Keine Namensnennung nötig",
+  "badge_formats": "PNG / SVG",
+  "tags": "Schlagwörter",
+  "category": "Kategorie",
+  "related": "Das könnte dir auch gefallen",
+  "license": "Lizenz",
+  "privacy": "Datenschutz",
+  "home": "Startseite",
+  "language": "Sprache",
+  "contact": "Kontakt",
+  "footer": "Alle Illustrationen sind Originalwerke von FuwaFuwa.",
+  "meta_desc": "Kostenlose, niedliche Illustrationen für kommerzielle Projekte. PNG und SVG ohne Anmeldung herunterladen.",
+  "license_short": "Kostenlos für private und kommerzielle Nutzung. Bitte lies vor der Nutzung die Lizenz.",
+  "cats": {
+   "people": "Menschen",
+   "animals": "Tiere",
+   "nature": "Natur",
+   "travel": "Reisen",
+   "home": "Zuhause & Alltag",
+   "tech": "Technik",
+   "events": "Anlässe",
+   "work": "Arbeit & Berufe",
+   "food": "Essen",
+   "school": "Schule",
+   "sports": "Sport",
+   "health": "Gesundheit",
+   "hobby": "Hobbys & Musik"
   },
-  "zh": {
-    "lang_name": "简体中文",
-    "html_lang": "zh-Hans",
-    "tagline": "免费、柔和又可爱的插画",
-    "hero_title": "温柔亲切的插画，商用也免费。",
-    "hero_sub": "立即下载 PNG 或 SVG。无需注册，无需署名。",
-    "search": "搜索插画",
-    "no_results": "没有找到插画。",
-    "all": "全部",
-    "latest": "最新插画",
-    "count": "共 {n} 张插画",
-    "download_png": "下载 PNG",
-    "download_svg": "下载 SVG",
-    "badge_free": "可免费商用",
-    "badge_credit": "无需署名",
-    "badge_formats": "PNG / SVG",
-    "tags": "标签",
-    "category": "分类",
-    "related": "你可能还喜欢",
-    "license": "使用条款",
-    "privacy": "隐私政策",
-    "home": "首页",
-    "language": "语言",
-    "contact": "联系我们",
-    "footer": "本站所有插画均为 FuwaFuwa 的原创作品。",
-    "meta_desc": "可用于商业项目的免费可爱插画素材。无需注册即可下载 PNG 和 SVG。",
-    "license_short": "个人和商业用途均可免费使用。使用前请阅读使用条款。",
-    "cats": {
-      "people": "人物",
-      "animals": "动物",
-      "nature": "自然",
-      "travel": "旅行",
-      "home": "家居生活",
-      "tech": "科技",
-      "events": "节日活动",
-      "work": "工作职业",
-      "food": "美食",
-      "school": "学校学习",
-      "sports": "运动",
-      "health": "健康医疗",
-      "hobby": "兴趣音乐"
-    },
-    "license_title": "使用条款与许可",
-    "license_body": [
-      [
-        "可以做的事",
-        "无论个人还是商业用途，都可以免费将插画用于网站、社交媒体、演示文稿、传单、商品包装、视频等。可以自由调整大小、更改颜色和编辑。欢迎署名，但不是必须的。"
-      ],
-      [
-        "禁止事项",
-        "禁止将插画原样再次分发或出售（例如作为素材合集、剪贴画或 NFT）。禁止将其注册为商标或标志。请勿用于违法、仇恨、误导性内容，或损害他人名誉的用途。"
-      ],
-      [
-        "大量使用时",
-        "如果单个作品（如书籍或应用）使用 21 张及以上插画，请事先与我们联系。"
-      ],
-      [
-        "免责声明",
-        "插画按现状提供。对于因使用插画而产生的任何损失，本站概不负责。本条款可能会在不另行通知的情况下更改。"
-      ]
-    ],
-    "privacy_title": "隐私政策",
-    "privacy_body": [
-      [
-        "关于广告",
-        "本站使用 Google AdSense 等第三方广告服务。广告服务商可能会使用 Cookie，根据您访问本站及其他网站的记录展示广告。您可以在 Google 广告设置中关闭个性化广告。"
-      ],
-      [
-        "关于访问分析",
-        "本站可能使用通过 Cookie 收集流量数据的访问分析工具。这些数据以匿名方式收集，不会识别您的个人身份。"
-      ],
-      [
-        "联系我们",
-        "如有任何问题，请发送邮件至下方地址。"
-      ]
-    ],
-    "ad_label": "广告",
-    "rw_title": "观看短广告后下载",
-    "rw_body": "FuwaFuwa 依靠广告免费提供。观看一段短广告后，下载会自动开始。",
-    "rw_watch": "观看广告并下载",
-    "rw_cancel": "取消",
-    "rw_loading": "正在加载广告…",
-    "rw_closed": "广告播放完毕后才会开始下载。你可以随时再试一次。",
-    "rw_thanks": "谢谢！下载即将开始。",
-    "skin_label": "肤色",
-    "browse": "按分类浏览",
-    "results": "搜索结果",
-    "prev": "上一页",
-    "next": "下一页",
-    "home_title": "FuwaFuwa｜免费可爱插画素材（可商用）",
-    "title_illust": "{t}插画（免费可商用）",
-    "title_cat": "{c}免费插画素材",
-    "cat_h1": "{c}插画",
-    "cat_desc": "{n}张可爱的{c}免费插画素材，包括{ex}等。可商用、无需注册，可下载 PNG 和 SVG。",
-    "seo_short": "免费可商用，无需署名。立即下载 PNG/SVG。",
-    "sep": "、",
-    "home_desc": "可商用的免费可爱插画素材网站。人物、动物、美食、节日等 {n} 多张插画，无需注册、无需署名即可下载 PNG/SVG。",
-    "title_illust2": "{t}插画｜{k}免费素材（可商用）",
-    "kw_desc": "{ks}免费插画素材，可商用、无需署名，立即下载 PNG/SVG。",
-    "about_h": "关于这张插画",
-    "about": "这是一张「{ks}」主题的免费插画，个人和商业用途均可免费使用，无需注册或署名，可下载 PNG 或 SVG。",
-    "tag_title": "{k}免费插画素材（可商用）",
-    "tag_h1": "{k}插画",
-    "tag_desc": "{n}张{k}免费插画，包括{ex}等。可商用、无需注册，可下载 PNG/SVG。",
-    "popular": "热门关键词",
-    "alt": "{t}（{k}免费插画）",
-    "kjoin": "、"
+  "license_title": "Lizenz und Nutzungsbedingungen",
+  "license_body": [
+   [
+    "Was du darfst",
+    "Nutze die Illustrationen kostenlos für private und kommerzielle Projekte: Websites, soziale Medien, Präsentationen, Flyer, Produktverpackungen, Videos und mehr. Du darfst die Größe und Farben ändern und sie bearbeiten. Eine Namensnennung freut uns, ist aber nicht erforderlich."
+   ],
+   [
+    "Was du nicht darfst",
+    "Die Illustrationen dürfen nicht unverändert weiterverbreitet oder verkauft werden (zum Beispiel als Stock- oder Clipart-Sammlung oder als NFT). Sie dürfen nicht als Marke oder Logo eingetragen werden. Keine Verwendung in rechtswidrigen, hasserfüllten oder irreführenden Inhalten oder in Inhalten, die dem Ruf anderer schaden."
+   ],
+   [
+    "Nutzung vieler Illustrationen",
+    "Wenn ein einzelnes Produkt (etwa ein Buch oder eine App) 21 oder mehr Illustrationen verwendet, kontaktiere uns bitte vorher."
+   ],
+   [
+    "Haftungsausschluss",
+    "Die Illustrationen werden ohne Gewähr bereitgestellt. Wir haften nicht für Schäden, die aus ihrer Nutzung entstehen. Diese Bedingungen können ohne Ankündigung geändert werden."
+   ]
+  ],
+  "privacy_title": "Datenschutzerklärung",
+  "privacy_body": [
+   [
+    "Werbung",
+    "Diese Website nutzt Werbedienste von Drittanbietern wie Google AdSense. Diese Anbieter können Cookies verwenden, um Anzeigen auf Grundlage deiner Besuche auf dieser und anderen Websites anzuzeigen. Personalisierte Werbung kannst du in den Google-Anzeigeneinstellungen deaktivieren."
+   ],
+   [
+    "Analyse",
+    "Wir können Analysetools einsetzen, die mithilfe von Cookies Zugriffsdaten erfassen. Diese Daten werden anonym erhoben und lassen keine Rückschlüsse auf deine Person zu."
+   ],
+   [
+    "Kontakt",
+    "Bei Fragen schreib uns bitte an die unten stehende Adresse."
+   ]
+  ],
+  "ad_label": "Anzeige",
+  "rw_title": "Kurze Anzeige ansehen und herunterladen",
+  "rw_body": "FuwaFuwa ist dank Werbung kostenlos. Sieh dir eine kurze Anzeige an, dann startet der Download automatisch.",
+  "rw_watch": "Anzeige ansehen & herunterladen",
+  "rw_cancel": "Abbrechen",
+  "rw_loading": "Anzeige wird geladen…",
+  "rw_closed": "Der Download startet, sobald die Anzeige zu Ende ist. Du kannst es jederzeit erneut versuchen.",
+  "rw_thanks": "Danke! Dein Download startet.",
+  "skin_label": "Hautton",
+  "browse": "Nach Kategorie stöbern",
+  "results": "Suchergebnisse",
+  "prev": "Zurück",
+  "next": "Weiter",
+  "home_title": "FuwaFuwa – Kostenlose niedliche Illustrationen (kommerziell nutzbar)",
+  "title_illust": "{t} – kostenlose Illustration (PNG/SVG)",
+  "title_cat": "{c} – kostenlose Illustrationen & Cliparts",
+  "cat_h1": "{c}: Illustrationen",
+  "cat_desc": "Kostenlose Illustrationen und Cliparts zum Thema {c}, auch kommerziell nutzbar. {n} Bilder, z. B. {ex}. PNG und SVG ohne Anmeldung herunterladen.",
+  "seo_short": "Kostenlos auch für kommerzielle Nutzung, ohne Namensnennung. PNG/SVG sofort herunterladen.",
+  "sep": ", ",
+  "home_desc": "Kostenlose niedliche Illustrationen und Cliparts, auch kommerziell nutzbar. Über {n} Bilder von Menschen, Tieren, Essen, Anlässen und mehr. PNG/SVG ohne Anmeldung und Namensnennung herunterladen.",
+  "title_illust2": "{t} – kostenlose {k}-Illustration (kommerziell nutzbar)",
+  "kw_desc": "Kostenlose Cliparts: {ks}. Kommerziell nutzbar, ohne Namensnennung. PNG/SVG sofort herunterladen.",
+  "about_h": "Über diese Illustration",
+  "about": "Kostenlose Illustration ({ks}) für private und kommerzielle Projekte. Ohne Anmeldung und Namensnennung. Als PNG oder SVG herunterladen.",
+  "tag_title": "{k} – kostenlose Illustrationen & Cliparts (kommerziell nutzbar)",
+  "tag_h1": "{k}: Illustrationen",
+  "tag_desc": "{n} kostenlose Illustrationen zum Thema {k}, z. B. {ex}. Kommerziell nutzbar, ohne Anmeldung. PNG/SVG.",
+  "popular": "Beliebte Stichwörter",
+  "alt": "{t} – kostenloses {k}-Clipart",
+  "kjoin": ", ",
+  "about-us": "Über uns",
+  "about-us_title": "Über FuwaFuwa",
+  "about-us_body": [
+   [
+    "Was ist FuwaFuwa?",
+    "FuwaFuwa ist eine Website mit kostenlosen Illustrationen in einem sanften, freundlichen Stil – alles Originale. Wir veröffentlichen über {n} Illustrationen zu Alltagsthemen wie Menschen, Arbeit, Tiere, Essen und saisonale Feste, damit du schnell passende Bilder für Dokumente, Präsentationen, Social Media und Websites findest."
+   ],
+   [
+    "Unser Stil",
+    "Jede Illustration ist ein Originalwerk für diese Website. Alle haben denselben handgezeichneten Look, bei dem die Farbe leicht neben der Linie liegt – so passen alle Motive zusammen. Die Hintergründe sind transparent, und jedes Bild gibt es als PNG (1000×1000) und als SVG, das in jeder Größe scharf bleibt. Bei Illustrationen von Menschen kannst du vor dem Download zwischen fünf Hauttönen wählen."
+   ],
+   [
+    "Acht Sprachen",
+    "Die Website gibt es auf Deutsch, Englisch, Japanisch, Spanisch, Portugiesisch, Französisch, Chinesisch und Koreanisch, damit Menschen auf der ganzen Welt in ihrer eigenen Sprache suchen können."
+   ],
+   [
+    "Wie wir kostenlos bleiben",
+    "FuwaFuwa finanziert sich über die Werbung auf den Seiten. Details zu Werbung und Cookies findest du in der Datenschutzerklärung."
+   ],
+   [
+    "Angaben zur Website",
+    "Name: FuwaFuwa / URL: https://rakuearn.com / Kontakt: support@studyshort.co.jp"
+   ]
+  ],
+  "faq": "FAQ",
+  "faq_title": "Häufige Fragen",
+  "faq_body": [
+   [
+    "Ist das wirklich kostenlos?",
+    "Ja. Alle Illustrationen kannst du kostenlos und ohne Anmeldung herunterladen und verwenden."
+   ],
+   [
+    "Darf ich sie kommerziell nutzen?",
+    "Ja. Du kannst sie für kommerzielle Projekte wie Firmenwebsites, Anzeigen, Flyer, Präsentationen, Videos und Produktverpackungen verwenden."
+   ],
+   [
+    "Muss ich die Quelle angeben?",
+    "Nein. Ein Hinweis auf „FuwaFuwa“ freut uns, ist aber freiwillig."
+   ],
+   [
+    "Darf ich Farben ändern oder die Bilder bearbeiten?",
+    "Ja, ganz frei. Im SVG-Format kannst du Farben und Formen in Programmen wie Illustrator, Figma oder Inkscape bearbeiten."
+   ],
+   [
+    "Was ist der Unterschied zwischen PNG und SVG?",
+    "PNG ist ein Bild mit 1000×1000 Pixeln und transparentem Hintergrund, direkt einsetzbar in Dokumenten oder Social Media. SVG ist eine Vektorgrafik, die beim Vergrößern nie unscharf wird – ideal für Druck und große Formate."
+   ],
+   [
+    "Gibt es Einschränkungen?",
+    "Nicht erlaubt ist, die Illustrationen unverändert weiterzugeben oder zu verkaufen, sie als Marke oder Logo eintragen zu lassen oder sie für illegale oder diskriminierende Zwecke zu nutzen. Details findest du auf der Lizenzseite."
+   ],
+   [
+    "Darf ich viele Illustrationen verwenden?",
+    "Wenn du 21 oder mehr Illustrationen in einem einzigen Produkt verwenden möchtest, kontaktiere uns bitte vorher."
+   ],
+   [
+    "Kann ich mir eine Illustration wünschen?",
+    "Ja – schick uns deine Idee an die E-Mail-Adresse auf der Kontaktseite. Wünsche helfen uns bei der Planung neuer Motive."
+   ]
+  ],
+  "contact_title": "Kontakt",
+  "contact_body": [
+   [
+    "So erreichst du uns",
+    "Für Fragen, Vorschläge, Illustrationswünsche oder Fehlermeldungen schreib uns bitte an die folgende E-Mail-Adresse."
+   ],
+   [
+    "Antworten",
+    "Wir antworten in der Regel innerhalb von drei Werktagen. Manche Anfragen dauern länger, und wir können nicht jede Nachricht beantworten."
+   ],
+   [
+    "Hilfreiche Angaben",
+    "Wenn es um die Nutzung einer Illustration geht, nenne bitte die URL der Illustrationsseite und den geplanten Einsatz (z. B. Flyer oder Verpackung)."
+   ]
+  ],
+  "root_intro": "Sanfte, niedliche Illustrationen zum kostenlosen Download. Kommerzielle Nutzung erlaubt, ohne Anmeldung und ohne Quellenangabe."
+ },
+ "zh": {
+  "lang_name": "简体中文",
+  "html_lang": "zh-Hans",
+  "tagline": "免费、柔和又可爱的插画",
+  "hero_title": "温柔亲切的插画，商用也免费。",
+  "hero_sub": "立即下载 PNG 或 SVG。无需注册，无需署名。",
+  "search": "搜索插画",
+  "no_results": "没有找到插画。",
+  "all": "全部",
+  "latest": "最新插画",
+  "count": "共 {n} 张插画",
+  "download_png": "下载 PNG",
+  "download_svg": "下载 SVG",
+  "badge_free": "可免费商用",
+  "badge_credit": "无需署名",
+  "badge_formats": "PNG / SVG",
+  "tags": "标签",
+  "category": "分类",
+  "related": "你可能还喜欢",
+  "license": "使用条款",
+  "privacy": "隐私政策",
+  "home": "首页",
+  "language": "语言",
+  "contact": "联系我们",
+  "footer": "本站所有插画均为 FuwaFuwa 的原创作品。",
+  "meta_desc": "可用于商业项目的免费可爱插画素材。无需注册即可下载 PNG 和 SVG。",
+  "license_short": "个人和商业用途均可免费使用。使用前请阅读使用条款。",
+  "cats": {
+   "people": "人物",
+   "animals": "动物",
+   "nature": "自然",
+   "travel": "旅行",
+   "home": "家居生活",
+   "tech": "科技",
+   "events": "节日活动",
+   "work": "工作职业",
+   "food": "美食",
+   "school": "学校学习",
+   "sports": "运动",
+   "health": "健康医疗",
+   "hobby": "兴趣音乐"
   },
-  "ko": {
-    "lang_name": "한국어",
-    "html_lang": "ko",
-    "tagline": "무료로 쓰는 말랑하고 귀여운 일러스트",
-    "hero_title": "다정하고 귀여운 일러스트, 상업적 이용도 무료.",
-    "hero_sub": "PNG·SVG를 바로 다운로드하세요. 회원가입도 출처 표기도 필요 없어요.",
-    "search": "일러스트 검색",
-    "no_results": "일러스트를 찾지 못했어요.",
-    "all": "전체",
-    "latest": "새 일러스트",
-    "count": "일러스트 {n}개",
-    "download_png": "PNG 다운로드",
-    "download_svg": "SVG 다운로드",
-    "badge_free": "상업적 이용 가능",
-    "badge_credit": "출처 표기 불필요",
-    "badge_formats": "PNG / SVG",
-    "tags": "태그",
-    "category": "카테고리",
-    "related": "이런 일러스트는 어때요",
-    "license": "이용약관",
-    "privacy": "개인정보처리방침",
-    "home": "홈",
-    "language": "언어",
-    "contact": "문의",
-    "footer": "게재된 모든 일러스트는 FuwaFuwa의 오리지널 작품입니다.",
-    "meta_desc": "상업적으로도 쓸 수 있는 귀여운 무료 일러스트. 회원가입 없이 PNG와 SVG를 다운로드하세요.",
-    "license_short": "개인·상업적 용도 모두 무료로 이용할 수 있어요. 이용 전에 이용약관을 확인해 주세요.",
-    "cats": {
-      "people": "사람",
-      "animals": "동물",
-      "nature": "자연",
-      "travel": "여행",
-      "home": "집·생활",
-      "tech": "테크",
-      "events": "이벤트",
-      "work": "일·직업",
-      "food": "음식",
-      "school": "학교·공부",
-      "sports": "스포츠",
-      "health": "건강·의료",
-      "hobby": "취미·음악"
-    },
-    "license_title": "이용약관 및 라이선스",
-    "license_body": [
-      [
-        "할 수 있는 것",
-        "개인·상업적 용도를 불문하고 웹사이트, SNS, 프레젠테이션, 전단지, 상품 패키지, 영상 등에 무료로 사용할 수 있습니다. 크기 변경, 색상 변경, 편집도 자유입니다. 출처 표기는 환영하지만 필수는 아닙니다."
-      ],
-      [
-        "금지 사항",
-        "일러스트를 그대로 재배포하거나 판매하는 행위(소재집·클립아트로 배포, NFT화 등)는 금지됩니다. 상표나 로고로 등록하는 것, 불법적·차별적·오해를 부르는 콘텐츠나 타인의 명예를 훼손하는 용도로 사용하는 것도 삼가 주세요."
-      ],
-      [
-        "많이 사용하는 경우",
-        "하나의 제작물(책이나 앱 등)에 21개 이상을 사용하는 경우 사전에 문의해 주세요."
-      ],
-      [
-        "면책 사항",
-        "일러스트는 있는 그대로 제공됩니다. 이용으로 인해 발생한 손해에 대해 본 사이트는 책임지지 않습니다. 본 약관은 예고 없이 변경될 수 있습니다."
-      ]
-    ],
-    "privacy_title": "개인정보처리방침",
-    "privacy_body": [
-      [
-        "광고에 대하여",
-        "본 사이트는 Google AdSense 등 제3자 광고 서비스를 이용합니다. 광고 사업자는 본 사이트 및 다른 사이트 방문 정보를 바탕으로 쿠키를 사용해 관심사에 맞는 광고를 표시할 수 있습니다. 맞춤 광고는 Google 광고 설정에서 끌 수 있습니다."
-      ],
-      [
-        "접속 분석에 대하여",
-        "본 사이트는 쿠키를 이용해 트래픽 데이터를 수집하는 접속 분석 도구를 사용할 수 있습니다. 이 데이터는 익명으로 수집되며 개인을 식별하지 않습니다."
-      ],
-      [
-        "문의",
-        "궁금한 점이 있으면 아래 이메일 주소로 연락해 주세요."
-      ]
-    ],
-    "ad_label": "광고",
-    "rw_title": "짧은 광고를 보고 다운로드",
-    "rw_body": "FuwaFuwa는 광고 덕분에 무료로 이용할 수 있어요. 짧은 광고를 보면 다운로드가 자동으로 시작돼요.",
-    "rw_watch": "광고 보고 다운로드",
-    "rw_cancel": "취소",
-    "rw_loading": "광고를 불러오는 중…",
-    "rw_closed": "광고가 끝나면 다운로드가 시작돼요. 언제든 다시 시도할 수 있어요.",
-    "rw_thanks": "감사합니다! 다운로드를 시작할게요.",
-    "skin_label": "피부색",
-    "browse": "카테고리로 찾기",
-    "results": "검색 결과",
-    "prev": "이전",
-    "next": "다음",
-    "home_title": "FuwaFuwa｜무료 귀여운 일러스트 소재 (상업적 이용 가능)",
-    "title_illust": "{t} 일러스트 (무료·상업적 이용 가능)",
-    "title_cat": "{c} 무료 일러스트 소재",
-    "cat_h1": "{c} 일러스트",
-    "cat_desc": "귀여운 {c} 무료 일러스트 소재 {n}개. {ex} 등을 상업적으로도 무료로 이용할 수 있으며, 회원가입 없이 PNG·SVG를 다운로드할 수 있습니다.",
-    "seo_short": "상업적 이용 무료, 출처 표기 불필요. PNG·SVG 바로 다운로드.",
-    "sep": ", ",
-    "home_desc": "상업적으로도 쓸 수 있는 귀여운 무료 일러스트 소재 사이트. 사람·동물·음식·이벤트 등 {n}개 이상을 회원가입·출처 표기 없이 PNG/SVG로 다운로드하세요.",
-    "title_illust2": "{t} 일러스트｜{k} 무료 소재 (상업적 이용 가능)",
-    "kw_desc": "{ks} 무료 일러스트. 상업적 이용 가능, 출처 표기 불필요. PNG·SVG 바로 다운로드.",
-    "about_h": "이 일러스트에 대해",
-    "about": "'{ks}' 무료 일러스트입니다. 개인·상업적 용도 모두 무료이며 회원가입과 출처 표기가 필요 없습니다. PNG·SVG로 다운로드하세요.",
-    "tag_title": "{k} 무료 일러스트 소재 (상업적 이용 가능)",
-    "tag_h1": "{k} 일러스트",
-    "tag_desc": "{k} 무료 일러스트 {n}개. {ex} 등 상업적 이용 가능, 회원가입 불필요. PNG·SVG 다운로드.",
-    "popular": "인기 키워드",
-    "alt": "{t} ({k} 무료 일러스트)",
-    "kjoin": ", "
-  }
+  "license_title": "使用条款与许可",
+  "license_body": [
+   [
+    "可以做的事",
+    "无论个人还是商业用途，都可以免费将插画用于网站、社交媒体、演示文稿、传单、商品包装、视频等。可以自由调整大小、更改颜色和编辑。欢迎署名，但不是必须的。"
+   ],
+   [
+    "禁止事项",
+    "禁止将插画原样再次分发或出售（例如作为素材合集、剪贴画或 NFT）。禁止将其注册为商标或标志。请勿用于违法、仇恨、误导性内容，或损害他人名誉的用途。"
+   ],
+   [
+    "大量使用时",
+    "如果单个作品（如书籍或应用）使用 21 张及以上插画，请事先与我们联系。"
+   ],
+   [
+    "免责声明",
+    "插画按现状提供。对于因使用插画而产生的任何损失，本站概不负责。本条款可能会在不另行通知的情况下更改。"
+   ]
+  ],
+  "privacy_title": "隐私政策",
+  "privacy_body": [
+   [
+    "关于广告",
+    "本站使用 Google AdSense 等第三方广告服务。广告服务商可能会使用 Cookie，根据您访问本站及其他网站的记录展示广告。您可以在 Google 广告设置中关闭个性化广告。"
+   ],
+   [
+    "关于访问分析",
+    "本站可能使用通过 Cookie 收集流量数据的访问分析工具。这些数据以匿名方式收集，不会识别您的个人身份。"
+   ],
+   [
+    "联系我们",
+    "如有任何问题，请发送邮件至下方地址。"
+   ]
+  ],
+  "ad_label": "广告",
+  "rw_title": "观看短广告后下载",
+  "rw_body": "FuwaFuwa 依靠广告免费提供。观看一段短广告后，下载会自动开始。",
+  "rw_watch": "观看广告并下载",
+  "rw_cancel": "取消",
+  "rw_loading": "正在加载广告…",
+  "rw_closed": "广告播放完毕后才会开始下载。你可以随时再试一次。",
+  "rw_thanks": "谢谢！下载即将开始。",
+  "skin_label": "肤色",
+  "browse": "按分类浏览",
+  "results": "搜索结果",
+  "prev": "上一页",
+  "next": "下一页",
+  "home_title": "FuwaFuwa｜免费可爱插画素材（可商用）",
+  "title_illust": "{t}插画（免费可商用）",
+  "title_cat": "{c}免费插画素材",
+  "cat_h1": "{c}插画",
+  "cat_desc": "{n}张可爱的{c}免费插画素材，包括{ex}等。可商用、无需注册，可下载 PNG 和 SVG。",
+  "seo_short": "免费可商用，无需署名。立即下载 PNG/SVG。",
+  "sep": "、",
+  "home_desc": "可商用的免费可爱插画素材网站。人物、动物、美食、节日等 {n} 多张插画，无需注册、无需署名即可下载 PNG/SVG。",
+  "title_illust2": "{t}插画｜{k}免费素材（可商用）",
+  "kw_desc": "{ks}免费插画素材，可商用、无需署名，立即下载 PNG/SVG。",
+  "about_h": "关于这张插画",
+  "about": "这是一张「{ks}」主题的免费插画，个人和商业用途均可免费使用，无需注册或署名，可下载 PNG 或 SVG。",
+  "tag_title": "{k}免费插画素材（可商用）",
+  "tag_h1": "{k}插画",
+  "tag_desc": "{n}张{k}免费插画，包括{ex}等。可商用、无需注册，可下载 PNG/SVG。",
+  "popular": "热门关键词",
+  "alt": "{t}（{k}免费插画）",
+  "kjoin": "、",
+  "about-us": "关于我们",
+  "about-us_title": "关于 FuwaFuwa",
+  "about-us_body": [
+   [
+    "FuwaFuwa 是什么？",
+    "FuwaFuwa 是一个免费分享原创插画的素材网站，画风柔和亲切。我们以人物、工作、动物、食物、节日活动等日常主题为中心，已发布 {n} 多张插画，方便你为文档、演示、社交媒体和网站找到合适的图片。"
+   ],
+   [
+    "我们的画风",
+    "所有插画都是本站原创作品。我们统一采用颜色与线条略微错开的手绘风格，无论怎样组合，整体氛围都很协调。背景为透明，可下载 1000×1000 的 PNG 和放大也不会模糊的 SVG 两种格式。人物插画还可以先从五种肤色中选择再下载。"
+   ],
+   [
+    "支持八种语言",
+    "本站支持中文、英语、日语、西班牙语、葡萄牙语、法语、德语和韩语，世界各地的用户都能用自己的语言搜索插画。"
+   ],
+   [
+    "如何保持免费",
+    "FuwaFuwa 依靠页面上展示的广告收入运营。有关广告和 Cookie 的说明，请参阅隐私政策。"
+   ],
+   [
+    "网站信息",
+    "网站名称：FuwaFuwa ／ 网址：https://rakuearn.com ／ 联系方式：support@studyshort.co.jp"
+   ]
+  ],
+  "faq": "常见问题",
+  "faq_title": "常见问题",
+  "faq_body": [
+   [
+    "真的免费吗？",
+    "是的。所有插画都可以免费下载使用，无需注册。"
+   ],
+   [
+    "可以商用吗？",
+    "可以。企业网站、广告、传单、演示文稿、视频、商品包装等商业用途均可使用。"
+   ],
+   [
+    "需要注明出处吗？",
+    "不需要。如果能注明“FuwaFuwa”我们会很高兴，但这完全是自愿的。"
+   ],
+   [
+    "可以修改颜色或加工吗？",
+    "可以自由加工。使用 SVG 格式，可以在 Illustrator、Figma、Inkscape 等软件中细致地编辑颜色和形状。"
+   ],
+   [
+    "PNG 和 SVG 有什么区别？",
+    "PNG 是 1000×1000 像素、背景透明的图片，可以直接放进文档或社交媒体。SVG 是矢量数据，放大多少都不会模糊，适合印刷和大型展示。"
+   ],
+   [
+    "有哪些禁止的用途？",
+    "禁止原样转载、分发或销售插画，禁止注册为商标或标志，也禁止用于违法或歧视性用途。详情请参阅使用条款。"
+   ],
+   [
+    "可以使用很多插画吗？",
+    "如果在同一作品中使用 21 张以上插画，请事先与我们联系。"
+   ],
+   [
+    "可以提出插画需求吗？",
+    "可以。请将你想要的主题发送到联系页面的邮箱，我们会作为今后创作的参考。"
+   ]
+  ],
+  "contact_title": "联系我们",
+  "contact_body": [
+   [
+    "联系方式",
+    "如有疑问、建议、插画需求或问题反馈，请发送邮件至下方地址。"
+   ],
+   [
+    "关于回复",
+    "我们通常会在三个工作日内回复。部分内容可能需要更长时间，也可能无法一一回复。"
+   ],
+   [
+    "请附上的信息",
+    "如果是关于使用方法的问题，请附上计划使用的插画页面网址和用途（例如传单、商品包装等），以便我们顺利解答。"
+   ]
+  ],
+  "root_intro": "柔和可爱的免费插画素材网站。可商用、无需注册、无需注明出处。"
+ },
+ "ko": {
+  "lang_name": "한국어",
+  "html_lang": "ko",
+  "tagline": "무료로 쓰는 말랑하고 귀여운 일러스트",
+  "hero_title": "다정하고 귀여운 일러스트, 상업적 이용도 무료.",
+  "hero_sub": "PNG·SVG를 바로 다운로드하세요. 회원가입도 출처 표기도 필요 없어요.",
+  "search": "일러스트 검색",
+  "no_results": "일러스트를 찾지 못했어요.",
+  "all": "전체",
+  "latest": "새 일러스트",
+  "count": "일러스트 {n}개",
+  "download_png": "PNG 다운로드",
+  "download_svg": "SVG 다운로드",
+  "badge_free": "상업적 이용 가능",
+  "badge_credit": "출처 표기 불필요",
+  "badge_formats": "PNG / SVG",
+  "tags": "태그",
+  "category": "카테고리",
+  "related": "이런 일러스트는 어때요",
+  "license": "이용약관",
+  "privacy": "개인정보처리방침",
+  "home": "홈",
+  "language": "언어",
+  "contact": "문의",
+  "footer": "게재된 모든 일러스트는 FuwaFuwa의 오리지널 작품입니다.",
+  "meta_desc": "상업적으로도 쓸 수 있는 귀여운 무료 일러스트. 회원가입 없이 PNG와 SVG를 다운로드하세요.",
+  "license_short": "개인·상업적 용도 모두 무료로 이용할 수 있어요. 이용 전에 이용약관을 확인해 주세요.",
+  "cats": {
+   "people": "사람",
+   "animals": "동물",
+   "nature": "자연",
+   "travel": "여행",
+   "home": "집·생활",
+   "tech": "테크",
+   "events": "이벤트",
+   "work": "일·직업",
+   "food": "음식",
+   "school": "학교·공부",
+   "sports": "스포츠",
+   "health": "건강·의료",
+   "hobby": "취미·음악"
+  },
+  "license_title": "이용약관 및 라이선스",
+  "license_body": [
+   [
+    "할 수 있는 것",
+    "개인·상업적 용도를 불문하고 웹사이트, SNS, 프레젠테이션, 전단지, 상품 패키지, 영상 등에 무료로 사용할 수 있습니다. 크기 변경, 색상 변경, 편집도 자유입니다. 출처 표기는 환영하지만 필수는 아닙니다."
+   ],
+   [
+    "금지 사항",
+    "일러스트를 그대로 재배포하거나 판매하는 행위(소재집·클립아트로 배포, NFT화 등)는 금지됩니다. 상표나 로고로 등록하는 것, 불법적·차별적·오해를 부르는 콘텐츠나 타인의 명예를 훼손하는 용도로 사용하는 것도 삼가 주세요."
+   ],
+   [
+    "많이 사용하는 경우",
+    "하나의 제작물(책이나 앱 등)에 21개 이상을 사용하는 경우 사전에 문의해 주세요."
+   ],
+   [
+    "면책 사항",
+    "일러스트는 있는 그대로 제공됩니다. 이용으로 인해 발생한 손해에 대해 본 사이트는 책임지지 않습니다. 본 약관은 예고 없이 변경될 수 있습니다."
+   ]
+  ],
+  "privacy_title": "개인정보처리방침",
+  "privacy_body": [
+   [
+    "광고에 대하여",
+    "본 사이트는 Google AdSense 등 제3자 광고 서비스를 이용합니다. 광고 사업자는 본 사이트 및 다른 사이트 방문 정보를 바탕으로 쿠키를 사용해 관심사에 맞는 광고를 표시할 수 있습니다. 맞춤 광고는 Google 광고 설정에서 끌 수 있습니다."
+   ],
+   [
+    "접속 분석에 대하여",
+    "본 사이트는 쿠키를 이용해 트래픽 데이터를 수집하는 접속 분석 도구를 사용할 수 있습니다. 이 데이터는 익명으로 수집되며 개인을 식별하지 않습니다."
+   ],
+   [
+    "문의",
+    "궁금한 점이 있으면 아래 이메일 주소로 연락해 주세요."
+   ]
+  ],
+  "ad_label": "광고",
+  "rw_title": "짧은 광고를 보고 다운로드",
+  "rw_body": "FuwaFuwa는 광고 덕분에 무료로 이용할 수 있어요. 짧은 광고를 보면 다운로드가 자동으로 시작돼요.",
+  "rw_watch": "광고 보고 다운로드",
+  "rw_cancel": "취소",
+  "rw_loading": "광고를 불러오는 중…",
+  "rw_closed": "광고가 끝나면 다운로드가 시작돼요. 언제든 다시 시도할 수 있어요.",
+  "rw_thanks": "감사합니다! 다운로드를 시작할게요.",
+  "skin_label": "피부색",
+  "browse": "카테고리로 찾기",
+  "results": "검색 결과",
+  "prev": "이전",
+  "next": "다음",
+  "home_title": "FuwaFuwa｜무료 귀여운 일러스트 소재 (상업적 이용 가능)",
+  "title_illust": "{t} 일러스트 (무료·상업적 이용 가능)",
+  "title_cat": "{c} 무료 일러스트 소재",
+  "cat_h1": "{c} 일러스트",
+  "cat_desc": "귀여운 {c} 무료 일러스트 소재 {n}개. {ex} 등을 상업적으로도 무료로 이용할 수 있으며, 회원가입 없이 PNG·SVG를 다운로드할 수 있습니다.",
+  "seo_short": "상업적 이용 무료, 출처 표기 불필요. PNG·SVG 바로 다운로드.",
+  "sep": ", ",
+  "home_desc": "상업적으로도 쓸 수 있는 귀여운 무료 일러스트 소재 사이트. 사람·동물·음식·이벤트 등 {n}개 이상을 회원가입·출처 표기 없이 PNG/SVG로 다운로드하세요.",
+  "title_illust2": "{t} 일러스트｜{k} 무료 소재 (상업적 이용 가능)",
+  "kw_desc": "{ks} 무료 일러스트. 상업적 이용 가능, 출처 표기 불필요. PNG·SVG 바로 다운로드.",
+  "about_h": "이 일러스트에 대해",
+  "about": "'{ks}' 무료 일러스트입니다. 개인·상업적 용도 모두 무료이며 회원가입과 출처 표기가 필요 없습니다. PNG·SVG로 다운로드하세요.",
+  "tag_title": "{k} 무료 일러스트 소재 (상업적 이용 가능)",
+  "tag_h1": "{k} 일러스트",
+  "tag_desc": "{k} 무료 일러스트 {n}개. {ex} 등 상업적 이용 가능, 회원가입 불필요. PNG·SVG 다운로드.",
+  "popular": "인기 키워드",
+  "alt": "{t} ({k} 무료 일러스트)",
+  "kjoin": ", ",
+  "about-us": "소개",
+  "about-us_title": "FuwaFuwa 소개",
+  "about-us_body": [
+   [
+    "FuwaFuwa란?",
+    "FuwaFuwa는 부드럽고 다정한 느낌의 오리지널 일러스트를 무료로 배포하는 일러스트 소재 사이트입니다. 사람, 일, 동물, 음식, 계절 행사 등 일상에서 쓰기 좋은 주제를 중심으로 {n}점 이상의 일러스트를 공개하고 있어 문서, 발표 자료, SNS, 웹사이트에 쓸 그림을 쉽게 찾을 수 있습니다."
+   ],
+   [
+    "일러스트의 특징",
+    "모든 일러스트는 이 사이트의 오리지널 작품입니다. 색을 선에서 살짝 어긋나게 칠한 손그림 느낌으로 통일해, 어떤 그림을 함께 써도 분위기가 잘 어울립니다. 배경은 투명하며, 1000×1000 PNG와 확대해도 깨지지 않는 SVG 두 가지 형식으로 내려받을 수 있습니다. 사람 일러스트는 다섯 가지 피부색 중에서 골라 내려받을 수 있습니다."
+   ],
+   [
+    "8개 언어 지원",
+    "한국어, 영어, 일본어, 스페인어, 포르투갈어, 프랑스어, 독일어, 중국어를 지원해 전 세계 누구나 자신의 언어로 일러스트를 찾을 수 있습니다."
+   ],
+   [
+    "무료로 운영하기 위해",
+    "FuwaFuwa는 페이지에 표시되는 광고 수익으로 운영됩니다. 광고와 쿠키에 관한 내용은 개인정보처리방침을 확인해 주세요."
+   ],
+   [
+    "사이트 정보",
+    "사이트 이름: FuwaFuwa / URL: https://rakuearn.com / 문의: support@studyshort.co.jp"
+   ]
+  ],
+  "faq": "자주 묻는 질문",
+  "faq_title": "자주 묻는 질문",
+  "faq_body": [
+   [
+    "정말 무료인가요?",
+    "네. 모든 일러스트를 무료로 내려받아 사용할 수 있으며, 회원가입도 필요 없습니다."
+   ],
+   [
+    "상업적으로 사용해도 되나요?",
+    "네. 회사 웹사이트, 광고, 전단지, 발표 자료, 영상, 상품 패키지 등 상업용 제작물에도 사용할 수 있습니다."
+   ],
+   [
+    "출처를 표기해야 하나요?",
+    "아니요. ‘FuwaFuwa’라고 적어 주시면 기쁘지만 선택 사항입니다."
+   ],
+   [
+    "색을 바꾸거나 편집해도 되나요?",
+    "자유롭게 편집할 수 있습니다. SVG 형식이라면 Illustrator, Figma, Inkscape 등에서 색과 모양을 세밀하게 수정할 수 있습니다."
+   ],
+   [
+    "PNG와 SVG는 무엇이 다른가요?",
+    "PNG는 배경이 투명한 1000×1000 픽셀 이미지로, 문서나 SNS에 바로 붙여 쓸 수 있습니다. SVG는 벡터 데이터라 아무리 확대해도 흐려지지 않아 인쇄나 큰 게시물에 적합합니다."
+   ],
+   [
+    "사용하면 안 되는 경우가 있나요?",
+    "일러스트를 그대로 재배포·판매하거나, 상표·로고로 등록하거나, 불법적·차별적인 용도로 사용하는 것은 금지입니다. 자세한 내용은 이용약관을 확인해 주세요."
+   ],
+   [
+    "일러스트를 많이 써도 되나요?",
+    "하나의 제작물에 21점 이상 사용할 경우에는 미리 문의해 주세요."
+   ],
+   [
+    "일러스트를 요청할 수 있나요?",
+    "네. 문의 페이지의 이메일로 원하는 주제를 보내 주세요. 앞으로의 제작에 참고하겠습니다."
+   ]
+  ],
+  "contact_title": "문의하기",
+  "contact_body": [
+   [
+    "문의 방법",
+    "질문, 요청, 일러스트 요청, 오류 신고는 아래 이메일 주소로 보내 주세요."
+   ],
+   [
+    "답변 안내",
+    "보통 3영업일 이내에 답변드립니다. 내용에 따라 시간이 더 걸리거나 답변드리지 못할 수도 있습니다."
+   ],
+   [
+    "함께 적어 주시면 좋은 내용",
+    "사용 방법에 관한 질문이라면 사용할 일러스트 페이지의 URL과 용도(예: 전단지, 상품 패키지 등)를 함께 적어 주시면 원활하게 답변드릴 수 있습니다."
+   ]
+  ],
+  "root_intro": "부드럽고 귀여운 무료 일러스트 소재 사이트입니다. 상업적 이용 가능, 회원가입·출처 표기 불필요."
+ }
 }

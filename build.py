@@ -165,7 +165,7 @@ def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None, full_
 </main>
 <footer class="site-footer"><div class="wrap">
   <p>{e(u['footer'])}</p>
-  <p class="links"><a href="{url(lang, 'license')}">{e(u['license'])}</a><a href="{url(lang, 'privacy')}">{e(u['privacy'])}</a><a href="mailto:{CONTACT_EMAIL}">{e(u['contact'])}</a></p>
+  <p class="links"><a href="{url(lang, 'about-us')}">{e(u['about-us'])}</a><a href="{url(lang, 'faq')}">{e(u['faq'])}</a><a href="{url(lang, 'license')}">{e(u['license'])}</a><a href="{url(lang, 'privacy')}">{e(u['privacy'])}</a><a href="{url(lang, 'contact')}">{e(u['contact'])}</a></p>
   <p class="copy">© {date.today().year} {SITE_NAME}</p>
 </div></footer>
 <script src="/static/app.js?v={ASSET_V['app.js']}" defer></script>
@@ -256,6 +256,11 @@ def page_home(lang):
 <h2 class="section-title">{e(u['latest'])}</h2>
 <div class="grid">{new}</div>
 {popular_tags(lang, 40)}
+<section class="home-about prose">
+  <h2>{e(u['about-us'] if lang != 'ja' else 'FuwaFuwaについて')}</h2>
+  {"".join(f"<p>{e(p.replace('{n}', f'{len(ITEMS) // 100 * 100:,}'))}</p>" for _, p in u['about-us_body'][:2])}
+  <p><a href="{url(lang, 'about-us')}">{e(u['about-us'])} ›</a>　<a href="{url(lang, 'faq')}">{e(u['faq'])} ›</a></p>
+</section>
 </div>
 {ad('bottom', lang)}"""
     home_desc = u["home_desc"].format(n=f"{len(ITEMS) // 100 * 100:,}")
@@ -447,13 +452,24 @@ def rewarded_modal(lang):
 </div>"""
 
 
+TEXT_PAGES = ["about-us", "faq", "license", "privacy", "contact"]
+
+
 def page_text(lang, kind):
     u = UI[lang]
+    n = f"{len(ITEMS) // 100 * 100:,}"
     title = u[f"{kind}_title"]
-    secs = "".join(f"<h2>{e(h)}</h2><p>{e(p)}</p>" for h, p in u[f"{kind}_body"])
-    body = f"""<article class="prose"><h1>{e(title)}</h1>{secs}
-<p class="mail"><a href="mailto:{CONTACT_EMAIL}">{CONTACT_EMAIL}</a></p></article>"""
-    return layout(lang, kind, None, title, title, body)
+    body_secs = [(h, p.replace("{n}", n)) for h, p in u[f"{kind}_body"]]
+    secs = "".join(f"<h2>{e(h)}</h2><p>{e(p)}</p>" for h, p in body_secs)
+    jsonld = None
+    if kind == "faq":
+        jsonld = {"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": u["html_lang"],
+                  "mainEntity": [{"@type": "Question", "name": h,
+                                  "acceptedAnswer": {"@type": "Answer", "text": p}} for h, p in body_secs]}
+    mail = f'<p class="mail"><a href="mailto:{CONTACT_EMAIL}">{CONTACT_EMAIL}</a></p>' if kind in ("contact", "privacy", "license") else ""
+    body = f"""<article class="prose"><h1>{e(title)}</h1>{secs}{mail}</article>"""
+    desc = body_secs[0][1][:150]
+    return layout(lang, kind, None, title, desc, body, jsonld=jsonld)
 
 
 def adsense_tag():
@@ -465,26 +481,42 @@ def page_root():
     links = "".join(f'<a href="/{l}/" hreflang="{UI[l]["html_lang"]}">{e(UI[l]["lang_name"])}</a>' for l in LANGS)
     alts = "".join(f'<link rel="alternate" hreflang="{UI[l]["html_lang"]}" href="{SITE_URL}/{l}/">' for l in LANGS)
     langs_js = json.dumps(LANGS)
+    en = UI["en"]
+    intros = "".join(f'<li lang="{UI[l]["html_lang"]}"><a href="/{l}/"><b>{e(UI[l]["lang_name"])}</b></a> — {e(UI[l]["root_intro"])}</li>'
+                     for l in LANGS)
+    cards = "".join(card(i, "en") for i in NEWEST[:24])
+    foot = "".join(f'<a href="{url("en", k)}">{e(en[k] if k != "license" else en["license"])}</a>' for k in TEXT_PAGES)
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{SITE_NAME} — free cute illustrations</title>
+<title>{SITE_NAME} — free cute illustrations (commercial use OK)</title>
 <meta name="description" content="{e(UI['en']['meta_desc'])}">
+<link rel="canonical" href="{SITE_URL}/">
 {alts}<link rel="alternate" hreflang="x-default" href="{SITE_URL}/">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800&display=swap">
 <link rel="stylesheet" href="/static/style.css?v={ASSET_V['style.css']}">
 {adsense_tag()}
-<script>(function(){{var L={langs_js};var p=(navigator.languages||[navigator.language||"en"]);
+<script>(function(){{if(/bot|crawl|spider|slurp|google|mediapartners|adsbot|lighthouse/i.test(navigator.userAgent))return;
+if(sessionStorage&&sessionStorage.getItem("fw-stay"))return;
+var L={langs_js};var p=(navigator.languages||[navigator.language||"en"]);
 for(var i=0;i<p.length;i++){{var c=(p[i]||"").toLowerCase().split("-")[0];if(L.indexOf(c)>-1){{location.replace("/"+c+"/");return;}}}}
 location.replace("/{DEFAULT_LANG}/");}})();</script>
-</head><body class="root-page"><main class="root">{LOGO.replace('width="34" height="34"', 'width="72" height="72"')}
-<h1>{SITE_NAME}</h1><p>Free, soft &amp; cute illustrations</p><nav class="root-langs">{links}</nav></main></body></html>"""
+</head><body class="root-page"><main class="root wrap">{LOGO.replace('width="34" height="34"', 'width="72" height="72"')}
+<h1>{SITE_NAME}</h1><p>Free, soft &amp; cute illustrations</p>
+<p class="root-lead">{e(en['root_intro'])}</p>
+<nav class="root-langs">{links}</nav>
+<h2 class="section-title">{e(en['latest'])}</h2>
+<div class="grid">{cards}</div>
+<h2 class="section-title">Choose your language</h2>
+<ul class="root-intros">{intros}</ul>
+<p class="root-foot">{foot}</p>
+</main></body></html>"""
 
 
 def sitemap(lang):
     """言語ごとのサイトマップ（hreflang の相互リンク＋イラストページには画像情報付き）"""
     rows = []
-    pages = [("home", None), ("license", None), ("privacy", None)]
+    pages = [("home", None)] + [(k, None) for k in TEXT_PAGES]
     for c in CATS:
         n = -(-len(cat_items(c)) // PER_PAGE)
         pages += [("cat", c if k == 1 else f"{c}/{k}") for k in range(1, n + 1)]
@@ -527,8 +559,8 @@ def main():
         for key in TAGS[lang]:
             write(url(lang, "tag", TAGS[lang][key][0]), page_tag(lang, key))
         write(url(lang), page_home(lang))
-        write(url(lang, "license"), page_text(lang, "license"))
-        write(url(lang, "privacy"), page_text(lang, "privacy"))
+        for kind in TEXT_PAGES:
+            write(url(lang, kind), page_text(lang, kind))
         for c in CATS:
             n = -(-len(cat_items(c)) // PER_PAGE)
             for k in range(1, n + 1):

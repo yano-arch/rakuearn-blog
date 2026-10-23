@@ -327,14 +327,33 @@ def search_index(lang):
                       ensure_ascii=False, separators=(",", ":"))
 
 
+_REL = {}
+
+
+def related_items(item, n=12):
+    """キーワード（英語タグ・全言語のタグ）が多く重なるイラスト順。足りなければ同じカテゴリから"""
+    if not _REL:
+        for i in ITEMS:
+            _REL[i["slug"]] = {tag_key(tg) for l in LANGS for tg in t(i, l)[2]}
+    mine = _REL[item["slug"]]
+    scored = []
+    for i in ITEMS:
+        if i is item: continue
+        sc = len(mine & _REL[i["slug"]]) * 2 + (1 if i["cat"] == item["cat"] else 0)
+        if sc: scored.append((-sc, i["slug"], i))
+    scored.sort(key=lambda x: (x[0], x[1]))
+    out = [i for _, _, i in scored[:n]]
+    if len(out) < n:
+        out += [i for i in ITEMS if i["cat"] == item["cat"] and i is not item and i not in out][:n - len(out)]
+    return out
+
+
 def page_illust(lang, item):
     u = UI[lang]
     s = item["slug"]
     title, desc, tags = t(item, lang)
     has_skin = SKIN_TONES[0] in open(f"public/images/svg/{s}.svg", encoding="utf-8").read().lower()
-    same = [i for i in ITEMS if i["cat"] == item["cat"] and i is not item]
-    other = [i for i in ITEMS if i["cat"] != item["cat"]]
-    related = (same + other)[:8]
+    related = related_items(item)
     tag_html = "".join(f'<a href="{tag_href(lang, tg)}">#{e(tg)}</a>' for tg in tags)
     kw = [cap(lang, tg.strip()) for tg in tags[:3]] or [title]
     ks = u["kjoin"].join(kw)

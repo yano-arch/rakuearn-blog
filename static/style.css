@@ -160,3 +160,11 @@ a.pg:hover{border-color:var(--ink)}
 .lead{color:var(--muted);line-height:1.8;margin:-6px 0 18px;font-size:15px}
 .tags.kw{margin:0 0 28px}
 .tags.kw small{color:var(--muted);font-weight:600;margin-left:2px}
+.hsearch{flex:1;max-width:380px;display:flex;align-items:center;gap:8px;background:#fff;border:2px solid var(--line);border-radius:999px;padding:0 14px;height:42px;color:var(--muted)}
+.hsearch:focus-within{border-color:var(--ink)}
+.hsearch input{flex:1;min-width:0;border:0;outline:0;background:none;font:inherit;font-size:15px;color:var(--ink)}
+@media (max-width:760px){
+  .site-header .wrap{flex-wrap:wrap;height:auto;padding-top:8px;padding-bottom:8px;row-gap:8px}
+  .hsearch{order:3;flex-basis:100%;max-width:none;height:40px}
+}
+.search{scroll-margin-top:84px}

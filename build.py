@@ -150,6 +150,9 @@ def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None, full_
 <body>
 <header class="site-header"><div class="wrap">
   <a class="brand" href="{url(lang)}">{LOGO}<span><b>{SITE_NAME}</b><small>{e(u['tagline'])}</small></span></a>
+  {"" if kind == "home" else f'''<form class="hsearch" role="search" action="{url(lang)}" method="get">
+    <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></g></svg>
+    <input type="search" name="q" placeholder="{e(u['search'])}" aria-label="{e(u['search'])}" autocomplete="off" enterkeyhint="search"></form>'''}
   <nav>
     <a href="{url(lang, 'license')}">{e(u['license'])}</a>
     <label class="lang"><span class="sr">{e(u['language'])}</span>
@@ -307,8 +310,9 @@ def page_cat(lang, c, p=1):
 
 def search_index(lang):
     # 英語のタイトル・タグも入れて、どの言語のページでも英語で探せるようにする
+    # [slug, タイトル, タグ・カテゴリ・英語, 説明文, カテゴリ]
     return json.dumps([[i["slug"], t(i, lang)[0], " ".join(t(i, lang)[2] + [t(i, "en")[0]] + t(i, "en")[2] + [UI[lang]["cats"][i["cat"]]]),
-                        i["cat"]] for i in NEWEST],
+                        t(i, lang)[1], i["cat"]] for i in NEWEST],
                       ensure_ascii=False, separators=(",", ":"))
 
 

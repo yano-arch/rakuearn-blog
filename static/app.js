@@ -9,7 +9,12 @@
   function load() {
     if (index) return Promise.resolve(index);
     if (!loading) loading = fetch(input.getAttribute("data-index")).then(function (r) { return r.json(); })
-      .then(function (d) { index = d.map(function (x) { return { s: x[0], t: x[1], h: norm(x[1] + " " + x[2] + " " + x[0].replace(/-/g, " ")) }; }); return index; });
+      .then(function (d) {
+        index = d.map(function (x) {
+          return { s: x[0], t: x[1], n: norm(x[1]), k: norm(x[2] + " " + x[0].replace(/-/g, " ")), d: norm(x[3] || "") };
+        });
+        return index;
+      });
     return loading;
   }
   // ひらがな・カタカナ・全角英数を同じものとして扱う
@@ -26,8 +31,21 @@
     if (!q) { results.hidden = true; browse.hidden = false; return; }
     load().then(function (idx) {
       var words = q.split(/\s+/);
-      var hits = idx.filter(function (x) { return words.every(function (w) { return x.h.indexOf(w) > -1; }); });
-      grid.innerHTML = hits.slice(0, 120).map(function (x) {
+      // タイトル → タグ → 説明文 の順に当てはまり度で並べる
+      var hits = [];
+      idx.forEach(function (x) {
+        var sc = 0;
+        for (var i = 0; i < words.length; i++) {
+          var w = words[i];
+          if (x.n.indexOf(w) > -1) sc += x.n === w ? 6 : 4;
+          else if (x.k.indexOf(w) > -1) sc += 2;
+          else if (x.d.indexOf(w) > -1) sc += 1;
+          else return;
+        }
+        hits.push({ x: x, sc: sc });
+      });
+      hits = hits.sort(function (a, b) { return b.sc - a.sc; }).map(function (h) { return h.x; });
+      grid.innerHTML = hits.slice(0, 300).map(function (x) {
         return '<a class="card" href="' + base + x.s + '/"><span class="thumb"><img src="/images/svg/' + x.s +
           '.svg" alt="' + esc(x.t) + '" width="200" height="200" loading="lazy"></span><span class="name">' + esc(x.t) + "</span></a>";
       }).join("");
@@ -38,8 +56,13 @@
   }
   var timer;
   input.addEventListener("input", function () { clearTimeout(timer); timer = setTimeout(run, 120); });
+  input.form.addEventListener("submit", function (ev) { ev.preventDefault(); clearTimeout(timer); run(); input.blur(); });
   var init = new URLSearchParams(location.search).get("q");
-  if (init) { input.value = init; run(); }
+  if (init) {
+    input.value = init; run();
+    // ほかのページの検索窓から来たときは、結果が見える位置までスクロール
+    if (document.referrer.indexOf(location.origin) === 0) input.form.scrollIntoView({ block: "start" });
+  }
 })();
 
 /* ダウンロード共通処理と、人物イラストの肌の色切り替え */

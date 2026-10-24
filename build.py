@@ -132,6 +132,7 @@ def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None, full_
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(full_title)}</title>
 <meta name="description" content="{e(desc)}">
+<meta name="robots" content="index,follow,max-image-preview:large">
 <link rel="canonical" href="{canonical}">
 {alts}
 <meta property="og:type" content="website">
@@ -139,6 +140,7 @@ def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None, full_
 <meta property="og:description" content="{e(desc)}">
 <meta property="og:url" content="{canonical}">
 <meta property="og:image" content="{og}">
+<meta property="og:image:alt" content="{e(title)}">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -176,11 +178,13 @@ def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None, full_
 def t(item, lang): return item["t"].get(lang) or item["t"][DEFAULT_LANG]
 
 
-def card(item, lang):
+def card(item, lang, png=False):
     title, _, tags = t(item, lang)
+    ext = "png" if png else "svg"
+    lazy = "" if png else ' loading="lazy"'
     q = " ".join([title] + tags).lower()
     return (f'<a class="card" href="{url(lang, "illust", item["slug"])}" data-q="{e(q)}">'
-            f'<span class="thumb"><img src="/images/svg/{item["slug"]}.svg" alt="{e(title)}" width="200" height="200" loading="lazy"></span>'
+            f'<span class="thumb"><img src="/images/{ext}/{item["slug"]}.{ext}" alt="{e(title)}" width="200" height="200"{lazy}></span>'
             f'<span class="name">{e(title)}</span></a>')
 
 
@@ -293,7 +297,7 @@ def page_cat(lang, c, p=1):
     items = cat_items(c)
     pages = max(1, -(-len(items) // PER_PAGE))
     chunk = items[(p - 1) * PER_PAGE: p * PER_PAGE]
-    cards = [card(i, lang) for i in chunk]
+    cards = [card(i, lang, png=(n < 4 and p == 1)) for n, i in enumerate(chunk)]
     if len(cards) > 12: cards.insert(12, ad('feed', lang))
     name = u['cats'][c] + (f" ({p}/{pages})" if p > 1 else "")
     ex = u["sep"].join(t(i, lang)[0] for i in items[:3])
@@ -308,11 +312,13 @@ def page_cat(lang, c, p=1):
     desc = u["cat_desc"].format(c=u["cats"][c], n=len(items), ex=ex)
     jsonld = {"@context": "https://schema.org", "@graph": [
         {"@type": "CollectionPage", "name": u["title_cat"].format(c=u["cats"][c]), "description": desc,
+         "primaryImageOfPage": {"@type": "ImageObject", "contentUrl": f"{SITE_URL}/images/png/{items[0]['slug']}.png", "width": 1000, "height": 1000},
          "url": SITE_URL + url(lang, "cat", c), "inLanguage": u["html_lang"]},
         {"@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": u["home"], "item": SITE_URL + url(lang)},
             {"@type": "ListItem", "position": 2, "name": u["cats"][c], "item": SITE_URL + url(lang, "cat", c)}]}]}
-    return layout(lang, "cat", c if p == 1 else f"{c}/{p}", name, desc, body, jsonld=jsonld)
+    return layout(lang, "cat", c if p == 1 else f"{c}/{p}", name, desc, body, jsonld=jsonld,
+                  og_image=f"/images/png/{chunk[0]['slug']}.png")
 
 
 READINGS = json.load(open("data/readings_ja.json", encoding="utf-8")) if os.path.exists("data/readings_ja.json") else {}
@@ -374,7 +380,7 @@ def page_illust(lang, item):
     body = f"""
 <nav class="crumbs"><a href="{url(lang)}">{e(u['home'])}</a><span>›</span><a href="{url(lang, 'cat', item['cat'])}">{e(u['cats'][item['cat']])}</a><span>›</span><span>{e(title)}</span></nav>
 <article class="detail">
-  <div class="detail-left"><div class="detail-art"><img id="art" src="/images/svg/{s}.svg" alt="{e(alt)}" width="480" height="480"></div>{skin_picker(lang, s) if has_skin else ""}</div>
+  <div class="detail-left"><div class="detail-art"><img id="art" src="/images/png/{s}.png" alt="{e(alt)}" width="480" height="480"></div>{skin_picker(lang, s) if has_skin else ""}</div>
   <div class="detail-info">
     <h1>{e(title)}</h1>
     <p class="desc">{e(desc)}</p>
@@ -419,7 +425,7 @@ def page_tag(lang, key):
     k = cap(lang, name)
     ex = u["sep"].join(t(i, lang)[0] for i in items[:3])
     desc = u["tag_desc"].format(k=name if lang != "de" else k, n=len(items), ex=ex)
-    cards = [card(i, lang) for i in items]
+    cards = [card(i, lang, png=n < 4) for n, i in enumerate(items)]
     if len(cards) > 12: cards.insert(12, ad('feed', lang))
     cats = sorted({i["cat"] for i in items}, key=CATS.index)
     body = f"""
@@ -433,6 +439,7 @@ def page_tag(lang, key):
     title = u["tag_title"].format(k=k)
     jsonld = {"@context": "https://schema.org", "@graph": [
         {"@type": "CollectionPage", "name": title, "description": desc, "url": SITE_URL + url(lang, "tag", name),
+         "primaryImageOfPage": {"@type": "ImageObject", "contentUrl": f"{SITE_URL}/images/png/{items[0]['slug']}.png", "width": 1000, "height": 1000},
          "inLanguage": u["html_lang"],
          "mainEntity": {"@type": "ItemList", "numberOfItems": len(items), "itemListElement": [
              {"@type": "ListItem", "position": n + 1, "url": SITE_URL + url(lang, "illust", i["slug"])}

@@ -37,6 +37,7 @@ for _f in ["data/illustrations.json"] + sorted(glob.glob("data/items/*.json")):
 # 画像を書き出し済み（＝チェック済み）のイラストだけを公開する。並びは追加した順
 ITEMS = [x for x in _raw if os.path.exists(f"public/images/svg/{x['slug']}.svg")]
 NEWEST = list(reversed(ITEMS))
+CAT_INTRO = json.load(open("data/cat_intro.json", encoding="utf-8"))
 PER_PAGE = 60          # カテゴリーページ1ページあたりの点数
 NEW_ON_HOME = 20       # トップの「新着」に出す点数
 CAT_SAMPLES = 4        # トップのカテゴリーカードに出す代表イラストの数
@@ -301,8 +302,11 @@ def page_cat(lang, c, p=1):
     if len(cards) > 12: cards.insert(12, ad('feed', lang))
     name = u['cats'][c] + (f" ({p}/{pages})" if p > 1 else "")
     ex = u["sep"].join(t(i, lang)[0] for i in items[:3])
+    intro_text = CAT_INTRO.get(lang, {}).get(c) if p == 1 else None
+    intro = f'<p class="lead">{e(intro_text)}</p>' if intro_text else ""
     body = f"""
 <h1 class="page-title">{e(u['cat_h1'].format(c=u['cats'][c]))} <small>{e(u['count'].format(n=len(items)))}</small></h1>
+{intro}
 {chips(lang, c)}
 {ad('top', lang)}
 <div class="grid">{"".join(cards)}</div>
@@ -524,11 +528,9 @@ def page_root():
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800&display=swap">
 <link rel="stylesheet" href="/static/style.css?v={ASSET_V['style.css']}">
 {adsense_tag()}
-<script>(function(){{if(/bot|crawl|spider|slurp|google|mediapartners|adsbot|lighthouse/i.test(navigator.userAgent))return;
-if(sessionStorage&&sessionStorage.getItem("fw-stay"))return;
-var L={langs_js};var p=(navigator.languages||[navigator.language||"en"]);
-for(var i=0;i<p.length;i++){{var c=(p[i]||"").toLowerCase().split("-")[0];if(L.indexOf(c)>-1){{location.replace("/"+c+"/");return;}}}}
-location.replace("/{DEFAULT_LANG}/");}})();</script>
+<script>(function(){{var L={langs_js};var p=(navigator.languages||[navigator.language||"en"]);
+for(var i=0;i<p.length;i++){{var c=(p[i]||"").toLowerCase().split("-")[0];if(L.indexOf(c)>-1){{
+document.addEventListener("DOMContentLoaded",function(){{var a=document.querySelector('.root-langs a[href="/'+c+'/"]');if(a)a.classList.add("suggest");}});return;}}}}}})();</script>
 </head><body class="root-page"><main class="root wrap">{LOGO.replace('width="34" height="34"', 'width="72" height="72"')}
 <h1>{SITE_NAME}</h1><p>Free, soft &amp; cute illustrations</p>
 <p class="root-lead">{e(en['root_intro'])}</p>

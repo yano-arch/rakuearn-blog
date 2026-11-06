@@ -179,3 +179,6 @@ a.pg:hover{border-color:var(--ink)}
 .home-about h2{margin-top:0}
 .home-about p{line-height:1.9}
 .root-langs a.suggest{background:var(--ink);color:#fff}
+.root-langbar{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:10px 14px;padding-top:16px;padding-bottom:4px}
+.root-langbar>span{font-weight:800;color:var(--muted);font-size:14px}
+.root-langbar .root-langs{margin:0}

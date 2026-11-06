@@ -509,6 +509,19 @@ def adsense_tag():
             f'crossorigin="anonymous"></script>') if ADSENSE_CLIENT else ""
 
 
+def page_root_full():
+    """rakuearn.com のトップ：英語版トップと同じ中身（カテゴリ・新着・人気キーワード・紹介文）を全部載せ、
+    上に言語選択を付ける。正式なページは /en/ なので canonical は /en/ を指す（重複扱いにならない）"""
+    h = page_home(DEFAULT_LANG)
+    links = "".join(f'<a href="/{l}/" hreflang="{UI[l]["html_lang"]}">{e(UI[l]["lang_name"])}</a>' for l in LANGS)
+    bar = (f'<div class="wrap root-langbar"><span>Choose your language</span><nav class="root-langs">{links}</nav></div>')
+    js = ('<script>(function(){var L=' + json.dumps(LANGS) + ';var p=(navigator.languages||[navigator.language||"en"]);'
+          'for(var i=0;i<p.length;i++){var c=(p[i]||"").toLowerCase().split("-")[0];if(L.indexOf(c)>-1){'
+          'var a=document.querySelector(\'.root-langs a[href="/\'+c+\'/"]\');if(a)a.classList.add("suggest");return;}}})();</script>')
+    h = h.replace("</header>", "</header>" + bar, 1)
+    return h.replace("</body>", js + "</body>", 1)
+
+
 def page_root():
     links = "".join(f'<a href="/{l}/" hreflang="{UI[l]["html_lang"]}">{e(UI[l]["lang_name"])}</a>' for l in LANGS)
     alts = "".join(f'<link rel="alternate" hreflang="{UI[l]["html_lang"]}" href="{SITE_URL}/{l}/">' for l in LANGS)
@@ -598,7 +611,7 @@ def main():
         write(f"/{lang}/search.json", search_index(lang))
         for item in ITEMS:
             write(url(lang, "illust", item["slug"]), page_illust(lang, item))
-    write("/index.html", page_root())
+    write("/index.html", page_root_full())
     write("/404.html", page_root().replace('<script>', '<script type="text/plain">').replace(
         "<p>Free, soft &amp; cute illustrations</p>", "<p>404 — Page not found</p>"))
     for l in LANGS:

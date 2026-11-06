@@ -39,7 +39,7 @@ ITEMS = [x for x in _raw if os.path.exists(f"public/images/svg/{x['slug']}.svg")
 NEWEST = list(reversed(ITEMS))
 CAT_INTRO = json.load(open("data/cat_intro.json", encoding="utf-8"))
 PER_PAGE = 60          # カテゴリーページ1ページあたりの点数
-NEW_ON_HOME = 20       # トップの「新着」に出す点数
+NEW_ON_HOME = 60       # トップの「新着」に出す点数
 CAT_SAMPLES = 4        # トップのカテゴリーカードに出す代表イラストの数
 e = lambda s: html.escape(str(s), quote=True)
 import hashlib

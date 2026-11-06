@@ -182,7 +182,8 @@
    ]
   ],
   "root_intro": "Soft, cute illustrations you can download for free. Commercial use OK, no sign-up, no credit required.",
-  "operator": "Operated by StudyShort Inc."
+  "operator": "Operated by StudyShort Inc.",
+  "more": "See more"
  },
  "ja": {
   "lang_name": "日本語",
@@ -367,7 +368,8 @@
    ]
   ],
   "root_intro": "ゆるくてかわいい、無料のイラスト素材サイトです。商用利用OK・登録不要・クレジット表記不要。",
-  "operator": "運営：株式会社StudyShort"
+  "operator": "運営：株式会社StudyShort",
+  "more": "もっと見る"
  },
  "es": {
   "lang_name": "Español",
@@ -552,7 +554,8 @@
    ]
   ],
   "root_intro": "Ilustraciones suaves y lindas para descargar gratis. Uso comercial permitido, sin registro y sin atribución.",
-  "operator": "Operado por StudyShort Inc."
+  "operator": "Operado por StudyShort Inc.",
+  "more": "Ver más"
  },
  "pt": {
   "lang_name": "Português",
@@ -737,7 +740,8 @@
    ]
   ],
   "root_intro": "Ilustrações fofas para baixar de graça. Uso comercial liberado, sem cadastro e sem crédito.",
-  "operator": "Operado por StudyShort Inc."
+  "operator": "Operado por StudyShort Inc.",
+  "more": "Ver mais"
  },
  "fr": {
   "lang_name": "Français",
@@ -922,7 +926,8 @@
    ]
   ],
   "root_intro": "Des illustrations douces et mignonnes à télécharger gratuitement. Usage commercial autorisé, sans inscription ni crédit.",
-  "operator": "Exploité par StudyShort Inc."
+  "operator": "Exploité par StudyShort Inc.",
+  "more": "Voir plus"
  },
  "de": {
   "lang_name": "Deutsch",
@@ -1107,7 +1112,8 @@
    ]
   ],
   "root_intro": "Sanfte, niedliche Illustrationen zum kostenlosen Download. Kommerzielle Nutzung erlaubt, ohne Anmeldung und ohne Quellenangabe.",
-  "operator": "Betrieben von StudyShort Inc."
+  "operator": "Betrieben von StudyShort Inc.",
+  "more": "Mehr ansehen"
  },
  "zh": {
   "lang_name": "简体中文",
@@ -1292,7 +1298,8 @@
    ]
   ],
   "root_intro": "柔和可爱的免费插画素材网站。可商用、无需注册、无需注明出处。",
-  "operator": "运营：StudyShort Inc."
+  "operator": "运营：StudyShort Inc.",
+  "more": "查看更多"
  },
  "ko": {
   "lang_name": "한국어",
@@ -1477,6 +1484,7 @@
    ]
   ],
   "root_intro": "부드럽고 귀여운 무료 일러스트 소재 사이트입니다. 상업적 이용 가능, 회원가입·출처 표기 불필요.",
-  "operator": "운영: StudyShort Inc."
+  "operator": "운영: StudyShort Inc.",
+  "more": "더 보기"
  }
 }

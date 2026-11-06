@@ -58,6 +58,7 @@ def url(lang, kind="home", arg=None):
     if kind == "home": return f"/{lang}/"
     if kind == "illust": return f"/{lang}/illust/{arg}/"
     if kind == "cat": return f"/{lang}/category/{arg}/"
+    if kind == "new": return f"/{lang}/new/" if not arg or str(arg) == "1" else f"/{lang}/new/{arg}/"
     if kind == "tag": return f"/{lang}/tag/{quote(tag_key(arg), safe='')}/"
     return f"/{lang}/{kind}/"
 
@@ -234,6 +235,7 @@ def page_home(lang):
     u = UI[lang]
     cats = "".join(cat_card(lang, c) for c in CATS if cat_items(c))
     new = "".join(card(i, lang) for i in NEWEST[:NEW_ON_HOME])
+    more = f'<p class="more"><a class="btn-more" href="{url(lang, "new", 2 if len(NEWEST) > PER_PAGE else 1)}">{e(u["more"])} ›</a></p>'
     body = f"""
 <section class="hero">
   <div class="hero-text">
@@ -260,6 +262,7 @@ def page_home(lang):
 {ad('feed', lang)}
 <h2 class="section-title">{e(u['latest'])}</h2>
 <div class="grid">{new}</div>
+{more}
 {popular_tags(lang, 40)}
 <section class="home-about prose">
   <h2>{e(u['about-us'] if lang != 'ja' else 'FuwaFuwaについて')}</h2>
@@ -281,16 +284,37 @@ def page_home(lang):
     return layout(lang, "home", None, SITE_NAME, home_desc, body, jsonld=jsonld)
 
 
-def pager(lang, c, p, pages):
+def pager(lang, c, p, pages, link=None):
     u = UI[lang]
     if pages <= 1: return ""
-    link = lambda n: url(lang, "cat", c if n == 1 else f"{c}/{n}")
+    link = link or (lambda n: url(lang, "cat", c if n == 1 else f"{c}/{n}"))
     out = []
     if p > 1: out.append(f'<a class="pg" href="{link(p - 1)}" rel="prev">‹ {e(u["prev"])}</a>')
     for n in range(1, pages + 1):
         out.append(f'<span class="pg on">{n}</span>' if n == p else f'<a class="pg" href="{link(n)}">{n}</a>')
     if p < pages: out.append(f'<a class="pg" href="{link(p + 1)}" rel="next">{e(u["next"])} ›</a>')
     return f'<nav class="pager">{"".join(out)}</nav>'
+
+
+def page_new(lang, p=1):
+    """新着イラストの一覧（全点を新しい順に、ページ送り付き）"""
+    u = UI[lang]
+    pages = max(1, -(-len(NEWEST) // PER_PAGE))
+    chunk = NEWEST[(p - 1) * PER_PAGE: p * PER_PAGE]
+    cards = [card(i, lang) for i in chunk]
+    if len(cards) > 12: cards.insert(12, ad('feed', lang))
+    link = lambda n: url(lang, "new", n)
+    suffix = f" ({p}/{pages})" if p > 1 else ""
+    body = f"""
+<nav class="crumbs"><a href="{url(lang)}">{e(u['home'])}</a><span>›</span><span>{e(u['latest'])}</span></nav>
+<h1 class="page-title">{e(u['latest'])}{e(suffix)} <small>{e(u['count'].format(n=len(NEWEST)))}</small></h1>
+{ad('top', lang)}
+<div class="grid">{"".join(cards)}</div>
+{pager(lang, None, p, pages, link)}
+{ad('bottom', lang)}"""
+    desc = f"{u['latest']}{suffix} – {u['meta_desc']}"
+    return layout(lang, "new", p, u['latest'] + suffix, desc, body,
+                  og_image=f"/images/png/{chunk[0]['slug']}.png", full_title=u['latest'] + suffix)
 
 
 def page_cat(lang, c, p=1):
@@ -563,6 +587,7 @@ def sitemap(lang):
     for c in CATS:
         n = -(-len(cat_items(c)) // PER_PAGE)
         pages += [("cat", c if k == 1 else f"{c}/{k}") for k in range(1, n + 1)]
+    pages += [("new", k) for k in range(1, -(-len(NEWEST) // PER_PAGE) + 1)]
     pages += [("illust", i["slug"]) for i in ITEMS]
     titles = {i["slug"]: t(i, lang)[0] for i in ITEMS}
     for kind, arg in pages:
@@ -608,6 +633,8 @@ def main():
             n = -(-len(cat_items(c)) // PER_PAGE)
             for k in range(1, n + 1):
                 write(url(lang, "cat", c if k == 1 else f"{c}/{k}"), page_cat(lang, c, k))
+        for k in range(1, -(-len(NEWEST) // PER_PAGE) + 1):
+            write(url(lang, "new", k), page_new(lang, k))
         write(f"/{lang}/search.json", search_index(lang))
         for item in ITEMS:
             write(url(lang, "illust", item["slug"]), page_illust(lang, item))

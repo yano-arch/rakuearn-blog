@@ -182,3 +182,6 @@ a.pg:hover{border-color:var(--ink)}
 .root-langbar{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:10px 14px;padding-top:16px;padding-bottom:4px}
 .root-langbar>span{font-weight:800;color:var(--muted);font-size:14px}
 .root-langbar .root-langs{margin:0}
+.more{text-align:center;margin:22px 0 8px}
+.btn-more{display:inline-block;padding:12px 32px;border:2px solid var(--ink);border-radius:999px;background:#fff;font-weight:800;text-decoration:none;color:var(--ink);box-shadow:3px 3px 0 var(--ink)}
+.btn-more:hover{transform:translate(1px,1px);box-shadow:2px 2px 0 var(--ink)}

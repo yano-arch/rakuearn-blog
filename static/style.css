@@ -193,7 +193,7 @@ a.pg:hover{border-color:var(--ink)}
 .article ul,.article ol{padding-left:1.4em;margin:8px 0 16px}
 .art-meta{color:var(--muted);font-size:13px;margin:0 0 18px}
 .art-fig{margin:18px auto;text-align:center}
-.art-fig img{width:220px;height:220px;background:var(--bg);border-radius:16px;padding:10px}
+.art-fig img{display:block;margin:0 auto;width:220px;height:220px;background:var(--bg);border-radius:16px;padding:10px}
 .art-fig figcaption{font-size:13px;margin-top:6px}
 .art-card .art-desc{display:block;padding:0 12px 14px;font-size:13px;line-height:1.6;color:var(--muted)}
 .section-title small a{font-size:13px;font-weight:700}

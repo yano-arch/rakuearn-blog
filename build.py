@@ -314,7 +314,7 @@ def article_card(a, lang="ja"):
             f'<span class="name">{e(a["title"])}</span><span class="art-desc">{e(a.get("desc", ""))}</span></a>')
 
 
-def articles_section(lang, n=6):
+def articles_section(lang, n=10):
     if lang not in ARTICLE_LANGS or not ARTICLES: return ""
     u = UI[lang]
     cards = "".join(article_card(a, lang) for a in ARTICLES[:n])

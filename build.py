@@ -5,7 +5,7 @@
 
 出力先: dist/
 """
-import json, os, shutil, sys, html
+import json, os, shutil, sys, html, glob, re
 from urllib.parse import quote, unquote
 from datetime import date
 
@@ -60,6 +60,7 @@ def url(lang, kind="home", arg=None):
     if kind == "cat": return f"/{lang}/category/{arg}/"
     if kind == "new": return f"/{lang}/new/" if not arg or str(arg) == "1" else f"/{lang}/new/{arg}/"
     if kind == "tag": return f"/{lang}/tag/{quote(tag_key(arg), safe='')}/"
+    if kind == "article": return f"/{lang}/articles/{arg}/"
     return f"/{lang}/{kind}/"
 
 
@@ -106,7 +107,7 @@ def ad(slot, lang):
 def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None, full_title=None):
     u = UI[lang]
     canonical = SITE_URL + url(lang, kind, arg)
-    if kind == "tag":  # キーワードページは言語ごとに別物なので、言語切り替えは各言語のトップへ
+    if kind in ("tag", "article", "articles"):  # 言語ごとに別物のページ：言語切り替えは各言語のトップへ
         alts = ""
         opts = "".join(f'<option value="{url(lang, kind, arg) if l == lang else url(l)}"{" selected" if l == lang else ""}>'
                        f'{e(UI[l]["lang_name"])}</option>' for l in LANGS)
@@ -158,6 +159,7 @@ def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None, full_
     <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></g></svg>
     <input type="search" name="q" placeholder="{e(u['search'])}" aria-label="{e(u['search'])}" autocomplete="off" enterkeyhint="search"></form>'''}
   <nav>
+    {f'<a href="{url(lang, "articles")}">{e(u["articles"])}</a>' if lang in ARTICLE_LANGS else ""}
     <a href="{url(lang, 'license')}">{e(u['license'])}</a>
     <label class="lang"><span class="sr">{e(u['language'])}</span>
       <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/></g></svg>
@@ -169,7 +171,7 @@ def layout(lang, kind, arg, title, desc, body, og_image=None, jsonld=None, full_
 </main>
 <footer class="site-footer"><div class="wrap">
   <p>{e(u['footer'])}</p>
-  <p class="links"><a href="{url(lang, 'about-us')}">{e(u['about-us'])}</a><a href="{url(lang, 'faq')}">{e(u['faq'])}</a><a href="{url(lang, 'license')}">{e(u['license'])}</a><a href="{url(lang, 'privacy')}">{e(u['privacy'])}</a><a href="{url(lang, 'contact')}">{e(u['contact'])}</a></p>
+  <p class="links">{f'<a href="{url(lang, "articles")}">{e(u["articles"])}</a>' if lang in ARTICLE_LANGS else ""}<a href="{url(lang, 'about-us')}">{e(u['about-us'])}</a><a href="{url(lang, 'faq')}">{e(u['faq'])}</a><a href="{url(lang, 'license')}">{e(u['license'])}</a><a href="{url(lang, 'privacy')}">{e(u['privacy'])}</a><a href="{url(lang, 'contact')}">{e(u['contact'])}</a></p>
   <p class="copy">© {date.today().year} {SITE_NAME} ・ {e(u['operator'])}</p>
 </div></footer>
 <script src="/static/app.js?v={ASSET_V['app.js']}" defer></script>
@@ -231,6 +233,137 @@ def cat_card(lang, c):
             f'<span class="cat-count">{e(u["count"].format(n=len(items)))}</span></a>')
 
 
+# ---------- 読みもの（記事） ----------
+ARTICLE_LANGS = ["ja"]
+BY_SLUG = {i["slug"]: i for i in ITEMS}
+
+
+def load_articles():
+    out = []
+    for f in sorted(glob.glob("data/articles/*.md")):
+        raw = open(f, encoding="utf-8").read()
+        if not raw.startswith("---"): continue
+        _, fm, body = raw.split("---", 2)
+        meta = {}
+        for line in fm.strip().splitlines():
+            if ":" in line:
+                k, v = line.split(":", 1)
+                meta[k.strip()] = v.strip()
+        if not meta.get("slug") or not meta.get("title"): continue
+        meta["body"] = body.strip()
+        out.append(meta)
+    return out
+
+
+ARTICLES = load_articles()
+
+
+def inline_md(text):
+    t_ = e(text)
+    t_ = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", t_)
+    def link(m):
+        href = html.unescape(m.group(2))
+        if not href.startswith("/"): return m.group(1)
+        return f'<a href="{e(href)}">{m.group(1)}</a>'
+    return re.sub(r"\[([^\]]+)\]\(([^)]+)\)", link, t_)
+
+
+def article_html(body, lang="ja"):
+    out, para, lst, ltype = [], [], [], None
+    def flush():
+        nonlocal para, lst, ltype
+        if para: out.append(f"<p>{inline_md(' '.join(para))}</p>"); para = []
+        if lst:
+            out.append(f"<{ltype}>" + "".join(f"<li>{inline_md(x)}</li>" for x in lst) + f"</{ltype}>")
+            lst, ltype = [], None
+    for line in body.splitlines():
+        s_ = line.strip()
+        m_img = re.fullmatch(r"!\[([a-z0-9-]+)\]", s_)
+        m_ol = re.match(r"\d+\.\s+(.*)", s_)
+        if not s_: flush()
+        elif s_.startswith("### "): flush(); out.append(f"<h3>{inline_md(s_[4:])}</h3>")
+        elif s_.startswith("## "): flush(); out.append(f"<h2>{inline_md(s_[3:])}</h2>")
+        elif m_img:
+            flush()
+            it = BY_SLUG.get(m_img.group(1))
+            if it:
+                ttl = t(it, lang)[0]
+                out.append(f'<figure class="art-fig"><a href="{url(lang, "illust", it["slug"])}">'
+                           f'<img src="/images/svg/{it["slug"]}.svg" alt="{e(ttl)}" width="220" height="220" loading="lazy"></a>'
+                           f'<figcaption><a href="{url(lang, "illust", it["slug"])}">{e(ttl)}</a></figcaption></figure>')
+        elif s_.startswith("- "):
+            if para: flush()
+            if ltype not in (None, "ul"): flush()
+            ltype = "ul"; lst.append(s_[2:])
+        elif m_ol:
+            if para: flush()
+            if ltype not in (None, "ol"): flush()
+            ltype = "ol"; lst.append(m_ol.group(1))
+        else:
+            if lst: flush()
+            para.append(s_)
+    flush()
+    return "".join(out)
+
+
+def article_card(a, lang="ja"):
+    th = a.get("thumb") if a.get("thumb") in BY_SLUG else None
+    img = (f'<span class="thumb"><img src="/images/svg/{th}.svg" alt="" width="200" height="200" loading="lazy"></span>'
+           if th else "")
+    return (f'<a class="card art-card" href="{url(lang, "article", a["slug"])}">{img}'
+            f'<span class="name">{e(a["title"])}</span><span class="art-desc">{e(a.get("desc", ""))}</span></a>')
+
+
+def articles_section(lang, n=6):
+    if lang not in ARTICLE_LANGS or not ARTICLES: return ""
+    u = UI[lang]
+    cards = "".join(article_card(a, lang) for a in ARTICLES[:n])
+    return (f'<h2 class="section-title">{e(u["articles"])} <small><a href="{url(lang, "articles")}">{e(u["more"])} ›</a></small></h2>'
+            f'<div class="grid art-grid">{cards}</div>')
+
+
+def page_articles(lang):
+    u = UI[lang]
+    cards = "".join(article_card(a, lang) for a in ARTICLES)
+    body = f"""
+<nav class="crumbs"><a href="{url(lang)}">{e(u['home'])}</a><span>›</span><span>{e(u['articles'])}</span></nav>
+<h1 class="page-title">{e(u['articles'])} <small>{len(ARTICLES)}</small></h1>
+<p class="lead">{e(u['articles_lead'])}</p>
+<div class="grid art-grid">{cards}</div>
+{ad('bottom', lang)}"""
+    return layout(lang, "articles", None, u["articles"], u["articles_lead"], body, full_title=u["articles_title"])
+
+
+def page_article(lang, a):
+    u = UI[lang]
+    th = a.get("thumb") if a.get("thumb") in BY_SLUG else None
+    others = [x for x in ARTICLES if x is not a][:6]
+    body = f"""
+<nav class="crumbs"><a href="{url(lang)}">{e(u['home'])}</a><span>›</span><a href="{url(lang, 'articles')}">{e(u['articles'])}</a><span>›</span><span>{e(a['title'])}</span></nav>
+<article class="prose article">
+<h1>{e(a['title'])}</h1>
+<p class="art-meta"><time datetime="{e(a.get('date', ''))}">{e(a.get('date', '').replace('-', '.'))}</time>　{e(u['operator'])}</p>
+{ad('top', lang)}
+{article_html(a['body'], lang)}
+</article>
+{ad('bottom', lang)}
+<h2 class="section-title">{e(u['articles_more'])}</h2>
+<div class="grid art-grid">{"".join(article_card(x, lang) for x in others)}</div>"""
+    jsonld = {"@context": "https://schema.org", "@graph": [
+        {"@type": "Article", "headline": a["title"], "description": a.get("desc", ""), "inLanguage": u["html_lang"],
+         "datePublished": a.get("date"), "dateModified": a.get("date"),
+         "image": f"{SITE_URL}/images/png/{th}.png" if th else None,
+         "mainEntityOfPage": SITE_URL + url(lang, "article", a["slug"]),
+         "author": {"@type": "Organization", "name": "株式会社StudyShort", "url": "https://www.studyshort.co.jp"},
+         "publisher": {"@type": "Organization", "name": SITE_NAME, "logo": f"{SITE_URL}/favicon.svg"}},
+        {"@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": u["home"], "item": SITE_URL + url(lang)},
+            {"@type": "ListItem", "position": 2, "name": u["articles"], "item": SITE_URL + url(lang, "articles")},
+            {"@type": "ListItem", "position": 3, "name": a["title"], "item": SITE_URL + url(lang, "article", a["slug"])}]}]}
+    return layout(lang, "article", a["slug"], a["title"], a.get("desc", ""), body,
+                  og_image=f"/images/png/{th}.png" if th else None, jsonld=jsonld, full_title=a["title"])
+
+
 def page_home(lang):
     u = UI[lang]
     cats = "".join(cat_card(lang, c) for c in CATS if cat_items(c))
@@ -260,6 +393,7 @@ def page_home(lang):
 <h2 class="section-title">{e(u['browse'])} <small>{e(u['count'].format(n=len(ITEMS)))}</small></h2>
 <div class="cat-grid">{cats}</div>
 {ad('feed', lang)}
+{articles_section(lang)}
 <h2 class="section-title">{e(u['latest'])}</h2>
 <div class="grid">{new}</div>
 {more}
@@ -534,11 +668,11 @@ def adsense_tag():
 
 
 def page_root_full():
-    """rakuearn.com のトップ：英語版トップと同じ中身（カテゴリ・新着・人気キーワード・紹介文）を全部載せ、
-    上に言語選択を付ける。正式なページは /en/ なので canonical は /en/ を指す（重複扱いにならない）"""
-    h = page_home(DEFAULT_LANG)
+    """rakuearn.com のトップ：日本語版トップと同じ中身（カテゴリ・読みもの・新着・人気キーワード・紹介文）を全部載せ、
+    上に言語選択を付ける。正式なページは /ja/ なので canonical は /ja/ を指す（重複扱いにならない）"""
+    h = page_home("ja")
     links = "".join(f'<a href="/{l}/" hreflang="{UI[l]["html_lang"]}">{e(UI[l]["lang_name"])}</a>' for l in LANGS)
-    bar = (f'<div class="wrap root-langbar"><span>Choose your language</span><nav class="root-langs">{links}</nav></div>')
+    bar = (f'<div class="wrap root-langbar"><span>Language / 言語</span><nav class="root-langs">{links}</nav></div>')
     js = ('<script>(function(){var L=' + json.dumps(LANGS) + ';var p=(navigator.languages||[navigator.language||"en"]);'
           'for(var i=0;i<p.length;i++){var c=(p[i]||"").toLowerCase().split("-")[0];if(L.indexOf(c)>-1){'
           'var a=document.querySelector(\'.root-langs a[href="/\'+c+\'/"]\');if(a)a.classList.add("suggest");return;}}})();</script>')
@@ -599,6 +733,10 @@ def sitemap(lang):
         rows.append(f"<url><loc>{SITE_URL}{url(lang, kind, arg)}</loc>{alts}{img}</url>")
     for name, _ in TAGS[lang].values():
         rows.append(f"<url><loc>{SITE_URL}{url(lang, 'tag', name)}</loc></url>")
+    if lang in ARTICLE_LANGS and ARTICLES:
+        rows.append(f"<url><loc>{SITE_URL}{url(lang, 'articles')}</loc></url>")
+        for art in ARTICLES:
+            rows.append(f"<url><loc>{SITE_URL}{url(lang, 'article', art['slug'])}</loc><lastmod>{art.get('date', '')}</lastmod></url>")
     return ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
             'xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">'
             + "".join(rows) + "</urlset>")
@@ -629,6 +767,10 @@ def main():
         write(url(lang), page_home(lang))
         for kind in TEXT_PAGES:
             write(url(lang, kind), page_text(lang, kind))
+        if lang in ARTICLE_LANGS and ARTICLES:
+            write(url(lang, "articles"), page_articles(lang))
+            for art in ARTICLES:
+                write(url(lang, "article", art["slug"]), page_article(lang, art))
         for c in CATS:
             n = -(-len(cat_items(c)) // PER_PAGE)
             for k in range(1, n + 1):

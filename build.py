@@ -251,7 +251,10 @@ def load_articles():
                 meta[k.strip()] = v.strip()
         if not meta.get("slug") or not meta.get("title"): continue
         meta["body"] = body.strip()
+        meta["_file"] = os.path.basename(f)
         out.append(meta)
+    # 新しい記事が先頭（日付→ファイル番号の降順）
+    out.sort(key=lambda m: (m.get("date", ""), m["_file"]), reverse=True)
     return out
 
 
@@ -316,11 +319,12 @@ def article_card(a, lang="ja"):
             f'<span class="art-read">{e(UI[lang]["read_more"])} ›</span></span></a>')
 
 
-def articles_section(lang, n=6):
+def articles_section(lang):
+    """トップに記事を全部（新しい順）並べる。記事サイトとして読めるように省略しない"""
     if lang not in ARTICLE_LANGS or not ARTICLES: return ""
     u = UI[lang]
-    cards = "".join(article_card(a, lang) for a in ARTICLES[:n])
-    return (f'<h2 class="section-title">{e(u["articles"])} <small><a href="{url(lang, "articles")}">{e(u["more"])} ›</a></small></h2>'
+    cards = "".join(article_card(a, lang) for a in ARTICLES)
+    return (f'<h2 class="section-title">{e(u["articles"])} <small>{len(ARTICLES)}</small></h2>'
             f'<div class="art-list">{cards}</div>')
 
 

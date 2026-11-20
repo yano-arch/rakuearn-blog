@@ -233,7 +233,7 @@ def cat_card(lang, c):
             f'<span class="cat-count">{e(u["count"].format(n=len(items)))}</span></a>')
 
 
-# ---------- 読みもの（記事） ----------
+# ---------- 記事 ----------
 ARTICLE_LANGS = ["ja"]
 BY_SLUG = {i["slug"]: i for i in ITEMS}
 
@@ -670,7 +670,7 @@ def adsense_tag():
 
 
 def page_root_full():
-    """rakuearn.com のトップ：日本語版トップと同じ中身（カテゴリ・読みもの・新着・人気キーワード・紹介文）を全部載せ、
+    """rakuearn.com のトップ：日本語版トップと同じ中身（カテゴリ・記事・新着・人気キーワード・紹介文）を全部載せ、
     上に言語選択を付ける。正式なページは /ja/ なので canonical は /ja/ を指す（重複扱いにならない）"""
     h = page_home("ja")
     links = "".join(f'<a href="/{l}/" hreflang="{UI[l]["html_lang"]}">{e(UI[l]["lang_name"])}</a>' for l in LANGS)

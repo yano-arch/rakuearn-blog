@@ -310,16 +310,18 @@ def article_card(a, lang="ja"):
     th = a.get("thumb") if a.get("thumb") in BY_SLUG else None
     img = (f'<span class="thumb"><img src="/images/svg/{th}.svg" alt="" width="200" height="200" loading="lazy"></span>'
            if th else "")
-    return (f'<a class="card art-card" href="{url(lang, "article", a["slug"])}">{img}'
-            f'<span class="name">{e(a["title"])}</span><span class="art-desc">{e(a.get("desc", ""))}</span></a>')
+    return (f'<a class="art-card" href="{url(lang, "article", a["slug"])}">{img}'
+            f'<span class="art-text"><span class="art-title">{e(a["title"])}</span>'
+            f'<span class="art-desc">{e(a.get("desc", ""))}</span>'
+            f'<span class="art-read">{e(UI[lang]["read_more"])} ›</span></span></a>')
 
 
-def articles_section(lang, n=10):
+def articles_section(lang, n=6):
     if lang not in ARTICLE_LANGS or not ARTICLES: return ""
     u = UI[lang]
     cards = "".join(article_card(a, lang) for a in ARTICLES[:n])
     return (f'<h2 class="section-title">{e(u["articles"])} <small><a href="{url(lang, "articles")}">{e(u["more"])} ›</a></small></h2>'
-            f'<div class="grid art-grid">{cards}</div>')
+            f'<div class="art-list">{cards}</div>')
 
 
 def page_articles(lang):
@@ -329,7 +331,7 @@ def page_articles(lang):
 <nav class="crumbs"><a href="{url(lang)}">{e(u['home'])}</a><span>›</span><span>{e(u['articles'])}</span></nav>
 <h1 class="page-title">{e(u['articles'])} <small>{len(ARTICLES)}</small></h1>
 <p class="lead">{e(u['articles_lead'])}</p>
-<div class="grid art-grid">{cards}</div>
+<div class="art-list">{cards}</div>
 {ad('bottom', lang)}"""
     return layout(lang, "articles", None, u["articles"], u["articles_lead"], body, full_title=u["articles_title"])
 
@@ -348,7 +350,7 @@ def page_article(lang, a):
 </article>
 {ad('bottom', lang)}
 <h2 class="section-title">{e(u['articles_more'])}</h2>
-<div class="grid art-grid">{"".join(article_card(x, lang) for x in others)}</div>"""
+<div class="art-list">{"".join(article_card(x, lang) for x in others)}</div>"""
     jsonld = {"@context": "https://schema.org", "@graph": [
         {"@type": "Article", "headline": a["title"], "description": a.get("desc", ""), "inLanguage": u["html_lang"],
          "datePublished": a.get("date"), "dateModified": a.get("date"),
@@ -389,11 +391,11 @@ def page_home(lang):
   <p class="empty" id="empty" hidden>{e(u['no_results'])}</p>
 </section>
 <div id="browse">
+{articles_section(lang)}
 {ad('top', lang)}
 <h2 class="section-title">{e(u['browse'])} <small>{e(u['count'].format(n=len(ITEMS)))}</small></h2>
 <div class="cat-grid">{cats}</div>
 {ad('feed', lang)}
-{articles_section(lang)}
 <h2 class="section-title">{e(u['latest'])}</h2>
 <div class="grid">{new}</div>
 {more}

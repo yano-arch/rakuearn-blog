@@ -197,3 +197,19 @@ a.pg:hover{border-color:var(--ink)}
 .art-fig figcaption{font-size:13px;margin-top:6px}
 .art-card .art-desc{display:block;padding:0 12px 14px;font-size:13px;line-height:1.6;color:var(--muted)}
 .section-title small a{font-size:13px;font-weight:700}
+/* 読みもの：横長カード（2列、スマホは1列） */
+.art-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:0 0 30px}
+.art-card{display:flex;gap:18px;align-items:center;background:#fff;border:2px solid var(--line);border-radius:18px;padding:14px;text-decoration:none;color:var(--ink);transition:transform .15s,border-color .15s}
+.art-card:hover{transform:translateY(-2px);border-color:var(--ink)}
+.art-card .thumb{flex:0 0 150px;width:150px;margin:0;aspect-ratio:1/1}
+.art-text{display:flex;flex-direction:column;gap:6px;min-width:0}
+.art-title{font-weight:800;font-size:17px;line-height:1.5}
+.art-card .art-desc{padding:0;font-size:13.5px;line-height:1.7;color:var(--muted);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.art-read{font-size:13px;font-weight:800;color:var(--ink)}
+@media (max-width:760px){
+  .art-list{grid-template-columns:1fr;gap:12px}
+  .art-card{gap:12px;padding:10px}
+  .art-card .thumb{flex-basis:96px;width:96px}
+  .art-title{font-size:15px}
+  .art-card .art-desc{-webkit-line-clamp:2;font-size:12.5px}
+}
